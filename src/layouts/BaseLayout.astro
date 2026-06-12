@@ -1,0 +1,40 @@
+---
+import SEO from "../components/SEO.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description: string;
+  canonicalUrl?: string;
+  ogImage?: string;
+  noindex?: boolean;
+  ogType?: string;
+}
+
+const { title, description, canonicalUrl, ogImage, noindex, ogType } = Astro.props;
+---
+
+<!doctype html>
+<html lang="fr">
+  <head>
+    <SEO {title} {description} {canonicalUrl} {ogImage} {noindex} {ogType} />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+    <script>
+      // Ouvre les liens externes dans un nouvel onglet (rattrapage HTML brut)
+      document.querySelectorAll('a[href^="http"]').forEach(a => {
+        if (!a.hostname.includes('nature-et-chien.fr')) {
+          a.setAttribute('target', '_blank');
+          a.setAttribute('rel', 'noopener noreferrer');
+        }
+      });
+    </script>
+  </body>
+</html>

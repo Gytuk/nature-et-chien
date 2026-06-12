@@ -1,0 +1,283 @@
+---
+const nav = [
+  { label: "Accueil",           href: "/" },
+  { label: "Avant de partir",   href: "/avant-de-partir" },
+  { label: "Santé & bien-être", href: "/sante-bien-etre" },
+  {
+    label: "Équipement",
+    href: "/equipement",
+    dropdown: [
+      { label: "Guide",       href: "/equipement#guide" },
+      { label: "Harnais",     href: "/equipement#harnais" },
+      { label: "Hydratation", href: "/equipement#hydratation" },
+    ],
+  },
+];
+
+const currentPath = Astro.url.pathname;
+const isHome = currentPath === "/";
+---
+
+<header class="site-header">
+  <div class="container header-inner">
+
+    <!-- Logo cliquable → accueil -->
+    <a href="/" class="logo" aria-label="Nature & Chien — retour à l'accueil">
+      <!-- On essaie d'abord le PNG transparent, fallback sur texte -->
+      <img
+        src="/logo-transparent.png"
+        alt="Nature & Chien"
+        class="logo-img"
+        width="160"
+        height="60"
+        onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+      />
+      <span class="logo-fallback">
+        <span class="logo-icon" aria-hidden="true">🐾</span>
+        <span class="logo-text">
+          <span class="logo-main">Nature</span><span class="logo-amp"> &amp; </span><span class="logo-main">Chien</span>
+        </span>
+      </span>
+    </a>
+
+    <!-- Nav desktop -->
+    <nav aria-label="Navigation principale">
+      <ul class="nav-list">
+        {nav.map(({ label, href, dropdown }) => {
+          const active = href === "/"
+            ? isHome
+            : currentPath.startsWith(href);
+          return (
+            <li class={dropdown ? "has-dropdown" : ""}>
+              <a href={href} class:list={["nav-link", { active }]}>
+                {label}
+                {dropdown && <span class="dropdown-arrow" aria-hidden="true">▾</span>}
+              </a>
+              {dropdown && (
+                <ul class="dropdown-menu">
+                  {dropdown.map((item) => (
+                    <li>
+                      <a href={item.href} class="dropdown-item">{item.label}</a>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </li>
+          );
+        })}
+      </ul>
+    </nav>
+
+    <!-- Bouton menu mobile -->
+    <button
+      class="mobile-toggle"
+      aria-label="Ouvrir le menu"
+      aria-expanded="false"
+      onclick="
+        const open = this.getAttribute('aria-expanded') === 'true';
+        this.setAttribute('aria-expanded', String(!open));
+        this.setAttribute('aria-label', open ? 'Ouvrir le menu' : 'Fermer le menu');
+        document.getElementById('mobile-menu').classList.toggle('open');
+      "
+    >
+      <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" viewBox="0 0 24 24">
+        <path stroke-linecap="round" d="M4 6h16M4 12h16M4 18h16"/>
+      </svg>
+    </button>
+  </div>
+
+  <!-- Menu mobile -->
+  <div id="mobile-menu" class="mobile-menu">
+    <ul>
+      {nav.map(({ label, href, dropdown }) => (
+        <>
+          <li><a href={href} class="mobile-nav-link">{label}</a></li>
+          {dropdown && dropdown.map((item) => (
+            <li><a href={item.href} class="mobile-nav-link mobile-nav-sub">{item.label}</a></li>
+          ))}
+        </>
+      ))}
+    </ul>
+  </div>
+</header>
+
+<style>
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: white;
+  border-bottom: 1px solid var(--color-border);
+  box-shadow: 0 1px 10px rgba(0,0,0,.07);
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 80px;
+}
+
+/* ── Logo ── */
+.logo {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+.logo-img {
+  height: 64px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+  mix-blend-mode: multiply;
+}
+
+.logo-fallback {
+  display: none;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-serif);
+}
+.logo-icon { font-size: 1.6rem; }
+.logo-main { color: var(--color-forest); font-weight: 700; font-size: 1.2rem; }
+.logo-amp  { color: var(--color-earth);  font-weight: 400; font-size: 1.1rem; }
+
+/* ── Nav ── */
+.nav-list {
+  display: flex;
+  gap: 0.1rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.5rem 0.95rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.93rem;
+  font-weight: 500;
+  color: var(--color-text-soft);
+  text-decoration: none;
+  transition: color 0.15s, background 0.15s;
+}
+.nav-link:hover,
+.nav-link.active {
+  color: var(--color-forest);
+  background: var(--color-forest-pale);
+  text-decoration: none;
+}
+.nav-link:first-child {
+  font-weight: 600;
+}
+
+.dropdown-arrow {
+  font-size: 0.7rem;
+  transition: transform 0.2s;
+}
+
+/* ── Dropdown ── */
+.has-dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 180px;
+  background: white;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 8px 24px rgba(0,0,0,.1);
+  list-style: none;
+  margin: 0;
+  padding: 0.4rem 0;
+  padding-top: 8px;
+  z-index: 100;
+}
+
+/* Pont invisible qui comble le gap entre le lien et le menu */
+.has-dropdown::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 8px;
+  display: none;
+}
+
+.has-dropdown:hover::after {
+  display: block;
+}
+
+.has-dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.has-dropdown:hover .dropdown-arrow {
+  transform: rotate(180deg);
+}
+
+.dropdown-item {
+  display: block;
+  padding: 0.55rem 1.1rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--color-text-soft);
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s;
+}
+
+.dropdown-item:hover {
+  background: var(--color-forest-pale);
+  color: var(--color-forest);
+  text-decoration: none;
+}
+
+/* ── Mobile ── */
+.mobile-toggle {
+  display: none;
+  background: none; border: none; cursor: pointer;
+  color: var(--color-text); padding: 0.4rem;
+  border-radius: var(--radius-sm);
+  transition: background 0.15s;
+}
+.mobile-toggle:hover { background: var(--color-forest-pale); }
+
+.mobile-menu {
+  display: none;
+  border-top: 1px solid var(--color-border);
+  background: white;
+  padding: 0.75rem 1.25rem 1rem;
+}
+.mobile-menu ul {
+  list-style: none; margin: 0; padding: 0;
+  display: flex; flex-direction: column; gap: 0.2rem;
+}
+.mobile-nav-link {
+  display: block; padding: 0.65rem 0.9rem;
+  border-radius: var(--radius-sm);
+  font-weight: 500; font-size: 0.95rem;
+  color: var(--color-text); text-decoration: none;
+  transition: background 0.15s;
+}
+.mobile-nav-link:hover { background: var(--color-forest-pale); text-decoration: none; }
+.mobile-nav-sub {
+  padding-left: 1.8rem;
+  font-size: 0.88rem;
+  color: var(--color-text-soft);
+}
+.mobile-menu.open { display: block; }
+
+@media (max-width: 750px) {
+  .nav-list      { display: none; }
+  .mobile-toggle { display: block; }
+}
+</style>

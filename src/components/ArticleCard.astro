@@ -1,0 +1,144 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  href: string;
+  category: "avant-de-partir" | "sante" | "equipement";
+  isAffiliate?: boolean;
+  featured?: boolean;
+  publishDate?: Date;
+  image?: string;
+}
+
+const { title, description, href, category, isAffiliate = false, featured = false, publishDate, image } = Astro.props;
+
+const categoryLabels: Record<string, string> = {
+  "avant-de-partir": "Avant de partir",
+  "sante": "Santé & bien-être",
+  "equipement": "Équipement",
+};
+const badgeClass: Record<string, string> = {
+  "avant-de-partir": "badge-avant",
+  "sante": "badge-sante",
+  "equipement": "badge-equipement",
+};
+
+const dateStr = publishDate
+  ? new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "long", year: "numeric" }).format(publishDate)
+  : null;
+---
+
+<article class:list={["article-card", { featured }]}>
+
+  <!-- Image de couverture -->
+  {image && (
+    <a href={href} class="card-img-link" tabindex="-1" aria-hidden="true">
+      <div class="card-img-wrap">
+        <img
+          src={image}
+          alt={title}
+          class="card-img"
+          loading="lazy"
+          decoding="async"
+          width="400"
+          height="220"
+        />
+      </div>
+    </a>
+  )}
+
+  <div class="card-body">
+    <div class="card-meta">
+      <span class:list={["badge", badgeClass[category]]}>{categoryLabels[category]}</span>
+      {isAffiliate && <span class="affiliate-tag">Guide d'achat</span>}
+    </div>
+
+    <h2 class="card-title">
+      <a href={href}>{title}</a>
+    </h2>
+
+    <p class="card-desc">{description}</p>
+
+    <div class="card-footer">
+      {dateStr && <time datetime={publishDate?.toISOString()} class="card-date">{dateStr}</time>}
+      <a href={href} class="card-cta" aria-label={`Lire : ${title}`}>
+        Lire l'article
+        <svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+        </svg>
+      </a>
+    </div>
+  </div>
+</article>
+
+<style>
+.article-card {
+  background: white;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.article-card:hover {
+  box-shadow: 0 6px 24px rgba(45,90,39,.12);
+  transform: translateY(-2px);
+}
+.article-card.featured {
+  border-color: var(--color-forest-light);
+}
+
+/* Image */
+.card-img-link { display: block; overflow: hidden; }
+.card-img-wrap { overflow: hidden; height: 200px; }
+.card-img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s;
+  display: block;
+}
+.article-card:hover .card-img { transform: scale(1.04); }
+
+/* Corps */
+.card-body {
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  flex: 1;
+}
+
+.card-meta { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
+.affiliate-tag {
+  font-size: 0.74rem; font-weight: 600; color: var(--color-bark);
+  background: var(--color-earth-light); padding: 0.15rem 0.55rem;
+  border-radius: 999px; text-transform: uppercase; letter-spacing: 0.03em;
+}
+
+.card-title {
+  font-family: var(--font-serif);
+  font-size: 1.05rem; font-weight: 700; line-height: 1.35;
+  margin: 0;
+}
+.card-title a { color: var(--color-text); text-decoration: none; }
+.card-title a:hover { color: var(--color-forest); text-decoration: none; }
+
+.card-desc {
+  font-size: 0.88rem; color: var(--color-text-soft);
+  margin: 0; line-height: 1.6; flex: 1;
+}
+
+.card-footer {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-top: 0.25rem; padding-top: 0.75rem;
+  border-top: 1px solid var(--color-border);
+}
+.card-date { font-size: 0.78rem; color: #aaa; }
+.card-cta {
+  display: inline-flex; align-items: center; gap: 0.3rem;
+  font-size: 0.85rem; font-weight: 600; color: var(--color-forest);
+  text-decoration: none; transition: gap 0.2s;
+}
+.card-cta:hover { gap: 0.5rem; text-decoration: none; }
+</style>

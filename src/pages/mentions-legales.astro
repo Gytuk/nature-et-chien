@@ -1,0 +1,164 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Mentions légales - Nature & Chien"
+  description="Mentions légales du site Nature & Chien : éditeur, hébergeur, propriété intellectuelle et informations sur les liens affiliés."
+  noindex={true}
+>
+
+  <div class="legal-page">
+    <div class="container">
+
+      <header class="legal-header">
+        <h1>Mentions légales</h1>
+        <p class="legal-updated">Dernière mise à jour : avril 2025</p>
+      </header>
+
+      <div class="legal-body prose">
+
+        <h2>Éditeur du site</h2>
+        <p>
+          Le site <strong>Nature &amp; Chien</strong> (accessible à l'adresse <strong>nature-et-chien.fr</strong>)
+          est édité à titre personnel par un particulier.
+        </p>
+        <ul>
+          <li><strong>Prénom :</strong> Tom</li>
+          <li>
+            <strong>Adresse :</strong> Conformément à l'article 6-III-2 de la loi LCEN,
+            l'identité et les coordonnées complètes de l'éditeur sont déposées auprès de l'hébergeur
+            (Hostinger, coordonnées ci-dessous) et peuvent être communiquées aux autorités compétentes
+            sur demande.
+          </li>
+          <li><strong>Contact :</strong> <a href="mailto:contact@nature-et-chien.fr">contact@nature-et-chien.fr</a></li>
+          <li><strong>Statut :</strong> Particulier, site édité à titre personnel</li>
+        </ul>
+
+        <h2>Hébergeur</h2>
+        <p>
+          Le site est hébergé par :
+        </p>
+        <ul>
+          <li><strong>Société :</strong> Hostinger International Ltd.</li>
+          <li><strong>Adresse :</strong> 61 Lordou Vironos Street, 6023 Larnaca, Chypre</li>
+          <li><strong>Site web :</strong> <a href="https://www.hostinger.fr" target="_blank" rel="noopener">www.hostinger.fr</a></li>
+        </ul>
+
+        <h2>Propriété intellectuelle</h2>
+        <p>
+          L'ensemble du contenu de ce site (textes, images, structure) est la propriété de l'éditeur,
+          sauf mention contraire. Toute reproduction, même partielle, est interdite sans autorisation préalable.
+        </p>
+        <p>
+          Les photographies proviennent de banques d'images libres de droits (Unsplash, Pexels)
+          et restent la propriété de leurs auteurs respectifs.
+        </p>
+
+        <h2 id="affiliation">Liens affiliés et transparence commerciale</h2>
+        <p>
+          Certains articles de Nature &amp; Chien contiennent des <strong>liens affiliés</strong>,
+          principalement via le programme <strong>Amazon Partenaires</strong>.
+          Cela signifie que si vous achetez un produit en cliquant sur l'un de ces liens,
+          je perçois une petite commission, sans coût supplémentaire pour vous.
+        </p>
+        <p>
+          Ces commissions contribuent à financer le temps consacré à la rédaction et à la maintenance du site.
+          <strong>Mon avis sur les produits reste indépendant</strong> : je ne recommande que ce que j'estime
+          utile et adapté à la randonnée avec un chien.
+        </p>
+        <p>
+          Les articles contenant des liens affiliés sont clairement identifiés par la mention
+          <em>« Cet article contient des liens affiliés »</em> en début de page.
+        </p>
+        <p>
+          En tant que Partenaire Amazon, je réalise des bénéfices sur les achats remplissant les conditions requises.
+        </p>
+
+        <h2>Limitation de responsabilité</h2>
+        <p>
+          Les informations publiées sur ce site sont fournies à titre informatif et ne remplacent pas
+          l'avis d'un vétérinaire. Avant d'entreprendre une activité physique avec votre chien,
+          notamment une randonnée exigeante, consultez un professionnel de santé animale.
+        </p>
+        <p>
+          L'éditeur ne saurait être tenu responsable des dommages directs ou indirects résultant
+          de l'utilisation des informations publiées sur ce site.
+        </p>
+
+        <h2>Droit applicable</h2>
+        <p>
+          Le présent site est soumis au droit français. Tout litige sera de la compétence
+          exclusive des tribunaux français.
+        </p>
+
+      </div>
+    </div>
+  </div>
+
+</BaseLayout>
+
+<style>
+.legal-page {
+  padding: 3rem 0 5rem;
+}
+
+.legal-header {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 2px solid var(--color-forest-pale);
+}
+
+.legal-header h1 {
+  font-family: var(--font-serif);
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+  font-weight: 700;
+  color: var(--color-forest);
+  margin: 0 0 0.4rem;
+}
+
+.legal-updated {
+  font-size: 0.88rem;
+  color: var(--color-text-light, #6b7280);
+  margin: 0;
+}
+
+.legal-body {
+  max-width: 72ch;
+}
+
+.prose h2 {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-forest);
+  margin: 2rem 0 0.75rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--color-forest-pale);
+}
+
+.prose p, .prose ul, .prose li {
+  line-height: 1.75;
+  color: var(--color-text);
+  font-size: 0.97rem;
+}
+
+.prose ul {
+  padding-left: 1.5rem;
+  margin: 0.5rem 0 1rem;
+}
+
+.prose li { margin-bottom: 0.3rem; }
+
+.prose a {
+  color: var(--color-forest-light);
+  text-decoration: underline;
+  text-decoration-color: var(--color-forest-pale);
+}
+.prose a:hover { color: var(--color-forest); }
+
+.prose em {
+  font-style: italic;
+  color: var(--color-text);
+}
+</style>

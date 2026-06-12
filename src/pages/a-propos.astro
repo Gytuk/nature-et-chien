@@ -1,0 +1,334 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="À propos - Nature & Chien"
+  description="Qui se cache derrière Nature & Chien ? La passion de la randonnée avec un chien, l'envie de partager des conseils fiables, et quelques années de sentiers parcourus ensemble."
+>
+
+  <div class="about-page">
+
+    <!-- Hero -->
+    <section class="about-hero">
+      <div class="container about-hero-inner">
+        <div class="about-avatar" aria-hidden="true">🐾</div>
+        <h1>À propos de Nature&nbsp;&amp;&nbsp;Chien</h1>
+        <p class="about-tagline">
+          Randonner avec son chien, c'est partager quelque chose d'unique. Ce site est né de cette conviction.
+        </p>
+      </div>
+    </section>
+
+    <!-- Contenu principal -->
+    <section class="about-content">
+      <div class="container about-grid">
+
+        <div class="about-main prose">
+
+          <h2>D'où vient ce site ?</h2>
+          <p>
+            Nature &amp; Chien est né d'un constat simple : on trouve plein de guides de randonnée
+            pour humains, mais peu qui prennent vraiment en compte le compagnon à quatre pattes.
+            Pourtant, emmener son chien sur les sentiers demande une vraie préparation : condition physique,
+            équipement adapté, règles d'accès, hydratation, gestion des imprévus.
+          </p>
+          <p>
+            Ce site rassemble les informations que j'aurais aimé avoir quand j'ai commencé à randonner
+            avec mon chien : claires, vérifiées, sans jargon inutile.
+          </p>
+
+          <h2>Qui est derrière ce site ?</h2>
+          <p>
+            Un passionné de nature et de chiens, qui passe une bonne partie de son temps libre
+            sur des sentiers. Ce site est aussi un projet personnel pour apprendre concrètement
+            la création web, et partager au passage des informations utiles à d'autres randonneurs
+            qui emmènent leur chien.
+          </p>
+          <p>
+            Je ne suis ni vétérinaire ni éducateur canin. Chaque article est documenté à partir
+            de sources officielles (parcs nationaux, service-public.fr, recommandations vétérinaires)
+            et de lectures sérieuses sur le sujet. Quand un sujet dépasse mes compétences,
+            je l'indique clairement et renvoie vers des professionnels.
+          </p>
+
+          <h2>Comment les articles sont-ils sélectionnés ?</h2>
+          <p>
+            Je publie sur trois grands axes :
+          </p>
+          <ul>
+            <li>
+              <strong>Avant de partir</strong> : tout ce qu'il faut savoir pour préparer une sortie :
+              législation, condition physique, profils de races, distances adaptées.
+            </li>
+            <li>
+              <strong>Santé &amp; bien-être</strong> : hydratation, coussinets, gestion de la chaleur,
+              signes de fatigue, premiers secours sur le terrain.
+            </li>
+            <li>
+              <strong>Équipement</strong> : harnais, gourdes, gamelles, accessoires, des comparatifs
+              honnêtes pour choisir le matériel vraiment utile.
+            </li>
+          </ul>
+          <p>
+            La fréquence de publication est volontairement modérée : mieux vaut un article soigné
+            par semaine qu'une avalanche de contenus superficiels.
+          </p>
+
+          <h2>Et les liens affiliés ?</h2>
+          <p>
+            Certains articles contiennent des liens affiliés, principalement via Amazon.
+            Concrètement : si vous cliquez sur un lien et achetez un produit, je perçois
+            une petite commission, sans que ça vous coûte quoi que ce soit de plus.
+          </p>
+          <p>
+            C'est une façon de financer le temps passé à rédiger et à maintenir le site.
+            Ça n'influence pas les recommandations : je ne parle que de ce qui me semble
+            réellement utile sur le terrain. Les articles concernés sont signalés.
+          </p>
+
+          <h2>Contact</h2>
+          <p>
+            Une question, une suggestion, une erreur à signaler ?
+            Écrivez-moi à <a href="mailto:contact@nature-et-chien.fr">contact@nature-et-chien.fr</a>.
+            Je réponds personnellement à tous les messages, dans la mesure du possible.
+          </p>
+
+        </div>
+
+        <!-- Sidebar valeurs -->
+        <aside class="about-sidebar">
+          <div class="values-card">
+            <h2>Ce en quoi je crois</h2>
+            <ul class="values-list">
+              <li>
+                <span class="value-icon">✅</span>
+                <div>
+                  <strong>Fiabilité avant tout</strong>
+                  <p>Sources officielles, vérification des informations, liens vers les textes réglementaires.</p>
+                </div>
+              </li>
+              <li>
+                <span class="value-icon">🐕</span>
+                <div>
+                  <strong>Le chien d'abord</strong>
+                  <p>Ses besoins, sa santé et son bien-être passent avant la performance de la sortie.</p>
+                </div>
+              </li>
+              <li>
+                <span class="value-icon">🌿</span>
+                <div>
+                  <strong>Respect de la nature</strong>
+                  <p>Randonner avec un chien implique de respecter les règles des espaces naturels.</p>
+                </div>
+              </li>
+              <li>
+                <span class="value-icon">🔍</span>
+                <div>
+                  <strong>Transparence</strong>
+                  <p>Les liens affiliés sont toujours signalés. Mon avis reste indépendant.</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+
+          <div class="explore-card">
+            <h2>Commencer à explorer</h2>
+            <nav class="explore-links">
+              <a href="/avant-de-partir" class="explore-link">
+                <span>🗺️</span>
+                <span>Avant de partir</span>
+              </a>
+              <a href="/sante-bien-etre" class="explore-link">
+                <span>❤️</span>
+                <span>Santé &amp; bien-être</span>
+              </a>
+              <a href="/equipement" class="explore-link">
+                <span>🎒</span>
+                <span>Équipement</span>
+              </a>
+            </nav>
+          </div>
+        </aside>
+
+      </div>
+    </section>
+
+  </div>
+
+</BaseLayout>
+
+<style>
+/* Hero */
+.about-hero {
+  background: linear-gradient(135deg, #f0faf4 0%, #e8f5e9 100%);
+  border-bottom: 1px solid var(--color-forest-pale);
+  padding: 3.5rem 0 3rem;
+  text-align: center;
+}
+.about-hero-inner { max-width: 640px; }
+.about-avatar {
+  font-size: 3rem;
+  margin-bottom: 0.75rem;
+  display: block;
+}
+.about-hero h1 {
+  font-family: var(--font-serif);
+  font-size: clamp(1.7rem, 3.5vw, 2.3rem);
+  font-weight: 700;
+  color: var(--color-forest);
+  margin: 0 0 0.9rem;
+}
+.about-tagline {
+  font-size: 1.05rem;
+  color: var(--color-text);
+  line-height: 1.6;
+  max-width: 52ch;
+  margin: 0 auto;
+}
+
+/* Grid principal */
+.about-content { padding: 3.5rem 0 5rem; }
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 340px;
+  gap: 3rem;
+  align-items: start;
+}
+
+/* Prose principale */
+.about-main h2 {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-forest);
+  margin: 2rem 0 0.75rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--color-forest-pale);
+}
+.about-main h2:first-child { margin-top: 0; }
+
+.prose p, .prose ul {
+  line-height: 1.75;
+  color: var(--color-text);
+  font-size: 0.97rem;
+  margin-bottom: 1rem;
+}
+.prose ul {
+  padding-left: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.prose li { line-height: 1.7; }
+.prose strong { font-weight: 600; }
+.prose a {
+  color: var(--color-forest-light);
+  text-decoration: underline;
+  text-decoration-color: var(--color-forest-pale);
+}
+.prose a:hover { color: var(--color-forest); }
+
+/* Sidebar */
+.about-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  position: sticky;
+  top: 100px;
+}
+
+.values-card, .explore-card {
+  background: #f0faf4;
+  border: 1.5px solid var(--color-forest-pale);
+  border-left: 4px solid var(--color-forest-light);
+  border-radius: var(--radius-md);
+  padding: 1.5rem;
+}
+
+.values-card h2, .explore-card h2 {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--color-forest);
+  margin: 0 0 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.85rem;
+}
+
+.values-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.values-list li {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+}
+
+.value-icon {
+  font-size: 1.2rem;
+  flex-shrink: 0;
+  margin-top: 0.1rem;
+}
+
+.values-list strong {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-forest);
+  margin-bottom: 0.2rem;
+}
+
+.values-list p {
+  font-size: 0.84rem;
+  color: var(--color-text);
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* Explore links */
+.explore-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.explore-link {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.6rem 0.75rem;
+  background: white;
+  border: 1px solid var(--color-forest-pale);
+  border-radius: var(--radius-sm, 6px);
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: 0.92rem;
+  font-weight: 500;
+  transition: all 0.15s;
+}
+.explore-link:hover {
+  border-color: var(--color-forest-light);
+  color: var(--color-forest);
+  background: white;
+  text-decoration: none;
+  transform: translateX(2px);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .about-grid {
+    grid-template-columns: 1fr;
+  }
+  .about-sidebar {
+    position: static;
+  }
+}
+</style>

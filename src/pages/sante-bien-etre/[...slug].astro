@@ -1,0 +1,39 @@
+---
+import { getCollection, render } from "astro:content";
+import ArticleLayout from "../../layouts/ArticleLayout.astro";
+
+export async function getStaticPaths() {
+  const articles = await getCollection("sante");
+  return articles.map(article => ({
+    params: { slug: article.id },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content, headings } = await render(article);
+
+const related = [
+  { title: "Gourde, gamelle ou poche à eau : comment choisir ?",  href: "/equipement/gourde-gamelle-poche-eau-chien-comment-choisir",    category: "equipement" },
+  { title: "Quelle distance pour votre chien en randonnée ?",     href: "/avant-de-partir/distance-chien-randonnee",    category: "avant-de-partir" },
+  { title: "Quel harnais choisir pour randonner ?",               href: "/equipement/harnais-randonnee-chien",     category: "equipement" },
+  { title: "Zones autorisées et interdites aux chiens en France", href: "/avant-de-partir/legislation-zones-autorisees", category: "avant-de-partir" },
+].filter(r => !r.href.includes(article.id)).slice(0, 3);
+---
+
+<ArticleLayout
+  title={article.data.title}
+  description={article.data.description}
+  metaTitle={article.data.metaTitle}
+  metaDescription={article.data.metaDescription}
+  category={article.data.category}
+  publishDate={article.data.publishDate}
+  updatedDate={article.data.updatedDate}
+  isAffiliate={article.data.isAffiliate}
+  related={related}
+  headings={headings}
+  image={article.data.image}
+  imageAlt={article.data.imageAlt}
+>
+  <Content />
+</ArticleLayout>

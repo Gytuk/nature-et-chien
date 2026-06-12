@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Pages légales — indexation inutile
+Disallow: /mentions-legales
+Disallow: /politique-confidentialite
+
+Sitemap: https://nature-et-chien.fr/sitemap-index.xml

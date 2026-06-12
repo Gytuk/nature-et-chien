@@ -1,0 +1,72 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <span class="footer-logo">🐾 Nature &amp; Chien</span>
+      <p>Des conseils fiables et bienveillants pour randonner avec votre chien en toute sérénité.</p>
+    </div>
+
+    <nav class="footer-nav" aria-label="Navigation pied de page">
+      <div class="footer-col">
+        <h3>Explorer</h3>
+        <ul>
+          <li><a href="/avant-de-partir">Avant de partir</a></li>
+          <li><a href="/sante-bien-etre">Santé &amp; bien-être</a></li>
+          <li><a href="/equipement">Équipement</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h3>Le site</h3>
+        <ul>
+          <li><a href="/a-propos">À propos</a></li>
+          <li><a href="/mentions-legales">Mentions légales</a></li>
+          <li><a href="/politique-confidentialite">Confidentialité</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container">
+      <p>© {year} Nature &amp; Chien · Certains liens peuvent être affiliés — <a href="/mentions-legales#affiliation">en savoir plus</a>.</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+.site-footer {
+  background: #1a2e23;
+  color: #c5d9cc;
+  margin-top: 4rem;
+}
+.footer-inner {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 3rem;
+  padding: 3rem 1.25rem 2rem;
+}
+.footer-brand p { font-size: 0.92rem; color: #8dab97; max-width: 28ch; margin-top: 0.6rem; }
+.footer-logo { font-family: var(--font-serif); font-weight: 700; font-size: 1.1rem; color: white; }
+
+.footer-nav { display: flex; gap: 3rem; }
+.footer-col h3 { font-size: 0.8rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #8dab97; margin-bottom: 0.75rem; }
+.footer-col ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.4rem; }
+.footer-col a { color: #c5d9cc; font-size: 0.92rem; text-decoration: none; transition: color 0.15s; }
+.footer-col a:hover { color: white; text-decoration: none; }
+
+.footer-bottom {
+  border-top: 1px solid #2d4a38;
+  padding: 1rem 1.25rem;
+  font-size: 0.82rem;
+  color: #6b8a77;
+}
+.footer-bottom a { color: #8dab97; }
+
+@media (max-width: 700px) {
+  .footer-inner { grid-template-columns: 1fr; gap: 2rem; padding-bottom: 1.5rem; }
+  .footer-nav { flex-direction: column; gap: 1.5rem; }
+}
+</style>

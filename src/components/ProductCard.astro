@@ -1,0 +1,112 @@
+---
+interface Props {
+  name: string;
+  description: string;
+  pros: string[];
+  idealFor: string;
+  affiliateUrl: string;
+  badge?: string; // ex: "Notre coup de coeur", "Meilleur rapport qualité/prix"
+}
+
+const { name, description, pros, idealFor, affiliateUrl, badge } = Astro.props;
+---
+
+<div class="product-card">
+  {badge && <div class="product-badge">{badge}</div>}
+  <div class="product-body">
+    <h3 class="product-name">{name}</h3>
+    <p class="product-desc">{description}</p>
+
+    <ul class="product-pros">
+      {pros.map(pro => (
+        <li>
+          <svg width="15" height="15" fill="none" stroke="#40916c" stroke-width="2.5" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
+          </svg>
+          {pro}
+        </li>
+      ))}
+    </ul>
+
+    <p class="product-ideal"><strong>Idéal pour :</strong> {idealFor}</p>
+  </div>
+
+  <div class="product-footer">
+    <a href={affiliateUrl} class="btn-affiliate" target="_blank" rel="noopener noreferrer sponsored">
+      Voir le prix
+      <svg width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+      </svg>
+    </a>
+    <span class="affiliate-hint">Lien affilié</span>
+  </div>
+</div>
+
+<style>
+.product-card {
+  position: relative;
+  background: white;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: box-shadow 0.2s;
+}
+.product-card:hover { box-shadow: 0 6px 24px rgba(45,106,79,.12); }
+
+.product-badge {
+  background: var(--color-forest);
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.35rem 1rem;
+  text-align: center;
+}
+
+.product-body { padding: 1.25rem 1.25rem 0.75rem; flex: 1; }
+
+.product-name {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 0 0 0.4rem;
+  color: var(--color-text);
+}
+
+.product-desc {
+  font-size: 0.88rem;
+  color: var(--color-text-soft);
+  margin: 0 0 0.9rem;
+  line-height: 1.55;
+}
+
+.product-pros {
+  list-style: none;
+  padding: 0; margin: 0 0 0.9rem;
+  display: flex; flex-direction: column; gap: 0.3rem;
+}
+.product-pros li {
+  display: flex; align-items: center; gap: 0.45rem;
+  font-size: 0.87rem; color: var(--color-text);
+}
+
+.product-ideal {
+  font-size: 0.85rem;
+  color: var(--color-text-soft);
+  margin: 0;
+  padding: 0.5rem 0.75rem;
+  background: #f3f7f5;
+  border-radius: var(--radius-sm);
+}
+
+.product-footer {
+  padding: 1rem 1.25rem;
+  border-top: 1px solid var(--color-border);
+  display: flex; align-items: center; justify-content: space-between;
+  background: #fafcfb;
+}
+.affiliate-hint { font-size: 0.73rem; color: #bbb; }
+</style>

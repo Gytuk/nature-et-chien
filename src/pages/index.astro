@@ -1,0 +1,368 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ArticleCard from "../components/ArticleCard.astro";
+import { getCollection } from "astro:content";
+
+const avant = await getCollection("avant-de-partir");
+const sante = await getCollection("sante");
+const equip = await getCollection("equipement");
+
+const allArticles = [...avant, ...sante, ...equip].sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()
+);
+
+const featured = allArticles.filter(a => a.data.featured).slice(0, 3);
+const recent   = allArticles.slice(0, 6);
+
+function href(article: typeof allArticles[0]) {
+  const col = article.collection;
+  const route = col === "avant-de-partir" ? "avant-de-partir"
+              : col === "sante"           ? "sante-bien-etre"
+              :                             "equipement";
+  return `/${route}/${article.id}`;
+}
+
+const pillars = [
+  {
+    title: "Avant de partir",
+    href: "/avant-de-partir",
+    icon: "🗺️",
+    desc: "Législation, distances, première randonnée, bonnes pratiques avant chaque sortie.",
+    img: "/images/accueil/card-avant-depart.jpg",
+    alt: "Chien en balade dans la nature — préparer sa randonnée",
+    color: "#dbeafe", border: "#93c5fd",
+  },
+  {
+    title: "Santé & bien-être",
+    href: "/sante-bien-etre",
+    icon: "🐾",
+    desc: "Hydratation, coussinets, fatigue, chaleur : prenez soin de votre compagnon.",
+    img: "/images/accueil/card-sante.jpg",
+    alt: "Chien en pleine nature — santé et bien-être en randonnée",
+    color: "#dcfce7", border: "#86efac",
+  },
+  {
+    title: "Équipement",
+    href: "/equipement",
+    icon: "🎒",
+    desc: "Harnais, gourdes, accessoires : nos guides et comparatifs pour bien choisir.",
+    img: "/images/accueil/card-equipement.jpg",
+    alt: "Chien équipé pour la randonnée — harnais et accessoires",
+    color: "#fde8c8", border: "#fdba74",
+  },
+];
+---
+
+<BaseLayout
+  title="Randonnée avec son chien en France : conseils, santé, équipement"
+  description="Guides pratiques pour randonner avec son chien : distances, zones autorisées, harnais, hydratation. Informations vérifiées par thème."
+>
+
+  <!-- ── HERO ── -->
+  <section class="hero">
+    <div class="hero-image-wrap">
+      <img
+        src="/images/accueil/hero.jpg"
+        alt="Maître et son chien en randonnée sur un sentier de montagne"
+        class="hero-img"
+        loading="eager"
+        decoding="async"
+        fetchpriority="high"
+        width="1200"
+        height="600"
+      />
+      <div class="hero-overlay"></div>
+    </div>
+    <div class="container hero-inner">
+      <div class="hero-text">
+        <p class="hero-tagline">Votre guide randonnée canine</p>
+        <h1 class="hero-title">Randonner avec son chien,<br />simplement et sereinement</h1>
+        <p class="hero-sub">
+          Des informations fiables et des conseils pratiques pour préparer vos sorties,
+          prendre soin de votre compagnon et choisir le bon équipement.
+        </p>
+        <div class="hero-ctas">
+          <a href="/avant-de-partir/premiere-randonnee-avec-son-chien" class="btn-primary">Préparer ma première randonnée</a>
+          <a href="/equipement" class="btn-outline-hero">
+            Choisir les bons équipements
+            <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── PILIERS ── -->
+  <section id="pillars" class="section-pillars">
+    <div class="container">
+      <h2 class="section-title">Explorez par thème</h2>
+      <div class="pillars-grid">
+        {pillars.map(p => (
+          <a href={p.href} class="pillar-card">
+            <div class="pillar-img-wrap">
+              <img src={p.img} alt={p.alt} class="pillar-img" loading="lazy" />
+              <div class="pillar-img-overlay"></div>
+              <span class="pillar-icon-badge">{p.icon}</span>
+            </div>
+            <div class="pillar-body">
+              <h3 class="pillar-name">{p.title}</h3>
+              <p class="pillar-desc">{p.desc}</p>
+              <span class="pillar-cta">
+                Voir les articles
+                <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+                </svg>
+              </span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ── ARTICLES MIS EN AVANT ── -->
+  {featured.length > 0 && (
+    <section class="section-featured">
+      <div class="container">
+        <h2 class="section-title">Articles essentiels</h2>
+        <div class="articles-grid">
+          {featured.map(article => (
+            <ArticleCard
+              title={article.data.title}
+              description={article.data.description}
+              href={href(article)}
+              category={article.data.category}
+              isAffiliate={article.data.isAffiliate}
+              featured={true}
+              publishDate={article.data.publishDate}
+              image={article.data.image}
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- ── DERNIERS ARTICLES ── -->
+  <section class="section-recent">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Derniers articles</h2>
+        <a href="/avant-de-partir" class="see-all">Tous les articles →</a>
+      </div>
+      <div class="articles-grid">
+        {recent.map(article => (
+          <ArticleCard
+            title={article.data.title}
+            description={article.data.description}
+            href={href(article)}
+            category={article.data.category}
+            isAffiliate={article.data.isAffiliate}
+            publishDate={article.data.publishDate}
+            image={article.data.image}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ── PITCH ── -->
+  <section class="section-pitch">
+    <div class="pitch-bg-img">
+      <img src="/images/shared/panorama.jpg" alt="" aria-hidden="true" class="pitch-bg" loading="lazy" />
+      <div class="pitch-bg-overlay"></div>
+    </div>
+    <div class="container pitch-inner">
+      <div class="pitch-text">
+        <h2>Pourquoi Nature & Chien ?</h2>
+        <p>
+          Trop d'informations sur la randonnée canine sont floues, contradictoires ou présentées
+          de façon culpabilisante. Ici, l'objectif est simple : vous donner des repères clairs,
+          fondés sur des sources fiables, dans un ton bienveillant et sans jugement.
+        </p>
+        <p>
+          Que vous partiez pour la première fois avec votre chien ou que vous prépariez une grande
+          traversée, vous trouverez les informations adaptées à votre situation.
+        </p>
+      </div>
+      <div class="pitch-values">
+        {[
+          { icon: "✅", label: "Informations vérifiées", desc: "Sources officielles citées, pas de conseil approximatif." },
+          { icon: "🤝", label: "Ton bienveillant", desc: "Pas de culpabilisation, des conseils adaptés à chaque chien." },
+          { icon: "🔍", label: "Affiliation transparente", desc: "Les liens sponsorisés sont toujours signalés clairement." },
+        ].map(v => (
+          <div class="pitch-value">
+            <span class="pitch-icon">{v.icon}</span>
+            <div>
+              <strong>{v.label}</strong>
+              <p>{v.desc}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>
+
+<style>
+/* ── Hero avec vraie photo ── */
+.hero {
+  position: relative;
+  min-height: 520px;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+.hero-image-wrap {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+.hero-img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  object-position: center 65%;  /* 65% = on descend le cadrage, plus de sol visible */
+}
+.hero-overlay {
+  position: absolute; inset: 0;
+  background: linear-gradient(
+    to right,
+    rgba(20, 40, 25, 0.78) 0%,
+    rgba(20, 40, 25, 0.5) 55%,
+    rgba(20, 40, 25, 0.15) 100%
+  );
+}
+.hero-inner {
+  position: relative; z-index: 1;
+  padding: 5rem 1.25rem 4.5rem;
+}
+.hero-text { max-width: 580px; }
+
+.hero-tagline {
+  font-size: 0.82rem; font-weight: 700; letter-spacing: 0.1em;
+  text-transform: uppercase; color: #a8d5b0;
+  margin: 0 0 0.9rem;
+}
+.hero-title {
+  font-family: var(--font-serif);
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 700; line-height: 1.15;
+  color: white; margin: 0 0 1.25rem;
+  text-shadow: 0 2px 12px rgba(0,0,0,.3);
+}
+.hero-sub {
+  font-size: 1.05rem; color: rgba(255,255,255,.85);
+  max-width: 48ch; margin: 0 0 2rem; line-height: 1.7;
+}
+.hero-ctas { display: flex; gap: 1rem; flex-wrap: nowrap; align-items: center; }
+@media (max-width: 600px) {
+  .hero-ctas { flex-direction: column; align-items: flex-start; }
+}
+.btn-outline-hero {
+  display: inline-flex; align-items: center; gap: 0.45rem;
+  color: white; font-weight: 600; font-size: 1.05rem;
+  text-decoration: none;
+  padding: 0.72rem 1.5rem;
+  border: 2px solid rgba(255,255,255,.55);
+  border-radius: var(--radius-md);
+  transition: border-color 0.2s, background 0.2s, transform 0.1s;
+}
+.btn-outline-hero:hover {
+  border-color: white;
+  background: rgba(255,255,255,.1);
+  text-decoration: none;
+  color: white;
+  transform: translateY(-1px);
+}
+
+/* ── Piliers avec photo ── */
+.section-pillars { padding: 4rem 0; }
+.section-title {
+  font-family: var(--font-serif); font-size: 1.6rem; font-weight: 700;
+  color: var(--color-text); margin: 0 0 1.75rem;
+}
+.pillars-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+.pillar-card {
+  display: flex; flex-direction: column;
+  background: white;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  text-decoration: none;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.pillar-card:hover { transform: translateY(-4px); box-shadow: 0 10px 30px rgba(0,0,0,.1); text-decoration: none; }
+
+.pillar-img-wrap {
+  position: relative; height: 180px; overflow: hidden;
+}
+.pillar-img {
+  width: 100%; height: 100%; object-fit: cover;
+  transition: transform 0.4s;
+}
+.pillar-card:hover .pillar-img { transform: scale(1.04); }
+.pillar-img-overlay {
+  position: absolute; inset: 0;
+  background: linear-gradient(to top, rgba(0,0,0,.35) 0%, transparent 60%);
+}
+.pillar-icon-badge {
+  position: absolute; bottom: 0.75rem; left: 0.9rem;
+  font-size: 1.5rem;
+}
+
+.pillar-body { padding: 1.25rem; display: flex; flex-direction: column; gap: 0.5rem; flex: 1; }
+.pillar-name { font-family: var(--font-serif); font-size: 1.1rem; font-weight: 700; color: var(--color-text); margin: 0; }
+.pillar-desc { font-size: 0.88rem; color: var(--color-text-soft); margin: 0; flex: 1; line-height: 1.55; }
+.pillar-cta { display: flex; align-items: center; gap: 0.3rem; font-size: 0.85rem; font-weight: 600; color: var(--color-forest); margin-top: 0.25rem; }
+
+/* ── Articles ── */
+.section-featured, .section-recent { padding: 3rem 0; }
+.section-featured { background: #f4f9f5; }
+.section-header { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 1.75rem; }
+.section-header .section-title { margin-bottom: 0; }
+.see-all { font-size: 0.88rem; font-weight: 600; color: var(--color-forest); text-decoration: none; }
+.see-all:hover { text-decoration: underline; }
+.articles-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.25rem; }
+
+/* ── Pitch avec fond photo ── */
+.section-pitch {
+  position: relative;
+  padding: 5rem 0;
+  overflow: hidden;
+}
+.pitch-bg-img { position: absolute; inset: 0; z-index: 0; }
+.pitch-bg { width: 100%; height: 100%; object-fit: cover; }
+.pitch-bg-overlay {
+  position: absolute; inset: 0;
+  background: linear-gradient(135deg, rgba(20,40,20,.92) 0%, rgba(35,60,30,.88) 100%);
+}
+.pitch-inner {
+  position: relative; z-index: 1;
+  display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: start;
+  color: #c5d9cc;
+}
+.pitch-text h2 { font-family: var(--font-serif); font-size: 1.6rem; color: white; margin-top: 0; }
+.pitch-text p  { font-size: 0.95rem; color: #a0bfaa; line-height: 1.75; }
+.pitch-values  { display: flex; flex-direction: column; gap: 1.25rem; }
+.pitch-value   { display: flex; align-items: flex-start; gap: 1rem; }
+.pitch-icon    { font-size: 1.4rem; margin-top: 0.1rem; flex-shrink: 0; }
+.pitch-value strong { display: block; color: white; font-size: 0.95rem; margin-bottom: 0.2rem; }
+.pitch-value p { font-size: 0.85rem; color: #8dab97; margin: 0; }
+
+/* ── Responsive ── */
+@media (max-width: 900px) {
+  .pillars-grid { grid-template-columns: 1fr 1fr; }
+  .pitch-inner  { grid-template-columns: 1fr; gap: 2.5rem; }
+}
+@media (max-width: 600px) {
+  .pillars-grid { grid-template-columns: 1fr; }
+  .hero { min-height: 420px; }
+}
+</style>

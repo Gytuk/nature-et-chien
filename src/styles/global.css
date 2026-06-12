@@ -1,0 +1,902 @@
+@import "tailwindcss";
+
+@theme {
+  /* Palette Nature & Chien — calée sur le logo */
+  --color-forest: #2d5a27;        /* vert forêt profond du logo */
+  --color-forest-light: #3d7a35;  /* vert légèrement plus clair */
+  --color-forest-pale: #ddeedd;   /* vert très pâle pour fonds */
+  --color-earth: #7a6520;         /* brun olive du logo (silhouette) */
+  --color-earth-light: #f2ead8;   /* beige crème du fond logo */
+  --color-cream: #f7f4ec;         /* crème légèrement chaud */
+  --color-bark: #5a4a18;          /* brun foncé pour textes secondaires */
+  --color-text: #1c1c1e;
+  --color-text-soft: #5a5a6a;
+  --color-border: #e2ddd0;
+  --color-white: #ffffff;
+
+  /* Typographie */
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-serif: "Lora", Georgia, serif;
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+}
+
+/* ── Reset & base ── */
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  font-family: var(--font-sans);
+  font-size: 17px;
+  line-height: 1.7;
+  color: var(--color-text);
+  background: var(--color-cream);
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+}
+
+body { margin: 0; }
+img { max-width: 100%; height: auto; display: block; }
+
+a {
+  color: var(--color-forest);
+  text-decoration-color: transparent;
+  transition: text-decoration-color 0.15s, color 0.15s;
+}
+a:hover { text-decoration-color: currentColor; }
+
+/* ── Prose (contenu article) ── */
+.prose { max-width: 72ch; }
+
+/* scroll-margin-top : quand on clique dans le sommaire,
+   le titre arrive SOUS le header collant (80px) + marge de confort */
+.prose h2, .prose h3, .prose h4 {
+  scroll-margin-top: 100px;
+}
+
+.prose h1, .prose h2, .prose h3, .prose h4 {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--color-text);
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+.prose h1 { font-size: 2rem; }
+.prose h2 { font-size: 1.5rem; border-bottom: 2px solid var(--color-forest-pale); padding-bottom: 0.4rem; }
+.prose h3 { font-size: 1.2rem; color: var(--color-forest); }
+.prose p  { margin-bottom: 1.25rem; }
+
+.prose ul, .prose ol { padding-left: 1.5rem; margin-bottom: 1.25rem; }
+.prose li { margin-bottom: 0.4rem; }
+
+.prose blockquote {
+  border-left: 4px solid var(--color-earth);
+  padding: 0.75rem 1.25rem;
+  margin: 1.5rem 0;
+  background: var(--color-earth-light);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-style: italic;
+  color: var(--color-bark);
+}
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.92rem;
+  overflow-x: auto;
+  display: block;
+}
+.prose th {
+  background: var(--color-forest);
+  color: white;
+  padding: 0.6rem 1rem;
+  text-align: left;
+  white-space: nowrap;
+}
+.prose td { padding: 0.6rem 1rem; border-bottom: 1px solid var(--color-border); }
+.prose tr:nth-child(even) td { background: #f3f7f5; }
+
+/* ── Layout helpers ── */
+.container {
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+/* ── Boutons ── */
+.btn-primary {
+  display: inline-flex; align-items: center; gap: 0.4rem;
+  background: var(--color-forest); color: white;
+  padding: 0.65rem 1.4rem;
+  border-radius: var(--radius-md);
+  font-weight: 600; font-size: 0.95rem; text-decoration: none;
+  transition: background 0.2s, transform 0.1s;
+}
+.btn-primary:hover {
+  background: var(--color-forest-light);
+  text-decoration: none;
+  transform: translateY(-1px);
+  color: white;
+}
+
+.btn-affiliate {
+  display: inline-flex; align-items: center; gap: 0.5rem;
+  background: var(--color-earth); color: white;
+  padding: 0.55rem 1.2rem;
+  border-radius: var(--radius-sm);
+  font-weight: 600; font-size: 0.88rem; text-decoration: none;
+  transition: background 0.2s;
+}
+.btn-affiliate:hover { background: #c4905f; text-decoration: none; color: white; }
+
+/* ── Badges catégories ── */
+.badge { display: inline-block; padding: 0.2rem 0.7rem; border-radius: 999px; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.03em; text-transform: uppercase; }
+.badge-avant      { background: #dbeafe; color: #1d4ed8; }
+.badge-sante      { background: #dcfce7; color: #166534; }
+.badge-equipement { background: var(--color-earth-light); color: var(--color-bark); }
+
+/* ── Mention affilié ── */
+.affiliate-notice {
+  font-size: 0.78rem; color: #999; font-style: italic;
+  margin-bottom: 1.5rem;
+}
+
+/* ── Callout info ── */
+.callout {
+  border-left: 4px solid var(--color-forest-light);
+  background: #f0faf4;
+  padding: 0.9rem 1.2rem;
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+/* ── Scrollbar custom ── */
+::-webkit-scrollbar { width: 7px; }
+::-webkit-scrollbar-track { background: var(--color-cream); }
+::-webkit-scrollbar-thumb { background: var(--color-forest-pale); border-radius: 4px; }
+
+/* ── Pillar hero (partagé entre avant-de-partir, sante, equipement) ── */
+.pillar-hero {
+  position: relative;
+  min-height: 320px;
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+}
+.pillar-hero-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 40%;
+}
+.pillar-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(15,35,20,.85) 0%, rgba(15,35,20,.4) 60%, rgba(15,35,20,.15) 100%);
+}
+.pillar-hero-content {
+  position: relative;
+  z-index: 1;
+  padding: 2.5rem 1.25rem 3rem;
+  text-align: center;
+  width: 100%;
+}
+.pillar-icon { font-size: 2.5rem; margin-bottom: 0.5rem; }
+.pillar-title {
+  font-family: var(--font-serif);
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  font-weight: 700;
+  color: white;
+  margin: 0 0 1rem;
+  text-shadow: 0 2px 8px rgba(0,0,0,.3);
+}
+.pillar-intro {
+  max-width: 60ch;
+  margin: 0 auto;
+  font-size: 1rem;
+  color: rgba(255,255,255,.85);
+  line-height: 1.7;
+}
+.pillar-articles { padding: 3rem 0 5rem; }
+.articles-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.25rem;
+}
+
+/* ── Cartes produits Amazon ── */
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+@media (max-width: 640px) {
+  .product-grid { grid-template-columns: repeat(2, 1fr); }
+}
+.product-card-role {
+  background: var(--color-forest);
+  color: white;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.3rem 0.75rem;
+}
+.product-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background: white;
+  transition: box-shadow 0.2s;
+}
+.product-card:hover { box-shadow: 0 4px 14px rgba(0,0,0,0.1); }
+.product-card-img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: contain;
+  background: #f8f9fa;
+  padding: 0.75rem;
+}
+.product-card-body {
+  padding: 0.875rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 0.35rem;
+}
+.product-card-name {
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--color-text);
+  line-height: 1.3;
+}
+.product-card-type {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--color-forest);
+  background: var(--color-forest-pale);
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  width: fit-content;
+}
+.product-card-features {
+  list-style: none;
+  padding: 0;
+  margin: 0.2rem 0 0;
+  flex: 1;
+}
+.product-card-features li {
+  font-size: 0.76rem;
+  color: var(--color-text-soft);
+  line-height: 1.5;
+  padding-left: 1rem;
+  position: relative;
+}
+.product-card-features li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: var(--color-forest);
+  font-weight: 700;
+}
+.product-card-ideal {
+  font-size: 0.73rem;
+  color: #888;
+  font-style: italic;
+  margin-top: 0.2rem;
+}
+.product-card-btn {
+  display: block;
+  background: #FF9900;
+  color: white !important;
+  text-decoration: none !important;
+  padding: 0.45rem 0.75rem;
+  border-radius: 0.375rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 0.6rem;
+}
+.product-card-btn:hover { background: #e88900; }
+.product-card-btn--hardloop { background: #09547E; }
+.product-card-btn--hardloop:hover { background: #074264; }
+
+/* ── CTA grid (guide général → comparatifs) ── */
+.cta-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.85rem;
+  margin: 1.75rem 0 2.25rem;
+}
+.cta-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  padding: 1rem 1.2rem;
+  background: var(--color-forest);
+  color: white !important;
+  text-decoration: none !important;
+  border-radius: var(--radius-md);
+  transition: background 0.2s, transform 0.15s, box-shadow 0.15s;
+}
+.cta-card:hover {
+  background: var(--color-forest-light);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(45,90,39,0.25);
+  text-decoration: none !important;
+}
+.cta-card strong {
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: white;
+  line-height: 1.3;
+}
+.cta-card span {
+  font-size: 0.78rem;
+  color: rgba(255,255,255,0.75);
+}
+
+/* ── CTA card avec image toujours visible + zoom au survol ── */
+.cta-card.cta-card-preview {
+  background: var(--color-forest);
+  overflow: hidden;
+  padding: 0;
+  gap: 0;
+}
+.cta-card.cta-card-preview:hover {
+  background: var(--color-forest-light);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(45,90,39,0.35);
+}
+.cta-img-preview {
+  width: 100%;
+  height: 115px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.cta-img-preview img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+.cta-card.cta-card-preview:hover .cta-img-preview img {
+  transform: scale(1.06);
+}
+.cta-card-text {
+  padding: 0.7rem 1rem 0.85rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+/* ── Tableau comparatif produits ── */
+.prose table.comparatif-table { display: table; }
+.comparatif-table img {
+  width: 68px;
+  height: 68px;
+  object-fit: contain;
+  display: block;
+  border-radius: 4px;
+}
+.comparatif-table .col-produit strong {
+  display: block;
+  font-size: 0.82rem;
+  line-height: 1.3;
+  margin-bottom: 0.4rem;
+}
+.btn-amazon-sq {
+  display: block;
+  background: #FF9900;
+  color: white !important;
+  text-decoration: none !important;
+  padding: 0.35rem 0.4rem;
+  border-radius: 6px;
+  font-size: 0.69rem;
+  font-weight: 700;
+  text-align: center;
+  line-height: 1.3;
+  margin-top: 0.3rem;
+  word-break: break-word;
+}
+.btn-amazon-sq + .btn-amazon-sq { margin-top: 0.35rem; }
+.btn-amazon-sq:hover { background: #e88900; }
+/* ── CTA achat avec aperçu produit (test tableau comparatif) ── */
+.btn-achat-card {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  text-decoration: none !important;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 2px solid #FF9900;
+  background: white;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.btn-achat-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(255,153,0,0.35);
+}
+.btn-achat-card .achat-thumb {
+  background: #fafafa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 6px 4px;
+  height: 72px;
+}
+.btn-achat-card .achat-thumb img {
+  max-width: 100%;
+  max-height: 60px;
+  object-fit: contain;
+  display: block;
+  width: auto;
+  height: auto;
+  border-radius: 0;
+}
+.btn-achat-card .achat-label {
+  background: #FF9900;
+  color: white !important;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-align: center;
+  padding: 0.3rem 0.5rem;
+  line-height: 1.3;
+}
+.btn-achat-card:hover .achat-label { background: #e88900; }
+/* ── CTA achat multi-variantes (image + boutons empilés) ── */
+.achat-card-multi {
+  border-radius: 8px;
+  overflow: hidden;
+  border: 2px solid #FF9900;
+  background: white;
+}
+.achat-label-btn {
+  display: block;
+  background: #FF9900;
+  color: white !important;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-align: center;
+  padding: 0.28rem 0.5rem;
+  text-decoration: none !important;
+  line-height: 1.3;
+  transition: background 0.2s;
+}
+.achat-label-btn + .achat-label-btn { border-top: 1px solid rgba(255,255,255,0.25); }
+.achat-label-btn:hover { background: #e88900; }
+.achat-label-btn--hardloop { background: #09547E; }
+.achat-label-btn--hardloop:hover { background: #074264; }
+.achat-card-multi:has(.achat-label-btn--hardloop) { border-color: #09547E; }
+
+/* ── Badges produit — coin supérieur gauche de la cellule produit ── */
+.col-produit {
+  position: relative;
+}
+.badge-produit {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #F5A623;
+  color: white;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  padding: 4px 10px 4px 7px;
+  border-radius: 0 0 10px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.22);
+  line-height: 1.4;
+  white-space: nowrap;
+  z-index: 1;
+}
+
+/* Ligne avec badge : fond légèrement chaud */
+.row-badge td {
+  background: #FFFBF2 !important;
+}
+
+/* ── CTA inline horizontal (comparatifs depuis les guides) ── */
+.inline-cta-list {
+  margin: 1.25rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.inline-cta-card {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  background: white;
+  text-decoration: none !important;
+  color: inherit;
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.inline-cta-card:hover {
+  box-shadow: 0 4px 16px rgba(45,90,39,.1);
+  transform: translateY(-1px);
+  text-decoration: none !important;
+}
+.inline-cta-card img {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+.inline-cta-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  flex: 1;
+  min-width: 0;
+}
+.inline-cta-title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--color-text);
+  line-height: 1.3;
+}
+.inline-cta-desc {
+  font-size: 0.8rem;
+  color: var(--color-text-soft);
+  line-height: 1.4;
+}
+.inline-cta-arrow {
+  font-size: 1.1rem;
+  color: var(--color-forest);
+  flex-shrink: 0;
+}
+
+/* ── Effet clic sur les cards achat du tableau ── */
+.achat-card-multi {
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.achat-card-multi:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+.achat-card-multi:active {
+  transform: scale(0.94) translateY(2px);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+  transition: transform 0.08s ease, box-shadow 0.08s ease;
+}
+@keyframes btn-bounce {
+  0%   { transform: scale(0.94) translateY(2px); }
+  60%  { transform: scale(1.03) translateY(-1px); }
+  100% { transform: scale(1) translateY(0); }
+}
+
+/* ═══════════════════════════════════════════════════
+   SYSTÈME ÉDITORIAL — Nature & Chien (nc-)
+   Règles du système :
+   1. Pas de fond coloré — la couleur est réservée aux liens et accents
+   2. Pas d'émojis dans le contenu
+   3. border-left uniquement sur .callout et blockquote (déjà définis)
+   4. Un seul accent : --color-forest. Les alertes ont leurs propres couleurs
+   5. Pas de position: absolute sauf si le parent a overflow:hidden
+   6. Photos : grid (jamais float), captions en texte simple sous l'image
+   ═══════════════════════════════════════════════════ */
+
+/* ── Lede ── */
+.nc-lede {
+  font-family: var(--font-serif);
+  font-size: 1.08rem;
+  font-style: italic;
+  line-height: 1.85;
+  color: var(--color-text);
+  margin-bottom: 2.25rem;
+}
+
+/* ── Stat display ── */
+.nc-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 2rem 0;
+  text-align: center;
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+  margin: 2rem 0;
+}
+.nc-stat__num {
+  font-family: var(--font-serif);
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--color-forest);
+  letter-spacing: -0.02em;
+}
+.nc-stat__label {
+  font-size: 0.85rem;
+  color: var(--color-text-soft);
+  max-width: 38ch;
+  line-height: 1.5;
+}
+
+/* ── Signal list ── */
+.nc-signals {
+  list-style: none;
+  padding: 0;
+  margin: 1.25rem 0;
+}
+.nc-signal {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 0.9rem 0;
+  border-top: 2px solid var(--color-border);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+.nc-signals .nc-signal:last-child {
+  border-bottom: 2px solid var(--color-border);
+}
+.nc-signal--watch  { border-top-color: #d97706; }
+.nc-signal--stop   { border-top-color: #dc2626; }
+.nc-signal--urgent { border-top-color: #7c3aed; }
+.nc-signal__tag {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--color-text-soft);
+}
+.nc-signal--watch  .nc-signal__tag { color: #b45309; }
+.nc-signal--stop   .nc-signal__tag { color: #b91c1c; }
+.nc-signal--urgent .nc-signal__tag { color: #6d28d9; }
+.nc-signal__detail {
+  font-size: 0.83rem;
+  color: var(--color-text-soft);
+  margin-top: 0.1rem;
+}
+
+/* ── Breakout photo ── */
+.nc-breakout {
+  margin: 2.5rem -1.5rem 3.5rem;
+}
+.nc-breakout img {
+  width: 100%;
+  height: 340px;
+  object-fit: cover;
+  object-position: center 35%;
+  display: block;
+}
+.nc-breakout figcaption {
+  padding: 0.5rem 1.5rem 0;
+  font-size: 0.76rem;
+  color: #aaa;
+  font-style: italic;
+}
+@media (max-width: 640px) {
+  .nc-breakout { margin-left: -1.25rem; margin-right: -1.25rem; }
+  .nc-breakout img { height: 220px; }
+  .nc-breakout figcaption { padding-left: 1.25rem; }
+}
+
+/* ── Photo + texte en grille ── */
+.nc-photo-split {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 2rem;
+  align-items: start;
+  margin: 2.5rem 0 2rem;
+}
+.nc-photo-split__img {
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: var(--radius-md);
+  display: block;
+}
+.nc-photo-split__body h3 {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  font-size: 1.15rem;
+  line-height: 1.3;
+  color: var(--color-forest);
+  margin: 0 0 0.6rem;
+}
+.nc-photo-split__body h3 + h3 { margin-top: 1.5rem; }
+.nc-photo-split__body p {
+  font-size: 0.94rem;
+  line-height: 1.7;
+  margin: 0 0 0.9rem;
+  color: var(--color-text);
+}
+.nc-photo-split__body p:last-child { margin-bottom: 0; }
+@media (max-width: 600px) {
+  .nc-photo-split { grid-template-columns: 1fr; }
+  .nc-photo-split__img { aspect-ratio: 16 / 9; width: 100%; }
+}
+
+/* ── Verdict ── */
+.nc-verdict {
+  padding: 1.25rem 0 0;
+  border-top: 2px solid var(--color-forest);
+  margin: 1.75rem 0;
+}
+.nc-verdict__label {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-forest);
+  margin-bottom: 0.75rem;
+}
+.nc-verdict ul { margin: 0; padding-left: 1.1rem; }
+.nc-verdict li {
+  font-size: 0.92rem;
+  line-height: 1.65;
+  margin-bottom: 0.35rem;
+  color: var(--color-text);
+}
+
+/* ── Tableau pleine largeur ── */
+.nc-age-table-wrap {
+  margin: 1.5rem 0 0.5rem;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.nc-age-table {
+  display: table !important;
+  width: 100% !important;
+  table-layout: fixed;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+.nc-age-table th,
+.nc-age-table td {
+  padding: 0.65rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid var(--color-border);
+}
+.nc-age-table thead tr { background: var(--color-forest); }
+.nc-age-table th {
+  color: white;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+.nc-age-table tbody tr:nth-child(even) td { background: #f3f7f5; }
+.nc-age-table tbody tr:last-child td { border-bottom: none; }
+
+/* ── FAQ numérotée ── */
+.nc-faq {
+  margin: 1rem 0;
+  counter-reset: faq-counter;
+}
+.nc-faq dt {
+  counter-increment: faq-counter;
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin: 0;
+  padding: 1.5rem 0 0.35rem;
+  border-top: 1px solid var(--color-border);
+  line-height: 1.4;
+}
+.nc-faq dt::before {
+  content: counter(faq-counter, decimal-leading-zero);
+  display: block;
+  font-family: var(--font-serif);
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--color-forest);
+  margin-bottom: 0.4rem;
+  letter-spacing: -0.02em;
+}
+.nc-faq dd {
+  margin: 0 0 0.5rem;
+  padding: 0.4rem 0 0 1.5rem;
+  font-size: 0.92rem;
+  color: var(--color-text-soft);
+  line-height: 1.7;
+}
+.nc-faq dd strong { color: var(--color-text); }
+
+/* ── FAQ accordéon (details/summary) ── */
+.nc-faq-accordion {
+  margin: 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+.nc-faq-accordion details {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: white;
+  overflow: hidden;
+  transition: box-shadow 0.2s;
+}
+.nc-faq-accordion details[open] {
+  border-color: var(--color-forest);
+  box-shadow: 0 2px 12px rgba(45,90,39,0.08);
+}
+.nc-faq-accordion summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
+  padding: 1.15rem 1.4rem;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.97rem;
+  line-height: 1.45;
+  color: var(--color-text);
+  list-style: none;
+  user-select: none;
+  transition: background 0.15s, color 0.15s;
+}
+.nc-faq-accordion summary::-webkit-details-marker { display: none; }
+.nc-faq-accordion summary::marker { display: none; }
+.nc-faq-accordion details[open] > summary {
+  color: var(--color-forest);
+  background: #f4faf5;
+}
+.nc-faq-accordion .faq-chevron {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--color-forest-pale);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s, transform 0.25s;
+}
+.nc-faq-accordion .faq-chevron svg {
+  width: 14px;
+  height: 14px;
+  stroke: var(--color-forest);
+  stroke-width: 2.5;
+  fill: none;
+  transition: transform 0.25s;
+  display: block;
+}
+.nc-faq-accordion details[open] .faq-chevron {
+  background: var(--color-forest);
+}
+.nc-faq-accordion details[open] .faq-chevron svg {
+  stroke: white;
+  transform: rotate(180deg);
+}
+.nc-faq-accordion .faq-answer {
+  padding: 0 1.4rem 1.4rem;
+  font-size: 0.93rem;
+  line-height: 1.75;
+  color: var(--color-text-soft);
+  border-top: 1px solid var(--color-forest-pale);
+  margin-top: 0;
+}
+.nc-faq-accordion .faq-answer p {
+  margin: 0.9rem 0 0;
+}
+.nc-faq-accordion .faq-answer p:first-child {
+  margin-top: 0.9rem;
+}
+.nc-faq-accordion .faq-answer strong {
+  color: var(--color-text);
+}

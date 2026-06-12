@@ -1,0 +1,33 @@
+---
+interface Crumb { label: string; href?: string; }
+interface Props { items: Crumb[]; }
+const { items } = Astro.props;
+---
+
+<nav aria-label="Fil d'Ariane" class="breadcrumb">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a href="/" itemprop="item"><span itemprop="name">Accueil</span></a>
+      <meta itemprop="position" content="1" />
+    </li>
+    {items.map((crumb, i) => (
+      <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <span aria-hidden="true" class="sep">›</span>
+        {crumb.href
+          ? <a href={crumb.href} itemprop="item"><span itemprop="name">{crumb.label}</span></a>
+          : <span itemprop="name" aria-current="page">{crumb.label}</span>
+        }
+        <meta itemprop="position" content={String(i + 2)} />
+      </li>
+    ))}
+  </ol>
+</nav>
+
+<style>
+.breadcrumb { margin-bottom: 1.5rem; }
+.breadcrumb ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 0.25rem; font-size: 0.83rem; color: var(--color-text-soft); }
+.breadcrumb a { color: var(--color-text-soft); text-decoration: none; }
+.breadcrumb a:hover { color: var(--color-forest); text-decoration: none; }
+.breadcrumb [aria-current="page"] { color: var(--color-text); }
+.sep { color: #ccc; margin: 0 0.1rem; }
+</style>

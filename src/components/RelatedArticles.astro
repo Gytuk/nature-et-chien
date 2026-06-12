@@ -1,0 +1,139 @@
+---
+interface RelatedItem {
+  title: string;
+  href: string;
+  category: string;
+}
+interface Props { items: RelatedItem[]; }
+const { items } = Astro.props;
+
+const categoryLabels: Record<string, string> = {
+  "avant-de-partir": "Avant de partir",
+  "sante": "Santé & bien-être",
+  "equipement": "Équipement",
+};
+
+const categoryAccent: Record<string, string> = {
+  "avant-de-partir": "#1d4ed8",
+  "sante": "#166534",
+  "equipement": "#7a6520",
+};
+---
+
+{items.length > 0 && (
+  <aside class="related-block">
+    <p class="related-label">À lire aussi</p>
+    <div class="related-grid">
+      {items.map(item => (
+        <a href={item.href} class="related-card" style={`--accent: ${categoryAccent[item.category]}`}>
+          <span class="related-card-accent"></span>
+          <span class="related-card-body">
+            <span class="related-card-cat">{categoryLabels[item.category]}</span>
+            <span class="related-card-title">{item.title}</span>
+          </span>
+          <span class="related-card-cta">
+            Lire l'article
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <line x1="5" y1="12" x2="19" y2="12"/>
+              <polyline points="12 5 19 12 12 19"/>
+            </svg>
+          </span>
+        </a>
+      ))}
+    </div>
+  </aside>
+)}
+
+<style>
+.related-block {
+  margin-top: 3.5rem;
+  padding-top: 2rem;
+  border-top: 2px solid var(--color-forest-pale);
+}
+
+.related-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-text-soft);
+  margin: 0 0 1.25rem;
+}
+
+.related-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.related-card {
+  display: flex;
+  flex-direction: column;
+  background: white;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  text-decoration: none !important;
+  border: 1px solid var(--color-border);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  transition: box-shadow 0.2s, border-color 0.2s;
+  position: relative;
+}
+.related-card:hover {
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+  border-color: rgba(0,0,0,0.12);
+  text-decoration: none !important;
+}
+
+.related-card-accent {
+  display: block;
+  height: 4px;
+  background: var(--accent);
+  flex-shrink: 0;
+}
+
+.related-card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  padding: 1.1rem 1.2rem 0.75rem;
+  flex: 1;
+}
+
+.related-card-cat {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.related-card-title {
+  font-family: var(--font-serif);
+  font-size: 0.97rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--color-text);
+}
+
+.related-card-cta {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.65rem 1.2rem 1rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--color-forest);
+  margin-top: auto;
+}
+.related-card:hover .related-card-cta svg {
+  transform: translateX(3px);
+  transition: transform 0.2s;
+}
+.related-card-cta svg {
+  transition: transform 0.2s;
+}
+
+@media (max-width: 500px) {
+  .related-grid { grid-template-columns: 1fr; }
+}
+</style>
