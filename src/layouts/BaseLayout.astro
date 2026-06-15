@@ -9,17 +9,19 @@ interface Props {
   description: string;
   canonicalUrl?: string;
   ogImage?: string;
+  ogImageWidth?: number;
+  ogImageHeight?: number;
   noindex?: boolean;
   ogType?: string;
 }
 
-const { title, description, canonicalUrl, ogImage, noindex, ogType } = Astro.props;
+const { title, description, canonicalUrl, ogImage, ogImageWidth, ogImageHeight, noindex, ogType } = Astro.props;
 ---
 
 <!doctype html>
 <html lang="fr">
   <head>
-    <SEO {title} {description} {canonicalUrl} {ogImage} {noindex} {ogType} />
+    <SEO {title} {description} {canonicalUrl} {ogImage} {ogImageWidth} {ogImageHeight} {noindex} {ogType} />
   </head>
   <body>
     <Header />
@@ -27,14 +29,5 @@ const { title, description, canonicalUrl, ogImage, noindex, ogType } = Astro.pro
       <slot />
     </main>
     <Footer />
-    <script>
-      // Ouvre les liens externes dans un nouvel onglet (rattrapage HTML brut)
-      document.querySelectorAll('a[href^="http"]').forEach(a => {
-        if (!a.hostname.includes('nature-et-chien.fr')) {
-          a.setAttribute('target', '_blank');
-          a.setAttribute('rel', 'noopener noreferrer');
-        }
-      });
-    </script>
   </body>
 </html>

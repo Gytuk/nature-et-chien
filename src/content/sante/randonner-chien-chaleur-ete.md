@@ -6,7 +6,7 @@ category: sante
 tags: [chaleur, été, coup de chaleur, hydratation, sécurité, randonnée]
 isAffiliate: false
 featured: false
-image: /images/sante/chien%20forte%20chaleur.jpg
+image: /images/sante/chaleur-cover.jpg
 imageAlt: "Chien à l'ombre en randonnée par forte chaleur — seuils de température et risques selon la race"
 metaTitle: "Randonner avec son chien en été : températures dangereuses ?"
 metaDescription: "À partir de quelle température la randonnée devient risquée pour un chien ? Seuils, horaires, signes d'alerte et gestes d'urgence."
@@ -176,11 +176,11 @@ Husky, Malamute, Samoyède, Chow-Chow... Leur double pelage (sous-poil dense + p
 
 ### Chiens seniors, en surpoids ou avec des antécédents cardiaques ou respiratoires
 
-Avec l'âge, les capacités cardiovasculaires diminuent et la thermorégulation devient moins performante. Un chien cardiaque ne peut pas augmenter suffisamment son débit pour accompagner le halètement à l'effort. Le surpoids aggrave le tableau : **la graisse est un isolant qui freine les échanges thermiques avec l'extérieur**. **Un bilan vétérinaire avant la saison estivale est recommandé** pour adapter les sorties à l'état de santé réel de l'animal. La question de l'effort selon l'âge est détaillée dans notre guide sur [la randonnée avec un chien senior](/sante-bien-etre/chien-senior-randonnee-quel-age).
+Avec l'âge, les capacités cardiovasculaires diminuent et la thermorégulation devient moins performante. Un chien cardiaque ne peut pas augmenter suffisamment son débit pour accompagner le halètement à l'effort. Le surpoids aggrave le tableau : **la graisse est un isolant qui freine les échanges thermiques avec l'extérieur**. **Un bilan vétérinaire avant la saison estivale est recommandé** pour adapter les sorties à l'état de santé réel de l'animal. La question de l'effort selon l'âge est détaillée dans notre guide sur [la randonnée avec un chien senior](/sante-bien-etre/chien-senior-randonnee-quel-age/).
 
 <figure class="nc-breakout">
   <img
-    src="/images/sante/chien%20forte%20chaleur%20dans%20article.jpg"
+    src="/images/sante/chaleur-article.jpg"
     alt="Chien allongé à l'ombre par forte chaleur lors d'une randonnée estivale"
     loading="lazy"
     width="800"
@@ -191,7 +191,7 @@ Avec l'âge, les capacités cardiovasculaires diminuent et la thermorégulation 
 
 ## Les signes d'alerte sur le sentier
 
-Un chien qui surchauffe envoie des signaux clairs. Le problème : certains chiens les masquent longtemps, par motivation ou stoïcisme. Il faut surveiller activement, sans attendre que le chien s'arrête de lui-même.
+Un chien qui surchauffe envoie des signaux clairs. Le problème : certains chiens les masquent longtemps, par motivation ou stoïcisme. Il faut surveiller activement, sans attendre que le chien s'arrête de lui-même. Ces signaux se recoupent avec les signes généraux de fatigue à l'effort : [comment savoir si mon chien est trop fatigué en randonnée](/sante-bien-etre/signes-fatigue-chien-randonnee/).
 
 <ul class="nc-signals">
   <li class="nc-signal nc-signal--watch">
@@ -266,7 +266,7 @@ En été, **les besoins en eau d'un chien à l'effort peuvent doubler** par rapp
 <div class="inline-cta-list">
   <p class="inline-cta-intro">Pour savoir exactement quelle quantité prévoir selon le poids du chien et l'intensité de l'effort :</p>
   <a href="/sante-bien-etre/hydratation-chien-randonnee" class="inline-cta-card">
-    <img src="/images/sante/comment%20bien%20hydrater%20son%20chien.jpg" alt="Chien qui boit de l'eau pendant une pause randonnée" loading="lazy" width="80" height="80" />
+    <img src="/images/sante/hydratation-cover.jpg" alt="Chien qui boit de l'eau pendant une pause randonnée" loading="lazy" width="80" height="80" />
     <div class="inline-cta-text">
       <span class="inline-cta-title">Comment bien hydrater son chien pendant une randonnée ?</span>
       <span class="inline-cta-desc">Quantité, fréquence, signes de déshydratation et eau de rivière.</span>

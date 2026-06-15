@@ -1,4 +1,4 @@
----
+﻿---
 title: "Randonnée avec un chiot : ce qu'il faut savoir avant de partir"
 description: "Âge minimum, distances adaptées, équipement et précautions : tout ce qu'il faut savoir pour initier votre chiot à la randonnée sans risque pour sa croissance."
 publishDate: 2026-05-02
@@ -30,19 +30,19 @@ Avant cet âge, les longues randonnées sont déconseillées. Marcher de façon 
 
 On recommande généralement d'attendre que le chiot ait au moins **8 à 10 mois** pour envisager de petites randonnées, et **d'attendre la fin de sa croissance** pour les sorties plus longues et soutenues.
 
-> Pour une vue d'ensemble des distances selon l'âge et le gabarit, consultez notre article : [Quelle distance peut parcourir un chien en randonnée ?](/avant-de-partir/distance-chien-randonnee)
+> Pour une vue d'ensemble des distances selon l'âge et le gabarit, consultez notre article : [Quelle distance peut parcourir un chien en randonnée ?](/avant-de-partir/distance-chien-randonnee/)
 
-## Conseils pratiques pour initier un chiot à la randonnée
+## Comment préparer les premières sorties d'un chiot en randonnée ?
 
 - **Commencer progressivement** : courtes promenades en terrain varié (15 à 30 minutes)
 - **Respecter son rythme** : observer les signes de fatigue (halètement marqué, ralentissement, pause spontanée)
 - **Protéger ses coussinets** : privilégier les chemins souples (herbe, terre) et éviter les sols abrasifs ou brûlants
-- **Prévoir de l'eau et des pauses** : un chiot se déshydrate et se fatigue vite, [voici comment bien le faire boire](/sante-bien-etre/hydratation-chien-randonnee)
+- **Prévoir de l'eau et des pauses** : un chiot se déshydrate et se fatigue vite, [voici comment bien le faire boire](/sante-bien-etre/hydratation-chien-randonnee/)
 - **Équiper correctement** : un harnais confortable, une laisse adaptée et, si besoin, un sac de portage pour le soulager sur les passages difficiles. Pour les petits gabarits, notre comparatif :
 
 <div class="inline-cta-list">
   <a href="/equipement/meilleur-harnais-randonnee-petit-chien" class="inline-cta-card inline-cta-card--slim">
-    <img src="/images/equipement/comparatif%20petit%20chien/comparatif%20harnais%20petit%20chien.jpg" alt="Comparatif harnais de randonnée pour petit chien" loading="lazy" width="56" height="56" />
+    <img src="/images/equipement/harnais-petit-chien/cover.jpg" alt="Comparatif harnais de randonnée pour petit chien" loading="lazy" width="56" height="56" />
     <div class="inline-cta-text">
       <span class="inline-cta-title">Meilleur harnais de randonnée pour petit chien</span>
       <span class="inline-cta-desc">Hurtta, Ruffwear Hi & Light, Non-stop Ramble : comparatif 2026 pour les petits gabarits.</span>
@@ -83,11 +83,11 @@ On recommande généralement d'attendre que le chiot ait au moins **8 à 10 mois
 
 L'objectif des premières sorties n'est pas la performance, mais la **découverte** : nouveaux sols, nouveaux bruits, nouvelles odeurs. Un chiot qui explore à son rythme devient un futur compagnon de balade curieux et confiant.
 
-## À retenir
+## Ce qu'il faut retenir avant la première sortie
 
 La randonnée avec un chiot est possible, **mais de manière progressive**. **De courtes sorties adaptées à son âge** sont idéales pour l'initier en douceur à la nature, tout en préservant sa croissance. Patience et observation restent vos meilleurs alliés.
 
-Avant de partir, pensez aussi à vérifier [les zones où les chiens sont autorisés](/avant-de-partir/legislation-zones-autorisees) : certains espaces naturels protégés ont des règles spécifiques, même pour les jeunes chiens.
+Avant de partir, pensez aussi à vérifier [les zones où les chiens sont autorisés](/avant-de-partir/legislation-zones-autorisees/) : certains espaces naturels protégés ont des règles spécifiques, même pour les jeunes chiens.
 
 ---
 
@@ -107,17 +107,17 @@ Avant de partir, pensez aussi à vérifier [les zones où les chiens sont autori
 
   <details>
     <summary>Faut-il des équipements spécifiques pour un chiot ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Un harnais confortable (qui ne comprime pas la poitrine), une laisse solide, de l'eau, une gamelle pliable et éventuellement un sac de portage pour les passages difficiles.</p></div>
+    <div class="faq-answer"><p>L'essentiel est un harnais en Y léger qui ne comprime pas la poitrine ni les épaules : un collier n'est pas adapté pour les sorties en sentier. Prévoyez aussi de l'eau en quantité suffisante avec une <a href="/equipement/comparatif-gourde-chien-randonnee/">gourde adaptée</a> et une laisse classique de 2 mètres. Pour choisir un harnais adapté : <a href="/equipement/harnais-randonnee-chien/">quel harnais choisir pour randonner avec son chien</a>.</p></div>
   </details>
 
   <details>
     <summary>À quel âge peut-il faire une vraie randonnée ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>On conseille d'attendre la fin de sa croissance (12 à 18 mois selon la race) pour entreprendre des randonnées de plusieurs heures.</p></div>
+    <div class="faq-answer"><p>Cela dépend du gabarit. Les petites races finissent leur croissance vers 10-12 mois, les races moyennes vers 14-16 mois, les grandes races vers 18 mois et les races géantes jusqu'à 24 mois. Avant ces seuils, les cartilages de croissance ne sont pas fermés et l'effort prolongé peut laisser des séquelles articulaires. Une sortie test de 2 heures sur terrain plat reste le meilleur indicateur : si le chiot se lève sans raideur le lendemain, il est prêt à progresser.</p></div>
   </details>
 
   <details>
     <summary>Est-ce dangereux pour ses articulations ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Un effort trop intense ou répété pendant la croissance peut fragiliser les articulations. Augmentez la durée et la difficulté très progressivement et consultez votre vétérinaire en cas de doute.</p></div>
+    <div class="faq-answer"><p>Oui, si l'effort est trop intense avant la fin de la croissance. Les cartilages de croissance sont vulnérables aux contraintes répétées : trop de foulées sur terrain dur ou des sorties trop longues peuvent provoquer des lésions qui se traduisent plus tard par de l'arthrose précoce. Privilégier les sols souples, augmenter la durée progressivement et observer le comportement le lendemain de chaque sortie sont les précautions essentielles.</p></div>
   </details>
 
 </div>

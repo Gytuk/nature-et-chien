@@ -8,7 +8,7 @@ tags: [gamelle, hydratation, accessoires, randonnée, équipement]
 isAffiliate: true
 featured: false
 theme: hydratation
-image: /images/equipement/Comparatif%20gamelle%20pliable/comparatif%20gamelle%20pliable.jpg
+image: /images/equipement/gamelle-pliable/cover.jpg
 imageAlt: "Comparatif des meilleures gamelles pliables pour chien en randonnée 2026"
 metaTitle: "Meilleure gamelle pliable chien randonnée : comparatif 2026"
 metaDescription: "Comparatif des meilleures gamelles pliables pour chien en randonnée : silicone petit budget, tissu polyvalent Ruffwear, ultraléger Trail Runner. Quel modèle selon votre usage ?"
@@ -51,7 +51,7 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
 <td><span style="color:#999;font-style:italic;font-size:0.82em">Non communiqué</span></td>
 <td>9–14 €</td>
 <td>Petit budget, sorties régulières, petits à moyens gabarits</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/Comparatif%20gamelle%20pliable/SLSON%20%E2%80%93%20Lot%20de%202%20silicone.png" alt="SLSON silicone" loading="lazy"></div><a href="https://amzn.to/4cRxVH0" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 350 ml</a><a href="https://amzn.to/4ncBpHF" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 1 000 ml</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/gamelle-pliable/slson-silicone.png" alt="SLSON silicone" loading="lazy"></div><a href="https://amzn.to/4cRxVH0" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 350 ml</a><a href="https://amzn.to/4ncBpHF" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 1 000 ml</a></div></td>
 </tr>
 <tr class="row-badge">
 <td class="col-produit"><span class="badge-produit">★ Référence silicone</span><strong>OHMO silicone</strong></td>
@@ -60,7 +60,7 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
 <td><span style="color:#999;font-style:italic;font-size:0.82em">Non communiqué</span></td>
 <td>12–18 €</td>
 <td>Polyvalence eau et croquettes, grand gabarit en 1 L</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/Comparatif%20gamelle%20pliable/OHMO%20%E2%80%93%20%20silicone.png" alt="OHMO silicone" loading="lazy"></div><a href="https://amzn.to/3OM1TTz" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 400 ml</a><a href="https://amzn.to/4cVvFNq" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 1 L</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/gamelle-pliable/ohmo-silicone.png" alt="OHMO silicone" loading="lazy"></div><a href="https://amzn.to/3OM1TTz" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 400 ml</a><a href="https://amzn.to/4cVvFNq" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 1 L</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><strong>Ruffwear Trail Runner</strong></td>
@@ -69,7 +69,7 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
 <td>20 g</td>
 <td>21,90 €</td>
 <td>Trail, trek, optimisation du poids pour tous gabarits</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/Comparatif%20gamelle%20pliable/ruffwear-trail-runner-gamelle-pour-chien.webp" alt="Ruffwear Trail Runner" loading="lazy"></div><a href="https://tidd.ly/4344E6c" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/gamelle-pliable/ruffwear-trail-runner-gamelle-pour-chien.webp" alt="Ruffwear Trail Runner" loading="lazy"></div><a href="https://tidd.ly/4344E6c" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
 </tr>
 <tr class="row-badge">
 <td class="col-produit"><span class="badge-produit">★ Référence tissu</span><strong>Ruffwear Quencher</strong></td>
@@ -78,7 +78,7 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
 <td>100 g</td>
 <td>25,25 €</td>
 <td>Randonnée polyvalente, durabilité longue durée, tous terrains</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/Comparatif%20gamelle%20pliable/Ruffwear%20Quencher.png" alt="Ruffwear Quencher" loading="lazy"></div><a href="https://tidd.ly/49stPCZ" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/gamelle-pliable/ruffwear-quencher.png" alt="Ruffwear Quencher" loading="lazy"></div><a href="https://tidd.ly/49stPCZ" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
 </tr>
 </tbody>
 </table>
@@ -88,7 +88,7 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
 <div class="cta-grid">
   <a href="/equipement/comparatif-gourde-chien-randonnee#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20gourde/comparatif%20gourde%20pour%20chien.jpg" alt="Comparatif gourdes chien randonnée" loading="lazy">
+      <img src="/images/equipement/gourde/cover.jpg" alt="Comparatif gourdes chien randonnée" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Gourdes pour chien</strong>
@@ -97,7 +97,7 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
   </a>
   <a href="/equipement/comparatif-poche-eau-randonnee-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20poche%20%C3%A0%20eau/comparatif%20poche%20%C3%A0%20eau.jpg" alt="Comparatif poches à eau chien randonnée" loading="lazy">
+      <img src="/images/equipement/poche-a-eau/cover.jpg" alt="Comparatif poches à eau chien randonnée" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Poches à eau</strong>
@@ -187,7 +187,7 @@ La gamelle pliable n'embarque pas d'eau elle-même, elle a besoin d'une source. 
 
 <div class="inline-cta-list">
   <a href="/equipement/comparatif-poche-eau-randonnee-chien" class="inline-cta-card">
-    <img src="/images/equipement/comparatif%20poche%20%C3%A0%20eau/comparatif%20poche%20%C3%A0%20eau.jpg" alt="Comparatif poches à eau chien randonnée" loading="lazy" width="80" height="80" />
+    <img src="/images/equipement/poche-a-eau/cover.jpg" alt="Comparatif poches à eau chien randonnée" loading="lazy" width="80" height="80" />
     <div class="inline-cta-text">
       <span class="inline-cta-title">Meilleure poche à eau randonnée chien : notre comparatif</span>
       <span class="inline-cta-desc">Sélection selon le volume, la facilité d'entretien et la compatibilité sac.</span>

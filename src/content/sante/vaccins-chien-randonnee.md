@@ -1,4 +1,4 @@
----
+﻿---
 title: "Faut-il des vaccins supplémentaires pour randonner avec son chien ?"
 description: "Si votre chien est à jour du CHPPiL, la leptospirose est déjà couverte. Mais randonner change certaines priorités. Ce guide vous dit ce qui compte vraiment."
 publishDate: 2026-06-13
@@ -6,7 +6,7 @@ category: sante
 tags: [vaccination, leptospirose, leishmaniose, santé chien, randonnée, prévention]
 isAffiliate: false
 featured: false
-image: /images/sante/vaccination%20chien.jpg
+image: /images/sante/vaccination-cover.jpg
 imageAlt: "Chien qui boit dans un ruisseau en forêt pendant une randonnée"
 metaTitle: "Faut-il des vaccins en plus pour randonner avec son chien ?"
 metaDescription: "Randonnée avec son chien : quels vaccins sont indispensables, lesquels dépendent de votre région ? Le guide complet pour partir sans mauvaise surprise."

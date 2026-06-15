@@ -1,4 +1,4 @@
----
+﻿---
 title: "Les chiens peuvent-ils boire l'eau des ruisseaux et rivières ? Quels risques ?"
 description: "Cyanobactéries mortelles, leptospirose, giardia : les risques varient selon la source et la saison. Symptômes, urgences et conduite à tenir après exposition."
 publishDate: 2026-06-04
@@ -6,7 +6,7 @@ category: sante
 tags: [hydratation, sécurité, leptospirose, cyanobactéries, giardia, eau naturelle]
 isAffiliate: false
 featured: false
-image: /images/sante/eau%20rivi%C3%A8rve/article%20eau%20rivi%C3%A8re%20et%20lac.jpg
+image: /images/sante/eau-naturelle/cover.jpg
 imageAlt: "Chien qui s'approche d'un ruisseau de montagne lors d'une randonnée"
 metaTitle: "Les chiens peuvent-ils boire l'eau des ruisseaux et rivières ? Quels risques ?"
 metaDescription: "Cyanobactéries mortelles, leptospirose, giardia : les risques varient selon la source et la saison. Symptômes, urgences et conduite à tenir après exposition."
@@ -50,7 +50,7 @@ Un torrent alpin à fort débit, eau froide, sans biofilm visible : le profil de
 
   <div class="cta-comparatifs-grid">
     <a href="/equipement/comparatif-gourde-chien-randonnee" class="cta-comparatif-card">
-      <img src="/images/equipement/comparatif%20gourde/comparatif%20gourde%20pour%20chien.jpg" alt="Comparatif des meilleures gourdes pour chien en randonnée" loading="lazy" />
+      <img src="/images/equipement/gourde/cover.jpg" alt="Comparatif des meilleures gourdes pour chien en randonnée" loading="lazy" />
       <div class="cta-comparatif-body">
         <span class="cta-comparatif-title">Meilleures gourdes pour chien</span>
         <span class="cta-comparatif-desc">Modèles testés, classés par usage</span>
@@ -58,7 +58,7 @@ Un torrent alpin à fort débit, eau froide, sans biofilm visible : le profil de
       </div>
     </a>
     <a href="/equipement/comparatif-gamelle-pliable-chien-randonnee" class="cta-comparatif-card">
-      <img src="/images/equipement/Comparatif%20gamelle%20pliable/comparatif%20gamelle%20pliable.jpg" alt="Comparatif des gamelles pliables pour chien en randonnée" loading="lazy" />
+      <img src="/images/equipement/gamelle-pliable/cover.jpg" alt="Comparatif des gamelles pliables pour chien en randonnée" loading="lazy" />
       <div class="cta-comparatif-body">
         <span class="cta-comparatif-title">Meilleures gamelles pliables</span>
         <span class="cta-comparatif-desc">Silicone, plastique, inox : le bon choix</span>
@@ -90,7 +90,7 @@ Depuis 2005, des épisodes de morts canines sont régulièrement attribués aux 
 
 <figure class="article-image-landscape">
   <img
-    src="/images/sante/eau%20rivi%C3%A8rve/image%202%20eau%20rivi%C3%A8re%20et%20lac.jpg"
+    src="/images/sante/eau-naturelle/img-02.jpg"
     alt="Chien au bord d'un cours d'eau en randonnée, évaluer le risque selon le type de source"
     loading="lazy"
     width="900"
@@ -109,7 +109,7 @@ Le <a href="https://agriculture.gouv.fr/maladies-animales-la-leptospirose" style
 
 Le sérogroupe Australis, non couvert par les vaccins bivalents classiques, est actuellement prédominant dans les cas cliniques français, selon <a href="https://pro-fr.virbac.com/home/sante/vaccination/epidemiologie-leptospirose-canine.html" style="color: var(--color-forest);">Virbac (2024)</a>. Les vétérinaires recommandent d'inclure la suspicion de leptospirose chez tout chien exposé aux milieux ruraux, en toute zone géographique de France métropolitaine.
 
-**La vaccination reste la mesure préventive la plus efficace.** Si votre chien n'est pas à jour, c'est le premier point à régler avant les randonnées estivales.
+**La vaccination reste la mesure préventive la plus efficace.** Si votre chien n'est pas à jour, c'est le premier point à régler avant les randonnées estivales. Pour savoir quels vaccins sont recommandés avant de partir en randonnée : [faut-il des vaccins supplémentaires pour randonner avec son chien ?](/sante-bien-etre/vaccins-chien-randonnee/)
 
 ---
 

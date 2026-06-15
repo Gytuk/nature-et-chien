@@ -1,4 +1,4 @@
----
+﻿---
 title: "Première randonnée avec son chien : comment le préparer correctement ?"
 description: "Condition physique, entraînement progressif, équipement de base : tout ce qu'il faut vérifier avant d'emmener son chien en randonnée pour la première fois."
 publishDate: 2026-06-01
@@ -6,7 +6,7 @@ category: avant-de-partir
 tags: [préparation, débutant, condition physique, première randonnée]
 isAffiliate: false
 featured: false
-image: /images/avant-de-partir/premi%C3%A8re%20randonn%C3%A9e%20chien/premi%C3%A8re%20randonn%C3%A9e%20avec%20son%20chien.jpg
+image: /images/avant-de-partir/premiere-randonnee/cover.jpg
 imageAlt: "Propriétaire et son chien sur un sentier de randonnée — première sortie"
 metaTitle: "Préparer son chien pour une première randonnée : guide complet"
 metaDescription: "Comment savoir si votre chien est prêt ? Entraînement progressif, vérifications avant le départ et équipement essentiel pour une première rando réussie."
@@ -54,9 +54,9 @@ La condition physique compte autant que l'âge. Un chien de 4 ans qui sort deux 
   </table>
 </div>
 
-Pour les chiots, consultez notre guide spécifique : [randonnée avec un chiot : règles et précautions](/avant-de-partir/randonnee-chiot).
+Pour les chiots, consultez notre guide spécifique : [randonnée avec un chiot : règles et précautions](/avant-de-partir/randonnee-chiot/).
 
-**La santé générale ensuite.** Un chien en surpoids, présentant une boiterie légère ou une pathologie articulaire connue (dysplasie, arthrose débutante) ne part pas en randonnée sans avis vétérinaire. Ces problèmes s'aggravent à l'effort et sur terrain irrégulier. Le [chien senior](/sante-bien-etre/chien-senior-randonnee-quel-age), à partir de 7–8 ans selon le gabarit, voit ses capacités décliner progressivement : articulations plus fragiles, récupération plus lente, tolérance à la chaleur souvent réduite.
+**La santé générale ensuite.** Un chien en surpoids, présentant une boiterie légère ou une pathologie articulaire connue (dysplasie, arthrose débutante) ne part pas en randonnée sans avis vétérinaire. Ces problèmes s'aggravent à l'effort et sur terrain irrégulier. Le [chien senior](/sante-bien-etre/chien-senior-randonnee-quel-age/), à partir de 7–8 ans selon le gabarit, voit ses capacités décliner progressivement : articulations plus fragiles, récupération plus lente, tolérance à la chaleur souvent réduite.
 
 **Le niveau d'activité habituel, enfin.** Un chien sédentaire ne peut pas enchaîner 15 km en montagne sans préparation, même adulte et en bonne santé. La progressivité est la règle de base, et elle ne souffre pas d'exception.
 
@@ -136,13 +136,13 @@ La première vraie randonnée ne devrait pas être le test de tout ce que votre 
   </table>
 </div>
 
-Pour calibrer selon le profil précis de votre chien : [quelle distance peut parcourir un chien en randonnée](/avant-de-partir/distance-chien-randonnee).
+Pour calibrer selon le profil précis de votre chien : [quelle distance peut parcourir un chien en randonnée](/avant-de-partir/distance-chien-randonnee/).
 
 **La règle des pauses.** Un chien ne signale pas toujours sa fatigue clairement. Il continue par instinct de meute. En conditions normales (terrain plat, température fraîche), prévoyez une pause de 10–15 minutes toutes les heures. Par temps chaud, terrain difficile ou chien peu entraîné, rapprochez les pauses à toutes les 30 minutes. Observez sa respiration et son allure en repartant après chaque arrêt : c'est le meilleur indicateur pour ajuster.
 
 <figure class="nc-breakout">
   <img
-    src="/images/avant-de-partir/premi%C3%A8re%20randonn%C3%A9e%20chien/illustration%20randonn%C3%A9e%20avec%20son%20chien%201.jpg"
+    src="/images/avant-de-partir/premiere-randonnee/img-01.jpg"
     alt="Propriétaire et son chien en randonnée sur un sentier de montagne"
     loading="lazy"
     width="800"
@@ -158,7 +158,7 @@ Ces points semblent évidents mais se retrouvent régulièrement négligés lors
 <div class="nc-verdict">
   <span class="nc-verdict__label">Checklist avant le départ</span>
   <ul>
-    <li><strong>Vaccins et antiparasitaires à jour.</strong> La randonnée expose le chien aux tiques, au contact avec des animaux sauvages et à des points d'eau de statut sanitaire inconnu. Carnet de santé vérifié, traitement antiparasitaire appliqué selon les recommandations de votre vétérinaire.</li>
+    <li><strong>Vaccins et antiparasitaires à jour.</strong> La randonnée expose le chien aux tiques, au contact avec des animaux sauvages et à des points d'eau de statut sanitaire inconnu. Carnet de santé vérifié, traitement antiparasitaire appliqué selon les recommandations de votre vétérinaire. Pour savoir quels vaccins sont recommandés avant une randonnée : <a href="/sante-bien-etre/vaccins-chien-randonnee/">faut-il des vaccins supplémentaires pour randonner avec son chien ?</a></li>
     <li><strong>Identification obligatoire.</strong> Tout chien doit être identifié par tatouage ou puce électronique en France. Vérifiez que les coordonnées associées à son numéro I-CAD sont à jour.</li>
     <li><strong>État des coussinets.</strong> Absence de coupures, corps étrangers entre les doigts, rougeurs. Après une longue période d'inactivité, une application de cire protectrice la veille réduit le risque de blessure.</li>
     <li><strong>Visite vétérinaire si doute.</strong> Pour un chien sans antécédent d'effort prolongé ou avec des antécédents articulaires, une consultation avant la première randonnée permet d'écarter les contre-indications.</li>
@@ -180,7 +180,7 @@ Ces points semblent évidents mais se retrouvent régulièrement négligés lors
   </a>
 </div>
 
-**L'eau, point le plus sous-estimé.** Un chien en effort peut perdre beaucoup d'eau rapidement, et la déshydratation s'installe sans signe préalable visible. Les besoins de base peuvent facilement doubler ou tripler selon la chaleur, le dénivelé, la durée et le gabarit. Pour tout comprendre sur les quantités à prévoir : [comment bien hydrater son chien en randonnée](/sante-bien-etre/hydratation-chien-randonnee).
+**L'eau, point le plus sous-estimé.** Un chien en effort peut perdre beaucoup d'eau rapidement, et la déshydratation s'installe sans signe préalable visible. Les besoins de base peuvent facilement doubler ou tripler selon la chaleur, le dénivelé, la durée et le gabarit. Pour tout comprendre sur les quantités à prévoir : [comment bien hydrater son chien en randonnée](/sante-bien-etre/hydratation-chien-randonnee/).
 
 <div class="inline-cta-list">
   <a href="/equipement/gourde-gamelle-poche-eau-chien-comment-choisir" class="inline-cta-card">
@@ -205,7 +205,7 @@ Ce qui n'est pas nécessaire pour une première sortie : les bottines (utiles su
 
 **Négliger l'hydratation.** Beaucoup de propriétaires supposent que leur chien boira dans les ruisseaux. Ce n'est pas toujours possible (terrain sec, points d'eau absents ou d'origine douteuse). Partir avec de l'eau propre est indispensable.
 
-**Randonner en pleine chaleur.** Un chien ne régule pas sa température comme un humain. En été, sur des sentiers ensoleillés, le risque de coup de chaleur augmente vite. Favorisez les départs tôt le matin et évitez les heures entre 11h et 16h. Pour tout comprendre sur les seuils de danger selon le profil de votre chien : [randonner avec son chien en été](/sante-bien-etre/randonner-chien-chaleur-ete).
+**Randonner en pleine chaleur.** Un chien ne régule pas sa température comme un humain. En été, sur des sentiers ensoleillés, le risque de coup de chaleur augmente vite. Favorisez les départs tôt le matin et évitez les heures entre 11h et 16h. Pour tout comprendre sur les seuils de danger selon le profil de votre chien : [randonner avec son chien en été](/sante-bien-etre/randonner-chien-chaleur-ete/).
 
 **Supposer que le chien rappelé en ville se comportera pareil en forêt.** Un chien qui revient parfaitement en milieu urbain peut devenir sourd aux rappels dès qu'une odeur de gibier traverse le sentier. Si votre chien n'a pas un rappel fiable en conditions de distraction forte, gardez-le en laisse sur la première sortie.
 
@@ -227,7 +227,7 @@ Ce qui n'est pas nécessaire pour une première sortie : les bottines (utiles su
 
   <details>
     <summary>Quels signes indiquent que mon chien est fatigué pendant une randonnée ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Les principaux signaux : halètement intense et persistant même à l'ombre, démarche plus lente ou boiterie légère, refus d'avancer, queue basse en permanence, recherche de zones d'ombre. Sur une première sortie, prévoyez des pauses régulières et observez l'allure en repartant après chaque pause. S'il repart moins vite qu'en début de sortie, raccourcissez le parcours.</p></div>
+    <div class="faq-answer"><p>Les premiers signaux apparaissent bien avant que le chien s'arrête : il ralentit progressivement, ses foulées deviennent plus courtes, il traîne en queue de file alors qu'il était devant. Un halètement plus intense que d'habitude pour la même température est un indicateur fiable. Une légère boiterie ou un appui réduit sur un membre signalent une douleur aux coussinets ou aux articulations. Le test décisif : si votre chien se lève avec raideur le lendemain matin, la sortie était trop longue. Pour une lecture complète des signaux à surveiller sur le sentier : <a href="/sante-bien-etre/signes-fatigue-chien-randonnee/">comment savoir si mon chien est trop fatigué en randonnée</a>.</p></div>
   </details>
 
   <details>

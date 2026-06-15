@@ -1,4 +1,4 @@
----
+﻿---
 title: "Comment savoir si mon chien est trop fatigué en randonnée"
 description: "Signes précoces, seuils d'alerte et moments où faire demi-tour : ce qu'il faut observer pour ne pas dépasser les limites de votre chien sur les sentiers."
 publishDate: 2026-06-10
@@ -6,7 +6,7 @@ category: sante
 tags: [fatigue chien, randonnée, effort, signes alerte, santé chien]
 isAffiliate: false
 featured: false
-image: /images/sante/Chien%20fatigu%C3%A9/Chien%20fatigu%C3%A9%20en%20randonn%C3%A9e.jpg
+image: /images/sante/fatigue/cover.jpg
 imageAlt: "Chien couché au bord d'un sentier de randonnée, langue sortie, pendant une pause"
 metaTitle: "Signes de fatigue du chien en randonnée : quand s'arrêter ?"
 metaDescription: "Comment savoir si votre chien est trop fatigué en randonnée ? Signaux à surveiller, niveaux d'alerte et moments où il faut faire demi-tour."
@@ -85,7 +85,7 @@ Voici ce qu'on observe concrètement sur le sentier, du plus précoce au plus gr
      Sujet : chien couché ou assis à l'ombre lors d'une pause, l'air essoufflé
      Décommenter quand la photo est prête :
 <figure class="nc-breakout">
-  <img src="/images/sante/Chien%20fatigu%C3%A9/[nom-fichier].jpg" alt="Chien fatigué assis à l'ombre lors d'une pause randonnée" loading="lazy" width="800" height="450" />
+  <img src="/images/sante/fatigue/[nom-fichier].jpg" alt="Chien fatigué assis à l'ombre lors d'une pause randonnée" loading="lazy" width="800" height="450" />
   <figcaption>Un chien qui s'allonge sans raison ou cherche l'ombre est souvent plus fatigué qu'il n'y paraît.</figcaption>
 </figure>
 -->
@@ -171,7 +171,7 @@ Le manque d'eau aggrave tout : un chien déshydraté régule sa température moi
   <p class="cta-eau-label">Comparez les meilleurs accessoires pour emporter l'eau de votre chien :</p>
   <div class="cta-comparatifs-grid">
     <a href="/equipement/comparatif-gourde-chien-randonnee" class="cta-comparatif-card">
-      <img src="/images/equipement/comparatif%20gourde/comparatif%20gourde%20pour%20chien.jpg" alt="Comparatif des meilleures gourdes pour chien en randonnée" loading="lazy" />
+      <img src="/images/equipement/gourde/cover.jpg" alt="Comparatif des meilleures gourdes pour chien en randonnée" loading="lazy" />
       <div class="cta-comparatif-body">
         <span class="cta-comparatif-title">Meilleures gourdes pour chien</span>
         <span class="cta-comparatif-desc">Modèles testés, classés par usage</span>
@@ -179,7 +179,7 @@ Le manque d'eau aggrave tout : un chien déshydraté régule sa température moi
       </div>
     </a>
     <a href="/equipement/comparatif-gamelle-pliable-chien-randonnee" class="cta-comparatif-card">
-      <img src="/images/equipement/Comparatif%20gamelle%20pliable/comparatif%20gamelle%20pliable.jpg" alt="Comparatif des gamelles pliables pour chien en randonnée" loading="lazy" />
+      <img src="/images/equipement/gamelle-pliable/cover.jpg" alt="Comparatif des gamelles pliables pour chien en randonnée" loading="lazy" />
       <div class="cta-comparatif-body">
         <span class="cta-comparatif-title">Meilleures gamelles pliables</span>
         <span class="cta-comparatif-desc">Silicone, plastique, inox : le bon choix</span>
@@ -195,13 +195,13 @@ Si vous randonnez en été ou par forte chaleur, l'article [randonner avec son c
      Sujet : chien qui boit de l'eau dans une gamelle ou à une gourde, à l'ombre sur un sentier
      Décommenter quand la photo est prête :
 <figure class="nc-breakout">
-  <img src="/images/sante/Chien%20fatigu%C3%A9/[nom-fichier].jpg" alt="Chien buvant de l'eau à l'ombre pendant une pause randonnée" loading="lazy" width="800" height="450" />
+  <img src="/images/sante/fatigue/[nom-fichier].jpg" alt="Chien buvant de l'eau à l'ombre pendant une pause randonnée" loading="lazy" width="800" height="450" />
   <figcaption>Proposer de l'eau à chaque pause, sans attendre que le chien le demande.</figcaption>
 </figure>
 -->
 
 <figure class="nc-breakout">
-  <img src="/images/sante/Chien%20fatigu%C3%A9/chien%20fatigu%C3%A9%20format%20paysage%20.jpg" alt="Chien allongé qui se repose après une randonnée" loading="lazy" width="800" height="450" />
+  <img src="/images/sante/fatigue/paysage.jpg" alt="Chien allongé qui se repose après une randonnée" loading="lazy" width="800" height="450" />
   <figcaption>Le comportement du chien dans les heures qui suivent la randonnée est le meilleur indicateur de si l'effort était adapté.</figcaption>
 </figure>
 

@@ -1,4 +1,4 @@
----
+﻿---
 import { getCollection, render } from "astro:content";
 import ArticleLayout from "../../layouts/ArticleLayout.astro";
 
@@ -14,10 +14,10 @@ const { article } = Astro.props;
 const { Content, headings } = await render(article);
 
 const related = [
-  { title: "Quelle distance pour votre chien en randonnée ?",    href: "/avant-de-partir/distance-chien-randonnee",     category: "avant-de-partir" },
-  { title: "Chien en randonnée : zones autorisées et interdites", href: "/avant-de-partir/legislation-zones-autorisees", category: "avant-de-partir" },
-  { title: "Comment bien hydrater son chien en randonnée ?",     href: "/sante-bien-etre/hydratation-chien-randonnee",  category: "sante" },
-  { title: "Quel harnais choisir pour randonner ?",              href: "/equipement/harnais-randonnee-chien",      category: "equipement" },
+  { title: "Quelle distance pour votre chien en randonnée ?",    href: "/avant-de-partir/distance-chien-randonnee/",     category: "avant-de-partir" },
+  { title: "Chien en randonnée : zones autorisées et interdites", href: "/avant-de-partir/legislation-zones-autorisees/", category: "avant-de-partir" },
+  { title: "Comment bien hydrater son chien en randonnée ?",     href: "/sante-bien-etre/hydratation-chien-randonnee/",  category: "sante" },
+  { title: "Quel harnais choisir pour randonner ?",              href: "/equipement/harnais-randonnee-chien/",      category: "equipement" },
 ].filter(r => !r.href.includes(article.id)).slice(0, 3);
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Jusqu'à quel âge un chien peut-il randonner ?"
 description: "À partir de quel âge un chien est senior, comment adapter la distance et le dénivelé, et quels signaux surveiller pour randonner sans lui faire de mal."
 publishDate: 2026-06-03
@@ -6,7 +6,7 @@ category: sante
 tags: [chien senior, vieillissement, effort physique, randonnée, âge]
 isAffiliate: false
 featured: false
-image: /images/sante/chien%20senior/cover%20article%20vieux%20chien.jpg
+image: /images/sante/senior/cover.jpg
 imageAlt: "Chien senior en balade sur un sentier de montagne — adapter l'effort avec l'âge"
 metaTitle: "Jusqu'à quel âge un chien peut-il randonner ? Guide senior"
 metaDescription: "Seuils d'âge senior par gabarit, signaux d'alerte à l'effort, arthrose et distances adaptées : tout ce qu'il faut savoir pour randonner avec un vieux chien."
@@ -69,7 +69,7 @@ Oui, sur plusieurs plans simultanément.
 
 **La masse musculaire** diminue avec l'âge, ce qui réduit le soutien des articulations et la capacité à absorber les chocs. Un chien qui a moins de muscle fatigue plus vite et récupère moins bien.
 
-**La thermorégulation** devient moins efficace. Le chien senior supporte moins bien les écarts de température, et les [risques liés à la chaleur en randonnée](/sante-bien-etre/randonner-chien-chaleur-ete) sont amplifiés chez un chien âgé.
+**La thermorégulation** devient moins efficace. Le chien senior supporte moins bien les écarts de température, et les [risques liés à la chaleur en randonnée](/sante-bien-etre/randonner-chien-chaleur-ete/) sont amplifiés chez un chien âgé.
 
 <div class="nc-stat">
   <span class="nc-stat__num">24–48 h</span>
@@ -80,7 +80,7 @@ Ces changements ne signifient pas qu'il faut arrêter. Ils signifient qu'il faut
 
 <figure class="nc-breakout">
   <img
-    src="/images/sante/chien%20senior/vieux%20chien%20paysage%201.jpg"
+    src="/images/sante/senior/paysage.jpg"
     alt="Vieux chien sur un sentier de montagne — randonnée adaptée à l'âge"
     loading="lazy"
     width="800"
@@ -91,7 +91,7 @@ Ces changements ne signifient pas qu'il faut arrêter. Ils signifient qu'il faut
 
 ## Quels signaux montrent que votre chien souffre à l'effort&nbsp;?
 
-C'est la section la plus importante. **Beaucoup de chiens ne montrent pas leur douleur clairement** : ils continuent à vous suivre même quand ils souffrent. **Observer ces signaux est votre responsabilité directe.**
+C'est la section la plus importante. **Beaucoup de chiens ne montrent pas leur douleur clairement** : ils continuent à vous suivre même quand ils souffrent. **Observer ces signaux est votre responsabilité directe.** Pour une lecture complète des signaux à surveiller sur le sentier, valables à tout âge : [comment savoir si mon chien est trop fatigué en randonnée](/sante-bien-etre/signes-fatigue-chien-randonnee/).
 
 ### Pendant la randonnée
 
@@ -136,7 +136,7 @@ Il y a **quatre leviers à actionner** : la distance, le rythme, le terrain et l
 <div class="nc-photo-split">
   <img
     class="nc-photo-split__img"
-    src="/images/sante/chien%20senior/vieux%20chien%20portrait%202.jpg"
+    src="/images/sante/senior/portrait.jpg"
     alt="Portrait d'un vieux chien sur le sentier"
     loading="lazy"
     width="220"
@@ -159,7 +159,7 @@ Les **descentes raides** sont particulièrement contraignantes pour un chien âg
 
 ### Hydratation et température
 
-**Le froid raidit les articulations** : commencer chaque sortie à allure lente les 10–15&nbsp;premières minutes pour échauffer progressivement. En été, **partir avant 9h**, éviter les heures chaudes, réduire encore la distance. Un chien âgé peut être moins réactif à la soif : **proposer de l'eau à chaque pause** sans attendre qu'il le demande. Le [guide sur l'hydratation du chien en randonnée](/sante-bien-etre/hydratation-chien-randonnee) donne les quantités de référence selon le gabarit et la température.
+**Le froid raidit les articulations** : commencer chaque sortie à allure lente les 10–15&nbsp;premières minutes pour échauffer progressivement. En été, **partir avant 9h**, éviter les heures chaudes, réduire encore la distance. Un chien âgé peut être moins réactif à la soif : **proposer de l'eau à chaque pause** sans attendre qu'il le demande. Le [guide sur l'hydratation du chien en randonnée](/sante-bien-etre/hydratation-chien-randonnee/) donne les quantités de référence selon le gabarit et la température.
 
 <div class="inline-cta-list">
   <p class="inline-cta-intro">Pour gérer l'eau sur le sentier :</p>

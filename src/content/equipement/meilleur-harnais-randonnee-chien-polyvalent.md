@@ -7,7 +7,7 @@ tags: [harnais, randonnée, comparatif, polyvalent, équipement, Ruffwear, TrueL
 isAffiliate: true
 featured: false
 theme: harnais
-image: /images/equipement/comparatif%20harnais%20polyvalent/comparatif%20harnais%20polyvalent.jpg
+image: /images/equipement/harnais-polyvalent/cover.jpg
 imageAlt: "Comparatif des meilleurs harnais polyvalents pour chien en randonnée"
 metaTitle: "Meilleur harnais randonnée chien polyvalent : comparatif 2026"
 metaDescription: "Trouvez le harnais polyvalent idéal pour randonner avec votre chien : comparatif 2026 par budget et usage. Un seul harnais pour toutes vos sorties."
@@ -47,7 +47,7 @@ Un harnais polyvalent couvre la majorité des situations du randonneur du week-e
 <td>Double attache, poignée, prix accessible</td>
 <td>Pas conçu pour la rando intensive</td>
 <td>33,89 €</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20harnais%20polyvalent/True%20love%20harnais.jpg" alt="TrueLove TLH5651" loading="lazy"></div><a href="https://amzn.to/3RxIEhv" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/harnais-polyvalent/truelove.jpg" alt="TrueLove TLH5651" loading="lazy"></div><a href="https://amzn.to/3RxIEhv" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><span class="badge-produit">★ La référence polyvalente</span><strong>Ruffwear Front Range</strong></td>
@@ -55,7 +55,7 @@ Un harnais polyvalent couvre la majorité des situations du randonneur du week-e
 <td>Rembourrage mousse, confort longue durée, matériaux Ruffwear</td>
 <td>Taille légèrement grand, pas de poignée</td>
 <td>42,00 €</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20harnais%20polyvalent/ruffwear-front-range-harness-harnais-pour-chien.webp" alt="Ruffwear Front Range" loading="lazy"></div><a href="https://tidd.ly/4vfdYQr" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/harnais-polyvalent/ruffwear-front-range-harness-harnais-pour-chien.webp" alt="Ruffwear Front Range" loading="lazy"></div><a href="https://tidd.ly/4vfdYQr" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><strong>Ruffwear Hi &amp; Light</strong></td>
@@ -63,7 +63,7 @@ Un harnais polyvalent couvre la majorité des situations du randonneur du week-e
 <td>Ultra-léger, respirant, séchage rapide</td>
 <td>Pas de rembourrage, pas de poignée</td>
 <td>59,90 €</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20harnais%20polyvalent/ruffwear-hi-and-light-harness-harnais-pour-chien.webp" alt="Ruffwear Hi & Light" loading="lazy"></div><a href="https://tidd.ly/49rX4G4" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/harnais-polyvalent/ruffwear-hi-and-light-harness-harnais-pour-chien.webp" alt="Ruffwear Hi & Light" loading="lazy"></div><a href="https://tidd.ly/49rX4G4" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><span class="badge-produit">★ Haute qualité</span><strong>Ruffwear Web Master</strong></td>
@@ -71,7 +71,7 @@ Un harnais polyvalent couvre la majorité des situations du randonneur du week-e
 <td>Anti-fuite, 5 réglages, rembourrage longue distance, matériaux premium</td>
 <td>Prix élevé, sizing délicat</td>
 <td>~90 €</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20harnais%20polyvalent/ruffwear-webmaster-harnais-pour-chien.webp" alt="Ruffwear Web Master" loading="lazy"></div><a href="https://tidd.ly/4u61c5Y" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/harnais-polyvalent/ruffwear-webmaster-harnais-pour-chien.webp" alt="Ruffwear Web Master" loading="lazy"></div><a href="https://tidd.ly/4u61c5Y" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
 </tr>
 </tbody>
 </table>
@@ -81,7 +81,7 @@ Un harnais polyvalent couvre la majorité des situations du randonneur du week-e
 <div class="cta-grid">
   <a href="/equipement/meilleur-harnais-randonnee-grand-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20grand%20chien/comparatif%20harnais%20grand%20chien.jpg" alt="Comparatif harnais grands chiens" loading="lazy">
+      <img src="/images/equipement/harnais-grand-chien/cover.jpg" alt="Comparatif harnais grands chiens" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais grands chiens</strong>
@@ -90,7 +90,7 @@ Un harnais polyvalent couvre la majorité des situations du randonneur du week-e
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-petit-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20petit%20chien/comparatif%20harnais%20petit%20chien.jpg" alt="Comparatif harnais petits chiens" loading="lazy">
+      <img src="/images/equipement/harnais-petit-chien/cover.jpg" alt="Comparatif harnais petits chiens" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais petits chiens</strong>
@@ -99,7 +99,7 @@ Un harnais polyvalent couvre la majorité des situations du randonneur du week-e
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-chien-trail-canicross#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20cani-cross/comparatif%20harnais%20cani-cross.jpg" alt="Comparatif harnais trail canicross" loading="lazy">
+      <img src="/images/equipement/canicross/cover.jpg" alt="Comparatif harnais trail canicross" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais trail &amp; canicross</strong>

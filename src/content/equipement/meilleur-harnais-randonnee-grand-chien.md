@@ -7,7 +7,7 @@ tags: [harnais, grand chien, randonnée, comparatif, équipement, Ruffwear, True
 isAffiliate: true
 featured: false
 theme: harnais
-image: /images/equipement/comparatif%20grand%20chien/comparatif%20harnais%20grand%20chien.jpg
+image: /images/equipement/harnais-grand-chien/cover.jpg
 imageAlt: "Comparatif des meilleurs harnais de randonnée pour grand chien"
 metaTitle: "Meilleur harnais randonnée grand chien : comparatif 2026"
 metaDescription: "Trouvez le harnais idéal pour votre grand chien en randonnée : Labrador, Golden, Berger, Husky, etc. Comparatif 2026 par gabarit et morphologie."
@@ -59,7 +59,7 @@ Trois problèmes reviennent régulièrement avec un harnais standard sur les gab
 <td>Poignée + rembourrage à petit prix</td>
 <td>Pas conçu pour la rando intensive</td>
 <td>30 €</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20grand%20chien/True%20love.jpg" alt="TrueLove TLH5651" loading="lazy"></div><a href="https://amzn.to/4dzZxRf" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/harnais-grand-chien/truelove.jpg" alt="TrueLove TLH5651" loading="lazy"></div><a href="https://amzn.to/4dzZxRf" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><strong>Ruffwear Front Range</strong></td>
@@ -67,7 +67,7 @@ Trois problèmes reviennent régulièrement avec un harnais standard sur les gab
 <td>Confort longue durée, rembourrage technique</td>
 <td>Pas de poignée dorsale</td>
 <td>58 €</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20grand%20chien/ruffwear-front-range-harness-harnais-pour-chien.webp" alt="Ruffwear Front Range" loading="lazy"></div><a href="https://tidd.ly/3PTDHim" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/harnais-grand-chien/ruffwear-front-range-harness-harnais-pour-chien.webp" alt="Ruffwear Front Range" loading="lazy"></div><a href="https://tidd.ly/3PTDHim" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><span class="badge-produit">★ terrain technique</span><strong>Ruffwear Flagline</strong></td>
@@ -75,7 +75,7 @@ Trois problèmes reviennent régulièrement avec un harnais standard sur les gab
 <td>Poignée renforcée, 6 réglages, 3 points d'attache</td>
 <td>Prix élevé, pas de rembourrage épais</td>
 <td>85 €</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20grand%20chien/ruffwear-flagline-harnais-pour-chien.webp" alt="Ruffwear Flagline" loading="lazy"></div><a href="https://tidd.ly/43Enn8o" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/harnais-grand-chien/ruffwear-flagline-harnais-pour-chien.webp" alt="Ruffwear Flagline" loading="lazy"></div><a href="https://tidd.ly/43Enn8o" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +85,7 @@ Trois problèmes reviennent régulièrement avec un harnais standard sur les gab
 <div class="cta-grid">
   <a href="/equipement/meilleur-harnais-randonnee-chien-polyvalent#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20harnais%20polyvalent/comparatif%20harnais%20polyvalent.jpg" alt="Comparatif harnais polyvalents" loading="lazy">
+      <img src="/images/equipement/harnais-polyvalent/cover.jpg" alt="Comparatif harnais polyvalents" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais polyvalents</strong>
@@ -94,7 +94,7 @@ Trois problèmes reviennent régulièrement avec un harnais standard sur les gab
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-petit-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20petit%20chien/comparatif%20harnais%20petit%20chien.jpg" alt="Comparatif harnais petits chiens" loading="lazy">
+      <img src="/images/equipement/harnais-petit-chien/cover.jpg" alt="Comparatif harnais petits chiens" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais petits chiens</strong>
@@ -103,7 +103,7 @@ Trois problèmes reviennent régulièrement avec un harnais standard sur les gab
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-chien-trail-canicross#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20cani-cross/comparatif%20harnais%20cani-cross.jpg" alt="Comparatif harnais trail canicross" loading="lazy">
+      <img src="/images/equipement/canicross/cover.jpg" alt="Comparatif harnais trail canicross" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais trail &amp; canicross</strong>

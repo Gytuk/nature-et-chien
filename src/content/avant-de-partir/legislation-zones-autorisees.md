@@ -10,7 +10,7 @@ featured: true
 image: /images/avant-de-partir/interdiction-chien.jpg
 imageAlt: "Panneau d'interdiction pour les chiens — zones autorisées et interdites en randonnée"
 metaTitle: "Chien en randonnée : zones interdites et amendes en France"
-metaDescription: "Parcs nationaux, régionaux, réserves naturelles, forêts, littoral... Découvrez où votre chien est interdit en randonnée et les amendes entre 35 € et 750 €."
+metaDescription: "Parcs nationaux, régionaux, réserves naturelles, forêts, littoral : où votre chien est interdit en randonnée et amendes entre 35 € et 750 €."
 ---
 
 Randonner avec votre chien est un plaisir partagé… à condition de savoir **où il est autorisé**, quelles règles s'appliquent et comment s'y préparer. Ce guide vous donne une vision claire des espaces ouverts ou fermés, avec les **conditions d'accès et les bons réflexes** à adopter.
@@ -106,7 +106,7 @@ Les infractions liées aux chiens en randonnée ne relèvent pas d'un seul texte
 
 ---
 
-## Conseils pratiques
+## Que vérifier avant de partir avec son chien ?
 
 ### 1. Vérifiez le statut du lieu avant de partir
 
@@ -137,6 +137,10 @@ Sur les alpages, vous pouvez rencontrer des troupeaux et des chiens de protectio
 
 Chaque commune fixe ses règles. Un rapide coup d'œil aux panneaux d'accès ou au site de la mairie suffit souvent.
 
+## Préparer sa première randonnée avec son chien
+
+Si vous partez pour la première fois en randonnée avec votre chien, la réglementation n'est qu'un des points à anticiper. Retrouvez l'ensemble des vérifications à faire avant le départ — condition physique, équipement, hydratation — dans notre guide : [Première randonnée avec son chien : comment le préparer correctement ?](/avant-de-partir/premiere-randonnee-avec-son-chien/)
+
 ---
 
 ## FAQ
@@ -161,6 +165,16 @@ Chaque commune fixe ses règles. Un rapide coup d'œil aux panneaux d'accès ou 
   <details>
     <summary>Que risque-t-on si l'on promène son chien dans un espace où il est interdit ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
     <div class="faq-answer"><p>Une amende pouvant aller jusqu'à <strong>750 €</strong> pour violation des règles d'un espace protégé. Si le chien est en plus en état de divagation, <strong>une amende supplémentaire de 2ᵉ classe peut s'ajouter (22 à 75 €)</strong>.</p></div>
+  </details>
+
+  <details>
+    <summary>Les chiens sont-ils autorisés en forêt domaniale en France ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
+    <div class="faq-answer"><p>Oui, les forêts domaniales sont ouvertes au public avec votre chien, sous surveillance effective toute l'année. Entre le 15 avril et le 30 juin, la laisse devient obligatoire hors allées, chemins et sentiers balisés pour protéger la nidification. En dehors de cette période, votre chien peut évoluer librement à condition de rester dans un rayon de 100 mètres et de répondre au rappel. Des restrictions locales peuvent s'appliquer selon les massifs : vérifiez la signalétique sur place.</p></div>
+  </details>
+
+  <details>
+    <summary>Peut-on emmener son chien dans un parc national en zone périphérique ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
+    <div class="faq-answer"><p>Oui. La réglementation stricte ne concerne que la zone cœur du parc national, où les chiens sont interdits même tenus en laisse. La zone périphérique, appelée zone d'adhésion, est ouverte aux chiens en laisse. Le problème pratique : la limite entre les deux zones n'est pas toujours signalée clairement sur le terrain. Avant de partir, vérifiez votre itinéraire sur le site officiel du parc ou sur Géoportail en activant les couches de zonage.</p></div>
   </details>
 
 </div>

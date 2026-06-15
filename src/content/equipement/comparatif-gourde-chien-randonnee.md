@@ -7,7 +7,7 @@ tags: [gourde, hydratation, accessoires, randonnée, équipement]
 isAffiliate: true
 featured: false
 theme: hydratation
-image: /images/equipement/comparatif%20gourde/comparatif%20gourde%20pour%20chien.jpg
+image: /images/equipement/gourde/cover.jpg
 imageAlt: "Comparatif des meilleures gourdes pour chien en randonnée 2026"
 metaTitle: "Meilleure gourde chien randonnée : comparatif 2026"
 metaDescription: "Comparatif des meilleures gourdes pour chien en randonnée : plastique léger, inox isotherme. Quel modèle selon votre profil de sortie ?"
@@ -52,7 +52,7 @@ Ce comparatif couvre les meilleurs modèles disponibles sur Amazon France. **Pla
 <td>~180 g</td>
 <td>10–14 €</td>
 <td>Premier achat, balades quotidiennes, petit budget absolu</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20gourde/Trixie%20+%20%C3%A9cuelle%20700%20ml.png" alt="Trixie 700ml" loading="lazy"></div><a href="https://amzn.to/4uvgbHn" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/gourde/trixie-700ml.png" alt="Trixie 700ml" loading="lazy"></div><a href="https://amzn.to/4uvgbHn" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><span class="badge-produit">★ Meilleur qualité-prix</span><strong>Lesotc 520 ml</strong></td>
@@ -61,7 +61,7 @@ Ce comparatif couvre les meilleurs modèles disponibles sur Amazon France. **Pla
 <td>~130 g</td>
 <td>16–20 €</td>
 <td>Sorties régulières, mécanisme anti-gaspillage, petit à moyen gabarit</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20gourde/Lesotc%20520%20ml.png" alt="Lesotc 520ml" loading="lazy"></div><a href="https://amzn.to/427Etem" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/gourde/lesotc-520ml.png" alt="Lesotc 520ml" loading="lazy"></div><a href="https://amzn.to/427Etem" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><strong>Petace Inox 750 ml</strong></td>
@@ -70,7 +70,7 @@ Ce comparatif couvre les meilleurs modèles disponibles sur Amazon France. **Pla
 <td>~350 g</td>
 <td>28–32 €</td>
 <td>Randonnées estivales, chiens sportifs, usage intensif</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20gourde/Petace%20Inox%20750%20ml.png" alt="Petace Inox 750ml" loading="lazy"></div><a href="https://www.amazon.fr/dp/B0CKQMP8B3?tag=natureetchien-21" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/gourde/petace-inox-750ml.png" alt="Petace Inox 750ml" loading="lazy"></div><a href="https://www.amazon.fr/dp/B0CKQMP8B3?tag=natureetchien-21" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
 </tr>
 </tbody>
 </table>
@@ -80,7 +80,7 @@ Ce comparatif couvre les meilleurs modèles disponibles sur Amazon France. **Pla
 <div class="cta-grid">
   <a href="/equipement/comparatif-gamelle-pliable-chien-randonnee#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/Comparatif%20gamelle%20pliable/comparatif%20gamelle%20pliable.jpg" alt="Comparatif gamelles pliables chien randonnée" loading="lazy">
+      <img src="/images/equipement/gamelle-pliable/cover.jpg" alt="Comparatif gamelles pliables chien randonnée" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Gamelles pliables</strong>
@@ -89,7 +89,7 @@ Ce comparatif couvre les meilleurs modèles disponibles sur Amazon France. **Pla
   </a>
   <a href="/equipement/comparatif-poche-eau-randonnee-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20poche%20%C3%A0%20eau/comparatif%20poche%20%C3%A0%20eau.jpg" alt="Comparatif poches à eau chien randonnée" loading="lazy">
+      <img src="/images/equipement/poche-a-eau/cover.jpg" alt="Comparatif poches à eau chien randonnée" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Poches à eau</strong>

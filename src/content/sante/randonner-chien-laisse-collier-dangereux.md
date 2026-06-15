@@ -6,7 +6,7 @@ category: sante
 tags: [laisse, collier, harnais, randonnée, effort, cervicales, races]
 isAffiliate: false
 featured: false
-image: /images/sante/choix%20diff%C3%A9rent%20harnais.jpg
+image: /images/sante/collier-vs-harnais.jpg
 imageAlt: "Chien attaché au collier en laisse sur un sentier de randonnée en montagne"
 metaTitle: "Randonner avec son chien au collier : dangereux ou pas ?"
 metaDescription: "Laisse au collier en randonnée : risques réels sur plusieurs heures, races les plus exposées, et pourquoi le harnais change tout sur les longues distances."

@@ -1,15 +1,15 @@
 ﻿---
-title: "Comment bien hydrater son chien pendant une randonnée ?"
+title: "Quelle quantité d'eau prévoir pour son chien en randonnée ?"
 description: "Quantité d'eau à prévoir, fréquence des pauses, signes de déshydratation et eau de rivière : le guide complet pour que votre chien reste bien hydraté sur les sentiers."
 publishDate: 2026-05-02
 category: sante
 tags: [hydratation, déshydratation, coup de chaleur, eau, pauses]
 isAffiliate: false
 featured: true
-image: /images/sante/comment%20bien%20hydrater%20son%20chien.jpg
+image: /images/sante/hydratation-cover.jpg
 imageAlt: "Chien qui boit de l'eau pendant une pause randonnée — hydratation"
-metaTitle: "Hydratation chien randonnée : combien d'eau et comment bien faire ?"
-metaDescription: "Découvrez comment bien gérer l'hydratation de votre chien en randonnée : quantité d'eau, fréquence, accessoires et précautions par temps chaud."
+metaTitle: "Quelle quantité d'eau pour un chien en randonnée ? (par gabarit)"
+metaDescription: "Quantité d'eau par gabarit, fréquence des pauses, signes de déshydratation et précautions par temps chaud : le guide complet pour bien hydrater son chien."
 ---
 
 Lors d'une randonnée, votre chien dépense beaucoup d'énergie et régule sa température principalement par le halètement. **Une bonne hydratation est donc essentielle** pour prévenir le coup de chaleur, maintenir son confort et préserver sa santé.
@@ -65,13 +65,13 @@ En pratique, dès que la température dépasse **25 °C**, raccourcissez les int
 - **Test du pli cutané** : pincez légèrement la peau du cou ou du dos. Si elle met du temps à reprendre sa forme, votre chien manque d'eau.
 - Fatigue inhabituellement marquée
 
-Si vous observez ces signes, **arrêtez immédiatement la marche**, trouvez de l'ombre, proposez de petites quantités d'eau régulièrement. En cas de doute sur un coup de chaleur, contactez un vétérinaire sans attendre.
+Si vous observez ces signes, **arrêtez immédiatement la marche**, trouvez de l'ombre, proposez de petites quantités d'eau régulièrement. En cas de doute sur un coup de chaleur, contactez un vétérinaire sans attendre. La fatigue inhabituellement marquée peut aussi signaler un épuisement physique au-delà de la déshydratation : [comment savoir si mon chien est trop fatigué en randonnée](/sante-bien-etre/signes-fatigue-chien-randonnee/).
 
 ## Quelle eau donner à mon chien ?
 
 **En priorité : l'eau que vous avez apportée.** C'est la solution la plus sûre.
 
-L'eau de rivière claire et courante est **généralement acceptable de façon ponctuelle**, mais elle peut contenir des bactéries ou parasites. À utiliser **si vous n'avez plus de réserve**, pas comme source principale.
+L'eau de rivière claire et courante est **généralement acceptable de façon ponctuelle**, mais elle peut contenir des bactéries ou parasites. À utiliser **si vous n'avez plus de réserve**, pas comme source principale. Les risques varient fortement selon le type de source et la saison : [les chiens peuvent-ils boire l'eau des ruisseaux et rivières ?](/sante-bien-etre/chien-boire-eau-naturelle-randonnee/)
 
 **Évitez absolument :**
 - Les eaux stagnantes (mares, flaques)
@@ -167,27 +167,27 @@ Pour transporter et servir l'eau efficacement en randonnée, plusieurs solutions
 
   <details open>
     <summary>Quelle eau donner à mon chien en randonnée ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>De l'eau potable que vous avez apportée <strong>en priorité</strong>. L'eau de rivière claire est une option de secours acceptable, mais pas idéale. <strong>Évitez toujours l'eau stagnante.</strong></p></div>
+    <div class="faq-answer"><p>De l'eau potable que vous avez apportée en priorité. L'eau de rivière claire et à fort débit est une option de secours acceptable de façon ponctuelle, mais elle peut contenir des bactéries ou parasites selon la saison et le type de cours d'eau. Évitez toujours l'eau stagnante, les mares et toute eau avec un aspect verdâtre ou une odeur particulière.</p></div>
   </details>
 
   <details>
     <summary>Comment savoir si mon chien est déshydraté ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Vérifiez ses gencives (sèches ou collantes) et faites le test du pli cutané. <strong>Si la peau met plus de 2 secondes à reprendre sa place</strong>, votre chien manque d'eau. Arrêtez la marche et cherchez de l'ombre.</p></div>
+    <div class="faq-answer"><p>Vérifiez ses gencives : elles doivent être humides et roses. Si elles sont sèches ou collantes, c'est un signal clair. Faites aussi le test du pli cutané : pincez légèrement la peau du cou ou du dos. Si elle met plus de 2 secondes à reprendre sa forme, votre chien manque d'eau. Arrêtez la marche, trouvez de l'ombre et proposez de petites quantités régulièrement.</p></div>
   </details>
 
   <details>
     <summary>Dois-je mouiller mon chien par forte chaleur ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Oui, c'est utile : <strong>pattes, ventre, cou</strong>. Mais cela ne remplace pas les pauses et l'hydratation interne.</p></div>
+    <div class="faq-answer"><p>Oui, c'est utile pour accélérer le refroidissement : mouillez les pattes, le ventre et le cou, là où la circulation sanguine est proche de la surface. Cela ne remplace pas l'hydratation interne ni les pauses à l'ombre, mais complète efficacement les deux. Évitez l'eau glacée appliquée directement sur le dos, qui peut provoquer une vasoconstriction et ralentir le refroidissement.</p></div>
   </details>
 
   <details>
     <summary>Mon chien refuse de boire, que faire ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p><strong>Proposez de petites quantités plus souvent.</strong> Vous pouvez ajouter quelques gouttes de bouillon sans sel pour l'inciter. Certains chiens préfèrent boire calmement lors des pauses à l'ombre plutôt que pendant la marche.</p></div>
+    <div class="faq-answer"><p>Proposez de petites quantités plus souvent plutôt qu'un grand bol d'un coup. Certains chiens refusent de boire en mouvement mais acceptent volontiers lors d'une vraie pause à l'ombre, assis ou allongés. Quelques gouttes de bouillon sans sel dans l'eau peuvent lever une résistance, surtout par forte chaleur.</p></div>
   </details>
 
   <details>
     <summary>Un chiot a-t-il les mêmes besoins qu'un adulte ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Un chiot est <strong>beaucoup plus fragile</strong> face à la déshydratation. Son organisme se régule moins bien, il doit donc boire plus souvent, en petites quantités. Voir notre guide : <a href="/avant-de-partir/randonnee-chiot">Randonnée avec un chiot</a></p></div>
+    <div class="faq-answer"><p>Non, un chiot est beaucoup plus fragile face à la déshydratation. Son organisme se régule moins bien et sa surface corporelle est grande par rapport à son poids, ce qui accélère la perte d'eau. Il doit boire plus souvent, en petites quantités, et les signes de déshydratation peuvent apparaître plus vite que chez un adulte.</p></div>
   </details>
 
 </div>

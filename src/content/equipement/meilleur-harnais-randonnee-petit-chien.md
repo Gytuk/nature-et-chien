@@ -7,7 +7,7 @@ tags: [harnais, petit chien, randonnée, équipement, confort, petits gabarits]
 isAffiliate: true
 featured: false
 theme: harnais
-image: /images/equipement/comparatif%20petit%20chien/comparatif%20harnais%20petit%20chien.jpg
+image: /images/equipement/harnais-petit-chien/cover.jpg
 imageAlt: "Petit chien en randonnée avec harnais en Y sur sentier"
 metaTitle: "Meilleur harnais randonnée petit chien : comparatif 2026"
 metaDescription: "Trouvez le harnais idéal pour votre petit chien en randonnée : Jack Russell, Teckel, Bichon, Cavalier, etc. Comparatif 2026 avec guide des tailles."
@@ -47,7 +47,7 @@ Un petit chien en randonnée n'est pas un chien miniature qu'on porte. Il marche
 <td>Sangles néoprène rondes, zéro frottement</td>
 <td>1 seul point d'attache frontal, chaleur en été</td>
 <td>31,99 € (T2)</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20petit%20chien/hurtta%20harnais.jpg" alt="Hurtta Casual Y-Harness" loading="lazy"></div><a href="https://amzn.to/4fHltLC" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/harnais-petit-chien/hurtta.jpg" alt="Hurtta Casual Y-Harness" loading="lazy"></div><a href="https://amzn.to/4fHltLC" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><span class="badge-produit">★ Top légèreté</span><strong>Ruffwear Hi &amp; Light</strong></td>
@@ -55,7 +55,7 @@ Un petit chien en randonnée n'est pas un chien miniature qu'on porte. Il marche
 <td>Ultra-léger, 2 points d'attache, tailles jusqu'au XXXS</td>
 <td>Pas de rembourrage</td>
 <td>59,90 €</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20petit%20chien/ruffwear-hi-and-light-harness-harnais-pour-chien.webp" alt="Ruffwear Hi & Light" loading="lazy"></div><a href="https://tidd.ly/4dBZBQz" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/harnais-petit-chien/ruffwear-hi-and-light-harness-harnais-pour-chien.webp" alt="Ruffwear Hi & Light" loading="lazy"></div><a href="https://tidd.ly/4dBZBQz" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><strong>Non-stop Ramble</strong></td>
@@ -63,7 +63,7 @@ Un petit chien en randonnée n'est pas un chien miniature qu'on porte. Il marche
 <td>Poignée dorsale, 3 points d'attache, mousse imperméable</td>
 <td>Sangles à surveiller, pas de poche ID</td>
 <td>56,90 €</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20petit%20chien/non-stop-dogwear-ramble-harness-harnais-pour-chien.webp" alt="Non-stop Ramble" loading="lazy"></div><a href="https://tidd.ly/4dOdGcb" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/harnais-petit-chien/non-stop-dogwear-ramble-harness-harnais-pour-chien.webp" alt="Non-stop Ramble" loading="lazy"></div><a href="https://tidd.ly/4dOdGcb" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
 </tr>
 </tbody>
 </table>
@@ -73,7 +73,7 @@ Un petit chien en randonnée n'est pas un chien miniature qu'on porte. Il marche
 <div class="cta-grid">
   <a href="/equipement/meilleur-harnais-randonnee-chien-polyvalent#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20harnais%20polyvalent/comparatif%20harnais%20polyvalent.jpg" alt="Comparatif harnais polyvalents" loading="lazy">
+      <img src="/images/equipement/harnais-polyvalent/cover.jpg" alt="Comparatif harnais polyvalents" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais polyvalents</strong>
@@ -82,7 +82,7 @@ Un petit chien en randonnée n'est pas un chien miniature qu'on porte. Il marche
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-grand-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20grand%20chien/comparatif%20harnais%20grand%20chien.jpg" alt="Comparatif harnais grands chiens" loading="lazy">
+      <img src="/images/equipement/harnais-grand-chien/cover.jpg" alt="Comparatif harnais grands chiens" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais grands chiens</strong>
@@ -91,7 +91,7 @@ Un petit chien en randonnée n'est pas un chien miniature qu'on porte. Il marche
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-chien-trail-canicross#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20cani-cross/comparatif%20harnais%20cani-cross.jpg" alt="Comparatif harnais trail canicross" loading="lazy">
+      <img src="/images/equipement/canicross/cover.jpg" alt="Comparatif harnais trail canicross" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais trail &amp; canicross</strong>

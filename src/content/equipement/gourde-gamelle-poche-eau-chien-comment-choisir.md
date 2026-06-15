@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gourde, gamelle pliable ou poche à eau : Quel choix pour randonnée avec son chien ?"
 description: "Critères concrets pour choisir entre gourde avec abreuvoir, gamelle pliable et poche à eau selon la durée, la chaleur et le gabarit du chien."
 publishDate: 2026-05-05
@@ -34,19 +34,19 @@ Trois critères guident le choix : **la durée de la sortie, la température**, 
       <td><strong>Gourde avec abreuvoir</strong></td>
       <td>Sorties courtes, usage seul</td>
       <td>Tout-en-un, rapide à sortir — Volume limité (500–750 ml max)</td>
-      <td class="profil-cta-cell"><a href="/equipement/comparatif-gourde-chien-randonnee#tableau-comparatif" class="profil-cta-card"><img src="/images/equipement/comparatif%20gourde/comparatif%20gourde%20pour%20chien.jpg" alt="Comparatif gourdes chien randonnée" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
+      <td class="profil-cta-cell"><a href="/equipement/comparatif-gourde-chien-randonnee#tableau-comparatif" class="profil-cta-card"><img src="/images/equipement/gourde/cover.jpg" alt="Comparatif gourdes chien randonnée" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
     </tr>
     <tr>
       <td><strong>Gamelle pliable</strong></td>
       <td>Polyvalence, légèreté</td>
       <td>Ultra-légère, s'adapte à toute source — Nécessite une bouteille séparée</td>
-      <td class="profil-cta-cell"><a href="/equipement/comparatif-gamelle-pliable-chien-randonnee#tableau-comparatif" class="profil-cta-card"><img src="/images/equipement/Comparatif%20gamelle%20pliable/comparatif%20gamelle%20pliable.jpg" alt="Comparatif gamelles pliables chien randonnée" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
+      <td class="profil-cta-cell"><a href="/equipement/comparatif-gamelle-pliable-chien-randonnee#tableau-comparatif" class="profil-cta-card"><img src="/images/equipement/gamelle-pliable/cover.jpg" alt="Comparatif gamelles pliables chien randonnée" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
     </tr>
     <tr>
       <td><strong>Poche à eau</strong></td>
       <td>Longues journées, été</td>
       <td>Grand volume, poids bien réparti — Entretien plus strict</td>
-      <td class="profil-cta-cell"><a href="/equipement/comparatif-poche-eau-randonnee-chien#tableau-comparatif" class="profil-cta-card"><img src="/images/equipement/comparatif%20poche%20%C3%A0%20eau/comparatif%20poche%20%C3%A0%20eau.jpg" alt="Comparatif poches à eau chien randonnée" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
+      <td class="profil-cta-cell"><a href="/equipement/comparatif-poche-eau-randonnee-chien#tableau-comparatif" class="profil-cta-card"><img src="/images/equipement/poche-a-eau/cover.jpg" alt="Comparatif poches à eau chien randonnée" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
     </tr>
   </tbody>
 </table>
@@ -61,7 +61,7 @@ Trois critères guident le choix : **la durée de la sortie, la température**, 
 
 Avant de choisir un accessoire, il faut estimer le volume à transporter. **C'est ce volume** qui détermine si une gourde de 500 ml suffit ou si une poche à eau de 2 litres est nécessaire.
 
-Les besoins de base au repos se situent entre **50 et 70 ml par kg par jour**, selon les [recommandations vétérinaires généralement admises](https://conseils-veto.com/quantite-eau-boire-chien/). À l'effort et par temps chaud, **ce besoin peut doubler**.
+Les besoins de base au repos se situent entre **50 et 80 ml par kg par jour**, selon les [recommandations vétérinaires généralement admises](https://conseils-veto.com/quantite-eau-boire-chien/). À l'effort et par temps chaud, **ce besoin peut doubler**.
 
 <div class="nc-age-table-wrap">
 <table class="nc-age-table">
@@ -90,7 +90,7 @@ C'est **la solution la plus rapide à utiliser** lors des pauses, adaptée aux c
 
 <div class="inline-cta-list">
   <a href="/equipement/comparatif-gourde-chien-randonnee" class="inline-cta-card">
-    <img src="/images/equipement/comparatif%20gourde/comparatif%20gourde%20pour%20chien.jpg" alt="Comparatif gourdes chien randonnée" loading="lazy" width="72" height="72" />
+    <img src="/images/equipement/gourde/cover.jpg" alt="Comparatif gourdes chien randonnée" loading="lazy" width="72" height="72" />
     <div class="inline-cta-text">
       <span class="inline-cta-label">Comparatif</span>
       <span class="inline-cta-title">Meilleure gourde chien randonnée</span>
@@ -114,7 +114,7 @@ Son avantage : elle s'adapte à **n'importe quelle source d'eau** : votre boutei
 
 <div class="inline-cta-list">
   <a href="/equipement/comparatif-gamelle-pliable-chien-randonnee" class="inline-cta-card">
-    <img src="/images/equipement/Comparatif%20gamelle%20pliable/comparatif%20gamelle%20pliable.jpg" alt="Comparatif gamelles pliables chien randonnée" loading="lazy" width="72" height="72" />
+    <img src="/images/equipement/gamelle-pliable/cover.jpg" alt="Comparatif gamelles pliables chien randonnée" loading="lazy" width="72" height="72" />
     <div class="inline-cta-text">
       <span class="inline-cta-label">Comparatif</span>
       <span class="inline-cta-title">Meilleure gamelle pliable chien randonnée</span>
@@ -139,7 +139,7 @@ Pour faire boire le chien, il suffit de remplir la gamelle depuis le tuyau ou d'
 
 <div class="inline-cta-list">
   <a href="/equipement/comparatif-poche-eau-randonnee-chien" class="inline-cta-card">
-    <img src="/images/equipement/comparatif%20poche%20%C3%A0%20eau/comparatif%20poche%20%C3%A0%20eau.jpg" alt="Comparatif poches à eau chien randonnée" loading="lazy" width="72" height="72" />
+    <img src="/images/equipement/poche-a-eau/cover.jpg" alt="Comparatif poches à eau chien randonnée" loading="lazy" width="72" height="72" />
     <div class="inline-cta-text">
       <span class="inline-cta-label">Comparatif</span>
       <span class="inline-cta-title">Meilleure poche à eau randonnée chien</span>

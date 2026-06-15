@@ -7,7 +7,7 @@ tags: [harnais, canicross, trail, traction, comparatif, équipement]
 isAffiliate: true
 featured: false
 theme: harnais
-image: /images/equipement/comparatif%20cani-cross/comparatif%20harnais%20cani-cross.jpg
+image: /images/equipement/canicross/cover.jpg
 imageAlt: "Comparatif des meilleurs harnais de traction trail et canicross pour chien"
 metaTitle: "Meilleur harnais trail canicross chien : comparatif 2026"
 metaDescription: "Choisissez le harnais de traction pour votre chien : canicross, trail, cani-VTT. Idéal pour Husky, Malinois, Border Collie, etc. Comparatif 2026."
@@ -60,7 +60,7 @@ Avant de choisir, il faut comprendre à quoi correspond chaque type de harnais.
 <td>Léger (120 g), 9 tailles, rapport qualité-prix</td>
 <td>Morphologies compactes non couvertes</td>
 <td>39,90 €</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20cani-cross/inlandsis-polar-quest-harnais-pour-chien.webp" alt="Inlandsis Polar Quest" loading="lazy"></div><a href="https://tidd.ly/49nB6Ee" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/canicross/inlandsis-polar-quest-harnais-pour-chien.webp" alt="Inlandsis Polar Quest" loading="lazy"></div><a href="https://tidd.ly/49nB6Ee" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><strong>I-Dog Phoenix ALM</strong></td>
@@ -69,7 +69,7 @@ Avant de choisir, il faut comprendre à quoi correspond chaque type de harnais.
 <td>5 réglages fins, garanti 5 ans, conçu avec un champion du monde</td>
 <td>Plus lourd (295-433 g), réglage initial complexe</td>
 <td>59 €</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20cani-cross/i-dog-x-back-phoenix-alm-harnais-pour-chien.webp" alt="I-Dog Phoenix ALM" loading="lazy"></div><a href="https://tidd.ly/4uFtuFD" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/canicross/i-dog-x-back-phoenix-alm-harnais-pour-chien.webp" alt="I-Dog Phoenix ALM" loading="lazy"></div><a href="https://tidd.ly/4uFtuFD" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><span class="badge-produit">★ Technique & polyvalent</span><strong>Non-stop Freemotion 5.0</strong></td>
@@ -78,7 +78,7 @@ Avant de choisir, il faut comprendre à quoi correspond chaque type de harnais.
 <td>Matériaux très techniques, pièces remplaçables</td>
 <td>Mise en place complexe, stock partiel</td>
 <td>77 €</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20cani-cross/non-stop-dogwear-freemotion-harness-50-harnais-pour-chien.webp" alt="Non-stop Freemotion 5.0" loading="lazy"></div><a href="https://tidd.ly/4dxD2MM" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/canicross/non-stop-dogwear-freemotion-harness-50-harnais-pour-chien.webp" alt="Non-stop Freemotion 5.0" loading="lazy"></div><a href="https://tidd.ly/4dxD2MM" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><strong>Ruffwear Omnijore</strong></td>
@@ -87,7 +87,7 @@ Avant de choisir, il faut comprendre à quoi correspond chaque type de harnais.
 <td>Kit complet harnais + ceinture + longe, zéro question d'assemblage</td>
 <td>3 tailles seulement, pas pour la compétition</td>
 <td>209,90 €</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20cani-cross/Ruffwear%20Omnijore%20Joring%20System%20-%20Ceinture%20canicross.jpg" alt="Ruffwear Omnijore" loading="lazy"></div><a href="https://tidd.ly/3PJlynA" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/canicross/ruffwear-omnijore.jpg" alt="Ruffwear Omnijore" loading="lazy"></div><a href="https://tidd.ly/3PJlynA" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
 </tr>
 </tbody>
 </table>
@@ -97,7 +97,7 @@ Avant de choisir, il faut comprendre à quoi correspond chaque type de harnais.
 <div class="cta-grid">
   <a href="/equipement/meilleur-harnais-randonnee-chien-polyvalent#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20harnais%20polyvalent/comparatif%20harnais%20polyvalent.jpg" alt="Comparatif harnais polyvalents" loading="lazy">
+      <img src="/images/equipement/harnais-polyvalent/cover.jpg" alt="Comparatif harnais polyvalents" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais polyvalents</strong>
@@ -106,7 +106,7 @@ Avant de choisir, il faut comprendre à quoi correspond chaque type de harnais.
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-grand-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20grand%20chien/comparatif%20harnais%20grand%20chien.jpg" alt="Comparatif harnais grands chiens" loading="lazy">
+      <img src="/images/equipement/harnais-grand-chien/cover.jpg" alt="Comparatif harnais grands chiens" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais grands chiens</strong>
@@ -115,7 +115,7 @@ Avant de choisir, il faut comprendre à quoi correspond chaque type de harnais.
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-petit-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20petit%20chien/comparatif%20harnais%20petit%20chien.jpg" alt="Comparatif harnais petits chiens" loading="lazy">
+      <img src="/images/equipement/harnais-petit-chien/cover.jpg" alt="Comparatif harnais petits chiens" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais petits chiens</strong>

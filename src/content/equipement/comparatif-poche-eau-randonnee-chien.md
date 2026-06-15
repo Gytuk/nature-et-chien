@@ -7,7 +7,7 @@ tags: [poche à eau, hydratation, accessoires, randonnée, équipement]
 isAffiliate: true
 featured: false
 theme: hydratation
-image: /images/equipement/comparatif%20poche%20%C3%A0%20eau/comparatif%20poche%20%C3%A0%20eau.jpg
+image: /images/equipement/poche-a-eau/cover.jpg
 imageAlt: "Comparatif des meilleures poches à eau pour chien en randonnée 2026"
 metaTitle: "Meilleure poche à eau pour chien randonnée : comparatif 2026"
 metaDescription: "Comparatif des meilleures poches à eau pour hydrater son chien en randonnée : bouteille souple budget, réservoir avec tuyau intermédiaire et premium."
@@ -54,7 +54,7 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
 <td>~37 g</td>
 <td>16–20 €</td>
 <td>Réserve légère, sac sans compartiment dédié, petit budget</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20poche%20%C3%A0%20eau/Platypus%20Platy%202L.png" alt="Platypus Platy 2L" loading="lazy"></div><a href="https://amzn.to/4fzLoVk" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/poche-a-eau/platypus-platy-2l.png" alt="Platypus Platy 2L" loading="lazy"></div><a href="https://amzn.to/4fzLoVk" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><strong>HydraPak Shape-Shift 2L</strong></td>
@@ -63,7 +63,7 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
 <td>~135 g</td>
 <td>35–40 €</td>
 <td>Randonneur régulier, tuyau sans surcoût premium</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20poche%20%C3%A0%20eau/HydraPak%20Shape-Shift%202L.png" alt="HydraPak Shape-Shift 2L" loading="lazy"></div><a href="https://amzn.to/4ta5Eju" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/poche-a-eau/hydrapak-shape-shift-2l.png" alt="HydraPak Shape-Shift 2L" loading="lazy"></div><a href="https://amzn.to/4ta5Eju" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><span class="badge-produit">★ La référence fiabilité</span><strong>CamelBak Crux 2L</strong></td>
@@ -72,7 +72,7 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
 <td>~210 g</td>
 <td>35–45 €</td>
 <td>Usage intensif, fiabilité long terme, sorties régulières</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/comparatif%20poche%20%C3%A0%20eau/CamelBak%20Crux%202L.png" alt="CamelBak Crux 2L" loading="lazy"></div><a href="https://amzn.to/48KgFB0" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
+<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/poche-a-eau/camelbak-crux-2l.png" alt="CamelBak Crux 2L" loading="lazy"></div><a href="https://amzn.to/48KgFB0" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
 </tr>
 </tbody>
 </table>
@@ -82,7 +82,7 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
 <div class="cta-grid">
   <a href="/equipement/comparatif-gourde-chien-randonnee#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/comparatif%20gourde/comparatif%20gourde%20pour%20chien.jpg" alt="Comparatif gourdes chien randonnée" loading="lazy">
+      <img src="/images/equipement/gourde/cover.jpg" alt="Comparatif gourdes chien randonnée" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Gourdes pour chien</strong>
@@ -91,7 +91,7 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
   </a>
   <a href="/equipement/comparatif-gamelle-pliable-chien-randonnee#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/Comparatif%20gamelle%20pliable/comparatif%20gamelle%20pliable.jpg" alt="Comparatif gamelles pliables chien randonnée" loading="lazy">
+      <img src="/images/equipement/gamelle-pliable/cover.jpg" alt="Comparatif gamelles pliables chien randonnée" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Gamelles pliables</strong>

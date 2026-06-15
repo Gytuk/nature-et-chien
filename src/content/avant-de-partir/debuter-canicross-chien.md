@@ -1,4 +1,4 @@
----
+﻿---
 title: "Comment débuter le canicross avec son chien"
 description: "Âge minimum, progression, équipement, températures à éviter : tout ce qu'il faut savoir avant de commencer le canicross avec son chien."
 publishDate: 2026-06-13
@@ -6,9 +6,9 @@ category: avant-de-partir
 tags: [canicross, sport canin, débuter, harnais traction, entraînement]
 isAffiliate: false
 featured: false
-image: /images/avant-de-partir/comment%20d%C3%A9buter%20le%20cani%20cross/d%C3%A9buter%20cani%20cross%20image%20principale.jpg
+image: /images/avant-de-partir/canicross/cover.jpg
 imageAlt: "Coureur relié à son chien par une longe élastique sur un sentier forestier"
-metaTitle: "Comment débuter le canicross avec son chien"
+metaTitle: "Débuter le canicross avec son chien : guide complet 2026"
 metaDescription: "Âge minimum, premier entraînement, équipement indispensable et températures à éviter : le guide pratique pour débuter le canicross avec son chien."
 ---
 
@@ -122,7 +122,7 @@ Pour aller plus loin sur la question de l'âge et de la croissance, l'article [r
 <div class="nc-photo-inline nc-photo-inline--left">
   <img
     class="nc-photo-inline__img"
-    src="/images/avant-de-partir/comment%20d%C3%A9buter%20le%20cani%20cross/cani%20cross%201%20format%20carr%C3%A9.jpg"
+    src="/images/avant-de-partir/canicross/img-01.jpg"
     alt="Chien en apprentissage du canicross sur sentier forestier"
     loading="lazy"
     width="400"
@@ -196,7 +196,7 @@ Un harnais de promenade standard n'est pas adapté au canicross. Le harnais de t
 <a href="/equipement/meilleur-harnais-randonnee-chien-trail-canicross/" class="nc-cta-primaire">
   <div class="nc-cta-primaire__img">
     <img
-      src="/images/equipement/comparatif%20cani-cross/comparatif%20harnais%20cani-cross.jpg"
+      src="/images/equipement/canicross/cover.jpg"
       alt="Comparatif harnais trail et canicross pour chien"
       loading="lazy"
       width="300"
@@ -229,7 +229,7 @@ La longe s'attache à vous, pas à la main. Courir en tenant la longe à la main
   </div>
   <img
     class="nc-photo-inline__img"
-    src="/images/avant-de-partir/comment%20d%C3%A9buter%20le%20cani%20cross/cani%20cross%202%20format%20carr%C3%A9.jpg"
+    src="/images/avant-de-partir/canicross/img-02.jpg"
     alt="Sortie canicross en forêt sur terrain souple par temps frais"
     loading="lazy"
     width="400"
@@ -270,14 +270,14 @@ En pratique : privilégiez les sorties tôt le matin, en sous-bois, et évitez l
 
 ### Terrain
 
-Les chemins forestiers en terre sont le terrain de référence. Les surfaces dures (bitume, béton, cailloux) fatiguent les coussinets et amplifient l'impact sur les articulations à chaque foulée. Par temps chaud, l'asphalte peut atteindre des températures suffisantes pour brûler les coussinets avant même le départ.
+Les chemins forestiers en terre sont le terrain de référence. Les surfaces dures (bitume, béton, cailloux) fatiguent les coussinets et amplifient l'impact sur les articulations à chaque foulée. Par temps chaud, l'asphalte peut atteindre des températures suffisantes pour brûler les coussinets avant même le départ. Pour reconnaître les signes que votre chien a atteint ses limites sur le sentier : <a href="/sante-bien-etre/signes-fatigue-chien-randonnee/">comment savoir si mon chien est trop fatigué en randonnée</a>.
 
 ### Hydratation
 
 À l'effort de traction, le chien se déshydrate plus vite qu'en marche. Prévoyez de l'eau même pour une sortie courte, et proposez-en au chien à chaque pause sans attendre qu'il la demande.
 
 <a href="/equipement/comparatif-gourde-chien-randonnee/" class="inline-cta-card">
-  <img src="/images/equipement/comparatif%20gourde/comparatif%20gourde%20pour%20chien.jpg" alt="Comparatif gourde pour chien en randonnée" loading="lazy" width="72" height="72" />
+  <img src="/images/equipement/gourde/cover.jpg" alt="Comparatif gourde pour chien en randonnée" loading="lazy" width="72" height="72" />
   <div class="inline-cta-text">
     <span class="inline-cta-title">Comparatif gourde pour chien en randonnée</span>
     <span class="inline-cta-desc">Les meilleures gourdes à bec pour hydrater votre chien rapidement en sortie, sans interrompre longtemps l'effort.</span>

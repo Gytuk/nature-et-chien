@@ -1,4 +1,4 @@
----
+﻿---
 title: "Quelle distance peut parcourir un chien en randonnée ?"
 description: "Repères pratiques par profil et par race, facteurs qui influencent l'endurance, et conseils pour ne pas mettre son chien en danger."
 publishDate: 2026-05-02
@@ -9,7 +9,7 @@ isAffiliate: false
 featured: true
 image: /images/avant-de-partir/distance-chien.jpg
 imageAlt: "Chien adulte marchant sur un sentier de randonnée — distance et endurance"
-metaTitle: "Combien de km peut parcourir un chien en randonnée ? (par profil)"
+metaTitle: "Combien de km peut parcourir un chien en randonnée ?"
 metaDescription: "5 km ou 30 km ? La bonne distance dépend du profil de votre chien. Repères par race, âge et niveau pour ne pas le mettre en danger."
 ---
 
@@ -19,9 +19,9 @@ Il n'existe pas de chiffre unique valable pour tous les chiens. Ce que vous trou
 
 ### L'âge
 
-- **Chiot (< 1 an)** : sa croissance n'est pas terminée, ses cartilages de croissance sont fragiles et vulnérables aux blessures. La règle empirique reconnue par les vétérinaires : **5 minutes d'exercice par mois d'âge**, deux fois par jour, soit 20 minutes par sortie pour un chiot de 4 mois. Les longues randonnées attendent la fermeture complète des cartilages, dont les âges varient selon le gabarit. Consultez notre guide dédié : [Randonnée avec un chiot : repères et précautions](/avant-de-partir/randonnee-chiot)
+- **Chiot (< 1 an)** : sa croissance n'est pas terminée, ses cartilages de croissance sont fragiles et vulnérables aux blessures. La règle empirique reconnue par les vétérinaires : **5 minutes d'exercice par mois d'âge**, deux fois par jour, soit 20 minutes par sortie pour un chiot de 4 mois. Les longues randonnées attendent la fermeture complète des cartilages, dont les âges varient selon le gabarit. Consultez notre guide dédié : [Randonnée avec un chiot : repères et précautions](/avant-de-partir/randonnee-chiot/)
 - **Adulte** : période la plus favorable à l'endurance. La plupart des chiens adultes en bonne condition peuvent marcher plusieurs heures si le terrain et la météo s'y prêtent. Les repères varient cependant fortement selon la race, le niveau d'activité habituel et la préparation progressive.
-- **Senior (+ 7-8 ans selon le gabarit)** : la récupération est plus lente, les articulations plus sensibles. On réduit les distances de 30 à 50 % par rapport à l'âge adulte, on multiplie les pauses et on privilégie les terrains plats et ombragés, herbe et terre plutôt que rochers ou bitume. Si le chien se lève avec raideur le lendemain, la sortie était trop longue. Pour aller plus loin : [jusqu'à quel âge un chien peut-il randonner ?](/sante-bien-etre/chien-senior-randonnee-quel-age)
+- **Senior (+ 7-8 ans selon le gabarit)** : la récupération est plus lente, les articulations plus sensibles. On réduit les distances de 30 à 50 % par rapport à l'âge adulte, on multiplie les pauses et on privilégie les terrains plats et ombragés, herbe et terre plutôt que rochers ou bitume. Si le chien se lève avec raideur le lendemain, la sortie était trop longue. Pour aller plus loin : [jusqu'à quel âge un chien peut-il randonner ?](/sante-bien-etre/chien-senior-randonnee-quel-age/)
 
 ### La race et la morphologie
 
@@ -33,7 +33,7 @@ Il n'existe pas de chiffre unique valable pour tous les chiens. Ce que vous trou
 
 Comme pour nous, **l'endurance se construit progressivement**. Un chien qui marche tous les jours tiendra plus longtemps qu'un chien sédentaire. La règle généralement admise en médecine du sport canin : **n'augmentez pas le volume de sortie de plus de 10 % par semaine**, et jamais plusieurs variables à la fois (durée, dénivelé et intensité ne s'augmentent pas simultanément). Un chien sédentaire qui n'a jamais marché plus d'une heure d'affilée a besoin de 4 à 6 semaines de préparation avant d'aborder une vraie journée de randonnée.
 
-↳ [Première randonnée avec son chien : comment le préparer correctement ?](/avant-de-partir/premiere-randonnee-avec-son-chien)
+↳ [Première randonnée avec son chien : comment le préparer correctement ?](/avant-de-partir/premiere-randonnee-avec-son-chien/)
 
 ### Les conditions extérieures
 
@@ -45,7 +45,7 @@ En été, **la chaleur impose de revoir ses ambitions à la baisse**, quel que s
 
 ### L'hydratation
 
-Un chien qui boit trop peu se fatigue plus vite et s'expose au coup de chaleur. La déshydratation s'installe souvent sans signe préalable visible : le chien continue d'avancer par instinct de meute, et les symptômes n'apparaissent qu'une fois l'état bien installé. Pour tous les bons réflexes, consultez notre guide : [Comment bien hydrater son chien en randonnée ?](/sante-bien-etre/hydratation-chien-randonnee)
+Un chien qui boit trop peu se fatigue plus vite et s'expose au coup de chaleur. La déshydratation s'installe souvent sans signe préalable visible : le chien continue d'avancer par instinct de meute, et les symptômes n'apparaissent qu'une fois l'état bien installé. Pour tous les bons réflexes, consultez notre guide : [Comment bien hydrater son chien en randonnée ?](/sante-bien-etre/hydratation-chien-randonnee/)
 
 ---
 
@@ -142,7 +142,7 @@ En pratique :
 
 - **Rythme** : laissez-le se reposer régulièrement, il repartira mieux
 
-> Avant de choisir votre itinéraire, vérifiez aussi [où les chiens sont autorisés en France](/avant-de-partir/legislation-zones-autorisees) : certaines zones protégées ont des règles strictes.
+> Avant de choisir votre itinéraire, vérifiez aussi [où les chiens sont autorisés en France](/avant-de-partir/legislation-zones-autorisees/) : certaines zones protégées ont des règles strictes.
 
 ---
 
@@ -168,7 +168,7 @@ En randonnée, un chien adulte en forme tient généralement **entre 10 et 20 km
 
   <details>
     <summary>Comment savoir si mon chien fatigue ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Les premiers signaux sont souvent discrets : il ralentit, s'arrête plus souvent, renifle moins et cherche l'ombre à la moindre occasion. Sur le plan physique, un halètement intense et persistant même au repos, une démarche moins assurée ou une boiterie légère indiquent que la limite approche. Si votre chien se lève avec raideur le lendemain matin ou refuse de bouger, la sortie était trop longue, à prendre en compte pour calibrer la prochaine.</p></div>
+    <div class="faq-answer"><p>Les premiers signaux sont souvent discrets : il ralentit, s'arrête plus souvent, renifle moins et cherche l'ombre à la moindre occasion. Sur le plan physique, un halètement intense et persistant même au repos, une démarche moins assurée ou une boiterie légère indiquent que la limite approche. Si votre chien se lève avec raideur le lendemain matin ou refuse de bouger, la sortie était trop longue, à prendre en compte pour calibrer la prochaine. Pour une lecture complète des signaux à surveiller sur le sentier : <a href="/sante-bien-etre/signes-fatigue-chien-randonnee/">comment savoir si mon chien est trop fatigué en randonnée</a>.</p></div>
   </details>
 
   <details>
@@ -178,7 +178,7 @@ En randonnée, un chien adulte en forme tient généralement **entre 10 et 20 km
 
   <details>
     <summary>La chaleur joue vraiment sur l'endurance ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Oui, énormément, et de façon souvent sous-estimée. Contrairement à l'humain, le chien ne transpire pas : il dissipe sa chaleur uniquement par le halètement, un mécanisme qui devient rapidement insuffisant lorsque la température ambiante dépasse 28-30 °C. Au-delà de ce seuil, les distances raisonnables sont réduites de moitié et le risque de coup de chaleur augmente rapidement, même pour les chiens les plus endurants. En été, préférez les départs tôt le matin et prévoyez davantage d'eau que vous ne pensez en avoir besoin.</p></div>
+    <div class="faq-answer"><p>Oui, énormément, et de façon souvent sous-estimée. Contrairement à l'humain, le chien ne transpire pas : il dissipe sa chaleur uniquement par le halètement, un mécanisme qui devient rapidement insuffisant lorsque la température ambiante dépasse 28-30 °C. Au-delà de ce seuil, les distances raisonnables sont réduites de moitié et le risque de coup de chaleur augmente rapidement, même pour les chiens les plus endurants. En été, préférez les départs tôt le matin et prévoyez davantage d'eau que vous ne pensez en avoir besoin. Les seuils précis par profil de chien sont détaillés ici : <a href="/sante-bien-etre/randonner-chien-chaleur-ete/">randonner avec son chien en été : à partir de quelle température c'est dangereux ?</a></p></div>
   </details>
 
 </div>

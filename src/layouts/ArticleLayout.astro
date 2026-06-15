@@ -75,7 +75,7 @@ const schema = JSON.stringify({
   "headline": title,
   "description": description,
   "datePublished": publishDate.toISOString(),
-  ...(updatedDate && { "dateModified": updatedDate.toISOString() }),
+  "dateModified": (updatedDate ?? publishDate).toISOString(),
   ...(image && {
     "image": {
       "@type": "ImageObject",
@@ -85,8 +85,9 @@ const schema = JSON.stringify({
     }
   }),
   "author": {
-    "@type": "Person",
-    "name": "Nature & Chien"
+    "@type": "Organization",
+    "name": "Nature & Chien",
+    "url": "https://nature-et-chien.fr"
   },
   "publisher": {
     "@type": "Organization",
@@ -94,7 +95,9 @@ const schema = JSON.stringify({
     "url": "https://nature-et-chien.fr",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://nature-et-chien.fr/logo-transparent.png"
+      "url": "https://nature-et-chien.fr/logo-transparent.png",
+      "width": 1024,
+      "height": 1024
     }
   },
   "mainEntityOfPage": {
@@ -104,7 +107,7 @@ const schema = JSON.stringify({
 });
 ---
 
-<BaseLayout title={seoTitle} description={seoDesc} ogImage={image} ogType="article">
+<BaseLayout title={seoTitle} description={seoDesc} ogImage={image} ogType="article" ogImageWidth={800} ogImageHeight={400}>
   <script type="application/ld+json" set:html={breadcrumbSchema} />
   <script type="application/ld+json" set:html={schema} />
 
