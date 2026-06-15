@@ -1,5 +1,5 @@
 ---
-title: "Randonnée avec son chien : comment choisir le harnais idéal ?"
+title: "Quel harnais choisir pour randonner avec son chien ?"
 description: "Harnais en Y, de traction ou multifonction : comment choisir selon le gabarit, le terrain et l'activité. Guide complet avec comparatifs par profil."
 publishDate: 2026-05-28
 category: equipement
@@ -9,8 +9,8 @@ isAffiliate: false
 featured: true
 image: /images/equipement/chien-harnais.jpg
 imageAlt: "Chien en randonnée portant un harnais en Y sur sentier"
-metaTitle: "Randonnée avec son chien : comment choisir le harnais idéal ?"
-metaDescription: "Harnais en Y, de traction, multifonction : comment choisir selon le gabarit, le terrain et l'activité. Guide complet avec comparatifs par profil 2026."
+metaTitle: "Quel harnais choisir pour randonner avec son chien ?"
+metaDescription: "Harnais en Y, norvégien, de traction : lequel convient à votre chien et votre pratique ? Guide complet pour choisir selon le gabarit, le terrain et l'effort."
 ---
 
 Le choix d'un harnais de randonnée dépend avant tout **du profil de votre chien : son gabarit, son comportement en marche et le type de sorties** que vous faites. Ce guide vous aide à identifier rapidement quel type vous correspond, puis explique en détail les critères qui font la différence sur la durée.
