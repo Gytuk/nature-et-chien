@@ -3,7 +3,7 @@ title: "Gourde, gamelle pliable ou poche à eau : Quel choix pour randonnée ave
 description: "Critères concrets pour choisir entre gourde avec abreuvoir, gamelle pliable et poche à eau selon la durée, la chaleur et le gabarit du chien."
 publishDate: 2026-05-05
 category: equipement
-theme: guide
+theme: hydratation
 tags: [hydratation, gourde, gamelle, poche à eau, équipement, randonnée]
 isAffiliate: false
 featured: false
@@ -211,3 +211,4 @@ Pour faire boire le chien, il suffit de remplir la gamelle depuis le tuyau ou d'
 </div>
 
 ---
+

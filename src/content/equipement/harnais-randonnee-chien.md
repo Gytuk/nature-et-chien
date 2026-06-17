@@ -3,7 +3,7 @@ title: "Quel harnais choisir pour randonner avec son chien ?"
 description: "Harnais en Y, de traction ou multifonction : comment choisir selon le gabarit, le terrain et l'activité. Guide complet avec comparatifs par profil."
 publishDate: 2026-05-28
 category: equipement
-theme: guide
+theme: harnais
 tags: [harnais, équipement, confort, choix, randonnée]
 isAffiliate: false
 featured: true
@@ -363,3 +363,4 @@ Un harnais de qualité (nylon ripstop, anneaux en aluminium) tenu en bon état *
   color: white;
 }
 </style>
+

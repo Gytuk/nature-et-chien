@@ -5,16 +5,16 @@ import { getCollection } from "astro:content";
 
 const articles = await getCollection("equipement");
 
-const guideArticles = articles
-  .filter(a => a.data.theme === "guide")
-  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
-
 const harnaisArticles = articles
   .filter(a => a.data.theme === "harnais")
   .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
 
 const hydratationArticles = articles
   .filter(a => a.data.theme === "hydratation")
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+
+const laisseArticles = articles
+  .filter(a => a.data.theme === "laisse")
   .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
 ---
 
@@ -45,26 +45,6 @@ const hydratationArticles = articles
   <section class="pillar-articles">
     <div class="container">
 
-      {guideArticles.length > 0 && (
-        <div class="theme-section" id="guide">
-          <h2 class="theme-section-title">Guides</h2>
-          <div class="articles-grid">
-            {guideArticles.map(article => (
-              <ArticleCard
-                title={article.data.title}
-                description={article.data.description}
-                href={`/equipement/${article.id}`}
-                category={article.data.category}
-                isAffiliate={article.data.isAffiliate}
-                featured={article.data.featured}
-                publishDate={article.data.publishDate}
-                image={article.data.image}
-              />
-            ))}
-          </div>
-        </div>
-      )}
-
       {harnaisArticles.length > 0 && (
         <div class="theme-section" id="harnais">
           <h2 class="theme-section-title">Harnais</h2>
@@ -90,6 +70,26 @@ const hydratationArticles = articles
           <h2 class="theme-section-title">Hydratation</h2>
           <div class="articles-grid">
             {hydratationArticles.map(article => (
+              <ArticleCard
+                title={article.data.title}
+                description={article.data.description}
+                href={`/equipement/${article.id}`}
+                category={article.data.category}
+                isAffiliate={article.data.isAffiliate}
+                featured={article.data.featured}
+                publishDate={article.data.publishDate}
+                image={article.data.image}
+              />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {laisseArticles.length > 0 && (
+        <div class="theme-section" id="laisse">
+          <h2 class="theme-section-title">Laisse et longe</h2>
+          <div class="articles-grid">
+            {laisseArticles.map(article => (
               <ArticleCard
                 title={article.data.title}
                 description={article.data.description}
