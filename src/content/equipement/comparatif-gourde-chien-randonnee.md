@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Meilleure gourde pour chien en randonnée : comparatif 2026"
 description: "Comparatif des meilleures gourdes pour chien en randonnée : plastique léger, inox isotherme. Quel modèle selon votre profil de sortie ?"
 publishDate: 2026-05-04
@@ -102,43 +102,116 @@ Ce comparatif couvre les meilleurs modèles disponibles sur Amazon France. **Pla
 
 ## Trixie Gourde + écuelle 700 ml : le premier prix accessible
 
-La Trixie est un classique bien établi sur le marché français. La gamelle se dévisse et forme un contenant stable. **Les 700 ml sont un bon volume** pour les chiens de toutes tailles sur les balades du quotidien. C'est la gourde à **moins de 12 euros** qui fait le travail sans fioriture.
-
-**Ce qu'on apprécie.** Le prix est le plus bas de cette sélection, ce qui en fait **l'achat de départ idéal**. La gamelle dévissable est plus large que les cuvettes intégrées et convient à tous les gabarits. Elle est légère, facile à tenir d'une main, et la marque Trixie est bien établie en France avec un SAV disponible.
-
-**Les limites.** Le mécanisme est plus basique que la Lesotc : **pas de système anti-gaspillage intégré**, l'eau verse librement depuis le bouchon. Elle n'est pas isotherme, l'eau se réchauffe donc rapidement en été. Quelques avis clients signalent des micro-fuites sur les joints après plusieurs mois d'usage intensif.
-
-**Verdict.** Le bon premier achat pour tester le format gourde sans dépenser plus de 12 euros. Efficace pour les balades quotidiennes et les sorties courtes. Pour un usage plus régulier ou des sorties plus longues, la Lesotc offre un mécanisme plus abouti.
-
-<a href="https://amzn.to/4uvgbHn" class="product-card-btn" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">Trixie + écuelle 700 ml → voir sur Amazon</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/gourde/trixie-700ml.png" alt="Trixie + écuelle 700 ml" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">10–14 €</span><span class="prc__tag">Premier achat</span></div>
+      <p class="prc__desc">Un classique bien établi sur le marché français. La gamelle se dévisse et forme un contenant stable. 700 ml pour les chiens de toutes tailles sur les balades du quotidien. Le prix d'entrée de la catégorie, sans fioriture.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Prix le plus bas de la sélection</li>
+        <li>Gamelle dévissable plus large que les cuvettes intégrées, convient à tous les gabarits</li>
+        <li>Légère, facile à tenir d'une main</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Pas de système anti-gaspillage : l'eau verse librement depuis le bouchon</li>
+        <li>Pas isotherme, l'eau se réchauffe rapidement en été</li>
+        <li>Micro-fuites sur les joints signalées après plusieurs mois d'usage intensif</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · premier achat pour tester le format gourde, balades quotidiennes et sorties courtes</p>
+    <a href="https://amzn.to/4uvgbHn" class="prc__btn" target="_blank" rel="nofollow sponsored">Voir sur Amazon →</a>
+  </div>
+</div>
 
 ---
 
 ## Lesotc 520 ml : le meilleur mécanisme en plastique
 
-La Lesotc est l'un des modèles les plus vendus dans la catégorie sur Amazon France. On appuie sur le corps souple, l'eau monte dans la cuvette intégrée, le chien boit, l'excédent redescend dans la réserve. **Le mécanisme anti-gaspillage est simple, fiable**, et nettement plus pratique que le bouchon-gamelle de la Trixie.
-
-**Ce qu'on apprécie.** Le mécanisme anti-gaspillage est le point fort de ce modèle : **aucune eau ne se renverse sur le sol**, ce qui compte sur le sentier. Elle tient dans la poche latérale d'un sac, la dragonne permet de l'accrocher facilement. Le plastique ABS est sans BPA.
-
-**Les limites.** **520 ml deviennent insuffisants** dès que le gabarit dépasse 15 kg ou que la sortie dépasse 2h en été. L'eau se réchauffe vite au soleil et certains chiens boivent moins volontiers de l'eau tiède. La cuvette est trop petite pour les très grands gabarits et les brachycéphales. Le prix est plus élevé que la Trixie pour un volume inférieur.
-
-**Verdict.** Le meilleur choix plastique pour les sorties régulières grâce à son mécanisme anti-gaspillage. Pour les randonnées estivales ou les longues journées, il faudra passer à l'inox ou emporter un complément de réserve.
-
-<a href="https://amzn.to/427Etem" class="product-card-btn" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">Lesotc 520 ml → voir sur Amazon</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/gourde/lesotc-520ml.png" alt="Lesotc 520 ml" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">16–20 €</span><span class="prc__tag">Sorties régulières</span></div>
+      <p class="prc__desc">L'un des modèles les plus vendus de la catégorie sur Amazon France. On appuie sur le corps souple, l'eau monte dans la cuvette intégrée, le chien boit, l'excédent redescend dans la réserve. Mécanisme anti-gaspillage simple et fiable. Plastique ABS sans BPA. Tient dans la poche latérale d'un sac.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Mécanisme anti-gaspillage : aucune eau ne se renverse sur le sol</li>
+        <li>Tient dans la poche latérale d'un sac, dragonne pour l'accrocher facilement</li>
+        <li>Plastique ABS sans BPA</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>520 ml insuffisants dès que le gabarit dépasse 15 kg ou que la sortie dépasse 2h en été</li>
+        <li>Cuvette trop petite pour les très grands gabarits et les brachycéphales</li>
+        <li>L'eau se réchauffe vite au soleil</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · sorties régulières avec mécanisme anti-gaspillage, petit à moyen gabarit</p>
+    <a href="https://amzn.to/427Etem" class="prc__btn" target="_blank" rel="nofollow sponsored">Voir sur Amazon →</a>
+  </div>
+</div>
 
 ---
 
 ## Petace Inox 750 ml : le choix pour les randonnées sérieuses
 
-La Petace est **la gourde inox double paroi la mieux notée** de la catégorie sur Amazon France (446 avis). La double paroi sous vide maintient l'eau fraîche plusieurs heures. Les avis clients sont convergents : eau encore fraîche après une longue journée en conditions estivales. Le bol en silicone se déplie depuis le corps de la bouteille.
-
-**Ce qu'on apprécie.** L'isolation thermique est réelle et vérifiée par les avis clients, l'eau reste fraîche plusieurs heures en plein soleil. Le corps en acier inoxydable sans BPA passe au lave-vaisselle, ce qui simplifie l'entretien. Le bol en silicone est ample et bien adapté aux grands gabarits comme aux brachycéphales. Le verrouillage est fiable, aucune fuite signalée. La durabilité est nettement supérieure au plastique.
-
-**Les limites.** Elle est plus lourde : environ 350 g à vide et 1,1 kg pleine, ce qui compte en trail. Le prix est 2 à 3 fois supérieur aux modèles plastique. Le bol silicone peut être légèrement difficile à déplier avec des gants, et il n'est pas compatible lave-vaisselle.
-
-**Verdict.** L'investissement qui se justifie pour qui randonne régulièrement, surtout en été. **Un chien boit plus volontiers de l'eau fraîche**, ce seul point réduit concrètement le risque de déshydratation. L'écart de prix s'amortit sur la durée.
-
-<a href="https://www.amazon.fr/dp/B0CKQMP8B3?tag=natureetchien-21" class="product-card-btn" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">Petace Inox 750 ml → voir sur Amazon</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/gourde/petace-inox-750ml.png" alt="Petace Inox 750 ml" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">28–32 €</span><span class="prc__tag">Randonnée estivale</span></div>
+      <p class="prc__desc">La gourde inox double paroi la mieux notée de la catégorie sur Amazon France (446 avis). Double paroi sous vide qui maintient l'eau fraîche plusieurs heures. Bol en silicone qui se déplie depuis le corps de la bouteille. Corps en acier inoxydable sans BPA, passe au lave-vaisselle.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Isolation thermique réelle : eau encore fraîche après une longue journée estivale selon les avis clients</li>
+        <li>Corps inox passe au lave-vaisselle</li>
+        <li>Bol en silicone ample, adapté aux grands gabarits et aux brachycéphales</li>
+        <li>Verrouillage fiable, aucune fuite signalée</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Plus lourde : environ 350 g à vide et 1,1 kg pleine</li>
+        <li>Prix 2 à 3 fois supérieur aux modèles plastique</li>
+        <li>Bol silicone non compatible lave-vaisselle et légèrement difficile à déplier avec des gants</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · randonnées régulières et estivales, investissement qui se justifie pour qui sort souvent</p>
+    <a href="https://www.amazon.fr/dp/B0CKQMP8B3?tag=natureetchien-21" class="prc__btn" target="_blank" rel="nofollow sponsored">Voir sur Amazon →</a>
+  </div>
+</div>
 
 ---
 

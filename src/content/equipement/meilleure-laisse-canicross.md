@@ -24,68 +24,159 @@ metaDescription: "Crosser 2, Crosstrail 2, I-Dog ONE : quelle laisse canicross c
 
 Les termes varient selon les pratiquants et les marques, mais ils désignent tous la même pièce : la sangle amortie qui relie le harnais du chien au baudrier du coureur. "Laisse canicross", "longe canicross" et "ligne de trait" sont interchangeables. Dans cet article, les trois sont utilisés sans distinction.
 
-**Le rôle de l'amortisseur.** L'amortisseur est la partie élastique intégrée dans la sangle. À l'effort, il absorbe les à-coups quand le chien accélère ou change de direction, protégeant le bas du dos du coureur et les points d'attache du harnais. Au relâchement, quand le chien ralentit et ne tire plus, il évite que la laisse traîne au sol et s'emmêle.
+<div class="info-box">
+<p class="info-box__title">Le rôle de l'amortisseur</p>
+<p>L'amortisseur est la partie élastique intégrée dans la sangle. À l'effort, il absorbe les à-coups quand le chien accélère ou change de direction, protégeant le bas du dos du coureur et les points d'attache du harnais. Au relâchement, quand le chien ralentit et ne tire plus, il évite que la laisse traîne au sol et s'emmêle.</p>
+<p>Un amortisseur trop rigide ne joue pas son rôle : la laisse reste tendue en permanence et transmet les chocs directement. Un amortisseur trop souple ne se tend jamais et ne transmet aucune force. Le calibrage selon le gabarit du chien est donc essentiel, en particulier pour les petits chiens, pour lesquels les laisses standard sont surdimensionnées.</p>
+</div>
 
-Un amortisseur trop rigide ne joue pas son rôle : la laisse reste tendue en permanence et transmet les chocs directement. Un amortisseur trop souple ne se tend jamais et ne transmet aucune force. Le calibrage selon le gabarit du chien est donc essentiel, en particulier pour les petits chiens, pour lesquels les laisses standard sont surdimensionnées.
+**Loisir ou compétition : ce que ça change**
 
-**Loisir ou compétition : ce que ça change pour la laisse.** En loisir, n'importe quelle laisse canicross avec amortisseur convient. Il n'y a pas de contrainte de longueur ni de matériau.
+En loisir, n'importe quelle laisse canicross avec amortisseur convient : aucune contrainte de longueur ni de matériau. En compétition, deux fédérations encadrent la pratique en France.
 
-En compétition, deux fédérations organisent des courses de canicross en France. La **FSLC** (Fédération des Sports et Loisirs Canins) est la principale : son règlement impose une laisse avec amortisseur de 2 mètres maximum en extension. La **FFST** (Fédération Française des Sports de Traîneau) organise historiquement les sports de traîneau et les disciplines à plusieurs chiens, mais propose aussi du canicross. Son règlement est légèrement plus strict : longueur entre 1,5 m et 2,5 m en extension, et interdiction des mousquetons métalliques sur la laisse côté coureur, la fixation devant se faire par tête d'alouette ou anneau textile.
+<div class="info-cards">
+<div class="info-card">
+<span class="info-card__badge">FSLC (Fédération des Sports et Loisirs Canins)</span>
+<div class="info-card__body">
+<p>La principale fédération. Impose une laisse avec amortisseur de <strong>2 m maximum</strong> en extension. Toutes les laisses de ce comparatif y sont conformes.</p>
+</div>
+</div>
+<div class="info-card">
+<span class="info-card__badge info-card__badge--gray">FFST (Fédération Française des Sports de Traîneau)</span>
+<div class="info-card__body">
+<p>Plus stricte : <strong>1,5 à 2,5 m</strong> et <strong>pas de mousqueton métallique</strong> côté coureur (fixation par tête d'alouette). Seules la Crosstrail 2 et l'I-Dog ONE y répondent.</p>
+</div>
+</div>
+</div>
 
-Pour un pratiquant qui fait uniquement du canicross loisir ou en compétition FSLC, toutes les laisses de ce comparatif conviennent. Si vous envisagez de courir sous les deux fédérations, ou si vous souhaitez garder la porte ouverte à d'autres disciplines comme le cani-VTT ou le ski-joëring, une laisse sans mousqueton métallique côté coureur est préférable. Dans cette sélection, la Crosstrail 2 et l'I-Dog ONE répondent à ce critère.
+Pour du canicross loisir ou en compétition FSLC, toutes ces laisses conviennent. Si vous envisagez de courir sous les deux fédérations, ou d'ouvrir vers le cani-VTT ou le ski-joëring, préférez une laisse sans mousqueton métallique côté coureur.
 
 ---
 
 ## Les quatre meilleures laisses canicross : comparatif 2026
 
-<table class="comparatif-table">
+<div class="ct-wrap">
+<table class="ct">
 <colgroup>
-<col style="width:160px">
-<col style="width:65px">
-<col style="width:75px">
-<col>
-<col style="width:175px">
+<col style="width:15%">
+<col style="width:21.25%">
+<col style="width:21.25%">
+<col style="width:21.25%">
+<col style="width:21.25%">
 </colgroup>
 <thead>
 <tr>
-<th>Modèle</th>
-<th>Prix</th>
-<th>Gabarit</th>
-<th>Idéal pour</th>
-<th>Achat</th>
+<th><span class="ct__th-produit">Produit</span><span class="ct__th-critere">Critère</span></th>
+<th class="ct__th">
+<div class="ct__prod-badge">Choix débutant</div>
+<div class="ct__prod-inner">
+<div class="ct__prod-brand">Inlandsis</div>
+<div class="ct__prod-name">Crosser 2</div>
+<div class="ct__prod-price">19,90 €</div>
+</div>
+</th>
+<th class="ct__th">
+<div class="ct__prod-badge ct__prod-badge--blue">Choix compétition</div>
+<div class="ct__prod-inner">
+<div class="ct__prod-brand">Inlandsis</div>
+<div class="ct__prod-name">Crosstrail 2</div>
+<div class="ct__prod-price">29,90 €</div>
+</div>
+</th>
+<th class="ct__th">
+<div class="ct__prod-badge ct__prod-badge--amber">Choix petit chien</div>
+<div class="ct__prod-inner">
+<div class="ct__prod-brand">Inlandsis</div>
+<div class="ct__prod-name">Crosser 2 SD</div>
+<div class="ct__prod-price">21,89 €</div>
+</div>
+</th>
+<th class="ct__th">
+<div class="ct__prod-badge ct__prod-badge--violet">Choix qualité-prix</div>
+<div class="ct__prod-inner">
+<div class="ct__prod-brand">I-Dog</div>
+<div class="ct__prod-name">ONE</div>
+<div class="ct__prod-price">19,90 €</div>
+</div>
+</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="col-produit"><strong>Inlandsis Crosser 2</strong></td>
-<td>19,90 €</td>
+<td class="ct__crit">Gabarit</td>
 <td>+15 kg</td>
-<td>Premier équipement, pratique loisir</td>
-<td><div class="achat-card-multi"><div class="achat-thumb" style="display:flex;align-items:center;justify-content:center;background:#fafafa;padding:6px;min-height:72px;"><img src="/images/equipement/laisse-canicross/inlandsis-crosser-2-laisse-pour-chien.webp" alt="Inlandsis Crosser 2" loading="lazy" style="max-height:60px;width:auto;object-fit:contain;"></div><a href="https://tidd.ly/4a6yc7b" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
-</tr>
-<tr class="row-badge">
-<td class="col-produit"><span class="badge-produit">★ Pratique régulière &amp; compétition</span><strong>Inlandsis Crosstrail 2</strong></td>
-<td>29,90 €</td>
 <td>+15 kg</td>
-<td>Pratique régulière, compétition toutes fédérations</td>
-<td><div class="achat-card-multi"><div class="achat-thumb" style="display:flex;align-items:center;justify-content:center;background:#fafafa;padding:6px;min-height:72px;"><img src="/images/equipement/laisse-canicross/inlandsis-crosstrail-2-laisse-canicross.webp" alt="Inlandsis Crosstrail 2" loading="lazy" style="max-height:60px;width:auto;object-fit:contain;"></div><a href="https://tidd.ly/4vfDJk9" class="achat-label-btn achat-label-btn--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a></div></td>
+<td>-15 kg</td>
+<td>+15 kg</td>
 </tr>
 <tr>
-<td class="col-produit"><strong>Inlandsis Crosser 2 SD</strong></td>
-<td>21,89 €</td>
-<td>-15 kg</td>
-<td>Petit chien (Beagle, Épagneul, Border léger, Whippet…)</td>
-<td><div class="achat-card-multi"><div class="achat-thumb" style="display:flex;align-items:center;justify-content:center;background:#fafafa;padding:6px;min-height:72px;"><img src="/images/equipement/laisse-canicross/laisse-canicross-petit-chien.jpg" alt="Inlandsis Crosser 2 SD" loading="lazy" style="max-height:60px;width:auto;object-fit:contain;"></div><a href="https://amzn.to/4gqkBeH" class="achat-label-btn achat-label-btn--amazon" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
+<td class="ct__crit">Amortisseur</td>
+<td>Noué</td>
+<td>Cousu, plus durable</td>
+<td>Noué (calibré petit chien)</td>
+<td>Noué tubulaire</td>
 </tr>
-<tr class="row-badge">
-<td class="col-produit"><span class="badge-produit">★ Meilleur rapport qualité-prix</span><strong>I-Dog ONE</strong></td>
-<td>19,90 €</td>
-<td>+15 kg</td>
-<td>Alternative Inlandsis, compatible toutes fédérations</td>
-<td><div class="achat-card-multi"><div class="achat-thumb" style="display:flex;align-items:center;justify-content:center;background:#fafafa;padding:6px;min-height:72px;"><img src="/images/equipement/laisse-canicross/i-dog-laisse-cani-cross.jpg" alt="I-Dog ONE" loading="lazy" style="max-height:60px;width:auto;object-fit:contain;"></div><a href="https://amzn.to/3SLJZlb" class="achat-label-btn achat-label-btn--amazon" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
+<tr>
+<td class="ct__crit">Mousquetons</td>
+<td>Acier standard</td>
+<td>Bronze naval</td>
+<td>Acier carbone léger</td>
+<td>Pivotants</td>
+</tr>
+<tr>
+<td class="ct__crit">Compétition</td>
+<td>FSLC</td>
+<td>FSLC + FFST</td>
+<td>FSLC</td>
+<td>FSLC + FFST</td>
+</tr>
+<tr>
+<td class="ct__crit">Entretien</td>
+<td>Machine 30 °C</td>
+<td>Machine 30 °C</td>
+<td>Machine 30 °C</td>
+<td>Lavage main</td>
+</tr>
+<tr>
+<td class="ct__crit">Idéal pour</td>
+<td>Débuter</td>
+<td>Pratique régulière &amp; compétition</td>
+<td>Petit chien (&lt; 15 kg)</td>
+<td>Polyvalence toutes féd.</td>
+</tr>
+<tr>
+<td class="ct__crit ct__crit--buy">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg>
+Acheter
+</td>
+<td>
+<div class="ct__buy ct__buy--hardloop">
+<div class="ct__buy-img"><img src="/images/equipement/laisse-canicross/inlandsis-crosser-2-laisse-pour-chien.webp" alt="Inlandsis Crosser 2" loading="lazy"></div>
+<a href="https://tidd.ly/4a6yc7b" class="ct__buy-btn ct__buy-btn--hardloop" target="_blank" rel="nofollow sponsored">Hardloop</a>
+</div>
+</td>
+<td>
+<div class="ct__buy ct__buy--hardloop">
+<div class="ct__buy-img"><img src="/images/equipement/laisse-canicross/inlandsis-crosstrail-2-laisse-canicross.webp" alt="Inlandsis Crosstrail 2" loading="lazy"></div>
+<a href="https://tidd.ly/4vfDJk9" class="ct__buy-btn ct__buy-btn--hardloop" target="_blank" rel="nofollow sponsored">Hardloop</a>
+</div>
+</td>
+<td>
+<div class="ct__buy">
+<div class="ct__buy-img"><img src="/images/equipement/laisse-canicross/laisse-canicross-petit-chien.jpg" alt="Inlandsis Crosser 2 SD" loading="lazy"></div>
+<a href="https://amzn.to/4gqkBeH" class="ct__buy-btn" target="_blank" rel="nofollow sponsored">Amazon</a>
+</div>
+</td>
+<td>
+<div class="ct__buy">
+<div class="ct__buy-img"><img src="/images/equipement/laisse-canicross/i-dog-laisse-cani-cross.jpg" alt="I-Dog ONE" loading="lazy"></div>
+<a href="https://amzn.to/3SLJZlb" class="ct__buy-btn" target="_blank" rel="nofollow sponsored">Amazon</a>
+</div>
+</td>
 </tr>
 </tbody>
 </table>
+</div>
 
 ---
 
@@ -119,83 +210,164 @@ Pour compléter votre équipement canicross :
 
 ## Inlandsis Crosser 2 : la laisse canicross pour débuter
 
-La Crosser 2 est la laisse par laquelle commencer. Inlandsis est une marque française du Vercors dont les produits sont utilisés en compétition nationale et internationale de sports canins attelés depuis plusieurs décennies. Cette laisse est intégrée dans les packs débutants Inlandsis, aux côtés du harnais Polar Quest et du baudrier CrossTrek.
-
-**Ce qu'on apprécie.** Construction de traction réelle, pas une laisse de running générique adaptée. L'amortisseur absorbe les à-coups, la longueur en extension atteint 2 m, conforme FSLC. Les deux mousquetons s'adaptent à la plupart des baudriers du marché. Le nœud côté chien est positionné pour permettre une prise en main rapide aux départs et aux arrêts. Lavable en machine à 30°C.
-
-**Les limites.** Mousquetons en acier standard : suffisants en conditions normales, moins résistants à la corrosion sur la durée qu'un bronze naval. La laisse a un mousqueton métallique côté coureur : elle est conforme FSLC mais pas FFST en l'état.
-
-**Idéal pour.** Premier équipement canicross ou canirando, chien de plus de 15 kg, pratique loisir ou compétition FSLC.
-
-<a href="https://tidd.ly/4a6yc7b" class="product-card-btn product-card-btn--hardloop" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">Inlandsis Crosser 2 → voir sur Hardloop</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/laisse-canicross/inlandsis-crosser-2-laisse-pour-chien.webp" alt="Inlandsis Crosser 2" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">19,90 €</span><span class="prc__tag">+15 kg</span></div>
+      <p class="prc__desc">La laisse par laquelle commencer. Inlandsis est une marque française du Vercors utilisée en compétition de sports canins attelés depuis des décennies. La Crosser 2 est intégrée dans les packs débutants, aux côtés du harnais Polar Quest et du baudrier CrossTrek.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Vraie construction de traction, pas une laisse de running adaptée</li>
+        <li>Amortisseur efficace, 2 m en extension, conforme FSLC</li>
+        <li>Deux mousquetons compatibles avec la plupart des baudriers</li>
+        <li>Lavable en machine à 30 °C</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Mousquetons acier standard, moins résistants à la corrosion</li>
+        <li>Mousqueton métallique côté coureur : conforme FSLC, pas FFST</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · premier équipement, chien &gt; 15 kg, loisir ou compétition FSLC</p>
+    <a href="https://tidd.ly/4a6yc7b" class="prc__btn prc__btn--hardloop" target="_blank" rel="nofollow sponsored">Voir sur Hardloop →</a>
+  </div>
+</div>
 
 ---
 
 ## Inlandsis Crosstrail 2 : quelle différence avec la Crosser 2 pour 10 € de plus ?
 
-La Crosstrail 2 coûte 10 € de plus que la Crosser 2. Trois différences techniques concrètes justifient cet écart pour un pratiquant régulier.
-
-**L'amortisseur est cousu directement dans la sangle**, au lieu d'être noué. La fixation cousue est plus solide dans le temps et élimine le risque qu'un nœud se desserre progressivement sous l'effet des à-coups répétés.
-
-**Les mousquetons sont en bronze naval.** Ce matériau ne rouille pas, résiste au gel et au sel, et son mécanisme à corps fermé supporte mieux l'usure que l'acier standard. Pour un usage intensif ou par mauvais temps, la différence de durabilité est réelle.
-
-**La configuration est double.** Deux mousquetons pour l'entraînement, fixation rapide sur le baudrier. Le mousqueton côté coureur est amovible : la laisse passe alors en configuration compétition toutes fédérations, y compris FFST, via une tête d'alouette. C'est la seule laisse Inlandsis de cette sélection compatible toutes fédérations nationales et internationales.
-
-La Crosstrail 2 dispose également d'une vraie poignée côté chien, utile pour maintenir l'animal au pied aux départs en compétition ou lors des dépassements.
-
-**Ce qu'on apprécie.** Trois améliorations techniques mesurables sur un seul produit. Conformité toutes fédérations. Lavable en machine à 30°C.
-
-**Les limites.** Un seul coloris disponible sur Hardloop au moment de la publication. Le surcoût de 10 € n'est pas justifié pour une pratique très occasionnelle.
-
-**Idéal pour.** Pratiquant régulier, chien de plus de 15 kg, compétition envisagée quelle que soit la fédération.
-
-<a href="https://tidd.ly/4vfDJk9" class="product-card-btn product-card-btn--hardloop" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">Inlandsis Crosstrail 2 → voir sur Hardloop</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/laisse-canicross/inlandsis-crosstrail-2-laisse-canicross.webp" alt="Inlandsis Crosstrail 2" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">29,90 €</span><span class="prc__tag">+15 kg</span></div>
+      <p class="prc__desc">Trois améliorations techniques mesurables sur la Crosser 2 pour 10 € de plus. Amortisseur cousu dans la sangle, mousquetons bronze naval, et configuration double pour une compatibilité toutes fédérations — la seule laisse Inlandsis de cette sélection valide FSLC et FFST.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Amortisseur cousu directement dans la sangle, plus solide</li>
+        <li>Mousquetons bronze naval, résistants à la corrosion et au gel</li>
+        <li>Compatible toutes fédérations (FSLC + FFST) via tête d'alouette</li>
+        <li>Poignée côté chien pour les départs en compétition</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Un seul coloris disponible sur Hardloop au moment de la publication</li>
+        <li>Surcoût non justifié pour une pratique très occasionnelle</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · pratiquant régulier, chien &gt; 15 kg, compétition toutes fédérations</p>
+    <a href="https://tidd.ly/4vfDJk9" class="prc__btn prc__btn--hardloop" target="_blank" rel="nofollow sponsored">Voir sur Hardloop →</a>
+  </div>
+</div>
 
 ---
 
 ## Inlandsis Crosser 2 SD : la laisse canicross pour petit chien
 
-La Crosser 2 SD (Small Dogs) est conçue spécifiquement pour les chiens de moins de 15 kg. Ce n'est pas une version réduite de la Crosser 2 : c'est un produit pensé différemment.
-
-Sur un petit chien, une laisse canicross standard pose deux problèmes concrets. L'amortisseur, calibré pour des masses importantes, reste trop rigide et ne joue pas son rôle d'absorption. Les mousquetons surdimensionnés par rapport au gabarit du chien ajoutent une inertie parasite à chaque changement de direction. La Crosser 2 SD résout les deux : amortisseur de dureté inférieure, mousquetons légers en acier au carbone choisis explicitement par Inlandsis pour réduire ce phénomène.
-
-**Ce qu'on apprécie.** Le seul modèle de la sélection adapté aux petits gabarits sportifs. Longueur en extension à 2 m, conforme FSLC. Même qualité de construction qu'une Crosser 2 standard. 5 coloris.
-
-**Les limites.** La laisse a un mousqueton métallique côté coureur : conforme FSLC, pas FFST en l'état. Disponible principalement sur Amazon, Hardloop étant épuisé au moment de la publication.
-
-**Idéal pour.** Beagle, Jack Russell, Cocker, Border Collie léger, Épagneul breton, Whippet, et tout chien de moins de 15 kg pratiquant le canicross ou la canirando.
-
-<a href="https://amzn.to/4gqkBeH" class="product-card-btn" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">Inlandsis Crosser 2 SD → voir sur Amazon</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/laisse-canicross/laisse-canicross-petit-chien.jpg" alt="Inlandsis Crosser 2 SD" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">21,89 €</span><span class="prc__tag">-15 kg</span></div>
+      <p class="prc__desc">La seule laisse de cette sélection conçue pour les chiens de moins de 15 kg. Pas une Crosser 2 réduite : amortisseur de dureté inférieure et mousquetons légers pensés spécifiquement pour les petits gabarits sportifs.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Seul modèle adapté aux petits gabarits (Beagle, Épagneul, Whippet…)</li>
+        <li>Amortisseur de dureté réduite, mousquetons légers</li>
+        <li>2 m en extension, conforme FSLC</li>
+        <li>5 coloris disponibles</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Mousqueton métallique côté coureur : conforme FSLC, pas FFST</li>
+        <li>Disponible principalement sur Amazon (Hardloop épuisé)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · chien &lt; 15 kg, canicross ou canirando loisir</p>
+    <a href="https://amzn.to/4gqkBeH" class="prc__btn" target="_blank" rel="nofollow sponsored">Voir sur Amazon →</a>
+  </div>
+</div>
 
 ---
 
 ## I-Dog ONE : la longe canicross compatible toutes fédérations
 
-I-Dog (marque de Cano-Concept) est la principale marque française concurrente d'Inlandsis sur le segment du sport canin de traction. La longe ONE est leur modèle canicross, conforme aux exigences des fédérations de canicross, avec une longueur en extension de 200 cm. Elle est sans mousqueton métallique côté coureur, ce qui la rend compatible FSLC et FFST.
-
-La différence technique principale par rapport à la Crosser 2 : les mousquetons sont pivotants côté chien. Ce système permet à la laisse de suivre la trajectoire du chien sans accumulation de torsion dans la sangle. L'amortisseur est de conception différente, rond dans une sangle tubulaire plutôt qu'inséré à plat comme sur les Inlandsis. Les deux approches fonctionnent, c'est une préférence technique.
-
-Un point d'entretien à connaître avant d'acheter : l'amortisseur est intégré dans un nœud qui ne doit pas être défait. Si ce nœud se défait accidentellement, il faut réintroduire l'élastique dans la sangle et refaire le nœud. Le lavage se fait à l'eau savonneuse à la main, pas en machine.
-
-**Ce qu'on apprécie.** Au même prix que la Crosser 2, avec des mousquetons pivotants et une compatibilité toutes fédérations. Option naturelle si le reste de l'équipement est déjà en écosystème I-Dog.
-
-**Les limites.** Lavage à l'eau savonneuse uniquement, moins pratique que le lavage machine des Inlandsis. Le nœud de l'amortisseur requiert une vigilance à l'entretien.
-
-**Idéal pour.** Pratique loisir ou compétition toutes fédérations, chien de plus de 15 kg. Coureur dont le harnais ou le baudrier est déjà de marque I-Dog.
-
-<a href="https://amzn.to/3SLJZlb" class="product-card-btn" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">I-Dog ONE → voir sur Amazon</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/laisse-canicross/i-dog-laisse-cani-cross.jpg" alt="I-Dog ONE" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">19,90 €</span><span class="prc__tag">+15 kg</span></div>
+      <p class="prc__desc">La principale alternative française à Inlandsis sur le sport canin de traction. Même prix que la Crosser 2, mousquetons pivotants côté chien, et compatible FSLC et FFST sans modification.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Compatible toutes fédérations sans modification</li>
+        <li>Mousquetons pivotants : pas d'accumulation de torsion</li>
+        <li>Même prix que la Crosser 2 (19,90 €)</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Lavage à l'eau savonneuse uniquement, pas en machine</li>
+        <li>Nœud de l'amortisseur requiert une vigilance à l'entretien</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · loisir ou compétition toutes fédérations, chien &gt; 15 kg</p>
+    <a href="https://amzn.to/3SLJZlb" class="prc__btn" target="_blank" rel="nofollow sponsored">Voir sur Amazon →</a>
+  </div>
+</div>
 
 ---
 
 ## Quelle laisse canicross choisir selon votre chien et votre pratique ?
 
-**Votre chien est petit (moins de 15 kg) :** Crosser 2 SD. C'est le seul modèle de cette sélection adapté aux petits gabarits. Une laisse standard ne fonctionnera pas correctement avec un Beagle ou un Épagneul.
+**Votre chien est petit (moins de 15 kg).** La Crosser 2 SD est le seul modèle de cette sélection adapté aux petits gabarits : une laisse standard, calibrée pour des masses importantes, ne fonctionnera pas correctement avec un Beagle ou un Épagneul. <a href="https://amzn.to/4gqkBeH" class="text-cta" target="_blank" rel="nofollow sponsored">voir la Crosser 2 SD →</a>
 
-**Vous débutez avec un chien de plus de 15 kg :** Crosser 2. Elle fait le travail, elle est conforme FSLC, et elle s'intègre sans difficulté dans un pack débutant Inlandsis si vous choisissez la même marque pour le harnais et le baudrier.
+**Vous débutez avec un chien de plus de 15 kg.** La Crosser 2 fait le travail, elle est conforme FSLC et s'intègre sans difficulté dans un pack débutant Inlandsis si vous choisissez la même marque pour le harnais et le baudrier. <a href="https://tidd.ly/4a6yc7b" class="text-cta" target="_blank" rel="nofollow sponsored">voir la Crosser 2 →</a>
 
-**Vous courez régulièrement ou la compétition est un objectif :** Crosstrail 2. L'amortisseur cousu et les mousquetons bronze naval se justifient sur la durée. La compatibilité toutes fédérations garde toutes les options ouvertes.
+**Vous courez régulièrement ou la compétition est un objectif.** La Crosstrail 2 : l'amortisseur cousu et les mousquetons bronze naval se justifient sur la durée, et la compatibilité toutes fédérations garde toutes les options ouvertes. <a href="https://tidd.ly/4vfDJk9" class="text-cta" target="_blank" rel="nofollow sponsored">voir la Crosstrail 2 →</a>
 
-**Vous avez déjà du matériel I-Dog, ou vous envisagez d'autres disciplines que le canicross :** I-Dog ONE. Compatible toutes fédérations, mousquetons pivotants, même prix que la Crosser 2. La fixation côté coureur se fait directement sur l'anneau du baudrier sans mousqueton métallique.
+**Vous avez déjà du matériel I-Dog, ou vous envisagez d'autres disciplines que le canicross.** L'I-Dog ONE est compatible toutes fédérations, ses mousquetons sont pivotants, et elle est au même prix que la Crosser 2. La fixation côté coureur se fait directement sur l'anneau du baudrier, sans mousqueton métallique. <a href="https://amzn.to/3SLJZlb" class="text-cta" target="_blank" rel="nofollow sponsored">voir l'I-Dog ONE →</a>
 
 ---
 

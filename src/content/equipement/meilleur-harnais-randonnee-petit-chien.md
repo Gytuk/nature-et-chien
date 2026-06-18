@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Meilleur harnais de randonnée pour petit chien : comparatif 2026"
 description: "Quel harnais pour un petit chien en randonnée ? Comparatif 2026 pour Jack Russell, Teckel, Bichon, Cavalier, Chihuahua, etc. Critères, limites documentées et guide des tailles pour les gabarits de moins de 10 kg."
 publishDate: 2026-05-28
@@ -104,49 +104,113 @@ Un petit chien en randonnée n'est pas un chien miniature qu'on porte. Il marche
 
 ## Hurtta Casual Y-Harness : la référence pour les peaux sensibles
 
-Le Hurtta est le seul des trois dont **les sangles sont en néoprène à section ronde**, pas plates. Sur les chiens à poil ras ou à peau fine (Jack Russell, Chihuahua, Beagle), cette construction **élimine les irritations aux aisselles** qui apparaissent sur les longues sorties avec un harnais classique. Un problème réel que les deux autres modèles ne traitent pas de la même façon.
-
-**La mise en place se fait sans lever les pattes**, via une boucle latérale. Les bandes réfléchissantes sont certifiées 3M. Il passe en machine.
-
-**Ce qu'on apprécie.** Le rembourrage néoprène des sangles est concret et différenciant. La disponibilité en **très petites tailles (T0 pour un tour de poitrail dès 30 cm)** couvre les gabarits de moins de 5 kg. Le prix est accessible.
-
-**Les limites.** Il n'a **qu'un seul point d'attache, frontal**. Pas de dorsal : certaines laisses et longes ne sont pas compatibles. Pas de poignée dorsale non plus. **Le néoprène retient plus la chaleur** que le ripstop en été, ce qui peut incommoder les chiens lors des grosses chaleurs.
-
-**Idéal pour.** Un petit chien à peau sensible ou à poil ras, sur des sorties régulières toutes saisons, avec un budget raisonnable.
-
-<a href="https://amzn.to/4fHltLC" class="product-card-btn" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">Hurtta Casual Y-Harness → voir sur Amazon</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/harnais-petit-chien/hurtta.jpg" alt="Hurtta Casual Y-Harness" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">31,99 €</span><span class="prc__tag">Peau sensible</span></div>
+      <p class="prc__desc">Le seul des trois dont les sangles sont en néoprène à section ronde, pas plates. Sur les chiens à poil ras ou à peau fine (Jack Russell, Chihuahua, Beagle), cette construction élimine les irritations aux aisselles sur les longues sorties. Mise en place sans lever les pattes, bandes réfléchissantes certifiées 3M, lavable en machine.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Sangles néoprène rondes : élimine les irritations aux aisselles sur les longues sorties</li>
+        <li>Très petites tailles disponibles (T0, tour de poitrail dès 30 cm)</li>
+        <li>Prix accessible, mise en place sans lever les pattes</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Un seul point d'attache, frontal : pas de dorsal, certaines laisses et longes incompatibles</li>
+        <li>Pas de poignée dorsale</li>
+        <li>Néoprène retient plus la chaleur que le ripstop en été</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · petit chien à peau sensible ou à poil ras, sorties régulières toutes saisons, budget raisonnable</p>
+    <a href="https://amzn.to/4fHltLC" class="prc__btn" target="_blank" rel="nofollow sponsored">Voir sur Amazon →</a>
+  </div>
+</div>
 
 ---
 
 ## Ruffwear Hi & Light : le choix pour les très petits gabarits et l'été
 
-Le Hi & Light est le harnais Y le plus minimaliste de la gamme Ruffwear. Son matériau ripstop 150D avec doublure gaufrée imperméable aux débris le rend respirant et facile à entretenir. Il dispose de deux points d'attache (dorsal et frontal) et d'une poche ID intégrée, utile pour une médaille ou une fiche de contact en randonnée.
-
-**Son avantage décisif sur ce segment : les tailles commencent au XXXS**, soit un tour de poitrail dès **23 cm**. C'est le seul des trois à couvrir des gabarits aussi petits. Deux points d'attache permettent de varier les configurations de laisse.
-
-**Ce qu'on apprécie.** Ultra-léger, respirant, **disponible dans des tailles introuvables ailleurs**. La poche ID est un vrai plus sur les sorties en milieu naturel. L'entretien est minimal.
-
-**Les limites.** Pas de rembourrage. Sur les longues sorties ou pour les chiens à peau fine, ce peut être inconfortable selon le gabarit. Plusieurs avis terrain signalent que **le harnais peut paraître légèrement grand** malgré une mensuration correcte : en cas d'hésitation entre deux tailles, **prendre la plus petite**.
-
-**Idéal pour.** Un chien de moins de 5 kg ou un chien actif dont la priorité est la légèreté et la respirabilité, notamment en été.
-
-<a href="https://tidd.ly/4dBZBQz" class="product-card-btn product-card-btn--hardloop" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">Ruffwear Hi &amp; Light → voir sur Hardloop</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/harnais-petit-chien/ruffwear-hi-and-light-harness-harnais-pour-chien.webp" alt="Ruffwear Hi & Light" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">59,90 €</span><span class="prc__tag">Légèreté & été</span></div>
+      <p class="prc__desc">Harnais Y minimaliste en ripstop 150D avec doublure gaufrée imperméable aux débris. Respirant et facile à entretenir. Deux points d'attache (dorsal et frontal), poche ID intégrée. Tailles du XXXS (tour de poitrail dès 23 cm) au L/XL, le seul des trois à couvrir des gabarits aussi petits.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Tailles démarrant au XXXS (dès 23 cm de tour de poitrail) : introuvable ailleurs</li>
+        <li>Ultra-léger et respirant, sèche rapidement</li>
+        <li>Deux points d'attache, poche ID intégrée</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Pas de rembourrage : peut être inconfortable sur les longues sorties pour les chiens à peau fine</li>
+        <li>Peut paraître légèrement grand malgré une mensuration correcte : prendre la taille inférieure en cas de doute</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · chien de moins de 5 kg ou actif dont la priorité est légèreté et respirabilité, notamment en été</p>
+    <a href="https://tidd.ly/4dBZBQz" class="prc__btn prc__btn--hardloop" target="_blank" rel="nofollow sponsored">Voir sur Hardloop →</a>
+  </div>
+</div>
 
 ---
 
 ## Non-stop Dogwear Ramble : le plus complet pour le terrain
 
-Le Ramble est **le seul des trois avec une poignée dorsale fonctionnelle**. Sur les passages techniques, une main sur la poignée permet de stabiliser ou d'assister le chien sans forcer sur la laisse. Il dispose aussi de **trois points d'attache : dorsal, ventral et frontal**. Le point ventral, moins courant, est conçu pour la longe de pistage.
-
-La construction associe du ripstop extérieur, une **mousse cellulaire fermée imperméable** et des renforts Hypalon sur les zones d'usure. **Les clips Duraflex sont remplaçables.** Le réglage est indépendant au niveau du cou et du poitrail, ce qui est utile pour les morphologies atypiques. En taille XS, le poids est confirmé à **93 g**.
-
-**Ce qu'on apprécie.** La poignée dorsale est la vraie différence dans cette sélection. Le niveau de réglabilité et la durabilité des matériaux sont supérieurs aux deux autres modèles sur terrain abrasif ou humide. Les clips remplaçables prolongent la durée de vie du harnais.
-
-**Les limites.** Les sangles à sliplock (glissière) peuvent se desserrer progressivement lors d'un usage intensif. Plusieurs avis le signalent : **vérifier le réglage après chaque sortie**, surtout les premières fois. Pas de poche ID.
-
-**Idéal pour.** Un petit chien actif sur des terrains variés ou techniques, et pour les propriétaires qui veulent un équipement conçu pour durer plusieurs saisons.
-
-<a href="https://tidd.ly/4dOdGcb" class="product-card-btn product-card-btn--hardloop" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">Non-stop Dogwear Ramble → voir sur Hardloop</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/harnais-petit-chien/non-stop-dogwear-ramble-harness-harnais-pour-chien.webp" alt="Non-stop Ramble" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">56,90 €</span><span class="prc__tag">Terrain technique</span></div>
+      <p class="prc__desc">Le seul des trois avec une poignée dorsale fonctionnelle. Trois points d'attache (dorsal, ventral, frontal), mousse cellulaire fermée imperméable, renforts Hypalon sur les zones d'usure. Réglage indépendant cou et poitrail. Poids confirmé à 93 g en taille XS.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Poignée dorsale pour stabiliser ou assister le chien sur les passages techniques</li>
+        <li>Trois points d'attache dont un ventral pour la longe de pistage</li>
+        <li>Mousse cellulaire fermée imperméable, renforts Hypalon, clips remplaçables</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Sangles à sliplock pouvant se desserrer en usage intensif : vérifier le réglage après chaque sortie</li>
+        <li>Pas de poche ID</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · petit chien actif sur terrains variés ou techniques, propriétaires voulant un équipement conçu pour durer plusieurs saisons</p>
+    <a href="https://tidd.ly/4dOdGcb" class="prc__btn prc__btn--hardloop" target="_blank" rel="nofollow sponsored">Voir sur Hardloop →</a>
+  </div>
+</div>
 
 ---
 
@@ -207,4 +271,3 @@ Pour le Ruffwear Hi & Light et le Non-stop Ramble, Hardloop intègre un guide de
   </details>
 
 </div>
-

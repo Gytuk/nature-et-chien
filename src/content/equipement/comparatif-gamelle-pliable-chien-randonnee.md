@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Meilleure gamelle pliable pour chien en randonnée : comparatif 2026"
 description: "Comparatif des meilleures gamelles pliables pour chien en randonnée : silicone petit budget, tissu polyvalent, ultraléger trail. Quel modèle selon votre usage ?"
 publishDate: 2026-05-04
@@ -110,61 +110,155 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
 
 ## SLSON silicone : le choix petit budget
 
-SLSON est l'une des marques les plus vendues dans la catégorie gamelles de voyage sur Amazon France. Les modèles sont disponibles **en lot de 2**, en silicone alimentaire, avec mousqueton intégré. La profondeur est réglable selon la quantité à servir. Les avis clients sont **solides sur la compacité et la facilité de nettoyage**.
-
-**Ce qu'on apprécie.** Le prix est très bas pour deux gamelles, une pour l'eau et une pour les croquettes. Le silicone alimentaire passe en machine, la profondeur est réglable selon les besoins et l'encombrement est minimal : plate à quelques millimètres une fois pliée. Le mousqueton permet de l'accrocher au sac ou à la laisse.
-
-**Les limites.** Le mousqueton fourni est en plastique léger. Plusieurs avis signalent une rupture après un usage intensif en trekking, il vaut mieux prévoir un mousqueton de remplacement si vous l'utilisez quotidiennement. Le silicone peut légèrement retenir les odeurs après plusieurs semaines d'utilisation, un trempage au bicarbonate de soude y remédie. La stabilité est bonne sur sol plat, moins assurée sur terrain irrégulier pour les chiens qui boivent rapidement.
-
-**Verdict.** Le choix logique pour commencer ou pour avoir une gamelle de secours légère. La version 1 000 ml convient parfaitement pour les grands gabarits. Vérifiez le mousqueton régulièrement si vous l'accrochez en extérieur de sac.
-
-<a href="https://amzn.to/4cRxVH0" class="product-card-btn" style="display:inline-block;margin:0.5rem 0.5rem 1.5rem 0;" target="_blank" rel="nofollow sponsored">SLSON 350 ml → voir sur Amazon</a>
-<a href="https://amzn.to/4ncBpHF" class="product-card-btn" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">SLSON 1 000 ml → voir sur Amazon</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/gamelle-pliable/slson-silicone.png" alt="SLSON silicone" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">9–14 €</span><span class="prc__tag">Petit budget</span></div>
+      <p class="prc__desc">Vendu en lot de 2 en silicone alimentaire avec mousqueton intégré. La profondeur est réglable selon la quantité à servir. Plate à quelques millimètres une fois pliée. Une pour l'eau, une pour les croquettes.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Lot de 2 : une pour l'eau, une pour les croquettes</li>
+        <li>Profondeur réglable, passe en machine, encombrement minimal</li>
+        <li>Mousqueton pour accrocher au sac ou à la laisse</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Mousqueton en plastique léger : rupture signalée en trekking intensif, prévoir un remplacement</li>
+        <li>Le silicone peut légèrement retenir les odeurs après plusieurs semaines</li>
+        <li>Moins stable sur terrain irrégulier pour les chiens qui boivent rapidement</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · démarrer ou avoir une gamelle de secours légère, petits à moyens gabarits</p>
+    <a href="https://amzn.to/4cRxVH0" class="prc__btn" target="_blank" rel="nofollow sponsored">Amazon 350 ml →</a>
+    <a href="https://amzn.to/4ncBpHF" class="prc__btn" target="_blank" rel="nofollow sponsored">Amazon 1 000 ml →</a>
+  </div>
+</div>
 
 ---
 
 ## OHMO silicone : la gamelle grande contenance bien finie
 
-OHMO se distingue des autres gamelles silicone par l'absence de bord en plastique rigide : **la gamelle est moulée en silicone d'une seule pièce**, ce qui simplifie l'entretien et réduit les points de fragilité. Le modèle **1 L** est l'un des rares à couvrir les besoins des grands gabarits dans cette gamme de prix.
-
-**Ce qu'on apprécie.** La construction en silicone d'une seule pièce élimine le bord plastique susceptible de se fissurer. La version 1 L est adaptée aux chiens de 25 kg et plus. La profondeur est réglable, elle est compatible eau et croquettes, et passe au lave-vaisselle. Les avis clients sont positifs sur la stabilité et la qualité du silicone.
-
-**Les limites.** Les avis sont partagés sur le pliage après plusieurs mois : certains modèles ne reprennent plus leur forme plate avec le temps. Le mousqueton reste un point faible commun aux gamelles silicone, à surveiller régulièrement.
-
-**Verdict.** La meilleure option silicone pour les grands chiens. Le format 1 L en une pièce moulée est un vrai avantage sur les modèles à bord plastique. À privilégier si vous cherchez la contenance sans le prix des gamelles en tissu.
-
-<a href="https://amzn.to/3OM1TTz" class="product-card-btn" style="display:inline-block;margin:0.5rem 0.5rem 1.5rem 0;" target="_blank" rel="nofollow sponsored">OHMO 400 ml → voir sur Amazon</a>
-<a href="https://amzn.to/4cVvFNq" class="product-card-btn" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">OHMO 1 L → voir sur Amazon</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/gamelle-pliable/ohmo-silicone.png" alt="OHMO silicone" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">12–18 €</span><span class="prc__tag">Grande contenance</span></div>
+      <p class="prc__desc">Moulée en silicone d'une seule pièce, sans bord en plastique rigide. Simplifie l'entretien et réduit les points de fragilité. Le format 1 L est l'un des rares à couvrir les besoins des grands gabarits dans cette gamme de prix. Compatible eau et croquettes, passe au lave-vaisselle.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Construction en silicone d'une seule pièce : pas de bord plastique susceptible de se fissurer</li>
+        <li>Format 1 L adapté aux chiens de 25 kg et plus</li>
+        <li>Profondeur réglable, compatible eau et croquettes, lave-vaisselle</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Certains modèles ne reprennent plus leur forme plate avec le temps selon les avis</li>
+        <li>Mousqueton reste un point faible commun aux gamelles silicone, à surveiller</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · grands chiens nécessitant une grande contenance, meilleure option silicone sans bord plastique</p>
+    <a href="https://amzn.to/3OM1TTz" class="prc__btn" target="_blank" rel="nofollow sponsored">Amazon 400 ml →</a>
+    <a href="https://amzn.to/4cVvFNq" class="prc__btn" target="_blank" rel="nofollow sponsored">Amazon 1 L →</a>
+  </div>
+</div>
 
 ---
 
 ## Ruffwear Trail Runner : l'ultraléger pour optimiser chaque gramme
 
-La Trail Runner est la gamelle de Ruffwear pensée pour ceux qui comptent leurs grammes. **20 grammes sur la balance**, soit cinq fois moins que la Quencher pour une contenance identique d'un litre. C'est la gamelle à glisser dans une poche de veste ou en fond de sac sans y penser.
-
-La construction repose sur un **polyester 100 %** avec doublure nylon 210 deniers et finition imperméable 2 000 mm. La fermeture est assurée par une pression Duraflex (la même marque que sur les harnais Ruffwear), ce qui garantit une bonne tenue dans le sac sans ouverture accidentelle. Un coup de chiffon suffit pour l'entretien entre deux sorties.
-
-**Ce qu'on apprécie.** Le poids de 20 g est difficile à battre dans la catégorie gamelle pliable 1 L. Elle convient à tous les gabarits selon Ruffwear, du petit terrier au grand berger. La fermeture Duraflex est plus fiable que les mousquetons plastique des gamelles silicone bon marché. Disponible sur Hardloop à 21,90 €.
-
-**Les limites.** La finition imperméable à 2 000 mm est inférieure aux 4 000 mm de la Quencher, suffisant pour les conditions normales, moins adapté aux sorties très humides répétées. La construction plus légère signifie des parois moins rigides : les chiens vigoureux qui boivent vite la déstabiliseront plus facilement. Il n'y a qu'une seule taille disponible (1 L).
-
-**Verdict.** Le choix évident pour les randonneurs trail et les trekkeurs plusieurs jours qui optimisent leur sac. Si chaque gramme compte et que vous partez avec une poche à eau pour l'apport en eau, la Trail Runner à 20 g fait exactement le travail sans surcharger le sac. Pour un usage polyvalent toutes conditions avec un chien qui tire sur la gamelle, la Quencher reste plus adaptée.
-
-<a href="https://tidd.ly/4344E6c" class="product-card-btn product-card-btn--hardloop" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">Ruffwear Trail Runner → voir sur Hardloop</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/gamelle-pliable/ruffwear-trail-runner-gamelle-pour-chien.webp" alt="Ruffwear Trail Runner" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">21,90 €</span><span class="prc__tag">Légèreté trail</span></div>
+      <p class="prc__desc">La gamelle la plus légère de la sélection : 20 grammes pour 1 litre de contenance. Polyester 100 % avec doublure nylon 210 deniers et finition imperméable 2 000 mm. Fermeture à pression Duraflex, plus fiable que les mousquetons plastique des gamelles silicone bon marché.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>20 g pour 1 L, difficile à battre dans la catégorie gamelle pliable</li>
+        <li>Fermeture Duraflex fiable, pas d'ouverture accidentelle dans le sac</li>
+        <li>Convient à tous les gabarits selon Ruffwear</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Finition imperméable 2 000 mm inférieure aux 4 000 mm de la Quencher</li>
+        <li>Parois légères moins stables : les chiens vigoureux qui boivent vite la déstabiliseront plus facilement</li>
+        <li>Une seule taille disponible (1 L)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · randonneurs trail et trekkeurs plusieurs jours qui optimisent chaque gramme de leur sac</p>
+    <a href="https://tidd.ly/4344E6c" class="prc__btn prc__btn--hardloop" target="_blank" rel="nofollow sponsored">Voir sur Hardloop →</a>
+  </div>
+</div>
 
 ---
 
 ## Ruffwear Quencher : la polyvalente toutes conditions
 
-La Quencher est la gamelle de référence de Ruffwear pour la randonnée et le voyage. **Extérieur en polyester 600 deniers, doublure intérieure en nylon 210 deniers avec finition imperméable 4 000 mm**, c'est la construction la plus robuste de cette sélection. Ruffwear propose la Quencher en plusieurs tailles ; la taille M (1 L, 100 g) est disponible sur Hardloop à 25,25 €.
-
-**Ce qu'on apprécie.** La doublure imperméable de qualité alimentaire convient pour l'eau et la nourriture sèche ou humide. La finition imperméable à 4 000 mm est la plus élevée de la sélection : la gamelle résiste aux éclaboussures, à l'humidité du terrain et aux conditions dégradées. La durabilité est prouvée sur plusieurs années d'après les avis clients. Lavable en machine sur cycle délicat.
-
-**Les limites.** Elle est plus encombrante que les gamelles silicone une fois pliée. Certains avis signalent que les parois s'affaissent légèrement si le chien est vigoureux, mieux vaut la tenir à la main sur les pauses courtes. Son prix est plus élevé que les alternatives silicone.
-
-**Verdict.** La gamelle à acheter si vous voulez un produit qui dure plusieurs saisons et fonctionne en toutes conditions. Pour les randonneurs qui sortent régulièrement par tous les temps, la construction 4 000 mm et la qualité des matériaux justifient l'écart de prix face au silicone.
-
-<a href="https://tidd.ly/49stPCZ" class="product-card-btn product-card-btn--hardloop" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">Ruffwear Quencher Bowl → voir sur Hardloop</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/gamelle-pliable/ruffwear-quencher.png" alt="Ruffwear Quencher" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">25,25 €</span><span class="prc__tag">Toutes conditions</span></div>
+      <p class="prc__desc">La gamelle de référence Ruffwear pour la randonnée. Extérieur polyester 600 deniers, doublure intérieure nylon 210 deniers avec finition imperméable 4 000 mm, la construction la plus robuste de la sélection. Convient pour l'eau et la nourriture sèche ou humide. Lavable en machine sur cycle délicat.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Finition imperméable 4 000 mm : résiste aux éclaboussures, humidité et conditions dégradées</li>
+        <li>Doublure de qualité alimentaire pour l'eau et la nourriture</li>
+        <li>Durabilité prouvée sur plusieurs années selon les avis clients</li>
+        <li>Lavable en machine sur cycle délicat</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Plus encombrante que les gamelles silicone une fois pliée</li>
+        <li>Parois peuvent s'affaisser si le chien est vigoureux : tenir à la main pendant la pause</li>
+        <li>Prix plus élevé que les alternatives silicone</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · randonneurs sortant régulièrement par tous les temps, investissement durable sur plusieurs saisons</p>
+    <a href="https://tidd.ly/49stPCZ" class="prc__btn prc__btn--hardloop" target="_blank" rel="nofollow sponsored">Voir sur Hardloop →</a>
+  </div>
+</div>
 
 ---
 

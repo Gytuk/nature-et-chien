@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Meilleure poche à eau pour chien en randonnée : comparatif 2026"
 description: "Comparatif des meilleures poches à eau pour hydrater son chien en randonnée : bouteille souple budget, réservoir intermédiaire, réservoir premium. Quel système selon votre profil ?"
 publishDate: 2026-05-04
@@ -104,44 +104,116 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
 
 ## Platypus Platy 2L : idéal pour le randonneur qui veut de la réserve sans complications
 
-La Platypus Platy est une bouteille souple sans tuyau. Elle se plie à plat quand elle est vide, quelques millimètres d'épaisseur, et **s'ouvre en grand pour se remplir facilement à n'importe quelle source**. Sur le sentier : on la sort du sac, on verse dans la gamelle, le chien boit. Pas de tuyau, pas de valve, pas de compatibilité sac à vérifier. La marque Platypus fabrique ses produits aux États-Unis **depuis plus de 20 ans** et est reconnue pour la durabilité et la neutralité de goût de ses matériaux.
-
-**Ce qu'on apprécie.** **À 37 g**, c'est l'option la plus légère de cette sélection par un large écart. Le polyéthylène est sans BPA, sans BPS et sans phtalates, et ne retient pas les goûts selon les avis clients. Elle se glisse dans n'importe quelle poche ou compartiment, y compris les sacs sans système d'hydratation dédié. **Plusieurs utilisateurs l'ont au fond du sac depuis des années sans problème de fuite.** Son prix est remarquablement bas pour une marque sérieuse avec **garantie à vie**.
-
-**Les limites.** Sans tuyau, elle demande **un arrêt complet pour verser dans la gamelle**. Ce n'est pas un problème pour le chien, qui a besoin d'une vraie pause de toute façon. Pour vous hydrater en marchant, il faudra un autre contenant. **Elle n'est pas isotherme** et l'eau se réchauffe dans le sac par forte chaleur.
-
-**Verdict.** La solution la plus simple et la moins chère pour avoir un grand volume d'eau disponible. Le bon achat pour qui veut une réserve d'appoint légère, qui randonne avec un sac classique sans compartiment hydratation, ou qui teste le format avant d'investir dans un réservoir avec tuyau.
-
-<a href="https://amzn.to/4w7iKAW" class="product-card-btn" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">Platypus Platy 2L → voir sur Amazon</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/poche-a-eau/platypus-platy-2l.png" alt="Platypus Platy 2L" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">16–20 €</span><span class="prc__tag">Réserve légère</span></div>
+      <p class="prc__desc">Bouteille souple sans tuyau qui se plie à plat quand elle est vide, quelques millimètres d'épaisseur. S'ouvre en grand pour se remplir facilement à n'importe quelle source. Polyéthylène sans BPA, sans BPS et sans phtalates, ne retient pas les goûts selon les avis clients.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>37 g à vide, l'option la plus légère de la sélection par un large écart</li>
+        <li>Sans BPA, sans BPS et sans phtalates, ne retient pas les goûts</li>
+        <li>Se glisse dans n'importe quelle poche, même les sacs sans système d'hydratation dédié</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Sans tuyau : arrêt complet nécessaire pour verser dans la gamelle</li>
+        <li>Pas isotherme : l'eau se réchauffe dans le sac par forte chaleur</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · réserve d'appoint légère, sac classique sans compartiment hydratation, ou test du format avant d'investir dans un réservoir avec tuyau</p>
+    <a href="https://amzn.to/4w7iKAW" class="prc__btn" target="_blank" rel="nofollow sponsored">Voir sur Amazon →</a>
+  </div>
+</div>
 
 ---
 
 ## HydraPak Shape-Shift 2L : idéal pour le randonneur régulier qui veut un tuyau sans payer le prix premium
 
-La HydraPak Shape-Shift est un réservoir souple avec tuyau et valve bite. Sa particularité principale est d'**être entièrement réversible** : on la retourne comme une chaussette pour la faire sécher ou la nettoyer en profondeur, ce qui règle le point faible habituel des réservoirs avec tuyau. Un séparateur interne permet d'utiliser **1,5 L au lieu de 2 L** pour limiter le ballottement quand on ne remplit pas complètement. Sans BPA et sans PVC, compatible congélateur et eau chaude jusqu'à **60°C**. Fournie avec un clip magnétique pour fixer le tuyau à la bretelle.
-
-**Ce qu'on apprécie.** **Le système réversible est un vrai avantage pratique.** Le tuyau se désolidarise facilement du réservoir pour le nettoyage. L'ouverture Slide Seal est large et simple à utiliser. Elle s'intègre dans la plupart des sacs compatibles avec un compartiment d'hydratation. Le clip magnétique inclus est un plus pour fixer le tuyau sans se battre.
-
-**Les limites.** Les avis Amazon France sont partagés sur la durabilité à long terme. **Des fuites au niveau de la valve sont signalées** sur certaines unités après plusieurs mois d'usage intensif. Quelques utilisateurs rapportent un goût de plastique persistant sur le tuyau malgré le rinçage. Le séparateur interne zipable, utile en théorie, est peu pratique à manipuler selon plusieurs avis. **La contenance utile avec séparateur verrouillé est d'environ 1,5 L, pas 2 L.**
-
-**Verdict.** Un produit correct pour un usage régulier, à condition de vérifier l'état de la valve à réception. La réversibilité est un avantage réel sur le nettoyage. Si vous partez plusieurs fois par semaine ou prévoyez plusieurs saisons d'usage intensif, le CamelBak Crux justifie son léger surcoût par une fiabilité nettement supérieure.
-
-<a href="https://amzn.to/4ta5Eju" class="product-card-btn" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">HydraPak Shape-Shift 2L → voir sur Amazon</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/poche-a-eau/hydrapak-shape-shift-2l.png" alt="HydraPak Shape-Shift 2L" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">35–40 €</span><span class="prc__tag">Tuyau intermédiaire</span></div>
+      <p class="prc__desc">Réservoir souple avec tuyau et valve bite, entièrement réversible : se retourne comme une chaussette pour le séchage et le nettoyage en profondeur. Séparateur interne pour utiliser 1,5 L au lieu de 2 L. Sans BPA et sans PVC, compatible congélateur et eau chaude jusqu'à 60 °C.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Système réversible : se retourne pour séchage et nettoyage en profondeur</li>
+        <li>Tuyau détachable, clip magnétique inclus pour fixer à la bretelle</li>
+        <li>Ouverture Slide Seal large et simple à utiliser</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Fuites au niveau de la valve signalées sur certaines unités après usage intensif</li>
+        <li>Goût de plastique persistant sur le tuyau selon certains avis malgré le rinçage</li>
+        <li>Séparateur interne peu pratique à manipuler, contenance utile d'environ 1,5 L avec séparateur verrouillé</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · randonneur régulier souhaitant un tuyau sans surcoût premium</p>
+    <a href="https://amzn.to/4ta5Eju" class="prc__btn" target="_blank" rel="nofollow sponsored">Voir sur Amazon →</a>
+  </div>
+</div>
 
 ---
 
 ## CamelBak Crux 2L : idéal pour un usage régulier et intensif sur plusieurs saisons
 
-Le CamelBak Crux est la référence fiabilité du marché. La **technologie Hydroguard inhibe la croissance bactérienne** sur le plastique et le tuyau, ce qui prolonge le temps entre deux nettoyages et améliore l'hygiène sur les sorties longues. Le levier on/off sur le tuyau coupe l'arrivée d'eau d'une main, sans manipuler la valve. La Big Bite Valve se referme automatiquement après chaque gorgée. Bouchon ergonomique avec poignée pour remplir facilement même sac chargé. Sans BPA, BPS et BPF. **Garanti à vie.**
-
-**Ce qu'on apprécie.** La fiabilité est la qualité centrale : **aucune fuite signalée** dans les avis, matériaux robustes qui résistent à plusieurs années d'usage intensif. La technologie Hydroguard est un avantage réel pour l'hygiène, notamment sur les sorties de plusieurs jours ou en plein été. Le levier on/off évite les dégâts en cas de chute du sac. Les avis clients français convergent sur l'absence de goût plastique et la facilité de nettoyage grâce au tuyau détachable. La garantie à vie rassure pour **un investissement de 35 à 45 €**. Disponible en version 3L pour les grands gabarits ou les journées sans point de ravitaillement.
-
-**Les limites.** C'est le produit le plus lourd de la sélection à vide. Il nécessite un sac avec compartiment hydratation dédié et passage pour le tuyau. Le nettoyage du tuyau demande un goupillon fin, à prévoir séparément ou via le kit CamelBak.
-
-**Verdict.** Le meilleur choix pour qui sort régulièrement avec un chien de gabarit moyen à grand, plusieurs fois par mois. La fiabilité et l'Hydroguard justifient l'écart de prix sur la durée. Le 2L couvre les besoins de la majorité des profils sur une journée. Pour un chien de plus de 25 kg ou les sorties sans point de ravitaillement, la version 3L est disponible.
-
-<a href="https://amzn.to/48KgFB0" class="product-card-btn" style="display:inline-block;margin:0.5rem 0.5rem 1.5rem 0;" target="_blank" rel="nofollow sponsored">CamelBak Crux 2L → voir sur Amazon</a>
-<a href="https://www.amazon.fr/CAMELBAK-Crux-3-litres-Court/dp/B07QNMCF8Z?tag=natureetchien-21" class="product-card-btn" style="display:inline-block;margin:0.5rem 0 1.5rem;" target="_blank" rel="nofollow sponsored">CamelBak Crux 3L → voir sur Amazon</a>
+<div class="prc">
+  <div class="prc__top">
+    <div class="prc__img-wrap">
+      <img src="/images/equipement/poche-a-eau/camelbak-crux-2l.png" alt="CamelBak Crux 2L" loading="lazy">
+    </div>
+    <div class="prc__info">
+      <div class="prc__price"><span class="prc__price-val">35–45 €</span><span class="prc__tag">Fiabilité longue durée</span></div>
+      <p class="prc__desc">La référence fiabilité du marché. Technologie Hydroguard qui inhibe la croissance bactérienne sur le plastique et le tuyau. Levier on/off sur le tuyau, Big Bite Valve qui se referme automatiquement. Sans BPA, BPS et BPF. Disponible en version 3L pour les grands gabarits ou les journées sans point de ravitaillement.</p>
+    </div>
+  </div>
+  <div class="prc__pros-cons">
+    <div class="prc__pros">
+      <div class="prc__col-label">On apprécie</div>
+      <ul>
+        <li>Aucune fuite signalée dans les avis, matériaux robustes sur plusieurs années d'usage intensif</li>
+        <li>Technologie Hydroguard : hygiène supérieure, moins de nettoyage entre deux sorties</li>
+        <li>Levier on/off évite les dégâts en cas de chute du sac</li>
+        <li>Absence de goût plastique confirmée par les avis clients français</li>
+      </ul>
+    </div>
+    <div class="prc__cons">
+      <div class="prc__col-label">Les limites</div>
+      <ul>
+        <li>Le produit le plus lourd de la sélection à vide</li>
+        <li>Nécessite un sac avec compartiment hydratation dédié et passage pour le tuyau</li>
+        <li>Nettoyage du tuyau demande un goupillon fin à prévoir séparément</li>
+      </ul>
+    </div>
+  </div>
+  <div class="prc__footer">
+    <p class="prc__ideal"><strong>Idéal pour</strong> · usage régulier intensif sur plusieurs saisons, chien de gabarit moyen à grand</p>
+    <a href="https://amzn.to/48KgFB0" class="prc__btn" target="_blank" rel="nofollow sponsored">Amazon 2L →</a>
+    <a href="https://www.amazon.fr/CAMELBAK-Crux-3-litres-Court/dp/B07QNMCF8Z?tag=natureetchien-21" class="prc__btn" target="_blank" rel="nofollow sponsored">Amazon 3L →</a>
+  </div>
+</div>
 
 ---
 
