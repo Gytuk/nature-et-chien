@@ -5,6 +5,10 @@ publishDate: 2026-05-04
 category: equipement
 tags: [gourde, hydratation, accessoires, randonnée, équipement]
 isAffiliate: true
+itemList:
+  - "Trixie Gourde + écuelle 700 ml"
+  - "Lesotc 520 ml"
+  - "Petace Inox 750 ml"
 featured: false
 theme: hydratation
 image: /images/equipement/gourde/cover.jpg

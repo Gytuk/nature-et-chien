@@ -5,6 +5,11 @@ publishDate: 2026-05-09
 category: equipement
 tags: [harnais, randonnée, comparatif, polyvalent, équipement, Ruffwear, TrueLove]
 isAffiliate: true
+itemList:
+  - "TrueLove TLH5651"
+  - "Ruffwear Front Range"
+  - "Ruffwear Hi & Light"
+  - "Ruffwear Web Master"
 featured: false
 theme: harnais
 image: /images/equipement/harnais-polyvalent/cover.jpg

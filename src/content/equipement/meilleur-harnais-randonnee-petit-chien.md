@@ -5,6 +5,10 @@ publishDate: 2026-05-28
 category: equipement
 tags: [harnais, petit chien, randonnée, équipement, confort, petits gabarits]
 isAffiliate: true
+itemList:
+  - "Hurtta Casual Y-Harness"
+  - "Ruffwear Hi & Light"
+  - "Non-stop Dogwear Ramble"
 featured: false
 theme: harnais
 image: /images/equipement/harnais-petit-chien/cover.jpg

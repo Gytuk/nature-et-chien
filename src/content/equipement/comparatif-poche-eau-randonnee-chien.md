@@ -5,6 +5,10 @@ publishDate: 2026-05-04
 category: equipement
 tags: [poche à eau, hydratation, accessoires, randonnée, équipement]
 isAffiliate: true
+itemList:
+  - "Platypus Platy 2L"
+  - "HydraPak Shape-Shift 2L"
+  - "CamelBak Crux 2L"
 featured: false
 theme: hydratation
 image: /images/equipement/poche-a-eau/cover.jpg

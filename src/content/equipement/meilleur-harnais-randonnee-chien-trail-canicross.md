@@ -11,6 +11,10 @@ image: /images/equipement/canicross/cover.jpg
 imageAlt: "Comparatif des meilleurs harnais de traction trail et canicross pour chien"
 metaTitle: "Meilleur harnais trail canicross chien : comparatif 2026"
 metaDescription: "Choisissez le harnais de traction pour votre chien : canicross, trail, cani-VTT. Idéal pour Husky, Malinois, Border Collie, etc. Comparatif 2026."
+itemList:
+  - "Inlandsis Polar Quest"
+  - "I-Dog Phoenix ALM"
+  - "Non-stop Freemotion 5.0"
 ---
 
 Un harnais de traction n'est pas un harnais de randonnée classique. Il est conçu pour que le chien tire en effort soutenu, avec **une répartition des forces sur le poitrail, les épaules et le dos**. Il s'adresse aux chiens à fort tempérament et aux pratiquants de canicross, cani-VTT ou trail : Husky, Malinois, Vizsla, Braque, Border Collie, etc., mais aussi à tout chien qui tire naturellement et qu'on veut encourager à l'effort. Ce comparatif présente trois modèles à trois niveaux de prix et d'usage, du X-back entrée de gamme au harnais technique polyvalent.

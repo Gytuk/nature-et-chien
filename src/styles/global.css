@@ -564,6 +564,16 @@ a:hover { text-decoration-color: currentColor; }
   flex-shrink: 0;
 }
 
+/* ── CTA duo horizontal (2 cartes inline côte à côte) ── */
+.cta-duo-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+}
+@media (max-width: 540px) {
+  .cta-duo-grid { grid-template-columns: 1fr; }
+}
+
 /* ── CTA comparatifs côte à côte (eau, équipement) ── */
 .cta-eau-block {
   margin: 1.5rem 0;
@@ -1176,11 +1186,17 @@ a:hover { text-decoration-color: currentColor; }
 .ct__val--good { color: var(--color-forest); font-weight: 600; }
 .ct__val--warn { color: #c2600a; }
 .ct__buy {
+  position: relative;
   border-radius: 8px;
   overflow: hidden;
   border: 2px solid #FF9900;
   background: white;
   transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.ct__buy-btn::after {
+  content: '';
+  position: absolute;
+  inset: 0;
 }
 .ct__buy--hardloop { border-color: #09547E; }
 .ct__buy--amber    { border-color: #b45309; }

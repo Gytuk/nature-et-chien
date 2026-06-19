@@ -21,6 +21,7 @@ interface Props {
   headings?: Heading[];
   image?: string;
   imageAlt?: string;
+  itemList?: string[];
 }
 
 const {
@@ -36,6 +37,7 @@ const {
   headings = [],
   image,
   imageAlt,
+  itemList = [],
 } = Astro.props;
 
 const categoryMeta: Record<string, { label: string; href: string }> = {
@@ -56,6 +58,26 @@ const updatedFormatted = updatedDate
 
 const seoTitle = metaTitle ?? title;
 const seoDesc  = metaDescription ?? description;
+
+// Schema.org ItemList (articles comparatifs)
+const itemListSchema = itemList.length && headings.length
+  ? JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": title,
+      "numberOfItems": itemList.length,
+      "itemListElement": itemList.map((name, i) => {
+        const heading = headings.find(h => h.text.startsWith(name));
+        const anchor = heading ? `#${heading.slug}` : '';
+        return {
+          "@type": "ListItem",
+          "position": i + 1,
+          "name": name,
+          "url": `https://nature-et-chien.fr${Astro.url.pathname}${anchor}`
+        };
+      })
+    })
+  : null;
 
 // Schema.org BreadcrumbList
 const breadcrumbSchema = JSON.stringify({
@@ -110,6 +132,7 @@ const schema = JSON.stringify({
 <BaseLayout title={seoTitle} description={seoDesc} ogImage={image} ogType="article" ogImageWidth={800} ogImageHeight={400}>
   <script type="application/ld+json" set:html={breadcrumbSchema} />
   <script type="application/ld+json" set:html={schema} />
+  {itemListSchema && <script type="application/ld+json" set:html={itemListSchema} />}
 
   <div class="article-wrapper">
     <div class="container article-container">

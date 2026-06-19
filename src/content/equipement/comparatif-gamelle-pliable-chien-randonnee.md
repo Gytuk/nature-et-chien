@@ -6,6 +6,11 @@ updatedDate: 2026-05-29
 category: equipement
 tags: [gamelle, hydratation, accessoires, randonnée, équipement]
 isAffiliate: true
+itemList:
+  - "SLSON silicone"
+  - "OHMO silicone"
+  - "Ruffwear Trail Runner"
+  - "Ruffwear Quencher"
 featured: false
 theme: hydratation
 image: /images/equipement/gamelle-pliable/cover.jpg

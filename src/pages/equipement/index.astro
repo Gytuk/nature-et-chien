@@ -16,6 +16,10 @@ const hydratationArticles = articles
 const laisseArticles = articles
   .filter(a => a.data.theme === "laisse")
   .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+
+const ceintureBaudierArticles = articles
+  .filter(a => a.data.theme === "ceinture-canicross")
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
 ---
 
 <BaseLayout
@@ -90,6 +94,26 @@ const laisseArticles = articles
           <h2 class="theme-section-title">Laisse et longe</h2>
           <div class="articles-grid">
             {laisseArticles.map(article => (
+              <ArticleCard
+                title={article.data.title}
+                description={article.data.description}
+                href={`/equipement/${article.id}`}
+                category={article.data.category}
+                isAffiliate={article.data.isAffiliate}
+                featured={article.data.featured}
+                publishDate={article.data.publishDate}
+                image={article.data.image}
+              />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {ceintureBaudierArticles.length > 0 && (
+        <div class="theme-section" id="ceinture-baudrier">
+          <h2 class="theme-section-title">Ceinture et baudrier</h2>
+          <div class="articles-grid">
+            {ceintureBaudierArticles.map(article => (
               <ArticleCard
                 title={article.data.title}
                 description={article.data.description}

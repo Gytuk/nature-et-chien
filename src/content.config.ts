@@ -15,6 +15,7 @@ const articleSchema = z.object({
   image: z.string().optional(),
   imageAlt: z.string().optional(),
   theme: z.string().optional(),
+  itemList: z.array(z.string()).optional(),
 });
 
 export const collections = {

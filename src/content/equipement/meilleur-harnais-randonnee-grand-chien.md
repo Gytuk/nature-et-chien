@@ -5,6 +5,10 @@ publishDate: 2026-05-09
 category: equipement
 tags: [harnais, grand chien, randonnée, comparatif, équipement, Ruffwear, TrueLove]
 isAffiliate: true
+itemList:
+  - "TrueLove TLH5651"
+  - "Ruffwear Front Range"
+  - "Ruffwear Flagline"
 featured: false
 theme: harnais
 image: /images/equipement/harnais-grand-chien/cover.jpg

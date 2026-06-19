@@ -12,6 +12,11 @@ imageAlt: "Comparatif des meilleures laisses canicross 2026"
 focusKeyword: "meilleure laisse canicross"
 metaTitle: "Meilleure laisse canicross : comparatif 2026"
 metaDescription: "Crosser 2, Crosstrail 2, I-Dog ONE : quelle laisse canicross choisir selon le gabarit de votre chien et votre niveau de pratique ? Comparatif 2026."
+itemList:
+  - "Inlandsis Crosser 2"
+  - "Inlandsis Crosstrail 2"
+  - "Inlandsis Crosser 2 SD"
+  - "I-Dog ONE"
 ---
 
 <p class="nc-lede">Une laisse de promenade ordinaire n'est pas une laisse canicross. La différence n'est pas de confort : c'est une question de mécanique. En canicross, la laisse encaisse des à-coups répétés à chaque foulée du chien. Sans amortisseur intégré, ces chocs se transmettent directement au baudrier, au dos du coureur, et aux attaches du harnais. Ce comparatif couvre les quatre meilleurs laisses canicross disponibles en 2026, toutes conformes FSLC, sélectionnées selon le gabarit du chien et le niveau de pratique.</p>
@@ -188,22 +193,26 @@ Du côté du chien, la connexion est simple : un mousqueton clipse directement s
 
 Si vous débutez et que la mise en place n'est pas évidente, cette vidéo montre comment fixer une longe Inlandsis au baudrier : [assembler sa laisse canicross sur le baudrier](https://www.youtube.com/watch?v=MJhRmCppMuk&t=71s).
 
-Pour compléter votre équipement canicross :
-
-<div class="cta-grid">
-  <a href="/equipement/meilleur-harnais-randonnee-chien-trail-canicross/" class="cta-card cta-card-preview">
-    <div class="cta-img-preview">
-      <img src="/images/equipement/canicross/cover.jpg" alt="Comparatif harnais trail et canicross" loading="lazy">
+<div class="cta-eau-block">
+<p class="cta-eau-label">Compléter votre équipement</p>
+<div class="cta-duo-grid">
+  <a href="/equipement/meilleur-harnais-randonnee-chien-trail-canicross/" class="inline-cta-card">
+    <img src="/images/equipement/canicross/cover.jpg" alt="Comparatif harnais trail et canicross" loading="lazy">
+    <div class="inline-cta-text">
+      <div class="inline-cta-title">Meilleur harnais trail et canicross 2026</div>
+      <div class="inline-cta-desc">Polar Quest, Phoenix ALM, Freemotion 5.0</div>
     </div>
-    <div class="cta-card-text">
-      <strong>Harnais trail et canicross</strong>
-      <span>Consulter notre comparatif →</span>
+    <span class="inline-cta-arrow">→</span>
+  </a>
+  <a href="/equipement/meilleur-ceinture-canicross/" class="inline-cta-card">
+    <img src="/images/equipement/ceinture%20canicross/image%20couverture%20article%20ceinture%20canicross.png" alt="Comparatif ceintures et baudriers canicross" loading="lazy">
+    <div class="inline-cta-text">
+      <div class="inline-cta-title">Meilleure ceinture canicross 2026</div>
+      <div class="inline-cta-desc">Trail Runner Belt, I-Dog ONE, Aircross, Trekking Belt 2.0</div>
     </div>
+    <span class="inline-cta-arrow">→</span>
   </a>
-  <a href="/equipement/meilleur-baudrier-canicross/" class="cta-card">
-    <strong>Baudrier canicross</strong>
-    <span>Consulter notre comparatif →</span>
-  </a>
+</div>
 </div>
 
 ---
