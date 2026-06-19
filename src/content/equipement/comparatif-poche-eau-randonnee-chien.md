@@ -1,7 +1,8 @@
 ---
-title: "Meilleure poche à eau pour chien en randonnée : comparatif 2026"
+title: "Meilleure poche à eau randonnée : comparatif 2026"
 description: "Comparatif des meilleures poches à eau pour hydrater son chien en randonnée : bouteille souple budget, réservoir intermédiaire, réservoir premium. Quel système selon votre profil ?"
 publishDate: 2026-05-04
+updatedDate: 2026-06-19
 category: equipement
 tags: [poche à eau, hydratation, accessoires, randonnée, équipement]
 isAffiliate: true
@@ -11,10 +12,11 @@ itemList:
   - "CamelBak Crux 2L"
 featured: false
 theme: hydratation
+focusKeyword: "meilleure poche à eau randonnée"
 image: /images/equipement/poche-a-eau/cover.jpg
-imageAlt: "Comparatif des meilleures poches à eau pour chien en randonnée 2026"
-metaTitle: "Meilleure poche à eau pour chien randonnée : comparatif 2026"
-metaDescription: "Comparatif des meilleures poches à eau pour hydrater son chien en randonnée : bouteille souple budget, réservoir avec tuyau intermédiaire et premium."
+imageAlt: "Comparatif des meilleures poches à eau pour la randonnée 2026"
+metaTitle: "Meilleure poche à eau randonnée : comparatif 2026"
+metaDescription: "Platypus, HydraPak, CamelBak : quel réservoir choisir pour randonner avec son chien ? Bouteille souple ou tuyau, comparatif 2026."
 ---
 
 La poche à eau est la solution grand volume pour les randonnées où une gourde ne suffit plus. Elle se glisse dans le sac, **pèse presque rien à vide**, et permet d'emporter **2 litres ou plus** sans encombrement. Pour un chien de gabarit moyen à grand sur une longue journée estivale, **c'est souvent l'accessoire qui change réellement les choses**.
@@ -27,7 +29,7 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
 
 ---
 
-## Tableau comparatif
+## Comparatif des meilleures poches à eau pour la randonnée
 
 <table class="comparatif-table">
 <colgroup>
@@ -221,7 +223,7 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
 
 ---
 
-## Ce qu'il faut savoir avant d'acheter
+## Ce qu'il faut savoir avant d'acheter une poche à eau
 
 ### Bouteille souple ou réservoir avec tuyau ?
 
