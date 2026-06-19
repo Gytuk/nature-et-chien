@@ -564,6 +564,50 @@ a:hover { text-decoration-color: currentColor; }
   flex-shrink: 0;
 }
 
+/* ── Variante pleine largeur pour les guides ── */
+.inline-cta-card--wide {
+  padding: 1rem 1.25rem;
+  gap: 1.25rem;
+  border: 2px solid var(--color-forest);
+  margin: 1.5rem 0;
+}
+.inline-cta-card--wide img {
+  width: 110px;
+  height: 110px;
+  object-fit: contain;
+  background: #f3f7f5;
+  border-radius: 8px;
+}
+.inline-cta-card--wide .inline-cta-title {
+  font-size: 1.05rem;
+  font-family: var(--font-serif);
+}
+.inline-cta-card--wide .inline-cta-desc {
+  font-size: 0.86rem;
+  margin-top: 0.25rem;
+}
+.inline-cta-card--wide .inline-cta-arrow { display: none; }
+.inline-cta-card--wide .inline-cta-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.6rem;
+  padding: 0.5rem 1.1rem;
+  background: var(--color-forest);
+  color: white;
+  font-size: 0.88rem;
+  font-weight: 700;
+  border-radius: var(--radius-md);
+  width: fit-content;
+  transition: background 0.2s;
+}
+.inline-cta-card--wide:hover .inline-cta-btn {
+  background: var(--color-forest-dark, #1a4a17);
+}
+.inline-cta-card--wide .inline-cta-arrow-unused {
+  font-size: 1.4rem;
+}
+
 /* ── CTA duo horizontal (2 cartes inline côte à côte) ── */
 .cta-duo-grid {
   display: grid;

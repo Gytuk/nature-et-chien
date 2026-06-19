@@ -193,21 +193,12 @@ Trois éléments forment le kit minimum indissociable. On ne peut pas remplacer 
 
 Un harnais de promenade standard n'est pas adapté au canicross. Le harnais de traction épouse tout le corps du chien, avec un point d'attache situé au niveau du tiers postérieur du dos. Ce positionnement répartit les forces sur les flancs et les épaules sans comprimer la colonne vertébrale. Le type le plus répandu est le **X-back** : deux sangles qui se croisent sur le dos, avec l'anneau d'attache à l'arrière.
 
-<a href="/equipement/meilleur-harnais-randonnee-chien-trail-canicross/" class="nc-cta-primaire">
-  <div class="nc-cta-primaire__img">
-    <img
-      src="/images/equipement/canicross/cover.jpg"
-      alt="Comparatif harnais trail et canicross pour chien"
-      loading="lazy"
-      width="300"
-      height="300"
-    />
-  </div>
-  <div class="nc-cta-primaire__body">
-    <span class="nc-cta-primaire__tag">Comparatif complet</span>
-    <strong class="nc-cta-primaire__title">Meilleur harnais trail et canicross pour chien</strong>
-    <p class="nc-cta-primaire__desc">X-back, H-back, points d'attache haut : notre sélection détaillée pour chaque gabarit et budget, avec les critères clés à vérifier avant l'achat.</p>
-    <span class="nc-cta-primaire__btn">Voir le comparatif →</span>
+<a href="/equipement/meilleur-harnais-randonnee-chien-trail-canicross/" class="inline-cta-card inline-cta-card--wide">
+  <img src="/images/equipement/canicross/cover.jpg" alt="Comparatif harnais trail et canicross" loading="lazy">
+  <div class="inline-cta-text">
+    <div class="inline-cta-title">Meilleur harnais trail et canicross 2026</div>
+    <div class="inline-cta-desc">X-back, H-back, points d'attache haut : notre sélection pour chaque gabarit. Inlandsis Polar Quest, I-Dog Phoenix ALM, Non-stop Freemotion 5.0.</div>
+    <span class="inline-cta-btn">Consulter le comparatif →</span>
   </div>
 </a>
 
@@ -215,9 +206,27 @@ Un harnais de promenade standard n'est pas adapté au canicross. Le harnais de t
 
 La longe élastique est indispensable : elle absorbe les à-coups quand le chien accélère brusquement, protège vos lombaires et les articulations du chien. Une laisse ordinaire rigide transmet chaque impulsion directement, ce qui est épuisant et potentiellement blessant pour les deux. La norme en compétition est une longueur maximale de 200 cm en extension. Pour débuter, une longe de 1,5 à 2 m avec amortisseur intégré suffit.
 
+<a href="/equipement/meilleure-laisse-canicross/" class="inline-cta-card inline-cta-card--wide">
+  <img src="/images/equipement/laisse-canicross/cover.png" alt="Comparatif laisses canicross" loading="lazy">
+  <div class="inline-cta-text">
+    <div class="inline-cta-title">Meilleure laisse canicross 2026</div>
+    <div class="inline-cta-desc">Longueur, amortisseur, fixation tête d'alouette ou mousqueton : comment choisir sa longe selon son niveau. Inlandsis Crosser 2, Crosstrail 2, I-Dog ONE.</div>
+    <span class="inline-cta-btn">Consulter le comparatif →</span>
+  </div>
+</a>
+
 **3. Une ceinture ou un baudrier pour le coureur**
 
 La longe s'attache à vous, pas à la main. Courir en tenant la longe à la main est inconfortable et ne permet pas de courir librement. Les baudriers (avec structure thoracique) offrent une meilleure répartition des forces que les simples ceintures lombaires ; les deux fonctionnent pour débuter.
+
+<a href="/equipement/meilleur-ceinture-canicross/" class="inline-cta-card inline-cta-card--wide">
+  <img src="/images/equipement/ceinture%20canicross/image%20couverture%20article%20ceinture%20canicross.png" alt="Comparatif ceintures et baudriers canicross" loading="lazy">
+  <div class="inline-cta-text">
+    <div class="inline-cta-title">Meilleure ceinture canicross 2026</div>
+    <div class="inline-cta-desc">Ceinture lombaire ou baudrier, canicross ou canirando : les différences qui comptent avant d'acheter. Trail Runner Belt, I-Dog ONE, Aircross, Trekking Belt 2.0.</div>
+    <span class="inline-cta-btn">Consulter le comparatif →</span>
+  </div>
+</a>
 
 ## Dans quelles conditions pratiquer en toute sécurité ?
 
@@ -358,90 +367,5 @@ Les chemins forestiers en terre sont le terrain de référence. Les surfaces dur
 /* ── Tableau layout auto (4 colonnes ou colonnes inégales) ── */
 .nc-age-table.nc-table-auto { table-layout: auto; }
 
-/* ── CTA principal article ── */
-.nc-cta-primaire {
-  display: grid;
-  grid-template-columns: 160px 1fr;
-  border-radius: var(--radius-lg);
-  overflow: hidden;
-  border: 2px solid var(--color-forest);
-  margin: 1.75rem 0 2.25rem;
-  background: white;
-  text-decoration: none !important;
-  color: inherit;
-  transition: box-shadow 0.2s, transform 0.15s;
-}
-.nc-cta-primaire:hover {
-  box-shadow: 0 8px 28px rgba(45,90,39,0.18);
-  transform: translateY(-2px);
-  text-decoration: none !important;
-  color: inherit;
-}
-.nc-cta-primaire__img {
-  overflow: hidden;
-  background: #f3f7f5;
-  min-height: 160px;
-}
-.nc-cta-primaire__img img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-  transition: transform 0.3s ease;
-}
-.nc-cta-primaire:hover .nc-cta-primaire__img img { transform: scale(1.05); }
-.nc-cta-primaire__body {
-  padding: 1.2rem 1.5rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.45rem;
-}
-.nc-cta-primaire__tag {
-  font-size: 0.67rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.09em;
-  color: var(--color-forest);
-  background: var(--color-forest-pale);
-  padding: 0.2rem 0.6rem;
-  border-radius: 999px;
-  width: fit-content;
-}
-.nc-cta-primaire__title {
-  font-family: var(--font-serif);
-  font-size: 1.05rem;
-  font-weight: 700;
-  color: var(--color-text);
-  line-height: 1.3;
-  display: block;
-  margin-top: 0.1rem;
-}
-.nc-cta-primaire__desc {
-  font-size: 0.84rem;
-  color: var(--color-text-soft);
-  line-height: 1.55;
-  margin: 0.1rem 0 0;
-}
-.nc-cta-primaire__btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-  margin-top: 0.65rem;
-  font-size: 0.9rem;
-  font-weight: 700;
-  color: var(--color-forest);
-  padding: 0.5rem 1.1rem;
-  border: 2px solid var(--color-forest);
-  border-radius: var(--radius-md);
-  width: fit-content;
-  transition: background 0.2s, color 0.2s;
-}
-.nc-cta-primaire:hover .nc-cta-primaire__btn {
-  background: var(--color-forest);
-  color: white;
-}
-@media (max-width: 540px) {
-  .nc-cta-primaire { grid-template-columns: 1fr; }
-  .nc-cta-primaire__img { height: 200px; min-height: unset; }
-}
+
 </style>
