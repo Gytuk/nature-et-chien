@@ -32,7 +32,7 @@ Le choix d'un harnais de randonnée dépend avant tout **du profil de votre chie
     <tr>
       <td>Chien de 10 à 30 kg, randonnée classique, usage mixte</td>
       <td>Harnais en Y polyvalent à double attache</td>
-      <td class="profil-cta-cell"><a href="/equipement/meilleur-harnais-randonnee-chien-polyvalent#tableau-comparatif-des-meilleurs-harnais-polyvalents" class="profil-cta-card"><img src="/images/equipement/harnais-polyvalent/cover.jpg" alt="Comparatif harnais polyvalents" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
+      <td class="profil-cta-cell"><a href="/equipement/meilleur-harnais-randonnee-chien#comparatif-des-meilleurs-harnais-de-randonnee-pour-chien" class="profil-cta-card"><img src="/images/equipement/harnais-polyvalent/cover.jpg" alt="Comparatif harnais polyvalents" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
     </tr>
     <tr>
       <td>Chien sportif, canicross, trail, cani-randonnée active</td>
@@ -140,7 +140,7 @@ Un harnais de qualité (nylon ripstop, anneaux en aluminium) tenu en bon état *
 
 <p class="cta-section-label">Choisissez votre comparatif par profil</p>
 <div class="inline-cta-list inline-cta-grid">
-  <a href="/equipement/meilleur-harnais-randonnee-chien-polyvalent#tableau-comparatif-des-meilleurs-harnais-polyvalents" class="inline-cta-card">
+  <a href="/equipement/meilleur-harnais-randonnee-chien#comparatif-des-meilleurs-harnais-de-randonnee-pour-chien" class="inline-cta-card">
     <img src="/images/equipement/harnais-polyvalent/cover.jpg" alt="Harnais polyvalents pour chien en randonnée" loading="lazy" width="72" height="72" />
     <div class="inline-cta-text">
       <span class="inline-cta-label">Comparatif</span>

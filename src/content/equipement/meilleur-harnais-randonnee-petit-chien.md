@@ -2,6 +2,7 @@
 title: "Meilleur harnais de randonnée pour petit chien : comparatif 2026"
 description: "Quel harnais pour un petit chien en randonnée ? Comparatif 2026 pour Jack Russell, Teckel, Bichon, Cavalier, Chihuahua, etc. Critères, limites documentées et guide des tailles pour les gabarits de moins de 10 kg."
 publishDate: 2026-05-28
+updatedDate: 2026-06-19
 category: equipement
 tags: [harnais, petit chien, randonnée, équipement, confort, petits gabarits]
 isAffiliate: true
@@ -11,13 +12,14 @@ itemList:
   - "Non-stop Dogwear Ramble"
 featured: false
 theme: harnais
+focusKeyword: "meilleur harnais randonnée petit chien"
 image: /images/equipement/harnais-petit-chien/cover.jpg
 imageAlt: "Petit chien en randonnée avec harnais en Y sur sentier"
 metaTitle: "Meilleur harnais randonnée petit chien : comparatif 2026"
 metaDescription: "Trouvez le harnais idéal pour votre petit chien en randonnée : Jack Russell, Teckel, Bichon, Cavalier, etc. Comparatif 2026 avec guide des tailles."
 ---
 
-Un petit chien en randonnée n'est pas un chien miniature qu'on porte. Il marche, tire, explore, franchit des obstacles, qu'il s'appelle Jack Russell, Teckel, Bichon maltais, Cavalier King Charles, Chihuahua, etc. **Son harnais doit lui permettre de faire tout ça sans frotter les aisselles ni comprimer les épaules** sur plusieurs heures d'effort. Ce comparatif retient trois harnais en Y **adaptés aux gabarits de moins de 10 kg**, avec leurs forces réelles et leurs limites documentées.
+Trouver le bon harnais de randonnée pour un petit chien demande plus d'attention qu'on ne le pense. Jack Russell, Teckel, Bichon maltais, Cavalier King Charles, Chihuahua : ces gabarits cumulent des contraintes spécifiques que les modèles standard ne couvrent pas, entre sangles qui frottent les aisselles, épaules comprimées et tailles inexistantes sous les 30 cm de tour de poitrail. Ce comparatif retient trois harnais en Y adaptés aux gabarits de moins de 10 kg, avec leurs forces réelles et leurs limites documentées.
 
 <p class="affiliate-notice">Certains liens de cet article pointent vers des pages produit. Si vous achetez via ces liens, nous percevons une petite commission, sans surcoût pour vous.</p>
 
@@ -75,7 +77,7 @@ Un petit chien en randonnée n'est pas un chien miniature qu'on porte. Il marche
 **Ces comparatifs pourraient aussi vous intéresser :**
 
 <div class="cta-grid">
-  <a href="/equipement/meilleur-harnais-randonnee-chien-polyvalent#tableau-comparatif" class="cta-card cta-card-preview">
+  <a href="/equipement/meilleur-harnais-randonnee-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
       <img src="/images/equipement/harnais-polyvalent/cover.jpg" alt="Comparatif harnais polyvalents" loading="lazy">
     </div>
@@ -218,7 +220,7 @@ Un petit chien en randonnée n'est pas un chien miniature qu'on porte. Il marche
 
 ---
 
-## Comment choisir entre ces trois modèles ?
+## Quel harnais de randonnée pour petit chien selon votre profil ?
 
 Trois situations se dégagent clairement selon le profil du chien et le type de sortie.
 
