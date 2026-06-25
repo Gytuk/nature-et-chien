@@ -20,6 +20,8 @@ Le canicross est une discipline de course à pied attelée : le coureur est reli
 
 En France, deux fédérations encadrent la pratique. La **FFSLC** (Fédération Française des Sports et Loisirs Canins) est la référence pour le canicross monochien en compétition : elle compte environ 200 clubs, plus de 5 000 licenciés et organise plus de 100 compétitions par an. La **FFST** (Fédération Française des Sports de Traîneau) est la seule fédération reconnue par l'État pour la délivrance de titres officiels. Pour une pratique loisir, aucune licence n'est obligatoire.
 
+[Consulter le règlement officiel canicross / canitrail / ski-joëring de la FFSLC (PDF)](https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf)
+
 Le canicross fait partie d'un ensemble de disciplines dites "sports de traction canine" : cani-VTT (vélo), cani-trottinette, ski-joëring, canitrail. Les principes d'entraînement et d'équipement sont largement communs entre ces pratiques.
 
 ## Quelle différence entre le canicross et le canitrail ?
