@@ -156,6 +156,124 @@ Au-delà de **28 °C** environ, le halètement ne suffit plus à compenser la ch
 
 À cela s'ajoute un facteur aggravant propre à la randonnée : **le bitume et les rochers exposés au soleil atteignent des températures bien supérieures à l'air ambiant** et réchauffent le corps par le dessous. Sur les sentiers pierreux en plein soleil en juillet, la chaleur vient de partout.
 
+## Hydratation en randonnée par forte chaleur
+
+En été, **les besoins en eau d'un chien à l'effort peuvent doubler** par rapport à ses besoins habituels. Un chien de **20 kg peut avoir besoin de 2 à 2,5 litres** sur une journée chaude. La règle de base : proposer de l'eau **toutes les 20 à 30 minutes**, même si le chien ne réclame pas. Pour savoir exactement quelle quantité prévoir selon le poids du chien et l'intensité de l'effort, consultez notre guide [comment bien hydrater son chien pendant une randonnée](/sante-bien-etre/hydratation-chien-randonnee).
+
+Consultez nos comparatifs pour choisir le matériel adapté :
+
+<div class="cta-article-grid">
+  <a href="/equipement/comparatif-gourde-chien-randonnee/" class="cta-article-card">
+    <div class="cta-article-img">
+      <img src="/images/equipement/gourde/cover.jpg" alt="Comparatif gourdes pour chien en randonnée 2026" loading="lazy" />
+    </div>
+    <div class="cta-article-body">
+      <span class="cta-article-category">Équipement — Comparatif 2026</span>
+      <span class="cta-article-title">Meilleure gourde pour chien en randonnée</span>
+      <span class="cta-article-desc">Avec ou sans abreuvoir intégré : lequel choisir selon votre profil de sortie.</span>
+    </div>
+    <div class="cta-article-btn">Consulter le comparatif →</div>
+  </a>
+  <a href="/equipement/comparatif-gamelle-pliable-chien-randonnee/" class="cta-article-card">
+    <div class="cta-article-img">
+      <img src="/images/equipement/gamelle-pliable/cover.jpg" alt="Comparatif gamelles pliables pour chien en randonnée 2026" loading="lazy" />
+    </div>
+    <div class="cta-article-body">
+      <span class="cta-article-category">Équipement — Comparatif 2026</span>
+      <span class="cta-article-title">Meilleure gamelle pliable pour chien en randonnée</span>
+      <span class="cta-article-desc">Légère, compacte, facile à glisser dans un sac : le comparatif complet.</span>
+    </div>
+    <div class="cta-article-btn">Consulter le comparatif →</div>
+  </a>
+</div>
+
+<style>
+.cta-article-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+.cta-article-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  text-decoration: none !important;
+  color: inherit;
+  background: white;
+  transition: box-shadow 0.25s, transform 0.25s;
+}
+.cta-article-card:hover {
+  box-shadow: 0 8px 24px rgba(45,90,39,0.18);
+  transform: translateY(-4px);
+  text-decoration: none !important;
+}
+.cta-article-img {
+  width: 100%;
+  height: 175px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.cta-article-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.35s ease;
+}
+.cta-article-card:hover .cta-article-img img {
+  transform: scale(1.06);
+}
+.cta-article-body {
+  padding: 0.9rem 1rem 0.8rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+.cta-article-category {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-forest);
+}
+.cta-article-title {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--color-text);
+  line-height: 1.35;
+}
+.cta-article-desc {
+  font-size: 0.8rem;
+  color: var(--color-text-soft);
+  line-height: 1.5;
+  margin-top: 0.1rem;
+}
+.cta-article-btn {
+  display: block;
+  background: var(--color-forest);
+  color: white;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-align: center;
+  padding: 0.8rem 1rem;
+  letter-spacing: 0.01em;
+  transition: background 0.2s;
+  flex-shrink: 0;
+}
+.cta-article-card:hover .cta-article-btn {
+  background: var(--color-forest-light);
+}
+@media (max-width: 520px) {
+  .cta-article-grid { grid-template-columns: 1fr; }
+  .cta-article-img { height: 200px; }
+}
+</style>
+
 ## Les horaires : la règle la plus simple et la plus efficace
 
 En été, l'heure de départ est le premier levier. La fenêtre la plus sûre : **avant 9 h ou après 18-19 h**, quand la température est encore basse et que le sol n'a pas emmagasiné la chaleur de la journée.
@@ -164,7 +282,7 @@ La plage à éviter en priorité : **entre 11 h et 16 h**, quand le soleil est a
 
 Cette règle vaut pour tous les chiens. **Pour les profils à risque (brachycéphales, seniors, chiens à robe sombre et épaisse)**, les sorties doivent être limitées aux premières heures du matin, même si les températures semblent acceptables à 10 h.
 
-## Les profils à risque : qui est le plus vulnérable ?
+## Les profils à risque : quelles races sont les plus vulnérables à la chaleur ?
 
 ### Races brachycéphales
 
@@ -258,93 +376,6 @@ Randonner avec son chien en été reste possible **avec quelques ajustements con
 **Acclimatation progressive :**
 
 Un chien peu habitué aux fortes chaleurs est **plus vulnérable en début de saison**. Le risque est plus élevé lors **des premières sorties chaudes de juin** que lors d'une sortie identique en août. Démarrer la saison estivale avec des **sorties courtes et fraîches**.
-
-## Hydratation en randonnée par forte chaleur
-
-En été, **les besoins en eau d'un chien à l'effort peuvent doubler** par rapport à ses besoins habituels. Un chien de **20 kg peut avoir besoin de 2 à 2,5 litres** sur une journée chaude. La règle de base : proposer de l'eau **toutes les 20 à 30 minutes**, même si le chien ne réclame pas.
-
-<div class="inline-cta-list">
-  <p class="inline-cta-intro">Pour savoir exactement quelle quantité prévoir selon le poids du chien et l'intensité de l'effort :</p>
-  <a href="/sante-bien-etre/hydratation-chien-randonnee" class="inline-cta-card">
-    <img src="/images/sante/hydratation-cover.jpg" alt="Chien qui boit de l'eau pendant une pause randonnée" loading="lazy" width="80" height="80" />
-    <div class="inline-cta-text">
-      <span class="inline-cta-title">Comment bien hydrater son chien pendant une randonnée ?</span>
-      <span class="inline-cta-desc">Quantité, fréquence, signes de déshydratation et eau de rivière.</span>
-    </div>
-    <span class="inline-cta-arrow">→</span>
-  </a>
-  <p class="inline-cta-intro">Pour choisir entre gourde avec abreuvoir, gamelle pliable et poche à eau selon votre profil de sortie :</p>
-  <a href="/equipement/gourde-gamelle-poche-eau-chien-comment-choisir" class="inline-cta-card">
-    <img src="/images/equipement/choix-gourde-gamelle-ou-poche.jpg" alt="Chien qui boit dans une gamelle pliable lors d'une pause en randonnée" loading="lazy" width="80" height="80" />
-    <div class="inline-cta-text">
-      <span class="inline-cta-title">Gourde, gamelle pliable ou poche à eau : quel choix pour randonner avec son chien ?</span>
-      <span class="inline-cta-desc">Critères concrets selon la durée, la chaleur et le gabarit du chien.</span>
-    </div>
-    <span class="inline-cta-arrow">→</span>
-  </a>
-</div>
-
-<style>
-.inline-cta-list {
-  margin: 1.25rem 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-.inline-cta-intro {
-  margin: 0.75rem 0 0.25rem;
-  font-size: 0.92rem;
-  color: var(--color-text-soft);
-}
-.inline-cta-intro:first-child { margin-top: 0; }
-.inline-cta-card {
-  display: flex;
-  align-items: center;
-  gap: 0.9rem;
-  padding: 0.75rem 1rem;
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-lg);
-  background: white;
-  text-decoration: none;
-  color: inherit;
-  transition: box-shadow 0.2s, transform 0.2s;
-}
-.inline-cta-card:hover {
-  box-shadow: 0 4px 16px rgba(45,90,39,.1);
-  transform: translateY(-1px);
-  text-decoration: none;
-}
-.inline-cta-card img {
-  width: 72px;
-  height: 72px;
-  object-fit: cover;
-  border-radius: 8px;
-  flex-shrink: 0;
-}
-.inline-cta-text {
-  display: flex;
-  flex-direction: column;
-  gap: 0.2rem;
-  flex: 1;
-  min-width: 0;
-}
-.inline-cta-title {
-  font-size: 0.9rem;
-  font-weight: 700;
-  color: var(--color-text);
-  line-height: 1.3;
-}
-.inline-cta-desc {
-  font-size: 0.8rem;
-  color: var(--color-text-soft);
-  line-height: 1.4;
-}
-.inline-cta-arrow {
-  font-size: 1rem;
-  color: var(--color-forest);
-  flex-shrink: 0;
-}
-</style>
 
 ---
 
