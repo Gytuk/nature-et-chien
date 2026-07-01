@@ -1,0 +1,9 @@
+#!/bin/sh
+# Régénère MAILLAGE.md si un article (avant-de-partir, sante, equipement) est dans ce commit.
+
+staged=$(git diff --cached --name-only --diff-filter=ACM)
+
+if echo "$staged" | grep -qE '^src/content/(avant-de-partir|sante|equipement)/.*\.md$'; then
+  node scripts/generate-maillage.mjs
+  git add MAILLAGE.md
+fi
