@@ -20,6 +20,10 @@ const laisseArticles = articles
 const ceintureBaudierArticles = articles
   .filter(a => a.data.theme === "ceinture-canicross")
   .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+
+const soinArticles = articles
+  .filter(a => a.data.theme === "soin")
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
 ---
 
 <BaseLayout
@@ -114,6 +118,26 @@ const ceintureBaudierArticles = articles
           <h2 class="theme-section-title">Ceinture et baudrier</h2>
           <div class="articles-grid">
             {ceintureBaudierArticles.map(article => (
+              <ArticleCard
+                title={article.data.title}
+                description={article.data.description}
+                href={`/equipement/${article.id}`}
+                category={article.data.category}
+                isAffiliate={article.data.isAffiliate}
+                featured={article.data.featured}
+                publishDate={article.data.publishDate}
+                image={article.data.image}
+              />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {soinArticles.length > 0 && (
+        <div class="theme-section" id="soin">
+          <h2 class="theme-section-title">Soins</h2>
+          <div class="articles-grid">
+            {soinArticles.map(article => (
               <ArticleCard
                 title={article.data.title}
                 description={article.data.description}

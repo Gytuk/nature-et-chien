@@ -92,6 +92,8 @@ La zone de piqûre mérite une surveillance pendant plusieurs jours : rougeur, g
 
 Plus largement, dans les jours et les semaines qui suivent une piqûre, des signes généraux comme une fatigue inhabituelle, une perte d'appétit ou de la fièvre doivent amener à consulter un vétérinaire, sans attendre que l'état du chien se dégrade. La piroplasmose en particulier peut évoluer rapidement une fois les premiers signes apparus.
 
+Pour comprendre en détail ce que chaque maladie peut provoquer et sur quel délai, consultez notre article [maladies transmises par les tiques au chien](/sante-bien-etre/maladies-tiques-chien-randonnee/).
+
 ---
 
 ## FAQ

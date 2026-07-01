@@ -10,6 +10,7 @@ itemList:
   - "WQDD STANPET"
   - "Trekmates Tick Remover"
 featured: false
+theme: soin
 image: /images/equipement/tire%20tique/comparatif%20tire%20tique.png
 imageAlt: "Trois modèles de tire-tique pour chien comparés côte à côte"
 focusKeyword: "meilleur tire-tique chien"
