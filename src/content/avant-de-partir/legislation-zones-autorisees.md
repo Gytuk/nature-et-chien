@@ -2,7 +2,7 @@
 title: "Chien en randonnée : où est-il autorisé ou interdit en France ?"
 description: "Parcs nationaux, forêts, réserves naturelles, littoral… Un guide clair sur les zones accessibles ou interdites, avec tableau récapitulatif, conseils pratiques et FAQ."
 publishDate: 2026-05-02
-updatedDate: 2026-05-18
+updatedDate: 2026-07-01
 category: avant-de-partir
 tags: [législation, zones autorisées, parc national, forêt, laisse]
 isAffiliate: false
@@ -20,6 +20,8 @@ Randonner avec votre chien est un plaisir partagé… à condition de savoir **o
 Dans la plupart des parcs nationaux français, les chiens sont **interdits dans la zone cœur**, même tenus en laisse. L'objectif est de protéger une faune très sensible : **risque de dérangement des espèces, transmission de germes, prédation sur les nichées**.
 
 Des dérogations limitées existent : chiens d'assistance, chiens de protection de troupeaux. Certains parcs prévoient également des exceptions ponctuelles sur des routes ou sentiers précis.
+
+Trois parcs nationaux s'écartent de cette règle générale. Dans le Parc national des Cévennes, le Parc national des Calanques et le Parc national de forêts, le chien est autorisé dans la zone cœur à condition d'être tenu en laisse : seule sa divagation y est interdite. Avant de partir, vérifiez toujours la réglementation spécifique du parc concerné, les règles variant d'un parc à l'autre.
 
 > 📎 **Source officielle :** [Règles générales et renvois par parc — parcsnationaux.fr](https://www.parcsnationaux.fr/fr/des-decouvertes/visiter-et-semerveiller/la-reglementation-et-les-conseils-pour-les-visiteurs)
 
@@ -50,7 +52,7 @@ Il n'existe pas de règle nationale unique. L'accès dépend des arrêtés munic
 
 ---
 
-## Tableau récapitulatif
+## Tableau récapitulatif des zones autorisées et interdites aux chiens
 
 | Type d'espace | Chien autorisé ? | Conditions habituelles |
 |---|---|---|
@@ -65,19 +67,21 @@ Il n'existe pas de règle nationale unique. L'accès dépend des arrêtés munic
 
 <div class="not-prose my-8">
   <p class="text-sm italic text-gray-600 font-serif mb-4">Vous souhaitez vous équiper avant de partir en randonnée avec votre chien ? Consultez nos deux guides :</p>
-  <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-    <a href="/equipement/gourde-gamelle-poche-eau-chien-comment-choisir" class="flex items-start gap-3 rounded-lg border border-gray-200 p-3 hover:bg-gray-50 transition-colors no-underline text-inherit">
-      <img src="/images/equipement/choix-gourde-gamelle-ou-poche.jpg" alt="Chien qui boit dans une gamelle pliable lors d'une pause en randonnée" class="w-20 h-20 object-cover rounded flex-shrink-0 m-0" />
-      <div>
-        <p class="text-sm font-semibold text-gray-800 m-0 mb-1">Gourde, gamelle pliable ou poche à eau : Quel choix pour randonnée avec son chien ?</p>
-        <p class="text-xs text-gray-500 m-0">Critères concrets pour choisir entre gourde avec abreuvoir, gamelle pliable et poche à eau selon la durée, la chaleur et le gabarit du chien.</p>
+  <div class="inline-cta-list">
+    <a href="/equipement/gourde-gamelle-poche-eau-chien-comment-choisir" class="inline-cta-card inline-cta-card--wide">
+      <img src="/images/equipement/choix-gourde-gamelle-ou-poche.jpg" alt="Chien qui boit dans une gamelle pliable lors d'une pause en randonnée" loading="lazy">
+      <div class="inline-cta-text">
+        <div class="inline-cta-title">Gourde, gamelle pliable ou poche à eau : Quel choix pour randonnée avec son chien ?</div>
+        <div class="inline-cta-desc">Critères concrets pour choisir entre gourde avec abreuvoir, gamelle pliable et poche à eau selon la durée, la chaleur et le gabarit du chien.</div>
+        <span class="inline-cta-btn">Consulter notre guide →</span>
       </div>
     </a>
-    <a href="/equipement/harnais-randonnee-chien" class="flex items-start gap-3 rounded-lg border border-gray-200 p-3 hover:bg-gray-50 transition-colors no-underline text-inherit">
-      <img src="/images/equipement/chien-harnais.jpg" alt="Chien en randonnée avec harnais — guide de choix" class="w-20 h-20 object-cover rounded flex-shrink-0 m-0" />
-      <div>
-        <p class="text-sm font-semibold text-gray-800 m-0 mb-1">Randonnée avec son chien : comment choisir le harnais idéal ?</p>
-        <p class="text-xs text-gray-500 m-0">Harnais classique, de traction ou multifonction : nos critères de choix, comparatif des meilleurs modèles et conseils d'ajustement pour randonner confortablement.</p>
+    <a href="/equipement/harnais-randonnee-chien" class="inline-cta-card inline-cta-card--wide">
+      <img src="/images/equipement/chien-harnais.jpg" alt="Chien en randonnée avec harnais — guide de choix" loading="lazy">
+      <div class="inline-cta-text">
+        <div class="inline-cta-title">Randonnée avec son chien : comment choisir le harnais idéal ?</div>
+        <div class="inline-cta-desc">Harnais classique, de traction ou multifonction : nos critères de choix, comparatif des meilleurs modèles et conseils d'ajustement pour randonner confortablement.</div>
+        <span class="inline-cta-btn">Consulter notre guide →</span>
       </div>
     </a>
   </div>
@@ -114,16 +118,16 @@ Avant chaque sortie, identifiez le type d'espace où vous allez : parc national,
 
 ### 2. Adaptez votre matériel aux zones réglementées
 
-Dans les espaces où la laisse est obligatoire, **une longe de 5 à 10 mètres** reste la solution la plus confortable pour votre chien tout en respectant la loi. Pour éviter les tractions et offrir un bon maintien, **un harnais adapté est préférable au collier**. <div class="inline-cta-list">
-  <a href="/equipement/harnais-randonnee-chien" class="inline-cta-card">
-    <img src="/images/equipement/chien-harnais.jpg" alt="Guide harnais de randonnée pour chien" loading="lazy" width="80" height="80" />
-    <div class="inline-cta-text">
-      <span class="inline-cta-title">Quel harnais choisir pour randonner avec son chien ?</span>
-      <span class="inline-cta-desc">Types de harnais, critères de choix et comparatifs par profil et gabarit.</span>
-    </div>
-    <span class="inline-cta-arrow">→</span>
-  </a>
-</div>
+Dans les espaces où la laisse est obligatoire, **une longe de 5 à 10 mètres** reste la solution la plus confortable pour votre chien tout en respectant la loi. Pour éviter les tractions et offrir un bon maintien, **un harnais adapté est préférable au collier**.
+
+<a href="/equipement/meilleur-harnais-randonnee-chien" class="inline-cta-card inline-cta-card--wide">
+  <img src="/images/equipement/harnais-polyvalent/cover.jpg" alt="Comparatif des meilleurs harnais polyvalents pour chien en randonnée" loading="lazy">
+  <div class="inline-cta-text">
+    <div class="inline-cta-title">Meilleur harnais de randonnée pour chien : comparatif 2026</div>
+    <div class="inline-cta-desc">TrueLove, Ruffwear Front Range, Hi & Light ou Web Master : notre sélection selon votre budget et votre pratique.</div>
+    <span class="inline-cta-btn">Consulter le comparatif →</span>
+  </div>
+</a>
 
 ### 3. Anticipez les périodes sensibles
 
@@ -139,7 +143,7 @@ Chaque commune fixe ses règles. Un rapide coup d'œil aux panneaux d'accès ou 
 
 ## Préparer sa première randonnée avec son chien
 
-Si vous partez pour la première fois en randonnée avec votre chien, la réglementation n'est qu'un des points à anticiper. Retrouvez l'ensemble des vérifications à faire avant le départ — condition physique, équipement, hydratation — dans notre guide : [Première randonnée avec son chien : comment le préparer correctement ?](/avant-de-partir/premiere-randonnee-avec-son-chien/)
+Si vous partez pour la première fois en randonnée avec votre chien, la réglementation n'est qu'un des points à anticiper. Retrouvez l'ensemble des vérifications à faire avant le départ : condition physique, équipement, hydratation dans notre guide : [Première randonnée avec son chien : comment le préparer correctement ?](/avant-de-partir/premiere-randonnee-avec-son-chien/)
 
 ---
 
@@ -153,7 +157,7 @@ Si vous partez pour la première fois en randonnée avec votre chien, la réglem
   </details>
 
   <details>
-    <summary>Existe-t-il un site qui liste tous les sentiers dog-friendly ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
+    <summary>Existe-t-il un site qui liste tous les sentiers autorisés aux chiens ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
     <div class="faq-answer"><p>Non, il n'existe pas de base nationale répertoriant tous les itinéraires autorisant les chiens. Pour les parcs nationaux, <a href="https://www.parcsnationaux.fr">parcsnationaux.fr</a> renvoie vers chaque parc pour connaître les secteurs accessibles. Pour les PNR, la <a href="https://www.parcs-naturels-regionaux.fr">fédération des parcs</a> met à disposition une carte-annuaire.</p></div>
   </details>
 
@@ -163,7 +167,7 @@ Si vous partez pour la première fois en randonnée avec votre chien, la réglem
   </details>
 
   <details>
-    <summary>Que risque-t-on si l'on promène son chien dans un espace où il est interdit ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
+    <summary>Quelle amende risque-t-on avec un chien en zone interdite ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
     <div class="faq-answer"><p>Une amende pouvant aller jusqu'à <strong>750 €</strong> pour violation des règles d'un espace protégé. Si le chien est en plus en état de divagation, <strong>une amende supplémentaire de 2ᵉ classe peut s'ajouter (22 à 75 €)</strong>.</p></div>
   </details>
 

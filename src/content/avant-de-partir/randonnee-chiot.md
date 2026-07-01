@@ -40,35 +40,14 @@ On recommande généralement d'attendre que le chiot ait au moins **8 à 10 mois
 - **Prévoir de l'eau et des pauses** : un chiot se déshydrate et se fatigue vite, [voici comment bien le faire boire](/sante-bien-etre/hydratation-chien-randonnee/)
 - **Équiper correctement** : un harnais confortable, une laisse adaptée et, si besoin, un sac de portage pour le soulager sur les passages difficiles. Pour les petits gabarits, notre comparatif :
 
-<div class="inline-cta-list">
-  <a href="/equipement/meilleur-harnais-randonnee-petit-chien" class="inline-cta-card inline-cta-card--slim">
-    <img src="/images/equipement/harnais-petit-chien/cover.jpg" alt="Comparatif harnais de randonnée pour petit chien" loading="lazy" width="56" height="56" />
-    <div class="inline-cta-text">
-      <span class="inline-cta-title">Meilleur harnais de randonnée pour petit chien</span>
-      <span class="inline-cta-desc">Hurtta, Ruffwear Hi & Light, Non-stop Ramble : comparatif 2026 pour les petits gabarits.</span>
-    </div>
-    <span class="inline-cta-arrow">→</span>
-  </a>
-</div>
-
-<style>
-.inline-cta-list { margin: 1.25rem 0; display: flex; flex-direction: column; gap: 0.6rem; }
-.inline-cta-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
-@media (max-width: 580px) { .inline-cta-grid { grid-template-columns: 1fr; } }
-.inline-cta-card { display: flex; align-items: center; gap: 0.85rem; padding: 0.7rem 0.9rem; border: 1px solid var(--color-border); border-left: 3px solid var(--color-forest); border-radius: var(--radius-lg); background: white; text-decoration: none; color: inherit; transition: box-shadow 0.2s, transform 0.2s; }
-.inline-cta-card:hover { box-shadow: 0 4px 16px rgba(45,90,39,.12); transform: translateY(-1px); text-decoration: none; }
-.inline-cta-card img { width: 72px; height: 72px; object-fit: cover; border-radius: 6px; flex-shrink: 0; }
-.inline-cta-text { display: flex; flex-direction: column; gap: 0.15rem; flex: 1; min-width: 0; }
-.inline-cta-label { font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--color-forest); }
-.inline-cta-title { font-size: 0.88rem; font-weight: 700; color: var(--color-text); line-height: 1.25; }
-.inline-cta-desc { font-size: 0.78rem; color: var(--color-text-soft); line-height: 1.4; }
-.inline-cta-arrow { display: flex; align-items: center; justify-content: center; width: 2rem; height: 2rem; background: #eef6f1; border-radius: 50%; font-size: 0.85rem; font-weight: 700; color: var(--color-forest); flex-shrink: 0; transition: background 0.2s, color 0.2s, transform 0.2s; }
-.inline-cta-card:hover .inline-cta-arrow { background: var(--color-forest); color: white; transform: translateX(3px); }
-.inline-cta-card--slim { padding: 0.5rem 0.75rem; }
-.inline-cta-card--slim img { width: 56px; height: 56px; }
-.inline-cta-card--slim .inline-cta-title { font-size: 0.85rem; }
-.inline-cta-card--slim .inline-cta-desc { font-size: 0.75rem; }
-</style>
+<a href="/equipement/meilleur-harnais-randonnee-petit-chien" class="inline-cta-card inline-cta-card--wide">
+  <img src="/images/equipement/harnais-petit-chien/cover.jpg" alt="Comparatif harnais de randonnée pour petit chien" loading="lazy">
+  <div class="inline-cta-text">
+    <div class="inline-cta-title">Meilleur harnais de randonnée pour petit chien</div>
+    <div class="inline-cta-desc">Hurtta, Ruffwear Hi & Light, Non-stop Ramble : comparatif 2026 pour les petits gabarits.</div>
+    <span class="inline-cta-btn">Consulter le comparatif →</span>
+  </div>
+</a>
 
 - **Demander l'avis du vétérinaire** : surtout avant d'allonger les distances
 
