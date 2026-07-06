@@ -6,7 +6,7 @@ category: sante
 tags: [collier, harnais, randonnée, cervicales, trachée, pression, races]
 isAffiliate: false
 featured: false
-image: /images/sante/collier-vs-harnais.jpg
+image: /images/sante/collier-vs-harnais.webp
 imageAlt: "Chien en laisse avec collier sur un sentier de randonnée en montagne"
 focusKeyword: "collier chien randonnée dangereux"
 metaTitle: "Le collier est-il dangereux pour randonner avec son chien ?"
@@ -44,7 +44,7 @@ Pour le chien : il peut tirer, bloquer, changer de direction sans que son cou ab
 Pour le randonneur : gérer un chien qui tire au collier sollicite le poignet et l'épaule de façon asymétrique sur plusieurs heures. Avec un harnais bien ajusté, la résistance est plus régulière et plus facile à tenir. Sur les terrains en dévers ou les passages techniques, une poignée dorsale sur certains modèles permet de stabiliser le chien ou de l'aider à franchir un obstacle, ce qu'un collier ne permet pas.
 
 <a href="/equipement/harnais-randonnee-chien/" class="inline-cta-card">
-  <img src="/images/equipement/chien-harnais.jpg" alt="Harnais de randonnée pour chien" loading="lazy" width="80" height="80" />
+  <img src="/images/equipement/chien-harnais.webp" alt="Harnais de randonnée pour chien" loading="lazy" width="80" height="80" />
   <div class="inline-cta-text">
     <span class="inline-cta-title">Quel harnais choisir pour randonner avec son chien ?</span>
     <span class="inline-cta-desc">Harnais en Y, de traction ou multifonctions : guide complet par morphologie et terrain.</span>

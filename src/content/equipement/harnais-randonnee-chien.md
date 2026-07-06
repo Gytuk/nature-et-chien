@@ -7,7 +7,7 @@ theme: harnais
 tags: [harnais, équipement, confort, choix, randonnée]
 isAffiliate: false
 featured: true
-image: /images/equipement/chien-harnais.jpg
+image: /images/equipement/chien-harnais.webp
 imageAlt: "Chien en randonnée portant un harnais en Y sur sentier"
 metaTitle: "Quel harnais choisir pour randonner avec son chien ?"
 metaDescription: "Harnais en Y, norvégien, de traction : lequel convient à votre chien et votre pratique ? Guide complet pour choisir selon le gabarit, le terrain et l'effort."
@@ -32,22 +32,22 @@ Le choix d'un harnais de randonnée dépend avant tout **du profil de votre chie
     <tr>
       <td>Chien de 10 à 30 kg, randonnée classique, usage mixte</td>
       <td>Harnais en Y polyvalent à double attache</td>
-      <td class="profil-cta-cell"><a href="/equipement/meilleur-harnais-randonnee-chien#comparatif-des-meilleurs-harnais-de-randonnee-pour-chien" class="profil-cta-card"><img src="/images/equipement/harnais-polyvalent/cover.jpg" alt="Comparatif harnais polyvalents" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
+      <td class="profil-cta-cell"><a href="/equipement/meilleur-harnais-randonnee-chien#comparatif-des-meilleurs-harnais-de-randonnee-pour-chien" class="profil-cta-card"><img src="/images/equipement/harnais-polyvalent/cover.webp" alt="Comparatif harnais polyvalents" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
     </tr>
     <tr>
       <td>Chien sportif, canicross, trail, cani-randonnée active</td>
       <td>Harnais de traction X-back ou version courte</td>
-      <td class="profil-cta-cell"><a href="/equipement/meilleur-harnais-randonnee-chien-trail-canicross#tableau-comparatif-des-meilleurs-harnais-trail-et-canicross" class="profil-cta-card"><img src="/images/equipement/canicross/cover.jpg" alt="Comparatif harnais trail canicross" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
+      <td class="profil-cta-cell"><a href="/equipement/meilleur-harnais-randonnee-chien-trail-canicross#tableau-comparatif-des-meilleurs-harnais-trail-et-canicross" class="profil-cta-card"><img src="/images/equipement/canicross/cover.webp" alt="Comparatif harnais trail canicross" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
     </tr>
     <tr>
       <td>Grand chien de plus de 25-30 kg, terrains variés</td>
       <td>Harnais en Y rembourré avec poignée dorsale</td>
-      <td class="profil-cta-cell"><a href="/equipement/meilleur-harnais-randonnee-grand-chien#tableau-comparatif-des-meilleurs-harnais-pour-grand-chien" class="profil-cta-card"><img src="/images/equipement/harnais-grand-chien/cover.jpg" alt="Comparatif harnais grand chien" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
+      <td class="profil-cta-cell"><a href="/equipement/meilleur-harnais-randonnee-grand-chien#tableau-comparatif-des-meilleurs-harnais-pour-grand-chien" class="profil-cta-card"><img src="/images/equipement/harnais-grand-chien/cover.webp" alt="Comparatif harnais grand chien" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
     </tr>
     <tr>
       <td>Petit chien de moins de 10 kg, races à trachée fragile</td>
       <td>Harnais en Y léger ou gilet mesh respirant</td>
-      <td class="profil-cta-cell"><a href="/equipement/meilleur-harnais-randonnee-petit-chien#tableau-comparatif-des-meilleurs-harnais-pour-petit-chien" class="profil-cta-card"><img src="/images/equipement/harnais-petit-chien/cover.jpg" alt="Comparatif harnais petit chien" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
+      <td class="profil-cta-cell"><a href="/equipement/meilleur-harnais-randonnee-petit-chien#tableau-comparatif-des-meilleurs-harnais-pour-petit-chien" class="profil-cta-card"><img src="/images/equipement/harnais-petit-chien/cover.webp" alt="Comparatif harnais petit chien" loading="lazy" /><span class="profil-cta-label">Voir le comparatif</span><span class="profil-cta-arrow">→</span></a></td>
     </tr>
   </tbody>
 </table>
@@ -141,7 +141,7 @@ Un harnais de qualité (nylon ripstop, anneaux en aluminium) tenu en bon état *
 <p class="cta-section-label">Choisissez votre comparatif par profil</p>
 <div class="inline-cta-list inline-cta-grid">
   <a href="/equipement/meilleur-harnais-randonnee-chien#comparatif-des-meilleurs-harnais-de-randonnee-pour-chien" class="inline-cta-card">
-    <img src="/images/equipement/harnais-polyvalent/cover.jpg" alt="Harnais polyvalents pour chien en randonnée" loading="lazy" width="72" height="72" />
+    <img src="/images/equipement/harnais-polyvalent/cover.webp" alt="Harnais polyvalents pour chien en randonnée" loading="lazy" width="72" height="72" />
     <div class="inline-cta-text">
       <span class="inline-cta-label">Comparatif</span>
       <span class="inline-cta-title">Meilleur harnais polyvalent</span>
@@ -150,7 +150,7 @@ Un harnais de qualité (nylon ripstop, anneaux en aluminium) tenu en bon état *
     <span class="inline-cta-arrow">→</span>
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-grand-chien#tableau-comparatif-des-meilleurs-harnais-pour-grand-chien" class="inline-cta-card">
-    <img src="/images/equipement/harnais-grand-chien/cover.jpg" alt="Harnais pour grand chien en randonnée" loading="lazy" width="72" height="72" />
+    <img src="/images/equipement/harnais-grand-chien/cover.webp" alt="Harnais pour grand chien en randonnée" loading="lazy" width="72" height="72" />
     <div class="inline-cta-text">
       <span class="inline-cta-label">Comparatif</span>
       <span class="inline-cta-title">Meilleur harnais pour grand chien</span>
@@ -159,7 +159,7 @@ Un harnais de qualité (nylon ripstop, anneaux en aluminium) tenu en bon état *
     <span class="inline-cta-arrow">→</span>
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-petit-chien#tableau-comparatif-des-meilleurs-harnais-pour-petit-chien" class="inline-cta-card">
-    <img src="/images/equipement/harnais-petit-chien/cover.jpg" alt="Harnais pour petit chien en randonnée" loading="lazy" width="72" height="72" />
+    <img src="/images/equipement/harnais-petit-chien/cover.webp" alt="Harnais pour petit chien en randonnée" loading="lazy" width="72" height="72" />
     <div class="inline-cta-text">
       <span class="inline-cta-label">Comparatif</span>
       <span class="inline-cta-title">Meilleur harnais pour petit chien</span>
@@ -168,7 +168,7 @@ Un harnais de qualité (nylon ripstop, anneaux en aluminium) tenu en bon état *
     <span class="inline-cta-arrow">→</span>
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-chien-trail-canicross#tableau-comparatif-des-meilleurs-harnais-trail-et-canicross" class="inline-cta-card">
-    <img src="/images/equipement/canicross/cover.jpg" alt="Harnais trail et canicross pour chien" loading="lazy" width="72" height="72" />
+    <img src="/images/equipement/canicross/cover.webp" alt="Harnais trail et canicross pour chien" loading="lazy" width="72" height="72" />
     <div class="inline-cta-text">
       <span class="inline-cta-label">Comparatif</span>
       <span class="inline-cta-title">Meilleur harnais trail & canicross</span>

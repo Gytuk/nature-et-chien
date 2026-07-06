@@ -13,7 +13,7 @@ itemList:
 featured: false
 theme: hydratation
 focusKeyword: "meilleure poche à eau randonnée"
-image: /images/equipement/poche-a-eau/cover.jpg
+image: /images/equipement/poche-a-eau/cover.webp
 imageAlt: "Comparatif des meilleures poches à eau pour la randonnée 2026"
 metaTitle: "Meilleure poche à eau randonnée : comparatif 2026"
 metaDescription: "Platypus, HydraPak, CamelBak : quel réservoir choisir pour randonner avec son chien ? Bouteille souple ou tuyau, comparatif 2026."
@@ -88,7 +88,7 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
 <div class="cta-grid">
   <a href="/equipement/comparatif-gourde-chien-randonnee#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/gourde/cover.jpg" alt="Comparatif gourdes chien randonnée" loading="lazy">
+      <img src="/images/equipement/gourde/cover.webp" alt="Comparatif gourdes chien randonnée" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Gourdes pour chien</strong>
@@ -97,7 +97,7 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
   </a>
   <a href="/equipement/comparatif-gamelle-pliable-chien-randonnee#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/gamelle-pliable/cover.jpg" alt="Comparatif gamelles pliables chien randonnée" loading="lazy">
+      <img src="/images/equipement/gamelle-pliable/cover.webp" alt="Comparatif gamelles pliables chien randonnée" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Gamelles pliables</strong>

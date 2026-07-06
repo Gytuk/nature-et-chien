@@ -9,7 +9,7 @@ isAffiliate: true
 featured: false
 theme: harnais
 focusKeyword: "harnais canicross chien"
-image: /images/equipement/canicross/cover.jpg
+image: /images/equipement/canicross/cover.webp
 imageAlt: "Comparatif des meilleurs harnais de traction trail et canicross pour chien"
 metaTitle: "Meilleur harnais trail canicross chien : comparatif 2026"
 metaDescription: "Meilleur harnais canicross 2026 : Polar Quest, Phoenix ALM ou Freemotion 5.0 ? Comparatif par budget et pratique pour Husky, Malinois, Border Collie, etc."
@@ -94,7 +94,7 @@ Avant de choisir, il faut comprendre à quoi correspond chaque type de harnais.
 <div class="cta-grid">
   <a href="/equipement/meilleur-harnais-randonnee-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/harnais-polyvalent/cover.jpg" alt="Comparatif harnais polyvalents" loading="lazy">
+      <img src="/images/equipement/harnais-polyvalent/cover.webp" alt="Comparatif harnais polyvalents" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais polyvalents</strong>
@@ -103,7 +103,7 @@ Avant de choisir, il faut comprendre à quoi correspond chaque type de harnais.
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-grand-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/harnais-grand-chien/cover.jpg" alt="Comparatif harnais grands chiens" loading="lazy">
+      <img src="/images/equipement/harnais-grand-chien/cover.webp" alt="Comparatif harnais grands chiens" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais grands chiens</strong>
@@ -112,7 +112,7 @@ Avant de choisir, il faut comprendre à quoi correspond chaque type de harnais.
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-petit-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/harnais-petit-chien/cover.jpg" alt="Comparatif harnais petits chiens" loading="lazy">
+      <img src="/images/equipement/harnais-petit-chien/cover.webp" alt="Comparatif harnais petits chiens" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais petits chiens</strong>

@@ -7,7 +7,7 @@ category: avant-de-partir
 tags: [distance, endurance, profil chien, randonnée, fatigue]
 isAffiliate: false
 featured: true
-image: /images/avant-de-partir/distance-chien.jpg
+image: /images/avant-de-partir/distance-chien.webp
 imageAlt: "Chien adulte marchant sur un sentier de randonnée — distance et endurance"
 metaTitle: "Combien de km peut parcourir un chien en randonnée ?"
 metaDescription: "5 km ou 30 km ? La bonne distance dépend du profil de votre chien. Repères par race, âge et niveau pour ne pas le mettre en danger."
@@ -103,7 +103,7 @@ Pour l'équipement, consultez nos deux guides :
 
 <div class="inline-cta-list">
   <a href="/equipement/gourde-gamelle-poche-eau-chien-comment-choisir" class="inline-cta-card inline-cta-card--wide">
-    <img src="/images/equipement/choix-gourde-gamelle-ou-poche.jpg" alt="Gourde, gamelle pliable ou poche à eau pour randonner avec son chien" loading="lazy">
+    <img src="/images/equipement/choix-gourde-gamelle-ou-poche.webp" alt="Gourde, gamelle pliable ou poche à eau pour randonner avec son chien" loading="lazy">
     <div class="inline-cta-text">
       <div class="inline-cta-title">Gourde, gamelle pliable ou poche à eau : quel choix pour randonner avec son chien ?</div>
       <div class="inline-cta-desc">Critères concrets selon la durée, la chaleur et le gabarit du chien.</div>
@@ -111,7 +111,7 @@ Pour l'équipement, consultez nos deux guides :
     </div>
   </a>
   <a href="/equipement/harnais-randonnee-chien" class="inline-cta-card inline-cta-card--wide">
-    <img src="/images/equipement/chien-harnais.jpg" alt="Harnais de randonnée pour chien : comment choisir" loading="lazy">
+    <img src="/images/equipement/chien-harnais.webp" alt="Harnais de randonnée pour chien : comment choisir" loading="lazy">
     <div class="inline-cta-text">
       <div class="inline-cta-title">Harnais de randonnée pour chien : comment choisir le bon type ?</div>
       <div class="inline-cta-desc">Types de harnais, critères de sélection et conseils d'ajustement pour les longues distances.</div>

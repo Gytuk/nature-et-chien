@@ -14,7 +14,7 @@ itemList:
 featured: false
 theme: hydratation
 focusKeyword: "meilleure gamelle pliable pour chien"
-image: /images/equipement/gamelle-pliable/cover.jpg
+image: /images/equipement/gamelle-pliable/cover.webp
 imageAlt: "Comparatif des meilleures gamelles pliables pour chien en randonnée 2026"
 metaTitle: "Meilleure gamelle pliable chien randonnée : comparatif 2026"
 metaDescription: "Comparatif des meilleures gamelles pliables pour chien en randonnée : silicone petit budget, tissu polyvalent Ruffwear, ultraléger Trail Runner. Quel modèle selon votre usage ?"
@@ -88,7 +88,7 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
 <div class="cta-grid">
   <a href="/equipement/comparatif-gourde-chien-randonnee#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/gourde/cover.jpg" alt="Comparatif gourdes chien randonnée" loading="lazy">
+      <img src="/images/equipement/gourde/cover.webp" alt="Comparatif gourdes chien randonnée" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Gourdes pour chien</strong>
@@ -97,7 +97,7 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
   </a>
   <a href="/equipement/comparatif-poche-eau-randonnee-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/poche-a-eau/cover.jpg" alt="Comparatif poches à eau chien randonnée" loading="lazy">
+      <img src="/images/equipement/poche-a-eau/cover.webp" alt="Comparatif poches à eau chien randonnée" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Poches à eau</strong>
@@ -281,7 +281,7 @@ La gamelle pliable n'embarque pas d'eau elle-même, elle a besoin d'une source. 
 
 <div class="inline-cta-list">
   <a href="/equipement/comparatif-poche-eau-randonnee-chien" class="inline-cta-card">
-    <img src="/images/equipement/poche-a-eau/cover.jpg" alt="Comparatif poches à eau chien randonnée" loading="lazy" width="80" height="80" />
+    <img src="/images/equipement/poche-a-eau/cover.webp" alt="Comparatif poches à eau chien randonnée" loading="lazy" width="80" height="80" />
     <div class="inline-cta-text">
       <span class="inline-cta-title">Meilleure poche à eau randonnée chien : notre comparatif</span>
       <span class="inline-cta-desc">Sélection selon le volume, la facilité d'entretien et la compatibilité sac.</span>

@@ -6,7 +6,7 @@ category: sante
 tags: [vaccination, leptospirose, leishmaniose, santé chien, randonnée, prévention]
 isAffiliate: false
 featured: false
-image: /images/sante/vaccination-cover.jpg
+image: /images/sante/vaccination-cover.webp
 imageAlt: "Chien qui boit dans un ruisseau en forêt pendant une randonnée"
 metaTitle: "Faut-il des vaccins en plus pour randonner avec son chien ?"
 metaDescription: "Randonnée avec son chien : quels vaccins sont indispensables, lesquels dépendent de votre région ? Le guide complet pour partir sans mauvaise surprise."
@@ -36,15 +36,6 @@ Le vaccin standard offre une protection de 12 mois maximum. [Pour les chiens à 
 Ce n'est pas une décision automatique. C'est un point à poser explicitement au vétérinaire lors de la prochaine consultation, en précisant le type de terrains fréquentés. La réponse dépend de la fréquence des sorties et des milieux traversés.
 
 Deux autres choses à savoir sur ce vaccin : il ne couvre pas toutes les souches de leptospires existantes, et les eaux courantes (rivières à débit fort) présentent moins de risque que les eaux stagnantes (mares, flaques, fossés). Un chien qui boit uniquement dans des rivières rapides est moins exposé qu'un chien qui pataugeant dans des zones marécageuses.
-
-<!-- 📸 PHOTO — format paysage (800×450 px)
-     Sujet : Chien qui pataugeant dans une zone humide ou un fossé en randonnée, illustrant l'exposition à la leptospirose
-     Décommenter quand la photo est prête :
-<figure class="nc-breakout">
-  <img src="/images/sante/[nom].jpg" alt="Chien dans une zone humide en randonnée, risque leptospirose" loading="lazy" width="800" height="450" />
-  <figcaption>Les eaux stagnantes et zones marécageuses sont les principaux vecteurs de leptospirose pour les chiens.</figcaption>
-</figure>
--->
 
 ## Leishmaniose : une question de destination, pas de pratique
 

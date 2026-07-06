@@ -6,7 +6,7 @@ category: sante
 tags: [hydratation, déshydratation, coup de chaleur, eau, pauses]
 isAffiliate: false
 featured: true
-image: /images/sante/hydratation-cover.jpg
+image: /images/sante/hydratation-cover.webp
 imageAlt: "Chien qui boit de l'eau pendant une pause randonnée — hydratation"
 metaTitle: "Quelle quantité d'eau pour un chien en randonnée ? (par gabarit)"
 metaDescription: "Quantité d'eau par gabarit, fréquence des pauses, signes de déshydratation et précautions par temps chaud : le guide complet pour bien hydrater son chien."
@@ -88,7 +88,7 @@ Pour transporter et servir l'eau efficacement en randonnée, plusieurs solutions
 <div class="inline-cta-list">
   <p class="inline-cta-intro">Pour vous aider à choisir l'accessoire selon votre profil consultez notre guide :</p>
   <a href="/equipement/gourde-gamelle-poche-eau-chien-comment-choisir" class="inline-cta-card">
-    <img src="/images/equipement/choix-gourde-gamelle-ou-poche.jpg" alt="Gourde, gamelle pliable ou poche à eau pour randonner avec son chien" loading="lazy" width="80" height="80" />
+    <img src="/images/equipement/choix-gourde-gamelle-ou-poche.webp" alt="Gourde, gamelle pliable ou poche à eau pour randonner avec son chien" loading="lazy" width="80" height="80" />
     <div class="inline-cta-text">
       <span class="inline-cta-title">Gourde, gamelle pliable ou poche à eau : quel choix pour randonner avec son chien ?</span>
       <span class="inline-cta-desc">Critères concrets selon la durée, la chaleur et le gabarit du chien.</span>

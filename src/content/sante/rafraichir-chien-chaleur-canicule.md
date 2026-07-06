@@ -6,7 +6,7 @@ category: sante
 tags: [chaleur, été, canicule, bien-être, coussinets, thermorégulation]
 isAffiliate: false
 featured: false
-image: /images/sante/rafraichir%20chien/cover%20article%20rafraichir%20chien.png
+image: /images/sante/rafraichir%20chien/cover%20article%20rafraichir%20chien.webp
 imageAlt: "Chien qui se rafraîchit dans un ruisseau par forte chaleur en été"
 metaTitle: "Comment rafraîchir son chien par forte chaleur"
 metaDescription: "Comment rafraîchir son chien par forte chaleur : les gestes qui marchent vraiment, les idées reçues à corriger et ce que disent les vétérinaires."
@@ -193,7 +193,7 @@ Consultez nos comparatifs pour choisir le modèle adapté à votre usage :
 <div class="cta-article-grid">
   <a href="/equipement/comparatif-gourde-chien-randonnee/" class="cta-article-card">
     <div class="cta-article-img">
-      <img src="/images/equipement/gourde/cover.jpg" alt="Comparatif gourdes pour chien en randonnée 2026" loading="lazy" />
+      <img src="/images/equipement/gourde/cover.webp" alt="Comparatif gourdes pour chien en randonnée 2026" loading="lazy" />
     </div>
     <div class="cta-article-body">
       <span class="cta-article-category">Équipement — Comparatif 2026</span>
@@ -204,7 +204,7 @@ Consultez nos comparatifs pour choisir le modèle adapté à votre usage :
   </a>
   <a href="/equipement/comparatif-gamelle-pliable-chien-randonnee/" class="cta-article-card">
     <div class="cta-article-img">
-      <img src="/images/equipement/gamelle-pliable/cover.jpg" alt="Comparatif gamelles pliables pour chien en randonnée 2026" loading="lazy" />
+      <img src="/images/equipement/gamelle-pliable/cover.webp" alt="Comparatif gamelles pliables pour chien en randonnée 2026" loading="lazy" />
     </div>
     <div class="cta-article-body">
       <span class="cta-article-category">Équipement — Comparatif 2026</span>

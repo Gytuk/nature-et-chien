@@ -6,7 +6,7 @@ category: sante
 tags: [tiques, piroplasmose, maladie de Lyme, ehrlichiose, anaplasmose, santé chien, randonnée, prévention]
 isAffiliate: false
 featured: false
-image: /images/sante/maladies%20tique%20chien.png
+image: /images/sante/maladies%20tique%20chien.webp
 imageAlt: "Chien dans les hautes herbes lors d'une randonnée, zone à risque de tiques"
 focusKeyword: maladies transmises par les tiques au chien
 metaTitle: "Maladies transmises par les tiques au chien : guide randonneur"
@@ -80,7 +80,7 @@ L'ehrlichiose évolue en trois temps. La phase aiguë (fièvre, saignements anor
 Si une tique est fixée sur votre chien au retour d'une balade, il faut agir vite et bien. L'outil clé est le tire-tique (crochet en O ou en V), qui permet d'extraire la tique en rotation sans écraser son corps. Surtout pas de produits chimiques, d'alcool ni de chaleur, qui augmentent le risque de transmission. L'article [Comment enlever une tique sur un chien](/sante-bien-etre/comment-enlever-tique-chien/) détaille les gestes pas à pas.
 
 <a href="/equipement/meilleur-tire-tique-chien/" class="inline-cta-card inline-cta-card--wide">
-  <img src="/images/equipement/tire%20tique/comparatif%20tire%20tique.png" alt="Comparatif des meilleurs tire-tiques pour chien" loading="lazy">
+  <img src="/images/equipement/tire%20tique/comparatif%20tire%20tique.webp" alt="Comparatif des meilleurs tire-tiques pour chien" loading="lazy">
   <div class="inline-cta-text">
     <div class="inline-cta-title">Meilleur tire-tique pour chien : comparatif 2026</div>
     <div class="inline-cta-desc">O'Tom Tick Twister, WQDD STANPET, Trekmates — trois profils d'usage comparés.</div>

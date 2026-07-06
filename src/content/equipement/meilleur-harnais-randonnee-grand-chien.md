@@ -13,7 +13,7 @@ itemList:
 featured: false
 theme: harnais
 focusKeyword: "meilleur harnais randonnée grand chien"
-image: /images/equipement/harnais-grand-chien/cover.jpg
+image: /images/equipement/harnais-grand-chien/cover.webp
 imageAlt: "Comparatif des meilleurs harnais de randonnée pour grand chien"
 metaTitle: "Meilleur harnais randonnée grand chien : comparatif 2026"
 metaDescription: "Trouvez le harnais idéal pour votre grand chien en randonnée : Labrador, Golden, Berger, Husky, etc. Comparatif 2026 par gabarit et morphologie."
@@ -91,7 +91,7 @@ Trois problèmes reviennent régulièrement avec un harnais standard sur les gab
 <div class="cta-grid">
   <a href="/equipement/meilleur-harnais-randonnee-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/harnais-polyvalent/cover.jpg" alt="Comparatif harnais polyvalents" loading="lazy">
+      <img src="/images/equipement/harnais-polyvalent/cover.webp" alt="Comparatif harnais polyvalents" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais polyvalents</strong>
@@ -100,7 +100,7 @@ Trois problèmes reviennent régulièrement avec un harnais standard sur les gab
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-petit-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/harnais-petit-chien/cover.jpg" alt="Comparatif harnais petits chiens" loading="lazy">
+      <img src="/images/equipement/harnais-petit-chien/cover.webp" alt="Comparatif harnais petits chiens" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais petits chiens</strong>
@@ -109,7 +109,7 @@ Trois problèmes reviennent régulièrement avec un harnais standard sur les gab
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-chien-trail-canicross#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/canicross/cover.jpg" alt="Comparatif harnais trail canicross" loading="lazy">
+      <img src="/images/equipement/canicross/cover.webp" alt="Comparatif harnais trail canicross" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Harnais trail &amp; canicross</strong>

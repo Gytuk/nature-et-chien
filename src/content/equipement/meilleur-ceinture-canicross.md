@@ -12,7 +12,7 @@ itemList:
   - "I-Dog Baudrier ONE"
   - "Inlandsis Aircross"
   - "Non-stop Trekking Belt 2.0"
-image: /images/equipement/ceinture%20canicross/image%20couverture%20article%20ceinture%20canicross.png
+image: /images/equipement/ceinture%20canicross/image%20couverture%20article%20ceinture%20canicross.webp
 imageAlt: "Comparatif ceintures et baudriers canicross 2026 – Trail Runner Belt, I-Dog ONE, Aircross, Trekking Belt 2.0"
 focusKeyword: "ceinture canicross"
 metaTitle: "Meilleure ceinture canicross : comparatif 2026"
@@ -173,7 +173,7 @@ Du côté du chien, la connexion est simple : un mousqueton de laisse se clippe 
 <p class="cta-eau-label">Compléter votre équipement</p>
 <div class="cta-duo-grid">
   <a href="/equipement/meilleure-laisse-canicross/" class="inline-cta-card">
-    <img src="/images/equipement/laisse-canicross/cover.png" alt="Comparatif laisses canicross" loading="lazy">
+    <img src="/images/equipement/laisse-canicross/cover.webp" alt="Comparatif laisses canicross" loading="lazy">
     <div class="inline-cta-text">
       <div class="inline-cta-title">Meilleure laisse canicross 2026</div>
       <div class="inline-cta-desc">Crosser 2, Crosstrail 2, I-Dog ONE, Crosser 2 SD</div>
@@ -181,7 +181,7 @@ Du côté du chien, la connexion est simple : un mousqueton de laisse se clippe 
     <span class="inline-cta-arrow">→</span>
   </a>
   <a href="/equipement/meilleur-harnais-randonnee-chien-trail-canicross/" class="inline-cta-card">
-    <img src="/images/equipement/canicross/cover.jpg" alt="Comparatif harnais trail et canicross" loading="lazy">
+    <img src="/images/equipement/canicross/cover.webp" alt="Comparatif harnais trail et canicross" loading="lazy">
     <div class="inline-cta-text">
       <div class="inline-cta-title">Meilleur harnais trail et canicross 2026</div>
       <div class="inline-cta-desc">Polar Quest, Phoenix ALM, Freemotion 5.0</div>

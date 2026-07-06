@@ -42,7 +42,7 @@ En l'absence de tire-tique, une pince à épiler fine peut servir de solution de
 
 <a href="/equipement/meilleur-tire-tique-chien/" class="cta-tique">
   <div class="cta-tique__img">
-    <img src="/images/equipement/tire%20tique/comparatif%20tire%20tique.png" alt="Comparatif des meilleurs tire-tiques pour chien 2026" loading="lazy">
+    <img src="/images/equipement/tire%20tique/comparatif%20tire%20tique.webp" alt="Comparatif des meilleurs tire-tiques pour chien 2026" loading="lazy">
   </div>
   <div class="cta-tique__body">
     <span class="cta-tique__label">Équipement</span>

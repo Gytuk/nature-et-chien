@@ -6,7 +6,7 @@ category: avant-de-partir
 tags: [chiot, croissance, randonnée débutant, articulations, progression]
 isAffiliate: false
 featured: false
-image: /images/avant-de-partir/chiot-sentier.jpg
+image: /images/avant-de-partir/chiot-sentier.webp
 imageAlt: "Chiot en randonnée sur un sentier — âge minimum et conseils pratiques"
 metaTitle: "Randonnée avec un chiot : âge minimum et conseils pratiques"
 metaDescription: "Peut-on randonner avec un chiot ? Découvrez l'âge minimum conseillé, les précautions et nos conseils pratiques pour l'initier en douceur à la nature."
@@ -41,7 +41,7 @@ On recommande généralement d'attendre que le chiot ait au moins **8 à 10 mois
 - **Équiper correctement** : un harnais confortable, une laisse adaptée et, si besoin, un sac de portage pour le soulager sur les passages difficiles. Pour les petits gabarits, notre comparatif :
 
 <a href="/equipement/meilleur-harnais-randonnee-petit-chien" class="inline-cta-card inline-cta-card--wide">
-  <img src="/images/equipement/harnais-petit-chien/cover.jpg" alt="Comparatif harnais de randonnée pour petit chien" loading="lazy">
+  <img src="/images/equipement/harnais-petit-chien/cover.webp" alt="Comparatif harnais de randonnée pour petit chien" loading="lazy">
   <div class="inline-cta-text">
     <div class="inline-cta-title">Meilleur harnais de randonnée pour petit chien</div>
     <div class="inline-cta-desc">Hurtta, Ruffwear Hi & Light, Non-stop Ramble : comparatif 2026 pour les petits gabarits.</div>

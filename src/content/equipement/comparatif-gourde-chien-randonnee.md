@@ -13,7 +13,7 @@ itemList:
 featured: false
 theme: hydratation
 focusKeyword: "meilleure gourde pour chien"
-image: /images/equipement/gourde/cover.jpg
+image: /images/equipement/gourde/cover.webp
 imageAlt: "Comparatif des meilleures gourdes pour chien en randonnée 2026"
 metaTitle: "Meilleure gourde chien randonnée : comparatif 2026"
 metaDescription: "Comparatif des meilleures gourdes pour chien en randonnée : plastique léger, inox isotherme. Quel modèle selon votre profil de sortie ?"
@@ -86,7 +86,7 @@ Ce comparatif couvre les meilleurs modèles disponibles sur Amazon France : **pl
 <div class="cta-grid">
   <a href="/equipement/comparatif-gamelle-pliable-chien-randonnee#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/gamelle-pliable/cover.jpg" alt="Comparatif gamelles pliables chien randonnée" loading="lazy">
+      <img src="/images/equipement/gamelle-pliable/cover.webp" alt="Comparatif gamelles pliables chien randonnée" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Gamelles pliables</strong>
@@ -95,7 +95,7 @@ Ce comparatif couvre les meilleurs modèles disponibles sur Amazon France : **pl
   </a>
   <a href="/equipement/comparatif-poche-eau-randonnee-chien#tableau-comparatif" class="cta-card cta-card-preview">
     <div class="cta-img-preview">
-      <img src="/images/equipement/poche-a-eau/cover.jpg" alt="Comparatif poches à eau chien randonnée" loading="lazy">
+      <img src="/images/equipement/poche-a-eau/cover.webp" alt="Comparatif poches à eau chien randonnée" loading="lazy">
     </div>
     <div class="cta-card-text">
       <strong>Poches à eau</strong>

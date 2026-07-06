@@ -6,7 +6,7 @@ category: sante
 tags: [fatigue chien, randonnée, effort, signes alerte, santé chien]
 isAffiliate: false
 featured: false
-image: /images/sante/fatigue/cover.jpg
+image: /images/sante/fatigue/cover.webp
 imageAlt: "Chien couché au bord d'un sentier de randonnée, langue sortie, pendant une pause"
 metaTitle: "Signes de fatigue du chien en randonnée : quand s'arrêter ?"
 metaDescription: "Comment savoir si votre chien est trop fatigué en randonnée ? Signaux à surveiller, niveaux d'alerte et moments où il faut faire demi-tour."
@@ -80,15 +80,6 @@ Voici ce qu'on observe concrètement sur le sentier, du plus précoce au plus gr
     <span>Effondrement ou incapacité à se relever</span>
   </li>
 </ul>
-
-<!-- 📸 PHOTO — format paysage (800×450 px)
-     Sujet : chien couché ou assis à l'ombre lors d'une pause, l'air essoufflé
-     Décommenter quand la photo est prête :
-<figure class="nc-breakout">
-  <img src="/images/sante/fatigue/[nom-fichier].jpg" alt="Chien fatigué assis à l'ombre lors d'une pause randonnée" loading="lazy" width="800" height="450" />
-  <figcaption>Un chien qui s'allonge sans raison ou cherche l'ombre est souvent plus fatigué qu'il n'y paraît.</figcaption>
-</figure>
--->
 
 <div class="callout">
   <strong>Test rapide de déshydratation :</strong> soulevez légèrement la peau dans le cou. Si elle revient lentement à sa place au lieu de reprendre sa forme immédiatement, votre chien manque d'eau. Pour savoir quelle quantité d'eau prévoir selon son gabarit, consultez le <a href="/sante-bien-etre/hydratation-chien-randonnee/">guide d'hydratation du chien en randonnée</a>.
@@ -171,7 +162,7 @@ Le manque d'eau aggrave tout : un chien déshydraté régule sa température moi
   <p class="cta-eau-label">Comparez les meilleurs accessoires pour emporter l'eau de votre chien :</p>
   <div class="cta-comparatifs-grid">
     <a href="/equipement/comparatif-gourde-chien-randonnee" class="cta-comparatif-card">
-      <img src="/images/equipement/gourde/cover.jpg" alt="Comparatif des meilleures gourdes pour chien en randonnée" loading="lazy" />
+      <img src="/images/equipement/gourde/cover.webp" alt="Comparatif des meilleures gourdes pour chien en randonnée" loading="lazy" />
       <div class="cta-comparatif-body">
         <span class="cta-comparatif-title">Meilleures gourdes pour chien</span>
         <span class="cta-comparatif-desc">Modèles testés, classés par usage</span>
@@ -179,7 +170,7 @@ Le manque d'eau aggrave tout : un chien déshydraté régule sa température moi
       </div>
     </a>
     <a href="/equipement/comparatif-gamelle-pliable-chien-randonnee" class="cta-comparatif-card">
-      <img src="/images/equipement/gamelle-pliable/cover.jpg" alt="Comparatif des gamelles pliables pour chien en randonnée" loading="lazy" />
+      <img src="/images/equipement/gamelle-pliable/cover.webp" alt="Comparatif des gamelles pliables pour chien en randonnée" loading="lazy" />
       <div class="cta-comparatif-body">
         <span class="cta-comparatif-title">Meilleures gamelles pliables</span>
         <span class="cta-comparatif-desc">Silicone, plastique, inox : le bon choix</span>
@@ -190,15 +181,6 @@ Le manque d'eau aggrave tout : un chien déshydraté régule sa température moi
 </div>
 
 Si vous randonnez en été ou par forte chaleur, l'article [randonner avec son chien en été](/sante-bien-etre/randonner-chien-chaleur-ete/) détaille les températures à partir desquelles il faut adapter ou annuler la sortie.
-
-<!-- 📸 PHOTO — format paysage (800×450 px)
-     Sujet : chien qui boit de l'eau dans une gamelle ou à une gourde, à l'ombre sur un sentier
-     Décommenter quand la photo est prête :
-<figure class="nc-breakout">
-  <img src="/images/sante/fatigue/[nom-fichier].jpg" alt="Chien buvant de l'eau à l'ombre pendant une pause randonnée" loading="lazy" width="800" height="450" />
-  <figcaption>Proposer de l'eau à chaque pause, sans attendre que le chien le demande.</figcaption>
-</figure>
--->
 
 <figure class="nc-breakout">
   <img src="/images/sante/fatigue/paysage.jpg" alt="Chien allongé qui se repose après une randonnée" loading="lazy" width="800" height="450" />

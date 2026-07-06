@@ -6,7 +6,7 @@ category: sante
 tags: [chaleur, été, coup de chaleur, hydratation, sécurité, randonnée]
 isAffiliate: false
 featured: false
-image: /images/sante/chaleur-cover.jpg
+image: /images/sante/chaleur-cover.webp
 imageAlt: "Chien à l'ombre en randonnée par forte chaleur — seuils de température et risques selon la race"
 metaTitle: "Randonner avec son chien en été : températures dangereuses ?"
 metaDescription: "À partir de quelle température la randonnée devient risquée pour un chien ? Seuils, horaires, signes d'alerte et gestes d'urgence."
@@ -165,7 +165,7 @@ Consultez nos comparatifs pour choisir le matériel adapté :
 <div class="cta-article-grid">
   <a href="/equipement/comparatif-gourde-chien-randonnee/" class="cta-article-card">
     <div class="cta-article-img">
-      <img src="/images/equipement/gourde/cover.jpg" alt="Comparatif gourdes pour chien en randonnée 2026" loading="lazy" />
+      <img src="/images/equipement/gourde/cover.webp" alt="Comparatif gourdes pour chien en randonnée 2026" loading="lazy" />
     </div>
     <div class="cta-article-body">
       <span class="cta-article-category">Équipement — Comparatif 2026</span>
@@ -176,7 +176,7 @@ Consultez nos comparatifs pour choisir le matériel adapté :
   </a>
   <a href="/equipement/comparatif-gamelle-pliable-chien-randonnee/" class="cta-article-card">
     <div class="cta-article-img">
-      <img src="/images/equipement/gamelle-pliable/cover.jpg" alt="Comparatif gamelles pliables pour chien en randonnée 2026" loading="lazy" />
+      <img src="/images/equipement/gamelle-pliable/cover.webp" alt="Comparatif gamelles pliables pour chien en randonnée 2026" loading="lazy" />
     </div>
     <div class="cta-article-body">
       <span class="cta-article-category">Équipement — Comparatif 2026</span>

@@ -6,7 +6,7 @@ category: sante
 tags: [hydratation, sécurité, leptospirose, cyanobactéries, giardia, eau naturelle]
 isAffiliate: false
 featured: false
-image: /images/sante/eau-naturelle/cover.jpg
+image: /images/sante/eau-naturelle/cover.webp
 imageAlt: "Chien qui s'approche d'un ruisseau de montagne lors d'une randonnée"
 metaTitle: "Les chiens peuvent-ils boire l'eau des ruisseaux et rivières ? Quels risques ?"
 metaDescription: "Cyanobactéries mortelles, leptospirose, giardia : les risques varient selon la source et la saison. Symptômes, urgences et conduite à tenir après exposition."
@@ -50,7 +50,7 @@ Un torrent alpin à fort débit, eau froide, sans biofilm visible : le profil de
 
   <div class="cta-comparatifs-grid">
     <a href="/equipement/comparatif-gourde-chien-randonnee" class="cta-comparatif-card">
-      <img src="/images/equipement/gourde/cover.jpg" alt="Comparatif des meilleures gourdes pour chien en randonnée" loading="lazy" />
+      <img src="/images/equipement/gourde/cover.webp" alt="Comparatif des meilleures gourdes pour chien en randonnée" loading="lazy" />
       <div class="cta-comparatif-body">
         <span class="cta-comparatif-title">Meilleures gourdes pour chien</span>
         <span class="cta-comparatif-desc">Modèles testés, classés par usage</span>
@@ -58,7 +58,7 @@ Un torrent alpin à fort débit, eau froide, sans biofilm visible : le profil de
       </div>
     </a>
     <a href="/equipement/comparatif-gamelle-pliable-chien-randonnee" class="cta-comparatif-card">
-      <img src="/images/equipement/gamelle-pliable/cover.jpg" alt="Comparatif des gamelles pliables pour chien en randonnée" loading="lazy" />
+      <img src="/images/equipement/gamelle-pliable/cover.webp" alt="Comparatif des gamelles pliables pour chien en randonnée" loading="lazy" />
       <div class="cta-comparatif-body">
         <span class="cta-comparatif-title">Meilleures gamelles pliables</span>
         <span class="cta-comparatif-desc">Silicone, plastique, inox : le bon choix</span>

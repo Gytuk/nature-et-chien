@@ -7,7 +7,7 @@ category: avant-de-partir
 tags: [législation, zones autorisées, parc national, forêt, laisse]
 isAffiliate: false
 featured: true
-image: /images/avant-de-partir/interdiction-chien.jpg
+image: /images/avant-de-partir/interdiction-chien.webp
 imageAlt: "Panneau d'interdiction pour les chiens — zones autorisées et interdites en randonnée"
 metaTitle: "Chien en randonnée : zones interdites et amendes en France"
 metaDescription: "Parcs nationaux, régionaux, réserves naturelles, forêts, littoral : où votre chien est interdit en randonnée et amendes entre 35 € et 750 €."
@@ -69,7 +69,7 @@ Il n'existe pas de règle nationale unique. L'accès dépend des arrêtés munic
   <p class="text-sm italic text-gray-600 font-serif mb-4">Vous souhaitez vous équiper avant de partir en randonnée avec votre chien ? Consultez nos deux guides :</p>
   <div class="inline-cta-list">
     <a href="/equipement/gourde-gamelle-poche-eau-chien-comment-choisir" class="inline-cta-card inline-cta-card--wide">
-      <img src="/images/equipement/choix-gourde-gamelle-ou-poche.jpg" alt="Chien qui boit dans une gamelle pliable lors d'une pause en randonnée" loading="lazy">
+      <img src="/images/equipement/choix-gourde-gamelle-ou-poche.webp" alt="Chien qui boit dans une gamelle pliable lors d'une pause en randonnée" loading="lazy">
       <div class="inline-cta-text">
         <div class="inline-cta-title">Gourde, gamelle pliable ou poche à eau : Quel choix pour randonnée avec son chien ?</div>
         <div class="inline-cta-desc">Critères concrets pour choisir entre gourde avec abreuvoir, gamelle pliable et poche à eau selon la durée, la chaleur et le gabarit du chien.</div>
@@ -77,7 +77,7 @@ Il n'existe pas de règle nationale unique. L'accès dépend des arrêtés munic
       </div>
     </a>
     <a href="/equipement/harnais-randonnee-chien" class="inline-cta-card inline-cta-card--wide">
-      <img src="/images/equipement/chien-harnais.jpg" alt="Chien en randonnée avec harnais — guide de choix" loading="lazy">
+      <img src="/images/equipement/chien-harnais.webp" alt="Chien en randonnée avec harnais — guide de choix" loading="lazy">
       <div class="inline-cta-text">
         <div class="inline-cta-title">Randonnée avec son chien : comment choisir le harnais idéal ?</div>
         <div class="inline-cta-desc">Harnais classique, de traction ou multifonction : nos critères de choix, comparatif des meilleurs modèles et conseils d'ajustement pour randonner confortablement.</div>
@@ -121,7 +121,7 @@ Avant chaque sortie, identifiez le type d'espace où vous allez : parc national,
 Dans les espaces où la laisse est obligatoire, **une longe de 5 à 10 mètres** reste la solution la plus confortable pour votre chien tout en respectant la loi. Pour éviter les tractions et offrir un bon maintien, **un harnais adapté est préférable au collier**.
 
 <a href="/equipement/meilleur-harnais-randonnee-chien" class="inline-cta-card inline-cta-card--wide">
-  <img src="/images/equipement/harnais-polyvalent/cover.jpg" alt="Comparatif des meilleurs harnais polyvalents pour chien en randonnée" loading="lazy">
+  <img src="/images/equipement/harnais-polyvalent/cover.webp" alt="Comparatif des meilleurs harnais polyvalents pour chien en randonnée" loading="lazy">
   <div class="inline-cta-text">
     <div class="inline-cta-title">Meilleur harnais de randonnée pour chien : comparatif 2026</div>
     <div class="inline-cta-desc">TrueLove, Ruffwear Front Range, Hi & Light ou Web Master : notre sélection selon votre budget et votre pratique.</div>

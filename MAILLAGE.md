@@ -2,7 +2,7 @@
 
 > Référence de tous les articles publiés, à consulter avant de rédiger pour placer des liens internes pertinents.
 > Généré automatiquement par scripts/generate-maillage.mjs à chaque commit touchant un article.
-> Dernière mise à jour : 2026-07-01
+> Dernière mise à jour : 2026-07-06
 
 ---
 
@@ -28,7 +28,6 @@ Articles informationnels sur la préparation, la législation et les premières 
 | Première randonnée avec son chien : comment le préparer correctement ? | /avant-de-partir/premiere-randonnee-avec-son-chien/ | Informationnel |
 | Comment débuter le canicross avec son chien | /avant-de-partir/debuter-canicross-chien/ | Informationnel |
 | Comment habituer son chien à porter un harnais | /avant-de-partir/habituer-chien-porter-harnais/ | Informationnel |
-| Randonnée avec un petit chien : idées reçues et conseils pour bien pratiquer | /avant-de-partir/randonnee-petit-chien/ | Informationnel |
 
 ---
 

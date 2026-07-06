@@ -6,7 +6,7 @@ category: sante
 tags: [chien senior, vieillissement, effort physique, randonnée, âge]
 isAffiliate: false
 featured: false
-image: /images/sante/senior/cover.jpg
+image: /images/sante/senior/cover.webp
 imageAlt: "Chien senior en balade sur un sentier de montagne — adapter l'effort avec l'âge"
 metaTitle: "Jusqu'à quel âge un chien peut-il randonner ? Guide senior"
 metaDescription: "Seuils d'âge senior par gabarit, signaux d'alerte à l'effort, arthrose et distances adaptées : tout ce qu'il faut savoir pour randonner avec un vieux chien."
@@ -164,7 +164,7 @@ Les **descentes raides** sont particulièrement contraignantes pour un chien âg
 <div class="inline-cta-list">
   <p class="inline-cta-intro">Pour gérer l'eau sur le sentier :</p>
   <a href="/equipement/gourde-gamelle-poche-eau-chien-comment-choisir" class="inline-cta-card">
-    <img src="/images/equipement/choix-gourde-gamelle-ou-poche.jpg" alt="Gourde, gamelle pliable ou poche à eau pour randonner avec son chien" loading="lazy" width="80" height="80" />
+    <img src="/images/equipement/choix-gourde-gamelle-ou-poche.webp" alt="Gourde, gamelle pliable ou poche à eau pour randonner avec son chien" loading="lazy" width="80" height="80" />
     <div class="inline-cta-text">
       <span class="inline-cta-title">Gourde, gamelle ou poche à eau : quel choix pour randonner avec son chien ?</span>
       <span class="inline-cta-desc">Critères concrets selon la durée, la chaleur et le gabarit du chien.</span>

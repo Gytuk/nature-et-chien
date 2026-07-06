@@ -6,7 +6,7 @@ category: avant-de-partir
 tags: [harnais, équipement, comportement, débutant]
 isAffiliate: false
 featured: false
-image: /images/avant-de-partir/habituer son chien harnais.jpg
+image: /images/avant-de-partir/habituer%20son%20chien%20harnais.webp
 imageAlt: "Chien calme portant un harnais de randonnée ajusté, regardant son propriétaire pendant une sortie en forêt"
 focusKeyword: "comment habituer son chien à porter un harnais"
 metaTitle: "Comment habituer son chien à porter un harnais : protocole étape par étape"
@@ -43,7 +43,7 @@ Si l'un de ces points est défaillant, réajuster d'abord. Un harnais trop serr�
 
 <a href="/equipement/harnais-randonnee-chien/" class="cta-guide-harnais">
   <div class="cta-guide-harnais__img">
-    <img src="/images/equipement/chien-harnais.jpg" alt="Chien portant un harnais de randonnée" loading="lazy" />
+    <img src="/images/equipement/chien-harnais.webp" alt="Chien portant un harnais de randonnée" loading="lazy" />
   </div>
   <div class="cta-guide-harnais__body">
     <span class="cta-guide-harnais__label">Guide équipement</span>

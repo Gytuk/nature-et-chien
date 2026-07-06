@@ -6,7 +6,7 @@ category: avant-de-partir
 tags: [préparation, débutant, condition physique, première randonnée]
 isAffiliate: false
 featured: false
-image: /images/avant-de-partir/premiere-randonnee/cover.jpg
+image: /images/avant-de-partir/premiere-randonnee/cover.webp
 imageAlt: "Propriétaire et son chien sur un sentier de randonnée — première sortie"
 metaTitle: "Préparer son chien pour une première randonnée : guide complet"
 metaDescription: "Comment savoir si votre chien est prêt ? Entraînement progressif, vérifications avant le départ et équipement essentiel pour une première rando réussie."
@@ -171,7 +171,7 @@ Ces points semblent évidents mais se retrouvent régulièrement négligés lors
 
 <div class="inline-cta-list">
   <a href="/equipement/harnais-randonnee-chien" class="inline-cta-card">
-    <img src="/images/equipement/chien-harnais.jpg" alt="Guide pour choisir un harnais de randonnée adapté à son chien" loading="lazy" width="80" height="80" />
+    <img src="/images/equipement/chien-harnais.webp" alt="Guide pour choisir un harnais de randonnée adapté à son chien" loading="lazy" width="80" height="80" />
     <div class="inline-cta-text">
       <span class="inline-cta-title">Quel harnais choisir selon la morphologie de votre chien ?</span>
       <span class="inline-cta-desc">Types de harnais, critères de choix, ajustement et comparatifs par profil.</span>
@@ -184,7 +184,7 @@ Ces points semblent évidents mais se retrouvent régulièrement négligés lors
 
 <div class="inline-cta-list">
   <a href="/equipement/gourde-gamelle-poche-eau-chien-comment-choisir" class="inline-cta-card">
-    <img src="/images/equipement/choix-gourde-gamelle-ou-poche.jpg" alt="Gourde, gamelle pliable ou poche à eau pour randonner avec son chien" loading="lazy" width="80" height="80" />
+    <img src="/images/equipement/choix-gourde-gamelle-ou-poche.webp" alt="Gourde, gamelle pliable ou poche à eau pour randonner avec son chien" loading="lazy" width="80" height="80" />
     <div class="inline-cta-text">
       <span class="inline-cta-title">Gourde, gamelle ou poche à eau : quel choix pour randonner avec son chien ?</span>
       <span class="inline-cta-desc">Comparatif des trois solutions selon la durée de sortie, la chaleur et le gabarit du chien.</span>

@@ -6,7 +6,7 @@ category: avant-de-partir
 tags: [canicross, sport canin, débuter, harnais traction, entraînement]
 isAffiliate: false
 featured: false
-image: /images/avant-de-partir/canicross/cover.jpg
+image: /images/avant-de-partir/canicross/cover.webp
 imageAlt: "Coureur relié à son chien par une longe élastique sur un sentier forestier"
 metaTitle: "Débuter le canicross avec son chien : guide complet 2026"
 metaDescription: "Âge minimum, premier entraînement, équipement indispensable et températures à éviter : le guide pratique pour débuter le canicross avec son chien."
@@ -196,7 +196,7 @@ Trois éléments forment le kit minimum indissociable. On ne peut pas remplacer 
 Un harnais de promenade standard n'est pas adapté au canicross. Le harnais de traction épouse tout le corps du chien, avec un point d'attache situé au niveau du tiers postérieur du dos. Ce positionnement répartit les forces sur les flancs et les épaules sans comprimer la colonne vertébrale. Le type le plus répandu est le **X-back** : deux sangles qui se croisent sur le dos, avec l'anneau d'attache à l'arrière.
 
 <a href="/equipement/meilleur-harnais-randonnee-chien-trail-canicross/" class="inline-cta-card inline-cta-card--wide">
-  <img src="/images/equipement/canicross/cover.jpg" alt="Comparatif harnais trail et canicross" loading="lazy">
+  <img src="/images/equipement/canicross/cover.webp" alt="Comparatif harnais trail et canicross" loading="lazy">
   <div class="inline-cta-text">
     <div class="inline-cta-title">Meilleur harnais trail et canicross 2026</div>
     <div class="inline-cta-desc">X-back, H-back, points d'attache haut : notre sélection pour chaque gabarit. Inlandsis Polar Quest, I-Dog Phoenix ALM, Non-stop Freemotion 5.0.</div>
@@ -209,7 +209,7 @@ Un harnais de promenade standard n'est pas adapté au canicross. Le harnais de t
 La longe élastique est indispensable : elle absorbe les à-coups quand le chien accélère brusquement, protège vos lombaires et les articulations du chien. Une laisse ordinaire rigide transmet chaque impulsion directement, ce qui est épuisant et potentiellement blessant pour les deux. La norme en compétition est une longueur maximale de 200 cm en extension. Pour débuter, une longe de 1,5 à 2 m avec amortisseur intégré suffit.
 
 <a href="/equipement/meilleure-laisse-canicross/" class="inline-cta-card inline-cta-card--wide">
-  <img src="/images/equipement/laisse-canicross/cover.png" alt="Comparatif laisses canicross" loading="lazy">
+  <img src="/images/equipement/laisse-canicross/cover.webp" alt="Comparatif laisses canicross" loading="lazy">
   <div class="inline-cta-text">
     <div class="inline-cta-title">Meilleure laisse canicross 2026</div>
     <div class="inline-cta-desc">Longueur, amortisseur, fixation tête d'alouette ou mousqueton : comment choisir sa longe selon son niveau. Inlandsis Crosser 2, Crosstrail 2, I-Dog ONE.</div>
@@ -222,7 +222,7 @@ La longe élastique est indispensable : elle absorbe les à-coups quand le chien
 La longe s'attache à vous, pas à la main. Courir en tenant la longe à la main est inconfortable et ne permet pas de courir librement. Les baudriers (avec structure thoracique) offrent une meilleure répartition des forces que les simples ceintures lombaires ; les deux fonctionnent pour débuter.
 
 <a href="/equipement/meilleur-ceinture-canicross/" class="inline-cta-card inline-cta-card--wide">
-  <img src="/images/equipement/ceinture%20canicross/image%20couverture%20article%20ceinture%20canicross.png" alt="Comparatif ceintures et baudriers canicross" loading="lazy">
+  <img src="/images/equipement/ceinture%20canicross/image%20couverture%20article%20ceinture%20canicross.webp" alt="Comparatif ceintures et baudriers canicross" loading="lazy">
   <div class="inline-cta-text">
     <div class="inline-cta-title">Meilleure ceinture canicross 2026</div>
     <div class="inline-cta-desc">Ceinture lombaire ou baudrier, canicross ou canirando : les différences qui comptent avant d'acheter. Trail Runner Belt, I-Dog ONE, Aircross, Trekking Belt 2.0.</div>
@@ -288,7 +288,7 @@ Les chemins forestiers en terre sont le terrain de référence. Les surfaces dur
 À l'effort de traction, le chien se déshydrate plus vite qu'en marche. Prévoyez de l'eau même pour une sortie courte, et proposez-en au chien à chaque pause sans attendre qu'il la demande.
 
 <a href="/equipement/comparatif-gourde-chien-randonnee/" class="inline-cta-card">
-  <img src="/images/equipement/gourde/cover.jpg" alt="Comparatif gourde pour chien en randonnée" loading="lazy" width="72" height="72" />
+  <img src="/images/equipement/gourde/cover.webp" alt="Comparatif gourde pour chien en randonnée" loading="lazy" width="72" height="72" />
   <div class="inline-cta-text">
     <span class="inline-cta-title">Comparatif gourde pour chien en randonnée</span>
     <span class="inline-cta-desc">Les meilleures gourdes à bec pour hydrater votre chien rapidement en sortie, sans interrompre longtemps l'effort.</span>
