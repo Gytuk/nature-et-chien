@@ -1,6 +1,6 @@
 ---
 title: "Meilleure laisse canicross : comparatif 2026"
-description: "Crosser 2, Crosstrail 2, I-Dog ONE : quelle laisse canicross choisir selon le gabarit de votre chien et votre niveau de pratique ? Comparatif 2026."
+description: "Crosser 2, Crosstrail 2, I-Dog ONE : quelle laisse canicross ou cani-rando choisir selon le gabarit de votre chien et votre niveau de pratique ? Comparatif 2026."
 publishDate: 2026-06-17
 category: equipement
 tags: [laisse, canicross, sport-canin, équipement]
@@ -11,7 +11,7 @@ image: /images/equipement/laisse-canicross/cover.webp
 imageAlt: "Comparatif des meilleures laisses canicross 2026"
 focusKeyword: "meilleure laisse canicross"
 metaTitle: "Meilleure laisse canicross : comparatif 2026"
-metaDescription: "Crosser 2, Crosstrail 2, I-Dog ONE : quelle laisse canicross choisir selon le gabarit de votre chien et votre niveau de pratique ? Comparatif 2026."
+metaDescription: "Crosser 2, Crosstrail 2, I-Dog ONE : quelle laisse canicross ou cani-rando choisir selon le gabarit du chien et le niveau de pratique ? Comparatif 2026."
 itemList:
   - "Inlandsis Crosser 2"
   - "Inlandsis Crosstrail 2"
@@ -19,7 +19,7 @@ itemList:
   - "I-Dog ONE"
 ---
 
-<p class="nc-lede">Une laisse de promenade ordinaire n'est pas une laisse canicross. La différence n'est pas de confort : c'est une question de mécanique. En canicross, la laisse encaisse des à-coups répétés à chaque foulée du chien. Sans amortisseur intégré, ces chocs se transmettent directement au baudrier, au dos du coureur, et aux attaches du harnais. Ce comparatif couvre les quatre meilleurs laisses canicross disponibles en 2026, toutes conformes FSLC, sélectionnées selon le gabarit du chien et le niveau de pratique.</p>
+<p class="nc-lede">Une laisse de promenade ordinaire n'est pas une laisse canicross. La différence n'est pas de confort : c'est une question de mécanique. En canicross ou en cani-rando, la laisse encaisse des à-coups répétés à chaque foulée du chien. Sans amortisseur intégré, ces chocs se transmettent directement au baudrier, au dos du coureur, et aux attaches du harnais. Ce comparatif couvre les quatre meilleures laisses canicross et cani-rando disponibles en 2026, toutes conformes FSLC, sélectionnées selon le gabarit du chien et le niveau de pratique. Si vous souhaitez courir avec votre chien, les laisses de cette sélection sont adaptées à la compétition comme à la pratique loisir.</p>
 
 <p class="affiliate-notice">Certains liens de cet article pointent vers des pages produit. Si vous achetez via ces liens, nous percevons une petite commission, sans surcoût pour vous.</p>
 
@@ -54,7 +54,7 @@ En loisir, n'importe quelle laisse canicross avec amortisseur convient : aucune 
 </div>
 </div>
 
-Pour du canicross loisir ou en compétition FSLC, toutes ces laisses conviennent. Si vous envisagez de courir sous les deux fédérations, ou d'ouvrir vers le cani-VTT ou le ski-joëring, préférez une laisse sans mousqueton métallique côté coureur.
+Pour du canicross loisir ou en compétition FSLC, toutes ces laisses conviennent. Si vous envisagez de courir sous les deux fédérations, ou d'ouvrir vers le cani-VTT ou le ski-joëring, préférez une laisse sans mousqueton métallique côté coureur. Si vous souhaitez randonner ou vous promener avec votre chien sans notion de traction, ces laisses ne sont pas adaptées : consultez notre sélection de [laisses mains libres pour la randonnée](/equipement/comparatif-laisse-main-libre-chien-randonnee/).
 
 ---
 
@@ -248,7 +248,7 @@ Si vous débutez et que la mise en place n'est pas évidente, cette vidéo montr
     </div>
   </div>
   <div class="prc__footer">
-    <p class="prc__ideal"><strong>Idéal pour</strong> · premier équipement, chien &gt; 15 kg, loisir ou compétition FSLC</p>
+    <p class="prc__ideal"><strong>Idéal pour</strong> · premier équipement, chien &gt; 15 kg, canicross et cani-rando loisir, compétition FSLC</p>
     <a href="https://tidd.ly/4a6yc7b" class="prc__btn prc__btn--hardloop" target="_blank" rel="nofollow sponsored">Voir sur Hardloop →</a>
   </div>
 </div>
@@ -361,7 +361,7 @@ Si vous débutez et que la mise en place n'est pas évidente, cette vidéo montr
     </div>
   </div>
   <div class="prc__footer">
-    <p class="prc__ideal"><strong>Idéal pour</strong> · loisir ou compétition toutes fédérations, chien &gt; 15 kg</p>
+    <p class="prc__ideal"><strong>Idéal pour</strong> · canicross et cani-rando, compétition toutes fédérations, chien &gt; 15 kg</p>
     <a href="https://amzn.to/3SLJZlb" class="prc__btn" target="_blank" rel="nofollow sponsored">Voir sur Amazon →</a>
   </div>
 </div>
@@ -390,8 +390,8 @@ Si vous débutez et que la mise en place n'est pas évidente, cette vidéo montr
   </details>
 
   <details>
-    <summary>Quelle différence entre une longe canicross et une laisse de running classique ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Une laisse de running classique est conçue pour un chien qui court à côté de son maître sans tirer activement. Une longe canicross est conçue pour un chien qui tire en effort soutenu : elle intègre un amortisseur élastique calibré qui absorbe les à-coups répétés à chaque foulée. Sans cet amortisseur, les chocs remontent directement dans le bas du dos du coureur et sollicitent les attaches du harnais de façon répétitive.</p></div>
+    <summary>Quelle laisse pour faire du footing avec son chien ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
+    <div class="faq-answer"><p>Si votre chien tire activement pendant la course, les laisses de ce comparatif sont adaptées : elles absorbent les à-coups et se fixent à un baudrier pour vous laisser les mains libres. Si votre chien court à côté de vous sans tirer, une laisse mains libres classique suffit. Voir notre sélection de <a href="/equipement/comparatif-laisse-main-libre-chien-randonnee/">laisses mains libres pour la randonnée</a>.</p></div>
   </details>
 
   <details>
