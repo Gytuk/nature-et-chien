@@ -134,12 +134,12 @@ Le détail complet du geste, étape par étape, ainsi que la conduite à tenir s
 
 ---
 
-## O'Tom Tick Twister : le tire-tique chien le plus reconnu en France
+## <a href="https://amzn.to/4xW5YpV" class="prc-heading-link" target="_blank" rel="nofollow sponsored">O'Tom Tick Twister : le tire-tique chien le plus reconnu en France</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/tire%20tique/tire%20tique%203%20tailles%20plastique.jpg" alt="O'Tom Tick Twister" loading="lazy">
+      <a href="https://amzn.to/4xW5YpV" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/tire%20tique/tire%20tique%203%20tailles%20plastique.jpg" alt="O'Tom Tick Twister" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">6,49 €</span><span class="prc__tag">Meilleur qualité-prix</span></div>
@@ -173,12 +173,12 @@ Le détail complet du geste, étape par étape, ainsi que la conduite à tenir s
 
 ---
 
-## WQDD STANPET : le tire-tique chien en inox pour un usage fréquent
+## <a href="https://amzn.to/4faMDcZ" class="prc-heading-link" target="_blank" rel="nofollow sponsored">WQDD STANPET : le tire-tique chien en inox pour un usage fréquent</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/tire%20tique/tire%20tique%20acier%203%20outils.jpg" alt="WQDD STANPET" loading="lazy">
+      <a href="https://amzn.to/4faMDcZ" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/tire%20tique/tire%20tique%20acier%203%20outils.jpg" alt="WQDD STANPET" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">11,99 €</span><span class="prc__tag">Usage fréquent</span></div>
@@ -211,12 +211,12 @@ Le détail complet du geste, étape par étape, ainsi que la conduite à tenir s
 
 ---
 
-## Trekmates Tick Remover : le tire-tique chien à glisser sur son porte-clés
+## <a href="https://tidd.ly/3Ssc2X3" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Trekmates Tick Remover : le tire-tique chien à glisser sur son porte-clés</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/tire%20tique/tire%20tique%20porte-cl%C3%A9s.jpg" alt="Trekmates Tick Remover" loading="lazy">
+      <a href="https://tidd.ly/3Ssc2X3" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/tire%20tique/tire%20tique%20porte-cl%C3%A9s.jpg" alt="Trekmates Tick Remover" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">8,90 €</span><span class="prc__tag">Toujours sur soi</span></div>

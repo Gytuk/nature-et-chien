@@ -106,12 +106,12 @@ Ce comparatif couvre les meilleurs modèles disponibles sur Amazon France : **pl
 
 ---
 
-## Trixie Gourde + écuelle 700 ml : le premier prix accessible
+## <a href="https://amzn.to/4uvgbHn" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Trixie Gourde + écuelle 700 ml : le premier prix accessible</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/gourde/trixie-700ml.png" alt="Trixie + écuelle 700 ml" loading="lazy">
+      <a href="https://amzn.to/4uvgbHn" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/gourde/trixie-700ml.png" alt="Trixie + écuelle 700 ml" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">10–14 €</span><span class="prc__tag">Premier achat</span></div>
@@ -144,12 +144,12 @@ Ce comparatif couvre les meilleurs modèles disponibles sur Amazon France : **pl
 
 ---
 
-## Lesotc 520 ml : le meilleur mécanisme en plastique
+## <a href="https://amzn.to/427Etem" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Lesotc 520 ml : le meilleur mécanisme en plastique</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/gourde/lesotc-520ml.png" alt="Lesotc 520 ml" loading="lazy">
+      <a href="https://amzn.to/427Etem" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/gourde/lesotc-520ml.png" alt="Lesotc 520 ml" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">16–20 €</span><span class="prc__tag">Sorties régulières</span></div>
@@ -182,12 +182,12 @@ Ce comparatif couvre les meilleurs modèles disponibles sur Amazon France : **pl
 
 ---
 
-## Petace Inox 750 ml : le choix pour les randonnées sérieuses
+## <a href="https://www.amazon.fr/dp/B0CKQMP8B3?tag=natureetchien-21" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Petace Inox 750 ml : le choix pour les randonnées sérieuses</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/gourde/petace-inox-750ml.png" alt="Petace Inox 750 ml" loading="lazy">
+      <a href="https://www.amazon.fr/dp/B0CKQMP8B3?tag=natureetchien-21" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/gourde/petace-inox-750ml.png" alt="Petace Inox 750 ml" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">28–32 €</span><span class="prc__tag">Randonnée estivale</span></div>

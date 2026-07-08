@@ -120,12 +120,12 @@ Trois problèmes reviennent régulièrement avec un harnais standard sur les gab
 
 ---
 
-## TrueLove TLH5651 : le bon compromis pour commencer
+## <a href="https://amzn.to/4dzZxRf" class="prc-heading-link" target="_blank" rel="nofollow sponsored">TrueLove TLH5651 : le bon compromis pour commencer</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/harnais-grand-chien/truelove.jpg" alt="TrueLove TLH5651" loading="lazy">
+      <a href="https://amzn.to/4dzZxRf" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-grand-chien/truelove.jpg" alt="TrueLove TLH5651" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">30 €</span><span class="prc__tag">Balade & rando légère</span></div>
@@ -158,12 +158,12 @@ Trois problèmes reviennent régulièrement avec un harnais standard sur les gab
 
 ---
 
-## Ruffwear Front Range : le confort avant tout sur les longues distances
+## <a href="https://tidd.ly/3PTDHim" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Ruffwear Front Range : le confort avant tout sur les longues distances</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/harnais-grand-chien/ruffwear-front-range-harness-harnais-pour-chien.webp" alt="Ruffwear Front Range" loading="lazy">
+      <a href="https://tidd.ly/3PTDHim" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-grand-chien/ruffwear-front-range-harness-harnais-pour-chien.webp" alt="Ruffwear Front Range" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">58 €</span><span class="prc__tag">Randonnée régulière</span></div>
@@ -195,12 +195,12 @@ Trois problèmes reviennent régulièrement avec un harnais standard sur les gab
 
 ---
 
-## Ruffwear Flagline : pour la montagne et les chiens difficiles à ajuster
+## <a href="https://tidd.ly/43Enn8o" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Ruffwear Flagline : pour la montagne et les chiens difficiles à ajuster</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/harnais-grand-chien/ruffwear-flagline-harnais-pour-chien.webp" alt="Ruffwear Flagline" loading="lazy">
+      <a href="https://tidd.ly/43Enn8o" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-grand-chien/ruffwear-flagline-harnais-pour-chien.webp" alt="Ruffwear Flagline" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">85 €</span><span class="prc__tag">Terrain technique</span></div>

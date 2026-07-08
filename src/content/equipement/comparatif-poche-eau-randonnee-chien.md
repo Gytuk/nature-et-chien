@@ -108,12 +108,12 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
 
 ---
 
-## Platypus Platy 2L : idéal pour le randonneur qui veut de la réserve sans complications
+## <a href="https://amzn.to/4w7iKAW" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Platypus Platy 2L : idéal pour le randonneur qui veut de la réserve sans complications</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/poche-a-eau/platypus-platy-2l.png" alt="Platypus Platy 2L" loading="lazy">
+      <a href="https://amzn.to/4w7iKAW" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/poche-a-eau/platypus-platy-2l.png" alt="Platypus Platy 2L" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">16–20 €</span><span class="prc__tag">Réserve légère</span></div>
@@ -145,12 +145,12 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
 
 ---
 
-## HydraPak Shape-Shift 2L : idéal pour le randonneur régulier qui veut un tuyau sans payer le prix premium
+## <a href="https://amzn.to/4ta5Eju" class="prc-heading-link" target="_blank" rel="nofollow sponsored">HydraPak Shape-Shift 2L : idéal pour le randonneur régulier qui veut un tuyau sans payer le prix premium</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/poche-a-eau/hydrapak-shape-shift-2l.png" alt="HydraPak Shape-Shift 2L" loading="lazy">
+      <a href="https://amzn.to/4ta5Eju" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/poche-a-eau/hydrapak-shape-shift-2l.png" alt="HydraPak Shape-Shift 2L" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">35–40 €</span><span class="prc__tag">Tuyau intermédiaire</span></div>
@@ -183,12 +183,12 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
 
 ---
 
-## CamelBak Crux 2L : idéal pour un usage régulier et intensif sur plusieurs saisons
+## <a href="https://amzn.to/48KgFB0" class="prc-heading-link" target="_blank" rel="nofollow sponsored">CamelBak Crux 2L : idéal pour un usage régulier et intensif sur plusieurs saisons</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/poche-a-eau/camelbak-crux-2l.png" alt="CamelBak Crux 2L" loading="lazy">
+      <a href="https://amzn.to/48KgFB0" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/poche-a-eau/camelbak-crux-2l.png" alt="CamelBak Crux 2L" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">35–45 €</span><span class="prc__tag">Fiabilité longue durée</span></div>

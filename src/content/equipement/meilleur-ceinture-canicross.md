@@ -193,12 +193,12 @@ Du côté du chien, la connexion est simple : un mousqueton de laisse se clippe 
 
 ---
 
-## Ruffwear Trail Runner Belt : la ceinture canicross pour courir avec son chien
+## <a href="https://tidd.ly/4v542sF" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Ruffwear Trail Runner Belt : la ceinture canicross pour courir avec son chien</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/ceinture%20canicross/ruffwear-trail-runner-belt%20-%20ceinture%20canicross%20.jpg" alt="Ruffwear Trail Runner Belt" loading="lazy">
+      <a href="https://tidd.ly/4v542sF" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/ruffwear-trail-runner-belt%20-%20ceinture%20canicross%20.jpg" alt="Ruffwear Trail Runner Belt" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">51,55 €</span><span class="prc__tag">Ceinture</span></div>
@@ -231,12 +231,12 @@ Du côté du chien, la connexion est simple : un mousqueton de laisse se clippe 
 
 ---
 
-## I-Dog Baudrier ONE : le baudrier canicross accessible
+## <a href="https://amzn.to/4gu8X2j" class="prc-heading-link" target="_blank" rel="nofollow sponsored">I-Dog Baudrier ONE : le baudrier canicross accessible</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/ceinture%20canicross/baudrier%20i%20dog%20canicross.jpg" alt="I-Dog Baudrier ONE" loading="lazy">
+      <a href="https://amzn.to/4gu8X2j" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/baudrier%20i%20dog%20canicross.jpg" alt="I-Dog Baudrier ONE" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">34,90 €</span><span class="prc__tag">Baudrier</span></div>
@@ -269,12 +269,12 @@ Du côté du chien, la connexion est simple : un mousqueton de laisse se clippe 
 
 ---
 
-## Inlandsis Aircross : le baudrier canicross de référence
+## <a href="https://tidd.ly/4fVx3Tw" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Inlandsis Aircross : le baudrier canicross de référence</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/ceinture%20canicross/Inlandsis%20aircross%20-%20baudrier%20canicross.jpg" alt="Inlandsis Aircross" loading="lazy">
+      <a href="https://tidd.ly/4fVx3Tw" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/Inlandsis%20aircross%20-%20baudrier%20canicross.jpg" alt="Inlandsis Aircross" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">46,90 €</span><span class="prc__tag">Baudrier technique</span></div>
@@ -308,12 +308,12 @@ Du côté du chien, la connexion est simple : un mousqueton de laisse se clippe 
 
 ---
 
-## Non-stop Trekking Belt 2.0 : la ceinture canirando pour les longues sorties
+## <a href="https://tidd.ly/4fQB37O" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Non-stop Trekking Belt 2.0 : la ceinture canirando pour les longues sorties</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/ceinture%20canicross/Trekking%20Belt%202.0%20-%20Ceinture%20canirando.jpg" alt="Non-stop Trekking Belt 2.0" loading="lazy">
+      <a href="https://tidd.ly/4fQB37O" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/Trekking%20Belt%202.0%20-%20Ceinture%20canirando.jpg" alt="Non-stop Trekking Belt 2.0" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">65,00 €</span><span class="prc__tag">Ceinture canirando</span></div>

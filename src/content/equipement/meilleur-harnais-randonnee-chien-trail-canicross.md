@@ -123,12 +123,12 @@ Avant de choisir, il faut comprendre à quoi correspond chaque type de harnais.
 
 ---
 
-## Inlandsis Polar Quest : le X-back de référence à petit prix
+## <a href="https://tidd.ly/49nB6Ee" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Inlandsis Polar Quest : le X-back de référence à petit prix</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/canicross/inlandsis-polar-quest-harnais-pour-chien.webp" alt="Inlandsis Polar Quest" loading="lazy">
+      <a href="https://tidd.ly/49nB6Ee" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/canicross/inlandsis-polar-quest-harnais-pour-chien.webp" alt="Inlandsis Polar Quest" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">39,90 €</span><span class="prc__tag">X-back</span></div>
@@ -162,12 +162,12 @@ Avant de choisir, il faut comprendre à quoi correspond chaque type de harnais.
 
 ---
 
-## I-Dog Phoenix ALM : le X-back réglable pour les pratiquants exigeants
+## <a href="https://tidd.ly/4uFtuFD" class="prc-heading-link" target="_blank" rel="nofollow sponsored">I-Dog Phoenix ALM : le X-back réglable pour les pratiquants exigeants</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/canicross/i-dog-x-back-phoenix-alm-harnais-pour-chien.webp" alt="I-Dog Phoenix ALM" loading="lazy">
+      <a href="https://tidd.ly/4uFtuFD" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/canicross/i-dog-x-back-phoenix-alm-harnais-pour-chien.webp" alt="I-Dog Phoenix ALM" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">59 €</span><span class="prc__tag">X-back réglable</span></div>
@@ -199,12 +199,12 @@ Avant de choisir, il faut comprendre à quoi correspond chaque type de harnais.
 
 ---
 
-## Non-stop Freemotion 5.0 : le harnais de traction technique
+## <a href="https://tidd.ly/4dxD2MM" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Non-stop Freemotion 5.0 : le harnais de traction technique</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/canicross/non-stop-dogwear-freemotion-harness-50-harnais-pour-chien.webp" alt="Non-stop Freemotion 5.0" loading="lazy">
+      <a href="https://tidd.ly/4dxD2MM" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/canicross/non-stop-dogwear-freemotion-harness-50-harnais-pour-chien.webp" alt="Non-stop Freemotion 5.0" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">77 €</span><span class="prc__tag">Point d'attache haut</span></div>

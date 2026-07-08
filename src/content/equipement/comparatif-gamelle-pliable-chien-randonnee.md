@@ -108,12 +108,12 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
 
 ---
 
-## SLSON silicone : le choix petit budget
+## <a href="https://amzn.to/4cRxVH0" class="prc-heading-link" target="_blank" rel="nofollow sponsored">SLSON silicone : le choix petit budget</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/gamelle-pliable/slson-silicone.png" alt="SLSON silicone" loading="lazy">
+      <a href="https://amzn.to/4cRxVH0" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/gamelle-pliable/slson-silicone.png" alt="SLSON silicone" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">9–14 €</span><span class="prc__tag">Petit budget</span></div>
@@ -147,12 +147,12 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
 
 ---
 
-## OHMO silicone : la gamelle grande contenance bien finie
+## <a href="https://amzn.to/3OM1TTz" class="prc-heading-link" target="_blank" rel="nofollow sponsored">OHMO silicone : la gamelle grande contenance bien finie</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/gamelle-pliable/ohmo-silicone.png" alt="OHMO silicone" loading="lazy">
+      <a href="https://amzn.to/3OM1TTz" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/gamelle-pliable/ohmo-silicone.png" alt="OHMO silicone" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">12–18 €</span><span class="prc__tag">Grande contenance</span></div>
@@ -185,12 +185,12 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
 
 ---
 
-## Ruffwear Trail Runner : l'ultraléger pour optimiser chaque gramme
+## <a href="https://tidd.ly/4344E6c" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Ruffwear Trail Runner : l'ultraléger pour optimiser chaque gramme</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/gamelle-pliable/ruffwear-trail-runner-gamelle-pour-chien.webp" alt="Ruffwear Trail Runner" loading="lazy">
+      <a href="https://tidd.ly/4344E6c" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/gamelle-pliable/ruffwear-trail-runner-gamelle-pour-chien.webp" alt="Ruffwear Trail Runner" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">21,90 €</span><span class="prc__tag">Légèreté trail</span></div>
@@ -223,12 +223,12 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
 
 ---
 
-## Ruffwear Quencher : la polyvalente toutes conditions
+## <a href="https://tidd.ly/49stPCZ" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Ruffwear Quencher : la polyvalente toutes conditions</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/gamelle-pliable/ruffwear-quencher.png" alt="Ruffwear Quencher" loading="lazy">
+      <a href="https://tidd.ly/49stPCZ" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/gamelle-pliable/ruffwear-quencher.png" alt="Ruffwear Quencher" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">25,25 €</span><span class="prc__tag">Toutes conditions</span></div>

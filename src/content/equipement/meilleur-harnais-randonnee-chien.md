@@ -117,12 +117,12 @@ Le harnais de randonnée pour chien est l'équipement qui fait la différence su
 
 ---
 
-## TrueLove TLH5651 : le premier harnais Y accessible
+## <a href="https://amzn.to/3RxIEhv" class="prc-heading-link" target="_blank" rel="nofollow sponsored">TrueLove TLH5651 : le premier harnais Y accessible</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/harnais-polyvalent/truelove.jpg" alt="TrueLove TLH5651" loading="lazy">
+      <a href="https://amzn.to/3RxIEhv" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-polyvalent/truelove.jpg" alt="TrueLove TLH5651" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">33,89 €</span><span class="prc__tag">Entrée de gamme</span></div>
@@ -155,12 +155,12 @@ Le harnais de randonnée pour chien est l'équipement qui fait la différence su
 
 ---
 
-## Ruffwear Front Range : le rembourré polyvalent, référence de la gamme intermédiaire
+## <a href="https://tidd.ly/4vfdYQr" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Ruffwear Front Range : le rembourré polyvalent, référence de la gamme intermédiaire</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/harnais-polyvalent/ruffwear-front-range-harness-harnais-pour-chien.webp" alt="Ruffwear Front Range" loading="lazy">
+      <a href="https://tidd.ly/4vfdYQr" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-polyvalent/ruffwear-front-range-harness-harnais-pour-chien.webp" alt="Ruffwear Front Range" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">42,00 €</span><span class="prc__tag">Randonnée régulière</span></div>
@@ -192,12 +192,12 @@ Le harnais de randonnée pour chien est l'équipement qui fait la différence su
 
 ---
 
-## Ruffwear Hi & Light : léger, respirant, conçu pour rester en place toute la journée
+## <a href="https://tidd.ly/49rX4G4" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Ruffwear Hi & Light : léger, respirant, conçu pour rester en place toute la journée</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/harnais-polyvalent/ruffwear-hi-and-light-harness-harnais-pour-chien.webp" alt="Ruffwear Hi & Light" loading="lazy">
+      <a href="https://tidd.ly/49rX4G4" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-polyvalent/ruffwear-hi-and-light-harness-harnais-pour-chien.webp" alt="Ruffwear Hi & Light" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">59,90 €</span><span class="prc__tag">Légèreté & été</span></div>
@@ -230,12 +230,12 @@ Le harnais de randonnée pour chien est l'équipement qui fait la différence su
 
 ---
 
-## Ruffwear Web Master : anti-fuite, ajustement maximal, construit pour durer
+## <a href="https://tidd.ly/4u61c5Y" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Ruffwear Web Master : anti-fuite, ajustement maximal, construit pour durer</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/harnais-polyvalent/ruffwear-webmaster-harnais-pour-chien.webp" alt="Ruffwear Web Master" loading="lazy">
+      <a href="https://tidd.ly/4u61c5Y" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-polyvalent/ruffwear-webmaster-harnais-pour-chien.webp" alt="Ruffwear Web Master" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">~90 €</span><span class="prc__tag">Anti-fuite</span></div>

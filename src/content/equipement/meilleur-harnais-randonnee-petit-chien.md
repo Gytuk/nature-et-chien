@@ -108,12 +108,12 @@ Trouver le bon harnais de randonnée pour un petit chien demande plus d'attentio
 
 ---
 
-## Hurtta Casual Y-Harness : la référence pour les peaux sensibles
+## <a href="https://amzn.to/4fHltLC" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Hurtta Casual Y-Harness : la référence pour les peaux sensibles</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/harnais-petit-chien/hurtta.jpg" alt="Hurtta Casual Y-Harness" loading="lazy">
+      <a href="https://amzn.to/4fHltLC" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-petit-chien/hurtta.jpg" alt="Hurtta Casual Y-Harness" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">31,99 €</span><span class="prc__tag">Peau sensible</span></div>
@@ -146,12 +146,12 @@ Trouver le bon harnais de randonnée pour un petit chien demande plus d'attentio
 
 ---
 
-## Ruffwear Hi & Light : le choix pour les très petits gabarits et l'été
+## <a href="https://tidd.ly/4dBZBQz" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Ruffwear Hi & Light : le choix pour les très petits gabarits et l'été</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/harnais-petit-chien/ruffwear-hi-and-light-harness-harnais-pour-chien.webp" alt="Ruffwear Hi & Light" loading="lazy">
+      <a href="https://tidd.ly/4dBZBQz" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-petit-chien/ruffwear-hi-and-light-harness-harnais-pour-chien.webp" alt="Ruffwear Hi & Light" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">59,90 €</span><span class="prc__tag">Légèreté & été</span></div>
@@ -183,12 +183,12 @@ Trouver le bon harnais de randonnée pour un petit chien demande plus d'attentio
 
 ---
 
-## Non-stop Dogwear Ramble : le plus complet pour le terrain
+## <a href="https://tidd.ly/4dOdGcb" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Non-stop Dogwear Ramble : le plus complet pour le terrain</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/harnais-petit-chien/non-stop-dogwear-ramble-harness-harnais-pour-chien.webp" alt="Non-stop Ramble" loading="lazy">
+      <a href="https://tidd.ly/4dOdGcb" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-petit-chien/non-stop-dogwear-ramble-harness-harnais-pour-chien.webp" alt="Non-stop Ramble" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">56,90 €</span><span class="prc__tag">Terrain technique</span></div>
