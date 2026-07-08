@@ -1468,6 +1468,17 @@ a:hover { text-decoration-color: currentColor; }
 }
 .prc__btn--hardloop { background: #09547E; }
 .prc__btn--hardloop:hover { background: #074264; }
+
+.prc-heading-link { color: inherit; text-decoration-color: transparent; }
+.prc-heading-link:hover { text-decoration-color: currentColor; }
+
+.prc__img-wrap a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
 @media (max-width: 640px) {
   .prc__top {
     grid-template-columns: 1fr;

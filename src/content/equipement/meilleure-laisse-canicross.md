@@ -195,12 +195,12 @@ Si vous débutez et que la mise en place n'est pas évidente, cette vidéo montr
 
 ---
 
-## Inlandsis Crosser 2 : la laisse canicross pour débuter
+## <a href="https://amzn.to/4faA40j" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Inlandsis Crosser 2 : la laisse canicross pour débuter</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/laisse-canicross/inlandsis-crosser-2-laisse-pour-chien.webp" alt="Inlandsis Crosser 2" loading="lazy">
+      <a href="https://amzn.to/4faA40j" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/laisse-canicross/inlandsis-crosser-2-laisse-pour-chien.webp" alt="Inlandsis Crosser 2" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">19,90 €</span><span class="prc__tag">+15 kg</span></div>
@@ -233,12 +233,12 @@ Si vous débutez et que la mise en place n'est pas évidente, cette vidéo montr
 
 ---
 
-## Inlandsis Crosser 2 SD : la laisse canicross pour petit chien
+## <a href="https://amzn.to/4gqkBeH" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Inlandsis Crosser 2 SD : la laisse canicross pour petit chien</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/laisse-canicross/laisse-canicross-petit-chien.jpg" alt="Inlandsis Crosser 2 SD" loading="lazy">
+      <a href="https://amzn.to/4gqkBeH" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/laisse-canicross/laisse-canicross-petit-chien.jpg" alt="Inlandsis Crosser 2 SD" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">21,89 €</span><span class="prc__tag">-15 kg</span></div>
@@ -271,12 +271,12 @@ Si vous débutez et que la mise en place n'est pas évidente, cette vidéo montr
 
 ---
 
-## I-Dog ONE : la longe canicross compatible toutes fédérations
+## <a href="https://amzn.to/3SLJZlb" class="prc-heading-link" target="_blank" rel="nofollow sponsored">I-Dog ONE : la longe canicross compatible toutes fédérations</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <img src="/images/equipement/laisse-canicross/i-dog-laisse-cani-cross.jpg" alt="I-Dog ONE" loading="lazy">
+      <a href="https://amzn.to/3SLJZlb" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/laisse-canicross/i-dog-laisse-cani-cross.jpg" alt="I-Dog ONE" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">19,90 €</span><span class="prc__tag">+15 kg</span></div>
