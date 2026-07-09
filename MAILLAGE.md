@@ -2,7 +2,7 @@
 
 > Référence de tous les articles publiés, à consulter avant de rédiger pour placer des liens internes pertinents.
 > Généré automatiquement par scripts/generate-maillage.mjs à chaque commit touchant un article.
-> Dernière mise à jour : 2026-07-08
+> Dernière mise à jour : 2026-07-09
 
 ---
 
@@ -76,4 +76,5 @@ Articles comparatifs avec liens affiliés. Cibles de conversion prioritaires.
 | Meilleur harnais de randonnée pour petit chien : comparatif 2026 | /equipement/meilleur-harnais-randonnee-petit-chien/ | Comparateur affilié |
 | Meilleure ceinture canicross : comparatif 2026 | /equipement/meilleur-ceinture-canicross/ | Comparateur affilié |
 | Meilleure laisse canicross : comparatif 2026 | /equipement/meilleure-laisse-canicross/ | Comparateur affilié |
+| Laisse main libre pour chien : notre sélection | /equipement/comparatif-laisse-main-libre-chien-randonnee/ | Comparateur affilié |
 | Meilleur tire-tique chien : comparatif 2026 | /equipement/meilleur-tire-tique-chien/ | Comparateur affilié |
