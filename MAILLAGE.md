@@ -2,7 +2,7 @@
 
 > Référence de tous les articles publiés, à consulter avant de rédiger pour placer des liens internes pertinents.
 > Généré automatiquement par scripts/generate-maillage.mjs à chaque commit touchant un article.
-> Dernière mise à jour : 2026-07-09
+> Dernière mise à jour : 2026-07-15
 
 ---
 
@@ -58,6 +58,7 @@ Articles de fond sur le choix de l'équipement, sans liens affiliés directs.
 |-------|-----|------|
 | Gourde, gamelle pliable ou poche à eau : Quel choix pour randonnée avec son chien ? | /equipement/gourde-gamelle-poche-eau-chien-comment-choisir/ | Informationnel |
 | Quel harnais choisir pour randonner avec son chien ? | /equipement/harnais-randonnee-chien/ | Informationnel |
+| Harnais en H ou en Y pour chien : quelle différence pour la randonnée ? | /equipement/harnais-en-h-ou-en-y-chien/ | Informationnel |
 
 ---
 
