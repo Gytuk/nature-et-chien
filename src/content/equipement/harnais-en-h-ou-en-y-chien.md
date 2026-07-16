@@ -1,5 +1,5 @@
 ---
-title: "Harnais en H ou en Y pour chien : quelle différence pour la randonnée ?"
+title: "Harnais en H ou en Y pour chien : quelle différence ?"
 description: "Structure, effet anti-traction, terminologie des vendeurs : ce que montre la recherche sur le harnais en H face au Y, pour un effort de plusieurs heures."
 publishDate: 2026-07-13
 category: equipement
