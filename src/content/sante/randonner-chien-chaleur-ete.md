@@ -2,6 +2,7 @@
 title: "Randonner avec son chien en été : à partir de quelle température c'est dangereux ?"
 description: "Brachycéphales, nordiques, seniors : quels chiens sont les plus vulnérables à la chaleur ? Seuils par profil, signes d'alerte et gestes d'urgence pour randonner en sécurité en été."
 publishDate: 2026-05-13
+updatedDate: 2026-07-17
 category: sante
 tags: [chaleur, été, coup de chaleur, hydratation, sécurité, randonnée]
 isAffiliate: false
@@ -148,14 +149,6 @@ Les seuils indiqués sont des repères pour la randonnée, **pas pour une balade
 .badge-modere     { background: #dcfce7; color: #15803d; }
 </style>
 
-## Pourquoi le chien supporte mal la chaleur à l'effort
-
-Le chien régule sa température principalement par le halètement : l'évaporation de la salive sur la langue et les muqueuses évacue la chaleur. **Il transpire très peu**, uniquement au niveau des coussinets. Ce mécanisme est **nettement moins efficace que la transpiration humaine**, et il atteint ses limites rapidement quand la température monte.
-
-Au-delà de **28 °C** environ, le halètement ne suffit plus à compenser la chaleur produite par l'effort et celle de l'environnement. La température corporelle du chien, normalement entre **38 et 39 °C**, commence à grimper. À **40 °C**, on parle de coup de chaleur. Au-delà de **41,5 °C**, des lésions cellulaires irréversibles peuvent survenir et le pronostic vital est engagé.
-
-À cela s'ajoute un facteur aggravant propre à la randonnée : **le bitume et les rochers exposés au soleil atteignent des températures bien supérieures à l'air ambiant** et réchauffent le corps par le dessous. Sur les sentiers pierreux en plein soleil en juillet, la chaleur vient de partout.
-
 ## Hydratation en randonnée par forte chaleur
 
 En été, **les besoins en eau d'un chien à l'effort peuvent doubler** par rapport à ses besoins habituels. Un chien de **20 kg peut avoir besoin de 2 à 2,5 litres** sur une journée chaude. La règle de base : proposer de l'eau **toutes les 20 à 30 minutes**, même si le chien ne réclame pas. Pour savoir exactement quelle quantité prévoir selon le poids du chien et l'intensité de l'effort, consultez notre guide [comment bien hydrater son chien pendant une randonnée](/sante-bien-etre/hydratation-chien-randonnee).
@@ -273,6 +266,14 @@ Consultez nos comparatifs pour choisir le matériel adapté :
   .cta-article-img { height: 200px; }
 }
 </style>
+
+## Pourquoi le chien supporte mal la chaleur à l'effort
+
+Le chien régule sa température principalement par le halètement : l'évaporation de la salive sur la langue et les muqueuses évacue la chaleur. **Il transpire très peu**, uniquement au niveau des coussinets. Ce mécanisme est **nettement moins efficace que la transpiration humaine**, et il atteint ses limites rapidement quand la température monte.
+
+Au-delà de **28 °C** environ, le halètement ne suffit plus à compenser la chaleur produite par l'effort et celle de l'environnement. La température corporelle du chien, normalement entre **38 et 39 °C**, commence à grimper. À **40 °C**, on parle de coup de chaleur. Au-delà de **41,5 °C**, des lésions cellulaires irréversibles peuvent survenir et le pronostic vital est engagé.
+
+À cela s'ajoute un facteur aggravant propre à la randonnée : **le bitume et les rochers exposés au soleil atteignent des températures bien supérieures à l'air ambiant** et réchauffent le corps par le dessous. Sur les sentiers pierreux en plein soleil en juillet, la chaleur vient de partout.
 
 ## Les horaires : la règle la plus simple et la plus efficace
 
