@@ -54,7 +54,7 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
 <td>Silicone alimentaire</td>
 <td>9–14 €</td>
 <td>Petit budget, sorties régulières, petits à moyens gabarits</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/gamelle-pliable/slson-silicone.png" alt="SLSON silicone" loading="lazy"></div><a href="https://amzn.to/4cRxVH0" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 350 ml</a><a href="https://amzn.to/4ncBpHF" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 1 000 ml</a></div></td>
+<td><div class="achat-card-multi"><a href="https://amzn.to/4ncBpHF" class="achat-thumb-link" target="_blank" rel="nofollow sponsored"><div class="achat-thumb"><img src="/images/equipement/gamelle-pliable/slson-silicone.png" alt="SLSON silicone" loading="lazy"></div></a><a href="https://amzn.to/4cRxVH0" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 350 ml</a><a href="https://amzn.to/4ncBpHF" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 1 000 ml</a></div></td>
 </tr>
 <tr class="row-badge">
 <td class="col-produit"><span class="badge-produit">★ Référence silicone</span><strong>OHMO silicone</strong></td>
@@ -62,7 +62,7 @@ La gamelle pliable règle un problème simple : faire boire son chien sur le sen
 <td>Silicone sans bord plastique</td>
 <td>12–18 €</td>
 <td>Polyvalence eau et croquettes, grand gabarit en 1 L</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/gamelle-pliable/ohmo-silicone.png" alt="OHMO silicone" loading="lazy"></div><a href="https://amzn.to/3OM1TTz" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 400 ml</a><a href="https://amzn.to/4cVvFNq" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 1 L</a></div></td>
+<td><div class="achat-card-multi"><a href="https://amzn.to/4cVvFNq" class="achat-thumb-link" target="_blank" rel="nofollow sponsored"><div class="achat-thumb"><img src="/images/equipement/gamelle-pliable/ohmo-silicone.png" alt="OHMO silicone" loading="lazy"></div></a><a href="https://amzn.to/3OM1TTz" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 400 ml</a><a href="https://amzn.to/4cVvFNq" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 1 L</a></div></td>
 </tr>
 <tr>
 <td class="col-produit"><strong>Ruffwear Trail Runner</strong></td>
