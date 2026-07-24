@@ -25,3 +25,6 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# sauvegarde locale des images avant conversion webp (non utilisée par le site)
+public-images-originals/
