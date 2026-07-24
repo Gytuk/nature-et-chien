@@ -2,7 +2,7 @@
 title: "Meilleure poche à eau randonnée : comparatif 2026"
 description: "Comparatif des meilleures poches à eau pour hydrater son chien en randonnée : bouteille souple budget, réservoir intermédiaire, réservoir premium. Quel système selon votre profil ?"
 publishDate: 2026-05-04
-updatedDate: 2026-06-19
+updatedDate: 2026-07-24
 category: equipement
 tags: [poche à eau, hydratation, accessoires, randonnée, équipement]
 isAffiliate: true
@@ -31,57 +31,63 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
 
 ## Comparatif des meilleures poches à eau pour la randonnée
 
-<table class="comparatif-table">
-<colgroup>
-<col style="width:120px">
-<col style="width:54px">
-<col style="width:130px">
-<col style="width:54px">
-<col style="width:62px">
-<col>
-<col style="width:140px">
-</colgroup>
-<thead>
-<tr>
-<th>Produit</th>
-<th>Cont.</th>
-<th>Type</th>
-<th>Poids</th>
-<th>Prix</th>
-<th>Idéal pour</th>
-<th>Achat</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="col-produit"><span class="badge-produit">★ Meilleur qualité-prix</span><strong>Platypus Platy 2L</strong></td>
-<td>2 L</td>
-<td>Bouteille souple sans tuyau</td>
-<td>~37 g</td>
-<td>16–20 €</td>
-<td>Réserve légère, sac sans compartiment dédié, petit budget</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/poche-a-eau/platypus-platy-2l.png" alt="Platypus Platy 2L" loading="lazy"></div><a href="https://amzn.to/4fzLoVk" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
-</tr>
-<tr>
-<td class="col-produit"><strong>HydraPak Shape-Shift 2L</strong></td>
-<td>2 L</td>
-<td>Réservoir avec tuyau, réversible</td>
-<td>~135 g</td>
-<td>35–40 €</td>
-<td>Randonneur régulier, tuyau sans surcoût premium</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/poche-a-eau/hydrapak-shape-shift-2l.png" alt="HydraPak Shape-Shift 2L" loading="lazy"></div><a href="https://amzn.to/4ta5Eju" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
-</tr>
-<tr>
-<td class="col-produit"><span class="badge-produit">★ La référence fiabilité</span><strong>CamelBak Crux 2L</strong></td>
-<td>2 L</td>
-<td>Réservoir avec tuyau, antibactérien</td>
-<td>~210 g</td>
-<td>35–45 €</td>
-<td>Usage intensif, fiabilité long terme, sorties régulières</td>
-<td><div class="achat-card-multi"><div class="achat-thumb"><img src="/images/equipement/poche-a-eau/camelbak-crux-2l.png" alt="CamelBak Crux 2L" loading="lazy"></div><a href="https://amzn.to/48KgFB0" class="achat-label-btn" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a></div></td>
-</tr>
-</tbody>
-</table>
+<div class="cmp-grid">
+
+<div class="cmp-card">
+  <div class="cmp-card__badge">★ Meilleur qualité-prix</div>
+  <a class="cmp-card__thumb" href="https://amzn.to/4fzLoVk" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/poche-a-eau/platypus-platy-2l.png" alt="Platypus Platy 2L" loading="lazy"></a>
+  <div class="cmp-card__body">
+    <h3 class="cmp-card__name">Platypus Platy 2L</h3>
+    <p class="cmp-card__pitch">Se plie à plat et pèse 37 g à vide : la solution la plus légère pour transporter de la réserve sans y penser.</p>
+    <ul class="cmp-card__specs">
+      <li><strong>2 L</strong></li>
+      <li>Sans tuyau</li>
+    </ul>
+    <div class="cmp-card__price">16–20 €</div>
+  </div>
+  <div class="cmp-card__footer">
+    <a href="https://amzn.to/4fzLoVk" class="cmp-card__cta" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a>
+    <a href="#platypus-platy-2l--idéal-pour-le-randonneur-qui-veut-de-la-réserve-sans-complications" class="cmp-card__detail">Voir la fiche détaillée</a>
+  </div>
+</div>
+
+<div class="cmp-card">
+  <div class="cmp-card__badge cmp-card__badge--blue">Choix intermédiaire</div>
+  <a class="cmp-card__thumb" href="https://amzn.to/4ta5Eju" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/poche-a-eau/hydrapak-shape-shift-2l.png" alt="HydraPak Shape-Shift 2L" loading="lazy"></a>
+  <div class="cmp-card__body">
+    <h3 class="cmp-card__name">HydraPak Shape-Shift 2L</h3>
+    <p class="cmp-card__pitch">Le tuyau vous permet de boire en marchant, sans payer le prix d'un réservoir premium.</p>
+    <ul class="cmp-card__specs">
+      <li><strong>2 L</strong></li>
+      <li>Avec tuyau</li>
+    </ul>
+    <div class="cmp-card__price">40–45 €</div>
+  </div>
+  <div class="cmp-card__footer">
+    <a href="https://amzn.to/4ta5Eju" class="cmp-card__cta" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a>
+    <a href="#hydrapak-shape-shift-2l--idéal-pour-le-randonneur-régulier-qui-veut-un-tuyau-sans-payer-le-prix-premium" class="cmp-card__detail">Voir la fiche détaillée</a>
+  </div>
+</div>
+
+<div class="cmp-card cmp-card--featured">
+  <div class="cmp-card__badge cmp-card__badge--violet">Choix premium</div>
+  <a class="cmp-card__thumb" href="https://amzn.to/48KgFB0" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/poche-a-eau/camelbak-crux-2l.png" alt="CamelBak Crux 2L" loading="lazy"></a>
+  <div class="cmp-card__body">
+    <h3 class="cmp-card__name">CamelBak Crux 2L</h3>
+    <p class="cmp-card__pitch">Technologie Hydroguard anti-bactérienne et levier on/off : la fiabilité éprouvée sur plusieurs saisons.</p>
+    <ul class="cmp-card__specs">
+      <li><strong>2 L</strong></li>
+      <li>Antibactérien</li>
+    </ul>
+    <div class="cmp-card__price">45–50 €</div>
+  </div>
+  <div class="cmp-card__footer">
+    <a href="https://amzn.to/48KgFB0" class="cmp-card__cta" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a>
+    <a href="#camelbak-crux-2l--idéal-pour-un-usage-régulier-et-intensif-sur-plusieurs-saisons" class="cmp-card__detail">Voir la fiche détaillée</a>
+  </div>
+</div>
+
+</div>
 
 **Ces comparatifs pourraient aussi vous intéresser :**
 
@@ -153,7 +159,7 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
       <a href="https://amzn.to/4ta5Eju" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/poche-a-eau/hydrapak-shape-shift-2l.png" alt="HydraPak Shape-Shift 2L" loading="lazy"></a>
     </div>
     <div class="prc__info">
-      <div class="prc__price"><span class="prc__price-val">35–40 €</span><span class="prc__tag">Tuyau intermédiaire</span></div>
+      <div class="prc__price"><span class="prc__price-val">40–45 €</span><span class="prc__tag">Tuyau intermédiaire</span></div>
       <p class="prc__desc">Réservoir souple avec tuyau et valve bite, entièrement réversible : se retourne comme une chaussette pour le séchage et le nettoyage en profondeur. Séparateur interne pour utiliser 1,5 L au lieu de 2 L. Sans BPA et sans PVC, compatible congélateur et eau chaude jusqu'à 60 °C.</p>
     </div>
   </div>
@@ -191,7 +197,7 @@ Dans tous les cas, **la poche à eau ne sert pas à faire boire le chien directe
       <a href="https://amzn.to/48KgFB0" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/poche-a-eau/camelbak-crux-2l.png" alt="CamelBak Crux 2L" loading="lazy"></a>
     </div>
     <div class="prc__info">
-      <div class="prc__price"><span class="prc__price-val">35–45 €</span><span class="prc__tag">Fiabilité longue durée</span></div>
+      <div class="prc__price"><span class="prc__price-val">45–50 €</span><span class="prc__tag">Fiabilité longue durée</span></div>
       <p class="prc__desc">La référence fiabilité du marché. Technologie Hydroguard qui inhibe la croissance bactérienne sur le plastique et le tuyau. Levier on/off sur le tuyau, Big Bite Valve qui se referme automatiquement. Sans BPA, BPS et BPF. Disponible en version 3L pour les grands gabarits ou les journées sans point de ravitaillement.</p>
     </div>
   </div>
