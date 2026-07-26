@@ -155,7 +155,7 @@ Concrètement, si vous achetez sur la base du seul nom "harnais en H", vérifiez
 
 Non, pas par sa forme. L'effet anti-traction dépend de la position du point d'attache, pas de la lettre H ou Y. Un harnais en H sans attache frontale n'a aucun effet anti-traction, exactement comme un Y sans attache frontale. Un harnais en H équipé d'un anneau frontal ajouté en a un, au même titre qu'un Y.
 
-C'est un point mécanique simple : la laisse redirige le chien vers vous seulement si elle tire depuis le poitrail, pas depuis le dos. La forme du harnais ne change rien à ce principe, malgré ce qu'affirment certaines fiches produit.
+C'est un point mécanique simple : la laisse redirige le chien vers vous seulement si elle tire depuis le poitrail, pas depuis le dos. La forme du harnais ne change rien à ce principe, malgré ce qu'affirment certaines fiches produit. Pour en savoir plus sur ce mécanisme et son efficacité réelle, [notre article dédié au harnais anti-traction](/equipement/harnais-anti-traction-chien/) détaille le fonctionnement de l'attache frontale.
 
 ## Harnais en H ou en Y : que montrent réellement les études sur l'effort ?
 

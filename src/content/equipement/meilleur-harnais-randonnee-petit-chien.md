@@ -1,6 +1,6 @@
 ---
 title: "Meilleur harnais de randonnée pour petit chien : comparatif 2026"
-description: "Quel harnais pour un petit chien en randonnée ? Comparatif 2026 pour Jack Russell, Teckel, Bichon, Cavalier, Chihuahua, etc. Critères, limites documentées et guide des tailles pour les gabarits de moins de 10 kg."
+description: "Quel harnais en Y pour un petit chien en randonnée ? Comparatif 2026 pour Jack Russell, Teckel, Bichon, Cavalier, Chihuahua, etc. Critères, limites documentées et guide des tailles pour les gabarits de moins de 10 kg."
 publishDate: 2026-05-28
 updatedDate: 2026-07-24
 category: equipement
@@ -16,7 +16,7 @@ focusKeyword: "meilleur harnais randonnée petit chien"
 image: /images/equipement/harnais-petit-chien/cover.webp
 imageAlt: "Petit chien en randonnée avec harnais en Y sur sentier"
 metaTitle: "Meilleur harnais randonnée petit chien : comparatif 2026"
-metaDescription: "Trouvez le harnais idéal pour votre petit chien en randonnée : Jack Russell, Teckel, Bichon, Cavalier, etc. Comparatif 2026 avec guide des tailles."
+metaDescription: "Trouvez le harnais en Y idéal pour votre petit chien en randonnée : Jack Russell, Teckel, Bichon, Cavalier, etc. Comparatif 2026 avec guide des tailles."
 ---
 
 Trouver le bon harnais de randonnée pour un petit chien demande plus d'attention qu'on ne le pense. Jack Russell, Teckel, Bichon maltais, Cavalier King Charles, Chihuahua : ces gabarits cumulent des contraintes spécifiques que les modèles standard ne couvrent pas, entre sangles qui frottent les aisselles, épaules comprimées et tailles inexistantes sous les 30 cm de tour de poitrail. Ce comparatif retient trois harnais en Y adaptés aux gabarits de moins de 10 kg, avec leurs forces réelles et leurs limites documentées.
@@ -128,7 +128,7 @@ Trouver le bon harnais de randonnée pour un petit chien demande plus d'attentio
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">31,99 €</span><span class="prc__tag">Peau sensible</span></div>
-      <p class="prc__desc">Le seul des trois dont les sangles sont en néoprène à section ronde, pas plates. Sur les chiens à poil ras ou à peau fine (Jack Russell, Chihuahua, Beagle), cette construction élimine les irritations aux aisselles sur les longues sorties. Mise en place sans lever les pattes, bandes réfléchissantes certifiées 3M, lavable en machine.</p>
+      <p class="prc__desc">Ce harnais en Y est le seul des trois dont les sangles sont en néoprène à section ronde, pas plates. Sur les chiens à poil ras ou à peau fine (Jack Russell, Chihuahua, Beagle), cette construction élimine les irritations aux aisselles sur les longues sorties. Mise en place sans lever les pattes, bandes réfléchissantes certifiées 3M, lavable en machine.</p>
     </div>
   </div>
   <div class="prc__pros-cons">
@@ -166,7 +166,7 @@ Trouver le bon harnais de randonnée pour un petit chien demande plus d'attentio
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">59,90 €</span><span class="prc__tag">Légèreté & été</span></div>
-      <p class="prc__desc">Harnais Y minimaliste en ripstop 150D avec doublure gaufrée imperméable aux débris. Respirant et facile à entretenir. Deux points d'attache (dorsal et frontal), poche ID intégrée. Tailles du XXXS (tour de poitrail dès 23 cm) au L/XL, le seul des trois à couvrir des gabarits aussi petits.</p>
+      <p class="prc__desc">Harnais en Y minimaliste en ripstop 150D avec doublure gaufrée imperméable aux débris. Respirant et facile à entretenir. Deux points d'attache (dorsal et frontal), poche ID intégrée : l'attache frontale permet aussi un usage anti-traction si besoin. Tailles du XXXS (tour de poitrail dès 23 cm) au L/XL, le seul des trois à couvrir des gabarits aussi petits.</p>
     </div>
   </div>
   <div class="prc__pros-cons">
@@ -203,7 +203,7 @@ Trouver le bon harnais de randonnée pour un petit chien demande plus d'attentio
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">56,90 €</span><span class="prc__tag">Terrain technique</span></div>
-      <p class="prc__desc">Le seul des trois avec une poignée dorsale fonctionnelle. Trois points d'attache (dorsal, ventral, frontal), mousse cellulaire fermée imperméable, renforts Hypalon sur les zones d'usure. Réglage indépendant cou et poitrail. Poids confirmé à 93 g en taille XS. Ses nombreux points de réglage en font aussi un bon choix pour un chiot en pleine croissance, y compris pour les futurs grands gabarits.</p>
+      <p class="prc__desc">Ce harnais en Y est le seul des trois avec une poignée dorsale fonctionnelle. Trois points d'attache (dorsal, ventral, frontal), mousse cellulaire fermée imperméable, renforts Hypalon sur les zones d'usure. L'attache frontale permet un usage anti-traction, utile aussi en phase de dressage. Réglage indépendant cou et poitrail. Poids confirmé à 93 g en taille XS. Ses nombreux points de réglage en font aussi un bon choix pour un chiot en pleine croissance, y compris pour les futurs grands gabarits.</p>
     </div>
   </div>
   <div class="prc__pros-cons">
