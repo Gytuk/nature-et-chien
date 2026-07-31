@@ -2,7 +2,7 @@
 title: "Meilleur harnais de randonnée pour petit chien : comparatif 2026"
 description: "Quel harnais en Y pour un petit chien en randonnée ? Comparatif 2026 pour Jack Russell, Teckel, Bichon, Cavalier, Chihuahua, etc. Critères, limites documentées et guide des tailles pour les gabarits de moins de 10 kg."
 publishDate: 2026-05-28
-updatedDate: 2026-07-24
+updatedDate: 2026-07-31
 category: equipement
 tags: [harnais, petit chien, randonnée, équipement, confort, petits gabarits]
 isAffiliate: true

@@ -2,7 +2,7 @@
 title: "Meilleur harnais de randonnée pour chien : comparatif 2026"
 description: "Quel harnais polyvalent pour randonner avec son chien ? Comparatif 2026 par budget et usage : du modèle entrée de gamme au harnais premium, pour trouver celui qui correspond à votre profil."
 publishDate: 2026-05-09
-updatedDate: 2026-07-24
+updatedDate: 2026-07-31
 category: equipement
 tags: [harnais, harnais en Y, randonnée, comparatif, polyvalent, équipement, Ruffwear, TrueLove]
 isAffiliate: true

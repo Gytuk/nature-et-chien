@@ -2,6 +2,7 @@
 title: "Jusqu'à quel âge un chien peut-il randonner ?"
 description: "À partir de quel âge un chien est senior, comment adapter la distance et le dénivelé, et quels signaux surveiller pour randonner sans lui faire de mal."
 publishDate: 2026-06-03
+updatedDate: 2026-07-31
 category: sante
 tags: [chien senior, vieillissement, effort physique, randonnée, âge]
 isAffiliate: false

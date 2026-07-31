@@ -2,6 +2,7 @@
 title: "Comment habituer son chien à porter un harnais"
 description: "Chien qui se gratte, s'immobilise ou refuse le harnais : causes et protocole progressif pour une acceptation durable. Guide concret étape par étape."
 publishDate: 2026-06-23
+updatedDate: 2026-07-31
 category: avant-de-partir
 tags: [harnais, équipement, comportement, débutant]
 isAffiliate: false

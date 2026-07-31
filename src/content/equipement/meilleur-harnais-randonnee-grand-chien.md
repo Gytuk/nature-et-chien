@@ -2,7 +2,7 @@
 title: "Meilleur harnais de randonnée pour grand chien : comparatif 2026"
 description: "Quel harnais en Y pour randonner avec un grand chien ? Comparatif 2026 pour Labrador, Golden Retriever, Berger, Husky, etc. Critères, limites et guide des tailles pour les gabarits de 25 kg et plus."
 publishDate: 2026-05-09
-updatedDate: 2026-07-24
+updatedDate: 2026-07-31
 category: equipement
 tags: [harnais, grand chien, randonnée, comparatif, équipement, Ruffwear, TrueLove]
 isAffiliate: true
