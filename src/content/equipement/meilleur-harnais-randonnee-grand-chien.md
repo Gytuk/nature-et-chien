@@ -34,7 +34,7 @@ Choisir le bon harnais de randonnée pour un grand chien n'est pas anodin : un d
   <a class="cmp-card__thumb" href="https://amzn.to/4dzZxRf" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-grand-chien/truelove.jpg" alt="TrueLove TLH5651" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">TrueLove TLH5651</h3>
-    <p class="cmp-card__pitch">Rapport qualité-prix imbattable avec poignée dorsale et rembourrage, rare sous 50 € pour un grand gabarit.</p>
+    <p class="cmp-card__pitch">Rapport qualité-prix imbattable avec poignée dorsale et rembourrage complet, rare sous 50 € pour un grand gabarit. Un bon choix pour débuter ou pour des sorties occasionnelles, sans gros budget, mais ce n'est pas un harnais pensé pour la randonnée à proprement parler : il fait toutefois très bien le travail sur de petites sorties.</p>
     <ul class="cmp-card__specs">
       <li>Poignée dorsale</li>
       <li>Rembourré</li>
@@ -52,7 +52,7 @@ Choisir le bon harnais de randonnée pour un grand chien n'est pas anodin : un d
   <a class="cmp-card__thumb" href="https://tidd.ly/3PTDHim" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-grand-chien/ruffwear-front-range-harness-harnais-pour-chien.webp" alt="Ruffwear Front Range" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">Ruffwear Front Range</h3>
-    <p class="cmp-card__pitch">La mousse à cellules fermées reste confortable même trempée : le choix logique pour un usage régulier sur grand chien.</p>
+    <p class="cmp-card__pitch">Très confortable grâce à sa mousse à cellules fermées qui ne retient pas l'humidité, avec des matériaux de qualité qui tiennent la distance même sous la pluie. Idéal pour un grand chien actif qui sort par tous les temps.</p>
     <ul class="cmp-card__specs">
       <li>Rembourré</li>
       <li>Sans poignée</li>
@@ -70,7 +70,7 @@ Choisir le bon harnais de randonnée pour un grand chien n'est pas anodin : un d
   <a class="cmp-card__thumb" href="https://tidd.ly/43Enn8o" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-grand-chien/ruffwear-flagline-harnais-pour-chien.webp" alt="Ruffwear Flagline" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">Ruffwear Flagline</h3>
-    <p class="cmp-card__pitch">Poignée renforcée et six réglages indépendants pour les morphologies difficiles à ajuster en terrain technique.</p>
+    <p class="cmp-card__pitch">Pensé pour la montagne, avec une poignée renforcée et six réglages indépendants qui s'adaptent même aux morphologies difficiles. Idéal pour les randonneurs réguliers en terrain technique ou avec du dénivelé.</p>
     <ul class="cmp-card__specs">
       <li>6 réglages</li>
       <li>Poignée renforcée</li>

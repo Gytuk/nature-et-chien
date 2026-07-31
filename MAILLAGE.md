@@ -2,7 +2,7 @@
 
 > Référence de tous les articles publiés, à consulter avant de rédiger pour placer des liens internes pertinents.
 > Généré automatiquement par scripts/generate-maillage.mjs à chaque commit touchant un article.
-> Dernière mise à jour : 2026-07-26
+> Dernière mise à jour : 2026-07-31
 
 ---
 

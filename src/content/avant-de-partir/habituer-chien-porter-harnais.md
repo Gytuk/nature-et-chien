@@ -147,44 +147,37 @@ Le principe est le même que pour toute désensibilisation : exposer le chien au
 Voici les étapes dans l'ordre :
 
 <div class="nc-age-table-wrap">
-  <table class="nc-age-table">
+  <table class="nc-age-table nc-steps-table">
     <thead>
       <tr>
         <th>Étape</th>
         <th>Action</th>
-        <th>Durée approximative</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><span class="etape-badge">1</span></td>
+        <td><span class="etape-badge">1</span><span class="nc-age-table__sub">1 à 2 sessions</span></td>
         <td>Poser le harnais au sol, laisser le chien l'approcher librement. Récompenser tout regard ou approche vers l'objet.</td>
-        <td>1 à 2 sessions</td>
       </tr>
       <tr>
-        <td><span class="etape-badge">2</span></td>
+        <td><span class="etape-badge">2</span><span class="nc-age-table__sub">1 à 2 sessions</span></td>
         <td>Tenir le harnais à la main, le présenter, récompenser si le chien le renifle.</td>
-        <td>1 à 2 sessions</td>
       </tr>
       <tr>
-        <td><span class="etape-badge">3</span></td>
+        <td><span class="etape-badge">3</span><span class="nc-age-table__sub">2 à 3 sessions</span></td>
         <td>Passer le harnais par-dessus la tête ou sous le ventre sans le fermer. Récompenser, retirer immédiatement.</td>
-        <td>2 à 3 sessions</td>
       </tr>
       <tr>
-        <td><span class="etape-badge">4</span></td>
+        <td><span class="etape-badge">4</span><span class="nc-age-table__sub">3 à 5 sessions</span></td>
         <td>Fermer le harnais quelques secondes, récompenser, retirer. Augmenter progressivement la durée.</td>
-        <td>3 à 5 sessions</td>
       </tr>
       <tr>
-        <td><span class="etape-badge">5</span></td>
+        <td><span class="etape-badge">5</span><span class="nc-age-table__sub">Plusieurs jours</span></td>
         <td>Port du harnais à la maison pendant 5 à 10 minutes, activité normale, récompenses ponctuelles.</td>
-        <td>Plusieurs jours</td>
       </tr>
       <tr>
-        <td><span class="etape-badge">6</span></td>
+        <td><span class="etape-badge">6</span><span class="nc-age-table__sub">À ajuster selon le chien</span></td>
         <td>Première sortie courte avec le harnais, terrain connu, sans stress ajouté.</td>
-        <td>À ajuster selon le chien</td>
       </tr>
     </tbody>
   </table>
@@ -302,19 +295,6 @@ Un point important : un chien qui cesse brusquement de résister après une mise
   font-size: 0.9rem;
   font-family: var(--font-serif);
   margin: 0 auto;
-}
-.nc-age-table colgroup { display: table-column-group; }
-.nc-age-table td:first-child,
-.nc-age-table th:first-child {
-  width: 5rem;
-  text-align: center;
-  vertical-align: middle;
-  padding: 0.6rem 0.75rem;
-}
-.nc-age-table td:last-child,
-.nc-age-table th:last-child {
-  width: 12rem;
-  white-space: nowrap;
 }
 </style>
 

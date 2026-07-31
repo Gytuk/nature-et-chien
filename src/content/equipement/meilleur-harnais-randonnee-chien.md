@@ -35,7 +35,7 @@ Le harnais de randonnée pour chien est l'équipement qui fait la différence su
   <a class="cmp-card__thumb" href="https://amzn.to/3RxIEhv" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-polyvalent/truelove.jpg" alt="TrueLove TLH5651" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">TrueLove TLH5651</h3>
-    <p class="cmp-card__pitch">Le seul harnais en Y anatomique sous 35 € avec double attache et poignée dorsale, pour débuter sans se ruiner.</p>
+    <p class="cmp-card__pitch">Le seul harnais en Y anatomique sous 35 € avec double attache et poignée dorsale, rare à ce prix. Un bon choix pour débuter ou pour des sorties occasionnelles, sans se ruiner, mais ce n'est pas un harnais pensé pour la randonnée à proprement parler : il fait toutefois très bien le travail sur de petites sorties.</p>
     <ul class="cmp-card__specs">
       <li>Double attache</li>
       <li>Poignée dorsale</li>
@@ -53,7 +53,7 @@ Le harnais de randonnée pour chien est l'équipement qui fait la différence su
   <a class="cmp-card__thumb" href="https://tidd.ly/4vfdYQr" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-polyvalent/ruffwear-front-range-harness-harnais-pour-chien.webp" alt="Ruffwear Front Range" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">Ruffwear Front Range</h3>
-    <p class="cmp-card__pitch">Rembourrage en mousse à cellules fermées qui reste confortable même trempé : le choix logique pour un usage régulier.</p>
+    <p class="cmp-card__pitch">Très confortable grâce à sa mousse à cellules fermées qui ne retient pas l'humidité, avec des matériaux de qualité outdoor pensés pour durer plusieurs saisons. Idéal pour les randonnées régulières où le confort de votre chien compte autant que le vôtre.</p>
     <ul class="cmp-card__specs">
       <li>Rembourré</li>
       <li>Sans poignée</li>
@@ -71,7 +71,7 @@ Le harnais de randonnée pour chien est l'équipement qui fait la différence su
   <a class="cmp-card__thumb" href="https://tidd.ly/49rX4G4" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-polyvalent/ruffwear-hi-and-light-harness-harnais-pour-chien.webp" alt="Ruffwear Hi & Light" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">Ruffwear Hi &amp; Light</h3>
-    <p class="cmp-card__pitch">Ultra-léger et respirant, il sèche en quelques minutes : idéal pour les sorties par forte chaleur.</p>
+    <p class="cmp-card__pitch">Il se fait oublier tellement il est léger et respirant, votre chien finit par ne plus sentir qu'il le porte. Idéal pour les sorties d'été ou les longues journées où la légèreté compte plus que le rembourrage.</p>
     <ul class="cmp-card__specs">
       <li>Ultra-léger</li>
       <li>Séchage rapide</li>
@@ -89,7 +89,7 @@ Le harnais de randonnée pour chien est l'équipement qui fait la différence su
   <a class="cmp-card__thumb" href="https://tidd.ly/4u61c5Y" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-polyvalent/ruffwear-webmaster-harnais-pour-chien.webp" alt="Ruffwear Web Master" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">Ruffwear Web Master</h3>
-    <p class="cmp-card__pitch">La sangle abdominale anti-fuite rend l'extraction quasi impossible, même pour les chiens qui se dégagent de tout.</p>
+    <p class="cmp-card__pitch">Rassurant car sa sangle abdominale anti-fuite empêche même les chiens les plus malins de s'échapper, avec des matériaux premium construits pour durer. Ce harnais est aussi apprécié par de nombreux organismes de chiens de travail, tels que les chiens de sauvetage, d'avalanche, les maîtres-chiens et les chiens-guides, en raison de sa polyvalence et de la sécurité qu'il apporte.</p>
     <ul class="cmp-card__specs">
       <li>5 réglages</li>
       <li>Anti-fuite</li>

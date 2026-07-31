@@ -23,33 +23,28 @@ Le premier malentendu à corriger : **il n'y a pas un âge senior universel**. L
     <thead>
       <tr>
         <th>Gabarit</th>
-        <th>Poids adulte</th>
         <th>Senior à partir de</th>
         <th>Espérance de vie</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><strong>Très petit</strong></td>
-        <td>moins de 10 kg</td>
+        <td><strong>Très petit</strong><span class="nc-age-table__sub">- de 10 kg</span></td>
         <td>10–12 ans</td>
         <td>14–16 ans</td>
       </tr>
       <tr>
-        <td><strong>Petit à moyen</strong></td>
-        <td>10–25 kg</td>
+        <td><strong>Petit à moyen</strong><span class="nc-age-table__sub">10–25 kg</span></td>
         <td>8–10 ans</td>
         <td>12–14 ans</td>
       </tr>
       <tr>
-        <td><strong>Grand</strong></td>
-        <td>25–45 kg</td>
+        <td><strong>Grand</strong><span class="nc-age-table__sub">25–45 kg</span></td>
         <td>7–8 ans</td>
         <td>10–12 ans</td>
       </tr>
       <tr>
-        <td><strong>Races géantes</strong></td>
-        <td>plus de 45 kg</td>
+        <td><strong>Races géantes</strong><span class="nc-age-table__sub">+ de 45 kg</span></td>
         <td>5–7 ans</td>
         <td>8–10 ans</td>
       </tr>
