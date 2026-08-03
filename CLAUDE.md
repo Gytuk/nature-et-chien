@@ -31,6 +31,8 @@ content.config.ts
 
 **Compréhension 95%** : si la demande est ambiguë, poser une question courte avant d'agir plutôt que d'interpréter.
 
+**Jamais de `git push` sans confirmation explicite juste avant**, même après un accord donné plus tôt dans la session ou pour un changement mineur. Plan Netlify gratuit (300 min de build/mois) : chaque push déclenche un build. `git commit` local ne pose pas ce problème et ne nécessite pas de confirmation séparée.
+
 ## Contexte Jarvis
 
 Ce projet fait partie du Workspace Jarvis de Tom. Les livrables produits pour ce site (audits, plans éditoriaux, analyses) vont dans `../livrables/sites-web/`.
