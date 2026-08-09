@@ -2,7 +2,7 @@
 title: "Quelle distance peut parcourir un chien en randonnée ?"
 description: "Repères pratiques par profil et par race, facteurs qui influencent l'endurance et la distance, conseils pour ne pas mettre son chien en danger."
 publishDate: 2026-05-02
-updatedDate: 2026-07-01
+updatedDate: 2026-08-09
 category: avant-de-partir
 tags: [distance, endurance, profil chien, randonnée, fatigue]
 isAffiliate: false
@@ -14,6 +14,22 @@ metaDescription: "5 km ou 30 km ? La bonne distance dépend du profil de votre c
 ---
 
 Combien de kilomètres votre chien peut-il vraiment parcourir en randonnée ? Il n'existe pas de chiffre unique valable pour tous les chiens : la bonne distance dépend de son âge, sa race et sa condition physique. Vous trouverez ici des **repères concrets pour planifier vos sorties** : des estimations à ajuster selon votre compagnon, son état du jour et le terrain. **L'essentiel reste de l'observer** et d'adapter selon ses réactions.
+
+## Distances moyennes par profil
+
+Un chien adulte en bonne santé parcourt en général entre **5 et 20 km** en randonnée, selon son profil. Ces repères restent des estimations : le terrain, la météo et la chaleur peuvent les réduire nettement, parfois de moitié. Le facteur qui fait le plus varier ces chiffres reste la race et la morphologie du chien, un point développé plus loin dans cet article.
+
+| Profil du chien | Distance adaptée | À retenir |
+|---|---|---|
+| Chiot (< 1 an) | Balades de 10 à 30 min | Pas de longues randonnées, sorties courtes et progressives |
+| Chien adulte « classique » | 5 à 10 km | Bon rythme pour une sortie nature tranquille |
+| Chien adulte sportif | 10 à 20 km | Avec un minimum d'entraînement progressif |
+| Chien senior (+ 7-8 ans) | 2 à 5 km | Sorties plus calmes, pauses fréquentes |
+| Chien très endurant | 20 à 25 km | Réservé aux chiens entraînés, terrain adapté |
+
+> Ces repères sont des estimations. Adaptez toujours à votre chien, à son état du jour et au terrain.
+
+---
 
 ## Quels facteurs influencent la distance qu'un chien peut parcourir ?
 
@@ -46,20 +62,6 @@ En été, **la chaleur impose de revoir ses ambitions à la baisse**, quel que s
 ### L'hydratation
 
 Un chien qui boit trop peu se fatigue plus vite et s'expose au coup de chaleur. La déshydratation s'installe souvent sans signe préalable visible : le chien continue d'avancer par instinct de meute, et les symptômes n'apparaissent qu'une fois l'état bien installé. Pour tous les bons réflexes, consultez notre guide : [Comment bien hydrater son chien en randonnée ?](/sante-bien-etre/hydratation-chien-randonnee/)
-
----
-
-## Distances moyennes par profil
-
-| Profil du chien | Distance adaptée | À retenir |
-|---|---|---|
-| Chiot (< 1 an) | Balades de 10 à 30 min | Pas de longues randonnées, sorties courtes et progressives |
-| Chien adulte « classique » | 5 à 10 km | Bon rythme pour une sortie nature tranquille |
-| Chien adulte sportif | 10 à 20 km | Avec un minimum d'entraînement progressif |
-| Chien senior (+ 7-8 ans) | 2 à 5 km | Sorties plus calmes, pauses fréquentes |
-| Chien très endurant | 20 à 25 km | Réservé aux chiens entraînés, terrain adapté |
-
-> Ces repères sont des estimations. Adaptez toujours à votre chien, à son état du jour et au terrain.
 
 ---
 
