@@ -67,7 +67,9 @@ Une même information ne cumule pas deux formes spéciales (ex : pas de chiffre 
 
 ## Étape 4 : CTA interne (lien vers un autre article du site)
 
-Un seul format selon le nombre de liens groupés, jamais de lien stylé à la main ni de classes Tailwind ad-hoc :
+**Le CTA (carte encadrée avec image) est réservé aux articles comparateurs** (`isAffiliate: true`, dossier `equipement`). Un lien vers un article informationnel (guide `avant-de-partir`, `sante`) reste un simple lien markdown intégré à la phrase, jamais une carte.
+
+Pour un lien vers un comparateur, un seul format selon le nombre de liens groupés, jamais de lien stylé à la main ni de classes Tailwind ad-hoc :
 
 - **1 seul lien isolé** → `inline-cta-card inline-cta-card--wide`
 - **2 liens ensemble** → `cta-grid` + `cta-card-preview` (format carré, image en aperçu)
