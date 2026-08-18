@@ -2,7 +2,7 @@
 
 > Référence de tous les articles publiés, à consulter avant de rédiger pour placer des liens internes pertinents.
 > Généré automatiquement par scripts/generate-maillage.mjs à chaque commit touchant un article.
-> Dernière mise à jour : 2026-08-09
+> Dernière mise à jour : 2026-08-18
 
 ---
 
@@ -62,6 +62,7 @@ Articles de fond sur le choix de l'équipement, sans liens affiliés directs.
 | Quel harnais choisir pour randonner avec son chien ? | /equipement/harnais-randonnee-chien/ | Informationnel |
 | Harnais en H ou en Y pour chien : quelle différence ? | /equipement/harnais-en-h-ou-en-y-chien/ | Informationnel |
 | Harnais anti-traction chien : comment ça marche vraiment ? | /equipement/harnais-anti-traction-chien/ | Informationnel |
+| Quel poids un chien peut-il porter dans son sac à dos ? | /equipement/quel-poids-chien-sac-a-dos-randonnee/ | Informationnel |
 
 ---
 
@@ -82,3 +83,4 @@ Articles comparatifs avec liens affiliés. Cibles de conversion prioritaires.
 | Meilleure laisse canicross : comparatif 2026 | /equipement/meilleure-laisse-canicross/ | Comparateur affilié |
 | Laisse main libre pour chien : notre sélection | /equipement/comparatif-laisse-main-libre-chien-randonnee/ | Comparateur affilié |
 | Meilleur tire-tique chien : comparatif 2026 | /equipement/meilleur-tire-tique-chien/ | Comparateur affilié |
+| Meilleur sac à dos pour chien de randonnée : comparatif 2026 | /equipement/meilleur-sac-a-dos-chien-randonnee/ | Comparateur affilié |
