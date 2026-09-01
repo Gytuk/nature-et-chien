@@ -2,7 +2,7 @@
 
 > Référence de tous les articles publiés, à consulter avant de rédiger pour placer des liens internes pertinents.
 > Généré automatiquement par scripts/generate-maillage.mjs à chaque commit touchant un article.
-> Dernière mise à jour : 2026-08-18
+> Dernière mise à jour : 2026-09-01
 
 ---
 
@@ -63,6 +63,7 @@ Articles de fond sur le choix de l'équipement, sans liens affiliés directs.
 | Harnais en H ou en Y pour chien : quelle différence ? | /equipement/harnais-en-h-ou-en-y-chien/ | Informationnel |
 | Harnais anti-traction chien : comment ça marche vraiment ? | /equipement/harnais-anti-traction-chien/ | Informationnel |
 | Quel poids un chien peut-il porter dans son sac à dos ? | /equipement/quel-poids-chien-sac-a-dos-randonnee/ | Informationnel |
+| Quel sac à dos choisir pour son chien ? : Guide pratique | /equipement/quel-sac-a-dos-choisir-pour-son-chien/ | Informationnel |
 
 ---
 
