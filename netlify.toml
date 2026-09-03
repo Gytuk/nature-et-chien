@@ -4,3 +4,13 @@
 
 [build.environment]
   NODE_VERSION = "22"
+
+[[redirects]]
+  from = "/equipement/gourde-gamelle-poche-eau-chien-comment-choisir"
+  to = "/equipement/accessoire-eau-chien-randonnee"
+  status = 301
+
+[[redirects]]
+  from = "/equipement/gourde-gamelle-poche-eau-chien-comment-choisir/"
+  to = "/equipement/accessoire-eau-chien-randonnee/"
+  status = 301

@@ -68,7 +68,7 @@ Il n'existe pas de règle nationale unique. L'accès dépend des arrêtés munic
 <div class="not-prose my-8">
   <p class="text-sm italic text-gray-600 font-serif mb-4">Vous souhaitez vous équiper avant de partir en randonnée avec votre chien ? Consultez nos deux guides :</p>
   <div class="inline-cta-list">
-    <a href="/equipement/gourde-gamelle-poche-eau-chien-comment-choisir" class="inline-cta-card inline-cta-card--wide">
+    <a href="/equipement/accessoire-eau-chien-randonnee" class="inline-cta-card inline-cta-card--wide">
       <img src="/images/equipement/choix-gourde-gamelle-ou-poche.webp" alt="Chien qui boit dans une gamelle pliable lors d'une pause en randonnée" loading="lazy">
       <div class="inline-cta-text">
         <div class="inline-cta-title">Gourde, gamelle pliable ou poche à eau : Quel choix pour randonnée avec son chien ?</div>

@@ -104,7 +104,7 @@ En pratique :
 Pour l'équipement, consultez nos deux guides :
 
 <div class="inline-cta-list">
-  <a href="/equipement/gourde-gamelle-poche-eau-chien-comment-choisir" class="inline-cta-card inline-cta-card--wide">
+  <a href="/equipement/accessoire-eau-chien-randonnee" class="inline-cta-card inline-cta-card--wide">
     <img src="/images/equipement/choix-gourde-gamelle-ou-poche.webp" alt="Gourde, gamelle pliable ou poche à eau pour randonner avec son chien" loading="lazy">
     <div class="inline-cta-text">
       <div class="inline-cta-title">Gourde, gamelle pliable ou poche à eau : quel choix pour randonner avec son chien ?</div>

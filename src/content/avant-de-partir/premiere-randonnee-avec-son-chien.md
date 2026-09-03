@@ -183,7 +183,7 @@ Ces points semblent évidents mais se retrouvent régulièrement négligés lors
 **L'eau, point le plus sous-estimé.** Un chien en effort peut perdre beaucoup d'eau rapidement, et la déshydratation s'installe sans signe préalable visible. Les besoins de base peuvent facilement doubler ou tripler selon la chaleur, le dénivelé, la durée et le gabarit. Pour tout comprendre sur les quantités à prévoir : [comment bien hydrater son chien en randonnée](/sante-bien-etre/hydratation-chien-randonnee/).
 
 <div class="inline-cta-list">
-  <a href="/equipement/gourde-gamelle-poche-eau-chien-comment-choisir" class="inline-cta-card">
+  <a href="/equipement/accessoire-eau-chien-randonnee" class="inline-cta-card">
     <img src="/images/equipement/choix-gourde-gamelle-ou-poche.webp" alt="Gourde, gamelle pliable ou poche à eau pour randonner avec son chien" loading="lazy" width="80" height="80" />
     <div class="inline-cta-text">
       <span class="inline-cta-title">Gourde, gamelle ou poche à eau : quel choix pour randonner avec son chien ?</span>

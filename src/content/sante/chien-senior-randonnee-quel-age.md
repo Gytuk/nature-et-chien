@@ -159,7 +159,7 @@ Les **descentes raides** sont particulièrement contraignantes pour un chien âg
 
 <div class="inline-cta-list">
   <p class="inline-cta-intro">Pour gérer l'eau sur le sentier :</p>
-  <a href="/equipement/gourde-gamelle-poche-eau-chien-comment-choisir" class="inline-cta-card">
+  <a href="/equipement/accessoire-eau-chien-randonnee" class="inline-cta-card">
     <img src="/images/equipement/choix-gourde-gamelle-ou-poche.webp" alt="Gourde, gamelle pliable ou poche à eau pour randonner avec son chien" loading="lazy" width="80" height="80" />
     <div class="inline-cta-text">
       <span class="inline-cta-title">Gourde, gamelle ou poche à eau : quel choix pour randonner avec son chien ?</span>
