@@ -28,6 +28,10 @@ const soinArticles = articles
 const sacADosArticles = articles
   .filter(a => a.data.theme === "sac-a-dos")
   .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+
+const manteauArticles = articles
+  .filter(a => a.data.theme === "manteau")
+  .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
 ---
 
 <BaseLayout
@@ -162,6 +166,26 @@ const sacADosArticles = articles
           <h2 class="theme-section-title">Sacs à dos pour chien</h2>
           <div class="articles-grid">
             {sacADosArticles.map(article => (
+              <ArticleCard
+                title={article.data.title}
+                description={article.data.description}
+                href={`/equipement/${article.id}`}
+                category={article.data.category}
+                isAffiliate={article.data.isAffiliate}
+                featured={article.data.featured}
+                publishDate={article.data.publishDate}
+                image={article.data.image}
+              />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {manteauArticles.length > 0 && (
+        <div class="theme-section" id="manteau">
+          <h2 class="theme-section-title">Manteaux pour chien</h2>
+          <div class="articles-grid">
+            {manteauArticles.map(article => (
               <ArticleCard
                 title={article.data.title}
                 description={article.data.description}
