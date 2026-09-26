@@ -2,17 +2,18 @@
 
 > Référence de tous les articles publiés, à consulter avant de rédiger pour placer des liens internes pertinents.
 > Généré automatiquement par scripts/generate-maillage.mjs à chaque commit touchant un article.
-> Dernière mise à jour : 2026-09-23
+> Dernière mise à jour : 2026-09-26
 
 ---
 
 ## Règles de maillage
 
-- 2 à 4 liens internes par article, ancres descriptives, dans le corps du texte
-- Minimum 1 lien vers un article équipement si le sujet s'y prête
-- Minimum 1 lien vers un article informationnel connexe
-- Jamais de lien équipement → équipement sauf relation évidente
-- Ancres descriptives : "choisir un harnais adapté" et non "cliquez ici"
+Règles complètes : .claude/skills/rediger-article/regles-editoriales.md (section Liens internes).
+
+- 1 à 4 liens internes selon la pertinence réelle, sans minimum forcé, ancres descriptives dans le corps du texte
+- Informatif : le lien vers un comparateur arrive au 2e ou 3e H2, une fois la réponse principale posée
+- Comparatif : aucun lien vers un informatif dans l'introduction
+- Utiliser uniquement les URLs de ce fichier
 
 ---
 
@@ -49,6 +50,7 @@ Articles informationnels sur la santé, la sécurité et le bien-être du chien 
 | Comment rafraîchir son chien par forte chaleur | /sante-bien-etre/rafraichir-chien-chaleur-canicule/ | Informationnel |
 | Maladies transmises par les tiques au chien : ce que tout randonneur doit savoir | /sante-bien-etre/maladies-tiques-chien-randonnee/ | Informationnel |
 | Comment enlever une tique sur un chien | /sante-bien-etre/comment-enlever-tique-chien/ | Informationnel |
+| À partir de quelle température un chien a-t-il froid ? | /sante-bien-etre/temperature-chien-froid/ | Informationnel |
 
 ---
 

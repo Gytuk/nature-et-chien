@@ -2,6 +2,7 @@
 title: "Meilleur manteau pour chien : comparatif 2026"
 description: "Quel manteau pour chien choisir pour l'hiver et les sorties nature ? Comparatif 2026 de quatre modèles : Kurgo Loft, Ruffwear Vert Jacket, Overcoat Fuse et Hurtta Extreme Warmer III ECO."
 publishDate: 2026-09-23
+updatedDate: 2026-09-26
 category: equipement
 tags: [manteau, hiver, froid, équipement, chien, randonnée]
 isAffiliate: true
@@ -311,7 +312,7 @@ Les chiens à poil ras ou sans sous-poil perdent leur chaleur rapidement : lévr
 
 Chez ces dernières, le sous-poil dense emprisonne une couche d'air isolante qui fait déjà le travail. Ajouter un manteau par-dessus n'apporte rien et peut gêner les mouvements d'un chien actif.
 
-Selon les recommandations vétérinaires générales, une protection se justifie en dessous de 0 °C pour les profils sensibles, et le seuil ressenti remonte dès qu'il y a du vent ou de l'humidité. Le premier signe à surveiller reste le comportement du chien lui-même : le tremblement est l'un des premiers signaux qu'il a froid, avec l'agitation et la réticence à avancer. Les chiens âgés méritent une attention particulière, et nous détaillons ailleurs [jusqu'à quel âge un chien peut randonner](/sante-bien-etre/chien-senior-randonnee-quel-age/).
+Selon les repères couramment utilisés par les vétérinaires, une protection devient utile dès 7 °C environ pour les profils sensibles, surtout pendant les pauses. La plupart des autres chiens commencent à avoir froid à l'arrêt vers 0 °C, et le seuil ressenti remonte dès qu'il y a du vent ou de l'humidité. Le premier signe à surveiller reste le comportement du chien lui-même : le tremblement est l'un des premiers signaux qu'il a froid, avec l'agitation et la réticence à avancer. Les chiens âgés méritent une attention particulière, et nous détaillons ailleurs [jusqu'à quel âge un chien peut randonner](/sante-bien-etre/chien-senior-randonnee-quel-age/).
 
 ---
 
@@ -384,7 +385,7 @@ Dans les trois premiers cas, gardez à l'esprit que le harnais se porte **sous**
 
   <details open>
     <summary>À partir de quelle température faut-il mettre un manteau à son chien ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Il n'existe pas de seuil unique, car tout dépend du pelage, de l'âge, de la corpulence et de l'activité du chien. Les recommandations vétérinaires générales situent le besoin autour de 0 °C pour les chiens sensibles, à poil fin, âgés ou de petit gabarit, avec une vigilance accrue en dessous de -6 °C pour tous les chiens. Le vent et l'humidité abaissent nettement ce seuil de confort. Fiez-vous surtout aux signaux de votre chien : tremblements, agitation, réticence à avancer.</p></div>
+    <div class="faq-answer"><p>Il n'existe pas de seuil unique, car tout dépend du pelage, de l'âge, de la corpulence et de l'activité du chien. Les repères couramment utilisés par les vétérinaires situent le besoin vers 7 °C pour les chiens sensibles, à poil fin, âgés ou de petit gabarit, surtout pendant les pauses, vers 0 °C à l'arrêt pour la plupart des autres chiens, avec une vigilance accrue en dessous de -6 °C pour tous. Le vent et l'humidité abaissent nettement ce seuil de confort. Fiez-vous surtout aux signaux de votre chien : tremblements, agitation, réticence à avancer.</p></div>
   </details>
 
   <details>
