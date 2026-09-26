@@ -2,7 +2,7 @@
 title: "Harnais en H ou en Y pour chien : quelle différence ?"
 description: "Structure, effet anti-traction, terminologie des vendeurs : ce que montre la recherche sur le harnais en H face au Y, pour un effort de plusieurs heures."
 publishDate: 2026-07-13
-updatedDate: 2026-07-31
+updatedDate: 2026-09-26
 category: equipement
 tags: [harnais, harnais en H, harnais en Y, équipement, choix]
 isAffiliate: false
@@ -184,7 +184,7 @@ Sur nature-et-chien, les harnais qu'on recommande dans nos comparatifs randonné
   <img src="/images/equipement/harnais-polyvalent/cover.webp" alt="Comparatif des meilleurs harnais de randonnée pour chien" loading="lazy">
   <div class="inline-cta-text">
     <div class="inline-cta-title">Meilleur harnais de randonnée pour chien : comparatif</div>
-    <div class="inline-cta-desc">Ruffwear Front Range, Hi &amp; Light, Web Master, TrueLove — les harnais en Y qu'on recommande, de 35 à 90 €.</div>
+    <div class="inline-cta-desc">Ruffwear Front Range, Hi &amp; Light, Web Master, TrueLove : les harnais en Y qu'on recommande, de 35 à 90 €.</div>
     <span class="inline-cta-btn">Consulter le comparatif →</span>
   </div>
 </a>

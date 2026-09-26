@@ -2,6 +2,7 @@
 title: "Faut-il des vaccins supplémentaires pour randonner avec son chien ?"
 description: "Si votre chien est à jour du CHPPiL, la leptospirose est déjà couverte. Mais randonner change certaines priorités. Ce guide vous dit ce qui compte vraiment."
 publishDate: 2026-06-13
+updatedDate: 2026-09-26
 category: sante
 tags: [vaccination, leptospirose, leishmaniose, santé chien, randonnée, prévention]
 isAffiliate: false
@@ -28,7 +29,7 @@ C'est la question qui concerne directement les randonneurs. La leptospirose se t
 
 <div class="nc-stat">
   <span class="nc-stat__num">12 mois</span>
-  <span class="nc-stat__label">La durée maximale de protection du vaccin standard contre la leptospirose — au-delà du rappel annuel, la couverture ne peut plus être garantie.</span>
+  <span class="nc-stat__label">La durée maximale de protection du vaccin standard contre la leptospirose, au-delà du rappel annuel, la couverture ne peut plus être garantie.</span>
 </div>
 
 Le vaccin standard offre une protection de 12 mois maximum. [Pour les chiens à forte exposition, comme les chiens de chasse](https://www.goodbro.fr/conseils-veterinaires/vaccin-leptospirose-chien/), certains vétérinaires recommandent un rappel tous les 6 mois. Un chien qui traverse régulièrement des zones humides, bord de rivières et sous-bois détrempés, présente un profil d'exposition similaire.

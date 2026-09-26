@@ -14,6 +14,7 @@ const articleSchema = z.object({
   metaDescription: z.string().optional(),
   image: z.string().optional(),
   imageAlt: z.string().optional(),
+  focusKeyword: z.string().optional(),
   theme: z.string().optional(),
   itemList: z.array(z.string()).optional(),
 });

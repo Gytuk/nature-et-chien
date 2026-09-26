@@ -33,6 +33,14 @@ content.config.ts
 
 **Jamais de `git push` sans confirmation explicite juste avant**, même après un accord donné plus tôt dans la session ou pour un changement mineur. Plan Netlify gratuit (300 min de build/mois) : chaque push déclenche un build. `git commit` local ne pose pas ce problème et ne nécessite pas de confirmation séparée.
 
+## Production d'articles
+
+Tout article (informatif ou comparatif), du cadrage à la publication, passe par le skill `rediger-article` (`.claude/skills/rediger-article/`). Ses fichiers de référence sont la source de vérité unique pour le fond, le ton, le SEO, les comparatifs et la mise en forme. Les skills venus de Claude Chat (`keyword-brainstorming`, `article-prompt-nec`, `seo-editorial`, `product-selection-description`) ne s'appliquent pas ici.
+
+- Dossier de travail par article : `_briefs/<slug>/`
+- Contrôle avant publication : `npm run check -- src/content/<categorie>/<slug>.md` (sans argument : audit de tous les articles)
+- Dans ce workflow, lancer `npm run dev` pour l'aperçu final est autorisé.
+
 ## Contexte Jarvis
 
 Ce projet fait partie du Workspace Jarvis de Tom. Les livrables produits pour ce site (audits, plans éditoriaux, analyses) vont dans `../livrables/sites-web/`.

@@ -2,6 +2,7 @@
 title: "Maladies transmises par les tiques au chien : ce que tout randonneur doit savoir"
 description: "Piroplasmose, Lyme, ehrlichiose : les maladies transmises par les tiques au chien sont graves mais évitables. Symptômes, délais, zones à risque, prévention."
 publishDate: 2026-07-01
+updatedDate: 2026-09-26
 category: sante
 tags: [tiques, piroplasmose, maladie de Lyme, ehrlichiose, anaplasmose, santé chien, randonnée, prévention]
 isAffiliate: false
@@ -83,7 +84,7 @@ Si une tique est fixée sur votre chien au retour d'une balade, il faut agir vit
   <img src="/images/equipement/tire%20tique/comparatif%20tire%20tique.webp" alt="Comparatif des meilleurs tire-tiques pour chien" loading="lazy">
   <div class="inline-cta-text">
     <div class="inline-cta-title">Meilleur tire-tique pour chien : comparatif 2026</div>
-    <div class="inline-cta-desc">O'Tom Tick Twister, WQDD STANPET, Trekmates — trois profils d'usage comparés.</div>
+    <div class="inline-cta-desc">O'Tom Tick Twister, WQDD STANPET, Trekmates : trois profils d'usage comparés.</div>
     <span class="inline-cta-btn">Consulter le comparatif →</span>
   </div>
 </a>

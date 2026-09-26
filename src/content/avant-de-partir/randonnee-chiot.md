@@ -2,12 +2,13 @@
 title: "Randonnée avec un chiot : ce qu'il faut savoir avant de partir"
 description: "Âge minimum, distances adaptées, équipement et précautions : tout ce qu'il faut savoir pour initier votre chiot à la randonnée sans risque pour sa croissance."
 publishDate: 2026-05-02
+updatedDate: 2026-09-26
 category: avant-de-partir
 tags: [chiot, croissance, randonnée débutant, articulations, progression]
 isAffiliate: false
 featured: false
 image: /images/avant-de-partir/chiot-sentier.webp
-imageAlt: "Chiot en randonnée sur un sentier — âge minimum et conseils pratiques"
+imageAlt: "Chiot en randonnée sur un sentier, âge minimum et conseils pratiques"
 metaTitle: "Randonnée avec un chiot : âge minimum et conseils pratiques"
 metaDescription: "Peut-on randonner avec un chiot ? Découvrez l'âge minimum conseillé, les précautions et nos conseils pratiques pour l'initier en douceur à la nature."
 ---

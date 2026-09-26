@@ -13,15 +13,16 @@ interface Props {
   ogImageHeight?: number;
   noindex?: boolean;
   ogType?: string;
+  titleSuffix?: boolean;
 }
 
-const { title, description, canonicalUrl, ogImage, ogImageWidth, ogImageHeight, noindex, ogType } = Astro.props;
+const { title, description, canonicalUrl, ogImage, ogImageWidth, ogImageHeight, noindex, ogType, titleSuffix } = Astro.props;
 ---
 
 <!doctype html>
 <html lang="fr">
   <head>
-    <SEO {title} {description} {canonicalUrl} {ogImage} {ogImageWidth} {ogImageHeight} {noindex} {ogType} />
+    <SEO {title} {description} {canonicalUrl} {ogImage} {ogImageWidth} {ogImageHeight} {noindex} {ogType} {titleSuffix} />
   </head>
   <body>
     <Header />

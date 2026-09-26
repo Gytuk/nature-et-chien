@@ -2,6 +2,7 @@
 title: "Comment débuter le canicross avec son chien"
 description: "Âge minimum, progression, équipement, températures à éviter : tout ce qu'il faut savoir avant de commencer le canicross avec son chien."
 publishDate: 2026-06-13
+updatedDate: 2026-09-26
 category: avant-de-partir
 tags: [canicross, sport canin, débuter, harnais traction, entraînement]
 isAffiliate: false
@@ -86,7 +87,7 @@ La fin de croissance intervient à des âges différents selon le gabarit :
     <tbody>
       <tr>
         <td><strong>Petite race</strong> (moins de 10 kg)</td>
-        <td>8 à 12 mois — <em>peu adaptée à la traction soutenue</em></td>
+        <td>8 à 12 mois, <em>peu adaptée à la traction soutenue</em></td>
       </tr>
       <tr>
         <td><strong>Race moyenne</strong> (10 à 25 kg)</td>

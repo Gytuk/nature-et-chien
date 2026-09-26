@@ -2,13 +2,13 @@
 title: "Chien en randonnée : où est-il autorisé ou interdit en France ?"
 description: "Parcs nationaux, forêts, réserves naturelles, littoral… Un guide clair sur les zones accessibles ou interdites, avec tableau récapitulatif, conseils pratiques et FAQ."
 publishDate: 2026-05-02
-updatedDate: 2026-07-01
+updatedDate: 2026-09-26
 category: avant-de-partir
 tags: [législation, zones autorisées, parc national, forêt, laisse]
 isAffiliate: false
 featured: true
 image: /images/avant-de-partir/interdiction-chien.webp
-imageAlt: "Panneau d'interdiction pour les chiens — zones autorisées et interdites en randonnée"
+imageAlt: "Panneau d'interdiction pour les chiens, zones autorisées et interdites en randonnée"
 metaTitle: "Chien en randonnée : zones interdites et amendes en France"
 metaDescription: "Parcs nationaux, régionaux, réserves naturelles, forêts, littoral : où votre chien est interdit en randonnée et amendes entre 35 € et 750 €."
 ---
@@ -23,13 +23,13 @@ Des dérogations limitées existent : chiens d'assistance, chiens de protection 
 
 Trois parcs nationaux s'écartent de cette règle générale. Dans le Parc national des Cévennes, le Parc national des Calanques et le Parc national de forêts, le chien est autorisé dans la zone cœur à condition d'être tenu en laisse : seule sa divagation y est interdite. Avant de partir, vérifiez toujours la réglementation spécifique du parc concerné, les règles variant d'un parc à l'autre.
 
-> 📎 **Source officielle :** [Règles générales et renvois par parc — parcsnationaux.fr](https://www.parcsnationaux.fr/fr/des-decouvertes/visiter-et-semerveiller/la-reglementation-et-les-conseils-pour-les-visiteurs)
+> 📎 **Source officielle :** [Règles générales et renvois par parc, parcsnationaux.fr](https://www.parcsnationaux.fr/fr/des-decouvertes/visiter-et-semerveiller/la-reglementation-et-les-conseils-pour-les-visiteurs)
 
 ## Parcs naturels régionaux (PNR)
 
 En PNR, les chiens sont **généralement autorisés en laisse**. Des secteurs peuvent toutefois être plus restrictifs : **réserves associées, espaces naturels sensibles (ENS), alpages avec troupeaux**.
 
-> 📎 **Trouver votre PNR :** [Carte-annuaire des 59 parcs — parcs-naturels-regionaux.fr](https://www.parcs-naturels-regionaux.fr/les-parcs/decouvrir-les-59-parcs)
+> 📎 **Trouver votre PNR :** [Carte-annuaire des 59 parcs, parcs-naturels-regionaux.fr](https://www.parcs-naturels-regionaux.fr/les-parcs/decouvrir-les-59-parcs)
 
 ## Réserves naturelles
 
@@ -44,7 +44,7 @@ Deux règles s'appliquent :
 - **Toute l'année** : votre chien doit rester sous surveillance effective (ne pas s'éloigner au-delà d'environ 100 m / portée de voix).
 - **Du 15 avril au 30 juin** : la laisse est **obligatoire** hors allées, chemins et sentiers balisés pour protéger la période de reproduction et de nidification.
 
-> 📎 **Source :** [service-public.fr — Animaux en forêt](https://www.service-public.gouv.fr/particuliers/actualites/A17343)
+> 📎 **Source :** [service-public.fr : Animaux en forêt](https://www.service-public.gouv.fr/particuliers/actualites/A17343)
 
 ## Littoral et plages
 
@@ -77,7 +77,7 @@ Il n'existe pas de règle nationale unique. L'accès dépend des arrêtés munic
       </div>
     </a>
     <a href="/equipement/harnais-randonnee-chien" class="inline-cta-card inline-cta-card--wide">
-      <img src="/images/equipement/chien-harnais.webp" alt="Chien en randonnée avec harnais — guide de choix" loading="lazy">
+      <img src="/images/equipement/chien-harnais.webp" alt="Chien en randonnée avec harnais, guide de choix" loading="lazy">
       <div class="inline-cta-text">
         <div class="inline-cta-title">Randonnée avec son chien : comment choisir le harnais idéal ?</div>
         <div class="inline-cta-desc">Harnais classique, de traction ou multifonction : nos critères de choix, comparatif des meilleurs modèles et conseils d'ajustement pour randonner confortablement.</div>

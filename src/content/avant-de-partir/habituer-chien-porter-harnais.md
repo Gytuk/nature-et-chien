@@ -2,7 +2,7 @@
 title: "Comment habituer son chien à porter un harnais"
 description: "Chien qui se gratte, s'immobilise ou refuse le harnais : causes et protocole progressif pour une acceptation durable. Guide concret étape par étape."
 publishDate: 2026-06-23
-updatedDate: 2026-07-31
+updatedDate: 2026-09-26
 category: avant-de-partir
 tags: [harnais, équipement, comportement, débutant]
 isAffiliate: false
@@ -204,7 +204,7 @@ Un point important : un chien qui cesse brusquement de résister après une mise
 
   <div class="age-block age-block--green">
     <div class="age-block__header">
-      <span class="age-block__range">3 — 12 semaines</span>
+      <span class="age-block__range">3 à 12 semaines</span>
       <span class="age-block__tag">Fenêtre idéale</span>
     </div>
     <p>Les chiots traversent une fenêtre de socialisation pendant laquelle ils sont plus réceptifs aux expériences nouvelles. Les associations formées durant cette période ont tendance à être plus stables. Une <a href="https://extension.psu.edu/importance-of-socialization-in-puppy-raising-series-part-1">étude publiée par la Penn State University Extension</a> le confirme : les chiots exposés positivement à de nouveaux stimuli pendant cette fenêtre développent une plus grande résilience comportementale à l'âge adulte. Introduire le harnais à ce stade, avec des manipulations courtes et positives, facilite une acceptation durable sans protocole élaboré.</p>
@@ -212,7 +212,7 @@ Un point important : un chien qui cesse brusquement de résister après une mise
 
   <div class="age-block age-block--orange">
     <div class="age-block__header">
-      <span class="age-block__range">8 — 10 semaines</span>
+      <span class="age-block__range">8 à 10 semaines</span>
       <span class="age-block__tag age-block__tag--warn">Période sensible</span>
     </div>
     <p>Une période de crainte accrue est documentée à cet âge : les chiots peuvent montrer des réactions de peur face à des situations qui les laissaient indifférents quelques jours plus tôt. Forcer la mise en place du harnais pendant cette phase peut ancrer une association négative. Reporter et reprendre quelques jours plus tard.</p>
@@ -220,7 +220,7 @@ Un point important : un chien qui cesse brusquement de résister après une mise
 
   <div class="age-block age-block--orange">
     <div class="age-block__header">
-      <span class="age-block__range">6 — 14 mois</span>
+      <span class="age-block__range">6 à 14 mois</span>
       <span class="age-block__tag age-block__tag--warn">Seconde période de crainte</span>
     </div>
     <p>Un jeune chien qui avait bien accepté le harnais peut soudainement manifester de la résistance à cet âge. C'est un phénomène normal et généralement transitoire. La marche à suivre est identique : reprendre le protocole progressif depuis le début, sans forcer. Pour préparer une première randonnée une fois le harnais accepté, les recommandations pratiques sur la <a href="/avant-de-partir/premiere-randonnee-avec-son-chien/">première randonnée avec son chien</a> donnent les repères utiles.</p>

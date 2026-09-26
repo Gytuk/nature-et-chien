@@ -2,12 +2,13 @@
 title: "Première randonnée avec son chien : comment le préparer correctement ?"
 description: "Condition physique, entraînement progressif, équipement de base : tout ce qu'il faut vérifier avant d'emmener son chien en randonnée pour la première fois."
 publishDate: 2026-06-01
+updatedDate: 2026-09-26
 category: avant-de-partir
 tags: [préparation, débutant, condition physique, première randonnée]
 isAffiliate: false
 featured: false
 image: /images/avant-de-partir/premiere-randonnee/cover.webp
-imageAlt: "Propriétaire et son chien sur un sentier de randonnée — première sortie"
+imageAlt: "Propriétaire et son chien sur un sentier de randonnée, première sortie"
 metaTitle: "Préparer son chien pour une première randonnée : guide complet"
 metaDescription: "Comment savoir si votre chien est prêt ? Entraînement progressif, vérifications avant le départ et équipement essentiel pour une première rando réussie."
 ---

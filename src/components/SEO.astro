@@ -8,6 +8,7 @@ interface Props {
   ogImageHeight?: number;
   noindex?: boolean;
   ogType?: string;
+  titleSuffix?: boolean;
 }
 
 const {
@@ -19,10 +20,12 @@ const {
   ogImageHeight,
   noindex = false,
   ogType = "website",
+  titleSuffix = true,
 } = Astro.props;
 
 const siteName = "Nature & Chien";
-const fullTitle = title.includes(siteName) ? title : `${title} | ${siteName}`;
+// Les articles passent titleSuffix={false} : leur metaTitle est affiché seul.
+const fullTitle = !titleSuffix || title.includes(siteName) ? title : `${title} | ${siteName}`;
 const ogImageAbsolute = new URL(ogImage, Astro.site ?? Astro.url.origin).href;
 ---
 

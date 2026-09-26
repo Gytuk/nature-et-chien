@@ -2,6 +2,7 @@
 title: "Comment rafraîchir son chien par forte chaleur"
 description: "Les canicules sont plus fréquentes et plus intenses. Savoir comment rafraîchir son chien par forte chaleur est devenu un réflexe indispensable. Cet article donne les réponses concrètes."
 publishDate: 2026-06-24
+updatedDate: 2026-09-26
 category: sante
 tags: [chaleur, été, canicule, bien-être, coussinets, thermorégulation]
 isAffiliate: false
@@ -196,7 +197,7 @@ Consultez nos comparatifs pour choisir le modèle adapté à votre usage :
       <img src="/images/equipement/gourde/cover.webp" alt="Comparatif gourdes pour chien en randonnée 2026" loading="lazy" />
     </div>
     <div class="cta-article-body">
-      <span class="cta-article-category">Équipement — Comparatif 2026</span>
+      <span class="cta-article-category">Équipement : comparatif 2026</span>
       <span class="cta-article-title">Meilleure gourde pour chien en randonnée</span>
       <span class="cta-article-desc">Avec ou sans abreuvoir intégré : lequel choisir selon votre profil de sortie.</span>
     </div>
@@ -207,7 +208,7 @@ Consultez nos comparatifs pour choisir le modèle adapté à votre usage :
       <img src="/images/equipement/gamelle-pliable/cover.webp" alt="Comparatif gamelles pliables pour chien en randonnée 2026" loading="lazy" />
     </div>
     <div class="cta-article-body">
-      <span class="cta-article-category">Équipement — Comparatif 2026</span>
+      <span class="cta-article-category">Équipement : comparatif 2026</span>
       <span class="cta-article-title">Meilleure gamelle pliable pour chien en randonnée</span>
       <span class="cta-article-desc">Légère, compacte, facile à glisser dans un sac : le comparatif complet.</span>
     </div>

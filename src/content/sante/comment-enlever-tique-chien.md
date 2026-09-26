@@ -2,6 +2,7 @@
 title: "Comment enlever une tique sur un chien"
 description: "Le geste exact pour retirer une tique sur un chien sans laisser le rostre sous la peau, les outils à privilégier et les signes à surveiller après la piqûre."
 publishDate: 2026-07-07
+updatedDate: 2026-09-26
 category: sante
 tags: [tiques, santé, premiers secours, prévention]
 isAffiliate: false
@@ -47,7 +48,7 @@ En l'absence de tire-tique, une pince à épiler fine peut servir de solution de
   <div class="cta-tique__body">
     <span class="cta-tique__label">Équipement</span>
     <span class="cta-tique__title">Meilleur tire-tique pour chien : comparatif 2026</span>
-    <span class="cta-tique__desc">O'Tom Tick Twister, WQDD STANPET, Trekmates — trois profils d'usage comparés.</span>
+    <span class="cta-tique__desc">O'Tom Tick Twister, WQDD STANPET, Trekmates : trois profils d'usage comparés.</span>
     <span class="cta-tique__btn">Voir le comparatif →</span>
   </div>
 </a>
@@ -127,7 +128,7 @@ Pour comprendre en détail ce que chaque maladie peut provoquer et sur quel dél
 
   <details>
     <summary>Une tique trouvée sur un chiot est-elle plus dangereuse que sur un chien adulte ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>La technique de retrait ne change pas selon l'âge du chien. Le risque particulier chez le chiot concerne les infestations massives — plusieurs tiques fixées en même temps — qui peuvent entraîner une perte de sang suffisante pour provoquer une anémie. Une inspection régulière du pelage limite ce risque.</p></div>
+    <div class="faq-answer"><p>La technique de retrait ne change pas selon l'âge du chien. Le risque particulier chez le chiot concerne les infestations massives : plusieurs tiques fixées en même temps, qui peuvent entraîner une perte de sang suffisante pour provoquer une anémie. Une inspection régulière du pelage limite ce risque.</p></div>
   </details>
 
 </div>

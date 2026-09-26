@@ -2,12 +2,13 @@
 title: "Quelle quantité d'eau prévoir pour son chien en randonnée ?"
 description: "Quantité d'eau à prévoir, fréquence des pauses, signes de déshydratation et eau de rivière : le guide complet pour que votre chien reste bien hydraté sur les sentiers."
 publishDate: 2026-05-02
+updatedDate: 2026-09-26
 category: sante
 tags: [hydratation, déshydratation, coup de chaleur, eau, pauses]
 isAffiliate: false
 featured: true
 image: /images/sante/hydratation-cover.webp
-imageAlt: "Chien qui boit de l'eau pendant une pause randonnée — hydratation"
+imageAlt: "Chien qui boit de l'eau pendant une pause randonnée, hydratation"
 metaTitle: "Quelle quantité d'eau pour un chien en randonnée ? (par gabarit)"
 metaDescription: "Quantité d'eau par gabarit, fréquence des pauses, signes de déshydratation et précautions par temps chaud : le guide complet pour bien hydrater son chien."
 ---

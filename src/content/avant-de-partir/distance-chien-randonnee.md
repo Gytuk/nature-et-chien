@@ -2,13 +2,13 @@
 title: "Quelle distance peut parcourir un chien en randonnée ?"
 description: "Repères pratiques par profil et par race, facteurs qui influencent l'endurance et la distance, conseils pour ne pas mettre son chien en danger."
 publishDate: 2026-05-02
-updatedDate: 2026-08-09
+updatedDate: 2026-09-26
 category: avant-de-partir
 tags: [distance, endurance, profil chien, randonnée, fatigue]
 isAffiliate: false
 featured: true
 image: /images/avant-de-partir/distance-chien.webp
-imageAlt: "Chien adulte marchant sur un sentier de randonnée — distance et endurance"
+imageAlt: "Chien adulte marchant sur un sentier de randonnée, distance et endurance"
 metaTitle: "Combien de km peut parcourir un chien en randonnée ?"
 metaDescription: "5 km ou 30 km ? La bonne distance dépend du profil de votre chien. Repères par race, âge et niveau pour ne pas le mettre en danger."
 ---

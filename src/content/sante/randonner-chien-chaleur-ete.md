@@ -2,13 +2,13 @@
 title: "Randonner avec son chien en été : à partir de quelle température c'est dangereux ?"
 description: "Brachycéphales, nordiques, seniors : quels chiens sont les plus vulnérables à la chaleur ? Seuils par profil, signes d'alerte et gestes d'urgence pour randonner en sécurité en été."
 publishDate: 2026-05-13
-updatedDate: 2026-07-17
+updatedDate: 2026-09-26
 category: sante
 tags: [chaleur, été, coup de chaleur, hydratation, sécurité, randonnée]
 isAffiliate: false
 featured: false
 image: /images/sante/chaleur-cover.webp
-imageAlt: "Chien à l'ombre en randonnée par forte chaleur — seuils de température et risques selon la race"
+imageAlt: "Chien à l'ombre en randonnée par forte chaleur, seuils de température et risques selon la race"
 metaTitle: "Randonner avec son chien en été : températures dangereuses ?"
 metaDescription: "À partir de quelle température la randonnée devient risquée pour un chien ? Seuils, horaires, signes d'alerte et gestes d'urgence."
 ---
@@ -161,7 +161,7 @@ Consultez nos comparatifs pour choisir le matériel adapté :
       <img src="/images/equipement/gourde/cover.webp" alt="Comparatif gourdes pour chien en randonnée 2026" loading="lazy" />
     </div>
     <div class="cta-article-body">
-      <span class="cta-article-category">Équipement — Comparatif 2026</span>
+      <span class="cta-article-category">Équipement : comparatif 2026</span>
       <span class="cta-article-title">Meilleure gourde pour chien en randonnée</span>
       <span class="cta-article-desc">Avec ou sans abreuvoir intégré : lequel choisir selon votre profil de sortie.</span>
     </div>
@@ -172,7 +172,7 @@ Consultez nos comparatifs pour choisir le matériel adapté :
       <img src="/images/equipement/gamelle-pliable/cover.webp" alt="Comparatif gamelles pliables pour chien en randonnée 2026" loading="lazy" />
     </div>
     <div class="cta-article-body">
-      <span class="cta-article-category">Équipement — Comparatif 2026</span>
+      <span class="cta-article-category">Équipement : comparatif 2026</span>
       <span class="cta-article-title">Meilleure gamelle pliable pour chien en randonnée</span>
       <span class="cta-article-desc">Légère, compacte, facile à glisser dans un sac : le comparatif complet.</span>
     </div>
@@ -321,7 +321,7 @@ Un chien qui surchauffe envoie des signaux clairs. Le problème : certains chien
   <li class="nc-signal nc-signal--watch">
     <span class="nc-signal__tag">Agir sans attendre</span>
     <strong>Ralentissement du rythme, refus de tenir l'allure</strong>
-    <span class="nc-signal__detail">Recherche active de l'ombre, refus d'avancer. Le chien signale sa limite — ne pas forcer.</span>
+    <span class="nc-signal__detail">Recherche active de l'ombre, refus d'avancer. Le chien signale sa limite : ne pas forcer.</span>
   </li>
   <li class="nc-signal nc-signal--stop">
     <span class="nc-signal__tag">Urgence médicale</span>

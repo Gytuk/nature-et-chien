@@ -77,11 +77,12 @@ const content = `# Maillage interne — nature-et-chien.fr
 
 ## Règles de maillage
 
-- 2 à 4 liens internes par article, ancres descriptives, dans le corps du texte
-- Minimum 1 lien vers un article équipement si le sujet s'y prête
-- Minimum 1 lien vers un article informationnel connexe
-- Jamais de lien équipement → équipement sauf relation évidente
-- Ancres descriptives : "choisir un harnais adapté" et non "cliquez ici"
+Règles complètes : .claude/skills/rediger-article/regles-editoriales.md (section Liens internes).
+
+- 1 à 4 liens internes selon la pertinence réelle, sans minimum forcé, ancres descriptives dans le corps du texte
+- Informatif : le lien vers un comparateur arrive au 2e ou 3e H2, une fois la réponse principale posée
+- Comparatif : aucun lien vers un informatif dans l'introduction
+- Utiliser uniquement les URLs de ce fichier
 
 ---
 
