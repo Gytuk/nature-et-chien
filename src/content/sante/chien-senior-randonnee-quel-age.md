@@ -155,7 +155,7 @@ Les **descentes raides** sont particulièrement contraignantes pour un chien âg
 
 ### Hydratation et température
 
-**Le froid raidit les articulations** : commencer chaque sortie à allure lente les 10–15&nbsp;premières minutes pour échauffer progressivement. En été, **partir avant 9h**, éviter les heures chaudes, réduire encore la distance. Un chien âgé peut être moins réactif à la soif : **proposer de l'eau à chaque pause** sans attendre qu'il le demande. Le [guide sur l'hydratation du chien en randonnée](/sante-bien-etre/hydratation-chien-randonnee/) donne les quantités de référence selon le gabarit et la température.
+**[Le froid raidit les articulations](/sante-bien-etre/temperature-chien-froid/)** : commencer chaque sortie à allure lente les 10–15&nbsp;premières minutes pour échauffer progressivement. En été, **partir avant 9h**, éviter les heures chaudes, réduire encore la distance. Un chien âgé peut être moins réactif à la soif : **proposer de l'eau à chaque pause** sans attendre qu'il le demande. Le [guide sur l'hydratation du chien en randonnée](/sante-bien-etre/hydratation-chien-randonnee/) donne les quantités de référence selon le gabarit et la température.
 
 <div class="inline-cta-list">
   <p class="inline-cta-intro">Pour gérer l'eau sur le sentier :</p>

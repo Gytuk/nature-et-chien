@@ -2,6 +2,7 @@
 title: "Randonnée avec un chihuahua : ce qu'il faut savoir avant de partir"
 description: "Chihuahua et randonnée : distance réaliste selon l'âge, entraînement progressif, harnais adapté à sa trachée fragile, hydratation, chaleur et froid en balade longue."
 publishDate: 2026-08-03
+updatedDate: 2026-09-26
 category: avant-de-partir
 tags: [chihuahua, petit chien, randonnée, harnais, santé]
 isAffiliate: false
@@ -113,7 +114,7 @@ Au-delà de <span class="stat-highlight">28-30°C</span>, réduisez les distance
 
 Notre guide sur [randonner avec son chien en été](/sante-bien-etre/randonner-chien-chaleur-ete/) détaille les seuils et les signes d'alerte pour toutes les tailles de chien.
 
-Le froid est plus souvent sous-estimé. Poil court, faible masse graisseuse, petit gabarit proche du sol : plusieurs sources vétérinaires et associatives s'accordent à placer le chihuahua parmi les races les plus sensibles au froid, avec un seuil de vigilance qui se situe généralement autour de <span class="stat-highlight">8-10°C</span>. Un manteau technique n'est pas un caprice pour cette race en randonnée automnale ou hivernale, c'est un équipement de base au même titre que le harnais.
+Le froid est plus souvent sous-estimé. Poil court, faible masse graisseuse, petit gabarit proche du sol : plusieurs sources vétérinaires et associatives s'accordent à placer le chihuahua [parmi les races les plus sensibles au froid](/sante-bien-etre/temperature-chien-froid/), avec un seuil de vigilance qui se situe généralement autour de <span class="stat-highlight">8-10°C</span>. Un manteau technique n'est pas un caprice pour cette race en randonnée automnale ou hivernale, c'est un équipement de base au même titre que le harnais.
 
 ---
 

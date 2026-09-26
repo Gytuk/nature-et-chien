@@ -312,7 +312,7 @@ Les chiens à poil ras ou sans sous-poil perdent leur chaleur rapidement : lévr
 
 Chez ces dernières, le sous-poil dense emprisonne une couche d'air isolante qui fait déjà le travail. Ajouter un manteau par-dessus n'apporte rien et peut gêner les mouvements d'un chien actif.
 
-Selon les repères couramment utilisés par les vétérinaires, une protection devient utile dès 7 °C environ pour les profils sensibles, surtout pendant les pauses. La plupart des autres chiens commencent à avoir froid à l'arrêt vers 0 °C, et le seuil ressenti remonte dès qu'il y a du vent ou de l'humidité. Le premier signe à surveiller reste le comportement du chien lui-même : le tremblement est l'un des premiers signaux qu'il a froid, avec l'agitation et la réticence à avancer. Les chiens âgés méritent une attention particulière, et nous détaillons ailleurs [jusqu'à quel âge un chien peut randonner](/sante-bien-etre/chien-senior-randonnee-quel-age/).
+Selon les repères couramment utilisés par les vétérinaires, une protection devient utile dès 7 °C environ pour les profils sensibles, surtout pendant les pauses. La plupart des autres chiens commencent à avoir froid à l'arrêt vers 0 °C, et le seuil ressenti remonte dès qu'il y a du vent ou de l'humidité. Le premier signe à surveiller reste le comportement du chien lui-même : le tremblement est l'un des premiers signaux qu'il a froid, avec l'agitation et la réticence à avancer. Les chiens âgés méritent une attention particulière, et nous détaillons ailleurs [jusqu'à quel âge un chien peut randonner](/sante-bien-etre/chien-senior-randonnee-quel-age/). Nous détaillons ces seuils race par race dans notre article [à partir de quelle température un chien a froid](/sante-bien-etre/temperature-chien-froid/).
 
 ---
 
