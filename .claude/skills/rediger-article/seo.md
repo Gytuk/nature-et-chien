@@ -4,7 +4,7 @@ Règles SEO à appliquer au cadrage et à la rédaction. Site jeune, peu d'autor
 
 ## 1. Cadrage du mot-clé
 
-- **Focus keyword** : 4 à 8 mots, formulé comme un humain le tape dans Google (ou le demande à un assistant IA).
+- **Focus keyword** : 4 à 8 mots, formulé comme un humain le tape dans Google (ou le demande à un assistant IA). Moins de 4 mots accepté quand c'est la requête réelle qui porte le volume (exemple : « ski joering chien »).
 - **Intention** :
 
 | Intention | Signaux | Format |
@@ -32,7 +32,7 @@ Règles SEO à appliquer au cadrage et à la rédaction. Site jeune, peu d'autor
 - **Introduction** : 3 à 5 lignes. Focus keyword dans les deux premières phrases. Nomme le problème concret du lecteur et annonce ce qu'il va trouver. Pas de généralité académique.
 - **H2** : formulés comme les questions réelles du lecteur, jamais comme des titres de chapitre. « Pourquoi le chien se déshydrate-t-il plus vite que nous ? » et non « L'importance de l'hydratation ». Alterner les variantes sémantiques (balade, randonnée, sortie).
 - **Nombre de H2** : 3 à 6 pour un article standard (800 à 1 500 mots), plus de 6 pour un guide pilier (1 800 à 2 200 mots). Décidé au plan, jamais de rembourrage.
-- **Premier H2** : la réponse principale.
+- **Premier H2** : la réponse principale. Exception : pour un guide dont le titre n'est pas une question, le premier H2 peut être une question large qui ouvre le parcours du lecteur (exemple : « Qu'est-ce que le ski-joëring et comment bien débuter ? »).
 - **H3** autorisés pour découper un H2 dense.
 - **Tableau** dès qu'il y a comparaison, progression ou règles selon les cas.
 
@@ -102,12 +102,12 @@ Rappel : la catégorie santé s'écrit `sante` dans le frontmatter, l'URL publiq
 ## 9. Checklist finale (après `npm run check`)
 
 - [ ] H1 = requête exacte ; mot-clé dans les deux premières phrases
-- [ ] Premier H2 = réponse principale ; tous les H2 en questions du lecteur
+- [ ] Premier H2 = réponse principale (ou question large d'ouverture pour un guide) ; tous les H2 en questions du lecteur
 - [ ] Une cible de snippet traitée au bon format
 - [ ] Chaque fait vérifiable : niveau 1 ou consensus bien formulé ; santé conforme
-- [ ] Liens internes 1 à 4 depuis MAILLAGE.md, CTA au bon endroit
+- [ ] Liens internes 1 à 4 en repère (5 ou 6 si tous utiles) depuis MAILLAGE.md, CTA au bon endroit
 - [ ] 1 à 2 liens externes vérifiés
 - [ ] FAQ 5 à 6 questions naturelles, distinctes du corps
 - [ ] Metas aux bonnes longueurs, orientées clic
 - [ ] Aucune contradiction interne, aucune redondance avec un autre article
-- [ ] Informatif : aucune marque
+- [ ] Informatif : aucune marque dans le corps du texte (tolérée dans les cartes CTA)

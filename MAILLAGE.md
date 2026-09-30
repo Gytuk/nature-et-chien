@@ -2,7 +2,7 @@
 
 > Référence de tous les articles publiés, à consulter avant de rédiger pour placer des liens internes pertinents.
 > Généré automatiquement par scripts/generate-maillage.mjs à chaque commit touchant un article.
-> Dernière mise à jour : 2026-09-26
+> Dernière mise à jour : 2026-09-30
 
 ---
 
@@ -31,6 +31,7 @@ Articles informationnels sur la préparation, la législation et les premières 
 | Comment habituer son chien à porter un harnais | /avant-de-partir/habituer-chien-porter-harnais/ | Informationnel |
 | Randonnée avec un chihuahua : ce qu'il faut savoir avant de partir | /avant-de-partir/randonnee-avec-un-chihuahua/ | Informationnel |
 | Randonnée avec un golden retriever | /avant-de-partir/randonnee-avec-un-golden-retriever/ | Informationnel |
+| Ski-joëring avec son chien : le guide pour bien débuter | /avant-de-partir/ski-joering-chien/ | Informationnel |
 
 ---
 

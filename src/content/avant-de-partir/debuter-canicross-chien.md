@@ -2,7 +2,7 @@
 title: "Comment débuter le canicross avec son chien"
 description: "Âge minimum, progression, équipement, températures à éviter : tout ce qu'il faut savoir avant de commencer le canicross avec son chien."
 publishDate: 2026-06-13
-updatedDate: 2026-09-26
+updatedDate: 2026-09-30
 category: avant-de-partir
 tags: [canicross, sport canin, débuter, harnais traction, entraînement]
 isAffiliate: false
@@ -21,9 +21,9 @@ Le canicross est une discipline de course à pied attelée : le coureur est reli
 
 En France, deux fédérations encadrent la pratique. La **FFSLC** (Fédération Française des Sports et Loisirs Canins) est la référence pour le canicross monochien en compétition : elle compte environ 200 clubs, plus de 5 000 licenciés et organise plus de 100 compétitions par an. La **FFST** (Fédération Française des Sports de Traîneau) est la seule fédération reconnue par l'État pour la délivrance de titres officiels. Pour une pratique loisir, aucune licence n'est obligatoire.
 
-[Consulter le règlement officiel canicross / canitrail / ski-joëring de la FFSLC (PDF)](https://ffslc.fr/wp-content/uploads/2025/06/REG-03.A21-Reglement-Canicross-Canitrail-Ski-joering.pdf)
+[Consulter le règlement de course officiel de la FFSLC, toutes disciplines, saison 2026-2027 (PDF)](https://ffslc.fr/wp-content/uploads/2026/08/REG-03.A22-Reglement-toutes-disciplines-Juniors-Adultes-2026-2027.pdf)
 
-Le canicross fait partie d'un ensemble de disciplines dites "sports de traction canine" : cani-VTT (vélo), cani-trottinette, ski-joëring, canitrail. Les principes d'entraînement et d'équipement sont largement communs entre ces pratiques.
+Le canicross fait partie d'un ensemble de disciplines dites "sports de traction canine" : cani-VTT (vélo), cani-trottinette, [ski-joëring](/avant-de-partir/ski-joering-chien/), canitrail. Les principes d'entraînement et d'équipement sont largement communs entre ces pratiques.
 
 ## Quelle différence entre le canicross et le canitrail ?
 
@@ -61,7 +61,7 @@ Les deux disciplines utilisent le même équipement et reposent sur la même mé
       </tr>
       <tr>
         <td>Âge minimum chien (FFSLC)</td>
-        <td><strong>15 mois</strong></td>
+        <td><strong>18 mois</strong></td>
         <td><strong>24 mois</strong></td>
       </tr>
     </tbody>
@@ -106,7 +106,7 @@ La fin de croissance intervient à des âges différents selon le gabarit :
 </div>
 
 <div class="nc-stat">
-  <span class="nc-stat__num">15 mois</span>
+  <span class="nc-stat__num">18 mois</span>
   <span class="nc-stat__label">âge minimum réglementaire FFSLC pour participer à une compétition de canicross</span>
 </div>
 
@@ -305,7 +305,7 @@ Les chemins forestiers en terre sont le terrain de référence. Les surfaces dur
 
   <details open>
     <summary>À quel âge peut-on commencer le canicross avec un Berger Australien ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Un Berger Australien termine sa croissance entre 12 et 15 mois selon les individus. La fin de croissance osseuse peut être confirmée par une radio du genou de profil. En pratique, la plupart des pratiquants commencent entre 12 et 18 mois, très progressivement. L'âge minimum en compétition FFSLC est de 15 mois.</p></div>
+    <div class="faq-answer"><p>Un Berger Australien termine sa croissance entre 12 et 15 mois selon les individus. La fin de croissance osseuse peut être confirmée par une radio du genou de profil. En pratique, la plupart des pratiquants commencent entre 12 et 18 mois, très progressivement. L'âge minimum en compétition FFSLC est de 18 mois.</p></div>
   </details>
 
   <details>

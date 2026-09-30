@@ -62,7 +62,7 @@ La mention « aucune donnée » est réservée aux vraies zones d'incertitude, q
 ## 4. Liens internes
 
 - URLs issues **uniquement** de `MAILLAGE.md`, jamais de mémoire.
-- 1 à 4 liens selon la pertinence réelle, pas de minimum forcé. Ancres descriptives intégrées à la phrase.
+- 1 à 4 liens en repère, selon la pertinence réelle, pas de minimum forcé. Jusqu'à 5 ou 6 acceptés si chaque lien est vraiment utile au lecteur (validé par Tom le 2026-09-30). Ancres descriptives intégrées à la phrase.
 - Informatif : le lien vers un comparateur arrive au 2e ou 3e H2, une fois la réponse principale posée, dans un paragraphe qui la prolonge. Jamais de formule marketing.
 - Comparatif : aucun lien vers un informatif dans l'introduction (ça fait reculer le lecteur dans le tunnel). Un lien possible dans une section de fond.
 - Si le comparateur visé n'existe pas encore : phrase de transition sans lien et commentaire `<!-- CTA à ajouter : comparateur X -->`. Jamais de lien inventé.
@@ -79,4 +79,4 @@ La mention « aucune donnée » est réservée aux vraies zones d'incertitude, q
 
 - Harnais en Y, épaules libres, pas de sangle horizontale en travers du poitrail. Laisse jamais au collier en randonnée.
 - Tout produit ou conseil est évalué contre cette doctrine.
-- Informatifs : aucune marque ni modèle de produit. Les produits sont le rôle des comparateurs.
+- Informatifs : aucune marque ni modèle de produit dans le corps du texte. Les produits sont le rôle des comparateurs. Exception : les descriptions des cartes CTA vers un comparatif peuvent citer les marques du comparatif (validé par Tom le 2026-09-30).
