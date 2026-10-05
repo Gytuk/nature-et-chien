@@ -70,6 +70,7 @@ Sur le terrain, cinq points font la différence :
 - **La croûte gelée et la glace** peuvent entailler les coussinets. Un baume à base de vaseline ou de lanoline appliqué avant la sortie les protège.
 - **Le sel de déneigement** des routes et des parkings irrite les pattes et rend malade s'il est léché. Évitez les bords de route salés et, au retour, essuyez les pattes et le ventre.
 - **Les chaussons** protègent à la fois du froid, de la glace et du sel, à condition d'être bien ajustés et que votre chien y soit habitué avant la sortie.
+- **L'imperméable** suffit par temps doux et pluvieux : il garde le pelage sec sans tenir chaud. Voyez notre [comparatif des imperméables pour chien](/equipement/meilleur-impermeable-pour-chien/).
 - **Le manteau** est utile aux petites races, aux chiens à poil ras, âgés ou maigres, et à tous les chiens pendant les longues pauses ou en bivouac. Enfilez-le plutôt à l'arrêt : porté pendant l'effort, un manteau chaud peut faire surchauffer votre chien. Choisissez-le résistant à l'eau, car mouillé il refroidit au lieu de protéger.
 
 <!-- CTA à ajouter : comparateur chaussons pour chien -->
