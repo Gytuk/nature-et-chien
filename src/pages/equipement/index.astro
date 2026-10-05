@@ -30,7 +30,7 @@ const sacADosArticles = articles
   .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
 
 const manteauArticles = articles
-  .filter(a => a.data.theme === "manteau")
+  .filter(a => a.data.theme === "manteau" || a.data.theme === "impermeable")
   .sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
 ---
 
@@ -183,7 +183,7 @@ const manteauArticles = articles
 
       {manteauArticles.length > 0 && (
         <div class="theme-section" id="manteau">
-          <h2 class="theme-section-title">Manteaux pour chien</h2>
+          <h2 class="theme-section-title">Manteau et K-Way</h2>
           <div class="articles-grid">
             {manteauArticles.map(article => (
               <ArticleCard

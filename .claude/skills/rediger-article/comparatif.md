@@ -16,9 +16,10 @@ Règle fondamentale : **partir du besoin, pas du catalogue.** Jamais chercher ce
 - Sources : tests indépendants, forums et communautés, recommandations de professionnels, fiches fabricant.
 - 4 à 6 produits. Pour chacun : pourquoi il convient (argument technique), sa différence réelle, ses limites connues.
 - Identifier exactement chaque produit : gamme, version, suffixe (Vert Jacket ≠ Vert Coverall, Overcoat Fuse Vest ≠ Jacket, IDC Power ≠ Longwalk). Un nom inconnu ou ambigu = lire la fiche avant d'aller plus loin.
+- Vérifier sur la fiche fabricant la nature exacte du produit (exemple : imperméable non doublé, ou manteau doublé ou isolé). Le nom commercial ne suffit pas.
 
 **Étape 3, disponibilité**
-- Hardloop : WebFetch sur la page produit (contenu en markdown, prévoir une réponse longue pour les tailles et le stock). Pour trouver l'URL : recherche web « <nom exact du produit> hardloop » (les pages catégories Hardloop se lisent mal).
+- Hardloop : WebFetch sur la page produit (contenu en markdown, prévoir une réponse longue pour les tailles et le stock). Pour trouver l'URL : recherche web « <nom exact du produit> hardloop » (les pages catégories Hardloop se lisent mal). Toujours donner à Tom l'URL de la page produit Hardloop pour chaque produit proposé.
 - Amazon : illisible par WebFetch. Tom copie les passages utiles de la page dans `_briefs/<slug>/amazon-<produit>.txt` (titre, prix, tailles, caractéristiques, description). Lui dire précisément ce qui manque si besoin.
 - Règles de stock : comparatif grand chien, tailles L et XL disponibles ; petit chien, XS et S ; polyvalent, au moins 3 tailles centrales. Sinon produit éliminé ou signalé avec réserve.
 - Contraintes commerciales de Tom (exemple : au moins 2 produits Hardloop, une entrée de gamme Amazon) : les respecter sans sacrifier un critère non négociable. En cas de conflit, le dire.
@@ -28,6 +29,7 @@ Règle fondamentale : **partir du besoin, pas du catalogue.** Jamais chercher ce
 - Si une sélection est remise en cause, repartir de l'étape 1 sans réutiliser l'ancienne sélection.
 
 **Cohérence de la sélection**
+- Les tailles disponibles ne sont jamais un argument de comparaison (ni en carte, ni en fiche, ni pour départager deux produits). Un court paragraphe « comment choisir la bonne taille » reste possible dans la partie usage, sans être obligatoire (Tom, 2026-10-05).
 - Chaque produit se distingue sur au moins un critère objectif (conception, usage, prix, profil). Pas de segmentation artificielle (exemple refusé : répartir des sacs par durée de sortie).
 - La progression de prix correspond à une progression de fonction ou de qualité.
 - Pas de produit déjà recommandé dans un autre comparatif, sauf usage clairement différent et justifié.
