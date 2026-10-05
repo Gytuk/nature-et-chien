@@ -67,6 +67,7 @@ Articles de fond sur le choix de l'équipement, sans liens affiliés directs.
 | Harnais anti-traction chien : comment ça marche vraiment ? | /equipement/harnais-anti-traction-chien/ | Informationnel |
 | Quel poids un chien peut-il porter dans son sac à dos ? | /equipement/quel-poids-chien-sac-a-dos-randonnee/ | Informationnel |
 | Quel sac à dos choisir pour son chien ? : Guide pratique | /equipement/quel-sac-a-dos-choisir-pour-son-chien/ | Informationnel |
+| Faut-il mettre un manteau à son chien ? | /equipement/faut-il-mettre-un-manteau-a-son-chien/ | Informationnel |
 
 ---
 
