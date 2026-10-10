@@ -1,7 +1,7 @@
 ---
 title: "Faut-il mettre un manteau à son chien ?"
 description: "Manteau, imperméable ou rien du tout : les repères pour savoir si votre chien a vraiment besoin d'être couvert, et à quel moment."
-publishDate: 2026-10-07
+publishDate: 2026-10-10
 category: equipement
 tags: [manteau, imperméable, hiver, froid, pluie, équipement]
 isAffiliate: false
