@@ -211,7 +211,7 @@ Les règles de lieu restent les mêmes : itinéraires raquettes ouverts aux chie
 
   <details>
     <summary>Mon chien mange de la neige pendant la sortie, est-ce grave ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Quelques bouchées ne sont pas un drame, mais les vétérinaires conseillent de l'éviter : la neige peut provoquer des troubles digestifs et elle ne l'hydrate pas vraiment. Méfiez-vous surtout de la neige des parkings et des bords de route, souvent chargée en sel de déneigement, toxique pour le chien. Emportez de l'eau et proposez-en à chaque pause.</p></div>
+    <div class="faq-answer"><p>Quelques bouchées ne sont pas un drame, mais les vétérinaires conseillent de l'éviter : la neige peut provoquer des troubles digestifs et elle ne l'hydrate pas vraiment. Méfiez-vous surtout de la neige des parkings et des bords de route, souvent chargée en sel de déneigement, toxique pour le chien. Emportez de l'eau et proposez-en à chaque pause. Les signes qui doivent vous alerter sont détaillés dans notre article sur <a href="/sante-bien-etre/chien-qui-mange-de-la-neige/">le chien qui mange de la neige</a>.</p></div>
   </details>
 
   <details>

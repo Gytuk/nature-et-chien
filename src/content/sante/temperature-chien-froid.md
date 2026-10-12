@@ -179,7 +179,7 @@ Tous les chiens ne fabriquent pas et ne gardent pas leur chaleur de la même fa�
 
   <details>
     <summary>Est-ce grave si mon chien mange de la neige ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Quelques bouchées ne posent pas de problème. En grande quantité, la neige peut irriter l'estomac et provoquer vomissements ou diarrhée. Évitez surtout la neige des bords de route et des parkings, qui peut contenir du sel de déneigement. Proposer de l'eau régulièrement limite l'envie d'en manger.</p></div>
+    <div class="faq-answer"><p>Quelques bouchées ne posent pas de problème. En grande quantité, la neige peut irriter l'estomac et provoquer vomissements ou diarrhée. Évitez surtout la neige des bords de route et des parkings, qui peut contenir du sel de déneigement. Proposer de l'eau régulièrement limite l'envie d'en manger. Pour savoir quelle neige éviter et quand s'inquiéter, lisez notre article sur <a href="/sante-bien-etre/chien-qui-mange-de-la-neige/">le chien qui mange de la neige</a>.</p></div>
   </details>
 
   <details>
