@@ -1,7 +1,7 @@
 ---
 title: "Chien qui mange de la neige : est-ce dangereux ?"
 description: "Neige propre, salée ou avalée en grande quantité : ce qui est vraiment risqué pour votre chien, pourquoi il en mange et comment l'en dissuader en randonnée."
-publishDate: 2026-10-15
+publishDate: 2026-10-17
 category: sante
 tags: [neige, hiver, gastrite, sel de déneigement, randonnée]
 isAffiliate: false
