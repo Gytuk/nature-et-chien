@@ -2,7 +2,7 @@
 
 > Référence de tous les articles publiés, à consulter avant de rédiger pour placer des liens internes pertinents.
 > Généré automatiquement par scripts/generate-maillage.mjs à chaque commit touchant un article.
-> Dernière mise à jour : 2026-10-17
+> Dernière mise à jour : 2026-10-18
 
 ---
 
@@ -92,3 +92,4 @@ Articles comparatifs avec liens affiliés. Cibles de conversion prioritaires.
 | Meilleur sac à dos pour chien de randonnée : comparatif 2026 | /equipement/meilleur-sac-a-dos-chien-randonnee/ | Comparateur affilié |
 | Meilleur manteau pour chien : comparatif 2026 | /equipement/meilleur-manteau-pour-chien/ | Comparateur affilié |
 | Meilleur imperméable pour chien : comparatif 2026 | /equipement/meilleur-impermeable-pour-chien/ | Comparateur affilié |
+| Meilleur chausson pour chien neige : comparatif 2026 | /equipement/meilleur-chausson-pour-chien-neige/ | Comparateur affilié |

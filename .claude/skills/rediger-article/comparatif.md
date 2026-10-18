@@ -57,7 +57,7 @@ Rupture de stock : mentionnée factuellement, jamais présentée comme un défau
 3. **H2 « Comparatif des meilleurs … »** avec la grille de cartes `cmp-grid` (tout de suite, c'est la zone qui convertit).
 4. **« Ces comparatifs pourraient aussi vous intéresser »** : `cta-grid` vers 2 comparatifs liés, si pertinent.
 5. **Une fiche `prc` par produit**, chacune sous un H2 lien affilié « Nom exact : bénéfice ».
-6. **« Quel … choisir selon votre profil ? »** : un paragraphe par produit, commençant par la situation du lecteur en gras.
+6. **« Quel … choisir selon votre profil ? »** : un paragraphe par produit, commençant par la situation du lecteur en gras, et se terminant par le lien affilié du produit en lien texte fléché : `<a href="…" class="text-cta" target="_blank" rel="nofollow sponsored">voir le/la/les <nom court> →</a>` (modèle : `meilleur-ceinture-canicross.md`, règle de Tom du 2026-10-18).
 7. **Partie usage, pour le SEO** (issue de `recherche.md`) : 2 à 4 H2 en questions du lecteur. Exemples : quel chien en a besoin, pièges à éviter, comment choisir la taille, compatibilité avec le harnais. C'est ici que peuvent aller les liens vers les informatifs.
 8. **FAQ orientée achat et usage.**
 
