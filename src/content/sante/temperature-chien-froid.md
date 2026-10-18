@@ -69,22 +69,22 @@ Sur le terrain, cinq points font la différence :
 - **Les boules de neige** se forment entre les doigts des chiens à poils longs. Couper les poils qui dépassent entre les coussinets limite le problème.
 - **La croûte gelée et la glace** peuvent entailler les coussinets. Un baume à base de vaseline ou de lanoline appliqué avant la sortie les protège.
 - **Le sel de déneigement** des routes et des parkings irrite les pattes et rend malade s'il est léché. Évitez les bords de route salés et, au retour, essuyez les pattes et le ventre.
-- **Les chaussons** protègent à la fois du froid, de la glace et du sel, à condition d'être bien ajustés et que votre chien y soit habitué avant la sortie.
+- **Les chaussons** protègent de la glace, du sel et des boules de neige, à condition d'être bien ajustés et que votre chien y soit habitué avant la sortie.
 - **L'imperméable** suffit par temps doux et pluvieux : il garde le pelage sec sans tenir chaud. Voyez notre [comparatif des imperméables pour chien](/equipement/meilleur-impermeable-pour-chien/).
 - **Le manteau** est utile aux petites races, aux chiens à poil ras, âgés ou maigres, et à tous les chiens pendant les longues pauses ou en bivouac. Enfilez-le plutôt à l'arrêt : porté pendant l'effort, un manteau chaud peut faire surchauffer votre chien. Choisissez-le résistant à l'eau, car mouillé il refroidit au lieu de protéger.
 
-<!-- CTA à ajouter : comparateur chaussons pour chien -->
+Nous avons comparé les manteaux selon leur chaleur, leur résistance à la pluie et leur compatibilité avec le harnais, et les chaussons selon le type de neige et leur tenue sur la patte.
 
-Nous avons comparé les manteaux selon leur chaleur, leur résistance à la pluie et leur compatibilité avec le harnais.
-
-<a href="/equipement/meilleur-manteau-pour-chien/" class="inline-cta-card inline-cta-card--wide">
-  <img src="/images/equipement/manteau%20pour%20chien/cover.png" alt="Chien portant un manteau sur un sentier en hiver" loading="lazy">
-  <div class="inline-cta-text">
-    <div class="inline-cta-title">Meilleur manteau pour chien : comparatif 2026</div>
-    <div class="inline-cta-desc">Quatre modèles, du froid modéré en marche aux pauses par température négative.</div>
-    <span class="inline-cta-btn">Consulter le comparatif →</span>
-  </div>
-</a>
+<div class="cta-grid">
+  <a href="/equipement/meilleur-manteau-pour-chien/" class="cta-card cta-card-preview">
+    <div class="cta-img-preview"><img src="/images/equipement/manteau%20pour%20chien/cover.png" alt="Comparatif des meilleurs manteaux pour chien" loading="lazy"></div>
+    <div class="cta-card-text"><strong>Manteaux pour chien</strong><span>Consulter notre comparatif →</span></div>
+  </a>
+  <a href="/equipement/meilleur-chausson-pour-chien-neige/" class="cta-card cta-card-preview">
+    <div class="cta-img-preview"><img src="/images/equipement/chausson-chien-neige/cover.webp" alt="Comparatif des meilleurs chaussons pour chien dans la neige" loading="lazy"></div>
+    <div class="cta-card-text"><strong>Chaussons pour la neige</strong><span>Consulter notre comparatif →</span></div>
+  </a>
+</div>
 
 ## En randonnée, pourquoi le danger arrive-t-il surtout à la pause ?
 

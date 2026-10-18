@@ -145,7 +145,7 @@ Les coussinets sont plus exposés. Les vétérinaires citent trois problèmes : 
   <ul>
     <li>Couper les poils entre les coussinets pour limiter les boules de glace.</li>
     <li>Appliquer une pommade protectrice avant et après la sortie.</li>
-    <li>Envisager des bottines si votre chien a les coussinets sensibles.</li>
+    <li>Envisager des <a href="/equipement/meilleur-chausson-pour-chien-neige/">chaussons adaptés à la neige</a> si votre chien a les coussinets sensibles.</li>
     <li>Retirer la glace entre les doigts pendant les pauses.</li>
     <li>Au retour, rincer, sécher entre les doigts et inspecter chaque patte.</li>
   </ul>
