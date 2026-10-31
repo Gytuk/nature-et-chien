@@ -69,9 +69,7 @@ Le sel répandu sur les routes et les parkings se mélange à la neige. Votre ch
 
 Selon le centre antipoison animal de l'[ASPCA](https://www.aspca.org/news/keeping-pets-safe-during-winter-dangers-ice-melts), une petite quantité provoque surtout des troubles digestifs : vomissements, diarrhée, avec un risque de déshydratation. En plus grande quantité, le taux de sodium dans le sang peut monter et entraîner des tremblements, voire des convulsions. Les produits au chlorure de calcium sont les plus irritants : ils peuvent provoquer des ulcères dans la bouche.
 
-Le sel abîme aussi les coussinets. Au retour, rincez les pattes à l'eau tiède et séchez-les avant que votre chien ne les lèche.
-
-<!-- CTA à ajouter : article coussinets du chien en hiver -->
+Le sel abîme aussi les coussinets. Au retour, rincez les pattes à l'eau tiède et séchez-les avant que votre chien ne les lèche. Pour les autres gestes qui préservent ses pattes en hiver, lisez notre guide pour [protéger les pattes de son chien dans la neige](/sante-bien-etre/proteger-pattes-chien-neige/).
 
 ### L'antigel
 

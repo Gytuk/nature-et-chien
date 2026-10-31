@@ -151,6 +151,8 @@ Les coussinets sont plus exposés. Les vétérinaires citent trois problèmes : 
   </ul>
 </div>
 
+Chaque geste, et les signes qui doivent vous alerter au retour, sont détaillés dans notre guide pour [protéger les pattes de son chien dans la neige](/sante-bien-etre/proteger-pattes-chien-neige/).
+
 Pensez aussi à l'eau. Un chien qui tire se déshydrate, et manger de la neige ne remplace pas [une vraie gamelle](/equipement/comparatif-gamelle-pliable-chien-randonnee/) : les vétérinaires le déconseillent, car cela peut provoquer des troubles digestifs.
 
 Enfin, la chaleur existe aussi en hiver. Par redoux ou sous le soleil de fin de saison, un chien en traction peut surchauffer. Le règlement de la FFSLC prévoit d'ailleurs de raccourcir les courses dès que la température monte. Adaptez la durée de la même façon.

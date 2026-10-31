@@ -300,10 +300,8 @@ Reste le refus. Les premières fois, la plupart des chiens marchent bizarrement,
 
   <details>
     <summary>Les chaussons remplacent-ils un baume pour coussinets ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Non, les deux ne jouent pas le même rôle. Le chausson est une barrière physique contre le sel, la glace et la neige entre les doigts. Le baume nourrit les coussinets et limite les gerçures, mais il ne protège pas d'une croûte coupante. Beaucoup de propriétaires combinent les deux, et dans tous les cas un rinçage à l'eau tiède suivi d'un bon séchage reste utile au retour d'une sortie sur sol salé.</p></div>
+    <div class="faq-answer"><p>Non, les deux ne jouent pas le même rôle. Le chausson est une barrière physique contre le sel, la glace et la neige entre les doigts. Le baume nourrit les coussinets et limite les gerçures, mais il ne protège pas d'une croûte coupante. Beaucoup de propriétaires combinent les deux, et dans tous les cas un rinçage à l'eau tiède suivi d'un bon séchage reste utile au retour d'une sortie sur sol salé. Tous les gestes, avant et après la sortie, sont détaillés dans notre guide pour <a href="/sante-bien-etre/proteger-pattes-chien-neige/">protéger les pattes de son chien dans la neige</a>.</p></div>
   </details>
-
-<!-- CTA à ajouter : informatif comment protéger les pattes de son chien dans la neige -->
 
   <details>
     <summary>Les chaussures pour chien neige sont-elles imperméables ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
