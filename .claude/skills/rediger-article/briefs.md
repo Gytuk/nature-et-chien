@@ -68,6 +68,9 @@ Date : AAAA-MM-JJ
 ## Concurrence (non citable)
 - Angles couverts, angles manqués, niveau de détail attendu
 
+## Sources françaises cherchées
+- Organisme ou site consulté, requête, résultat (trouvé et retenu, ou rien en accès libre)
+
 ## Liens externes candidats (vérifiés)
 - Nom, URL, niveau, statut vérifié le AAAA-MM-JJ
 ```

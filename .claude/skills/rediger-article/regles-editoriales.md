@@ -42,6 +42,8 @@ Règle absolue : ne jamais inventer ni estimer un chiffre, une loi, une recomman
 
 Un avis isolé ne suffit jamais.
 
+**Priorité aux sources françaises** (règle de Tom, 2026-10-31) : pour chaque fait important, chercher d'abord une source institutionnelle française (ANSES, Ordre des vétérinaires, écoles vétérinaires : Alfort, Oniris, VetAgro Sup, Toulouse ; CNITV, centre antipoison vétérinaire de Lyon ; textes officiels). Passer à une source anglophone seulement si rien d'équivalent n'existe en accès libre, et noter les recherches faites dans la section « Sources françaises cherchées » de `recherche.md`.
+
 **Niveau 3, concurrence** : sites concurrents et commerciaux, lus pour comprendre les attentes du lecteur et les angles manqués. Jamais cités, jamais paraphrasés, jamais source d'un fait.
 
 La mention « aucune donnée » est réservée aux vraies zones d'incertitude, quand même le consensus manque.
