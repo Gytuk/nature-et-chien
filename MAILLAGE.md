@@ -2,7 +2,7 @@
 
 > Référence de tous les articles publiés, à consulter avant de rédiger pour placer des liens internes pertinents.
 > Généré automatiquement par scripts/generate-maillage.mjs à chaque commit touchant un article.
-> Dernière mise à jour : 2026-10-18
+> Dernière mise à jour : 2026-10-31
 
 ---
 
@@ -53,6 +53,7 @@ Articles informationnels sur la santé, la sécurité et le bien-être du chien 
 | Comment enlever une tique sur un chien | /sante-bien-etre/comment-enlever-tique-chien/ | Informationnel |
 | À partir de quelle température un chien a-t-il froid ? | /sante-bien-etre/temperature-chien-froid/ | Informationnel |
 | Chien qui mange de la neige : est-ce dangereux ? | /sante-bien-etre/chien-qui-mange-de-la-neige/ | Informationnel |
+| Comment protéger les pattes de son chien dans la neige ? | /sante-bien-etre/proteger-pattes-chien-neige/ | Informationnel |
 
 ---
 
