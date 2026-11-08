@@ -2,7 +2,7 @@
 title: "Comment rafraîchir son chien par forte chaleur"
 description: "Les canicules sont plus fréquentes et plus intenses. Savoir comment rafraîchir son chien par forte chaleur est devenu un réflexe indispensable. Cet article donne les réponses concrètes."
 publishDate: 2026-06-24
-updatedDate: 2026-09-26
+updatedDate: 2026-11-08
 category: sante
 tags: [chaleur, été, canicule, bien-être, coussinets, thermorégulation]
 isAffiliate: false
@@ -412,7 +412,7 @@ Le coup de chaleur n'est pas une situation fréquente pour un propriétaire atte
 
   <details>
     <summary>À quelle température le béton devient-il dangereux pour les pattes d'un chien ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Il n'existe pas de seuil publié précisément calibré sur les lésions des coussinets. En pratique, à 25 °C ambiants avec soleil direct, l'asphalte peut dépasser 50 °C. Le test recommandé : poser le dos de la main sur le sol pendant 7 secondes. Si c'est inconfortable, le sol est trop chaud pour les pattes du chien.</p></div>
+    <div class="faq-answer"><p>Selon la Chaire bien-être animal de VetAgro Sup, un chien peut se brûler les coussinets quand le sol dépasse 44 °C. Or, à 25 °C ambiants avec soleil direct, l'asphalte peut dépasser 50 °C. Le test recommandé : poser le dos de la main sur le sol pendant 7 secondes. Si c'est inconfortable, le sol est trop chaud pour les pattes du chien.</p></div>
   </details>
 
 </div>
