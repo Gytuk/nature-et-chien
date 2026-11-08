@@ -62,7 +62,7 @@ La bonne protection dépend du terrain, pas du thermomètre. Un baume suffit sou
 
 **Baume et vaseline** forment un film gras qui limite le contact avec la neige et le sel. Les vétérinaires de l'AVMA citent les produits à base de vaseline ou de lanoline. Un baume conçu pour les coussinets pénètre mieux et laisse moins de traces dans la maison. Appliquez une fine couche juste avant de partir, et frottez bien entre les doigts : la neige y accroche moins.
 
-**Les chaussons** sont la seule protection contre une croûte coupante. Ils restent aussi la solution la plus sûre sur le sel. Leur efficacité dépend de deux choses : une taille ajustée à la largeur de la patte, et un chien habitué à les porter avant la sortie. Aucune étude n'a comparé l'efficacité des chaussons et des baumes : beaucoup de propriétaires combinent les deux.
+**Les chaussons** sont la seule protection contre une croûte coupante. Ils restent aussi la solution la plus sûre sur le sel. Leur efficacité dépend de deux choses : une taille ajustée à la largeur de la patte, et un chien habitué à les porter avant la sortie. Aucune étude n'a comparé l'efficacité des chaussons et des baumes : beaucoup de propriétaires combinent les deux. Vous hésitez encore ? Notre guide [faut-il mettre des chaussures à son chien](/equipement/faut-il-mettre-des-chaussures-a-son-chien/) vous aide à décider selon votre sortie.
 
 Si vous envisagez des chaussons, nous avons comparé plusieurs modèles selon le type de neige et leur tenue sur la patte.
 

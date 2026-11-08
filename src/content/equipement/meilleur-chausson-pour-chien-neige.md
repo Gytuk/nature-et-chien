@@ -275,7 +275,7 @@ Le serrage compte autant que la taille. Il doit être ferme, d'autant plus que l
 
 Reste le refus. Les premières fois, la plupart des chiens marchent bizarrement, en levant haut les pattes : c'est normal, et ça passe avec l'habitude. Faites-lui porter ses chaussons quelques minutes à la maison, avec des récompenses, puis allongez progressivement. Selon les chiens, il faut quelques jours à plusieurs semaines. C'est justement pour cette étape qu'un premier lot bon marché a du sens.
 
-<!-- CTA à ajouter : informatif habituer son chien à porter des chaussons -->
+Pour la méthode pas à pas, voyez notre guide [faut-il mettre des chaussures à son chien](/equipement/faut-il-mettre-des-chaussures-a-son-chien/), qui détaille aussi les inconvénients à connaître.
 
 ---
 

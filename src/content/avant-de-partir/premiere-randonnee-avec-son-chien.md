@@ -196,7 +196,7 @@ Ces points semblent évidents mais se retrouvent régulièrement négligés lors
 
 Ce qu'il faut aussi emporter : sachets ramasse-déjections, quelques croquettes ou friandises (le chien brûle plus d'énergie en effort, une petite ration sur place peut aider), une pince à tiques.
 
-Ce qui n'est pas nécessaire pour une première sortie : les bottines (utiles sur neige ou terrain très rocheux, mais difficiles à faire accepter sans accoutumance préalable), le sac à dos pour chien (nécessite une adaptation progressive, à ne pas improviser le jour J).
+Ce qui n'est pas nécessaire pour une première sortie : les bottines ([utiles sur neige ou terrain très rocheux](/equipement/faut-il-mettre-des-chaussures-a-son-chien/), mais difficiles à faire accepter sans accoutumance préalable), le sac à dos pour chien (nécessite une adaptation progressive, à ne pas improviser le jour J).
 
 ## Les erreurs à éviter pour une première randonnée
 
