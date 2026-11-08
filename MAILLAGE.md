@@ -2,7 +2,7 @@
 
 > Référence de tous les articles publiés, à consulter avant de rédiger pour placer des liens internes pertinents.
 > Généré automatiquement par scripts/generate-maillage.mjs à chaque commit touchant un article.
-> Dernière mise à jour : 2026-10-31
+> Dernière mise à jour : 2026-11-08
 
 ---
 
@@ -70,6 +70,7 @@ Articles de fond sur le choix de l'équipement, sans liens affiliés directs.
 | Quel poids un chien peut-il porter dans son sac à dos ? | /equipement/quel-poids-chien-sac-a-dos-randonnee/ | Informationnel |
 | Quel sac à dos choisir pour son chien ? : Guide pratique | /equipement/quel-sac-a-dos-choisir-pour-son-chien/ | Informationnel |
 | Faut-il mettre un manteau à son chien ? | /equipement/faut-il-mettre-un-manteau-a-son-chien/ | Informationnel |
+| Faut-il mettre des chaussures à son chien ? | /equipement/faut-il-mettre-des-chaussures-a-son-chien/ | Informationnel |
 
 ---
 
