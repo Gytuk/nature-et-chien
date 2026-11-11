@@ -124,7 +124,7 @@ Dans les espaces où la laisse est obligatoire, **une longe de 5 à 10 mètres**
   <img src="/images/equipement/harnais-polyvalent/cover.webp" alt="Comparatif des meilleurs harnais polyvalents pour chien en randonnée" loading="lazy">
   <div class="inline-cta-text">
     <div class="inline-cta-title">Meilleur harnais de randonnée pour chien : comparatif 2026</div>
-    <div class="inline-cta-desc">TrueLove, Ruffwear Front Range, Hi & Light ou Web Master : notre sélection selon votre budget et votre pratique.</div>
+    <div class="inline-cta-desc">TrueLove, Ruffwear Front Range, Hi & Light ou I-Dog Confort Trek : notre sélection selon votre budget et votre pratique.</div>
     <span class="inline-cta-btn">Consulter le comparatif →</span>
   </div>
 </a>

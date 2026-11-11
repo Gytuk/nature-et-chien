@@ -45,7 +45,7 @@ On recommande généralement d'attendre que le chiot ait au moins **8 à 10 mois
   <img src="/images/equipement/harnais-petit-chien/cover.webp" alt="Comparatif harnais de randonnée pour petit chien" loading="lazy">
   <div class="inline-cta-text">
     <div class="inline-cta-title">Meilleur harnais de randonnée pour petit chien</div>
-    <div class="inline-cta-desc">Hurtta, Ruffwear Hi & Light, Non-stop Ramble : comparatif 2026 pour les petits gabarits.</div>
+    <div class="inline-cta-desc">Hurtta, Ruffwear Hi & Light, Non-stop Line Harness 5.0 : comparatif 2026 pour les petits gabarits.</div>
     <span class="inline-cta-btn">Consulter le comparatif →</span>
   </div>
 </a>

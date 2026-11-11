@@ -226,7 +226,7 @@ La longe s'attache à vous, pas à la main. Courir en tenant la longe à la main
   <img src="/images/equipement/ceinture%20canicross/image%20couverture%20article%20ceinture%20canicross.webp" alt="Comparatif ceintures et baudriers canicross" loading="lazy">
   <div class="inline-cta-text">
     <div class="inline-cta-title">Meilleure ceinture canicross 2026</div>
-    <div class="inline-cta-desc">Ceinture lombaire ou baudrier, canicross ou canirando : les différences qui comptent avant d'acheter. Trail Runner Belt, I-Dog ONE, Aircross, Trekking Belt 2.0.</div>
+    <div class="inline-cta-desc">Ceinture lombaire ou baudrier, canicross ou canirando : les différences qui comptent avant d'acheter. Inlandsis Trekker, I-Dog ONE, Aircross, Trekking Belt 2.0.</div>
     <span class="inline-cta-btn">Consulter le comparatif →</span>
   </div>
 </a>

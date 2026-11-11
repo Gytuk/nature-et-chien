@@ -184,7 +184,7 @@ Sur nature-et-chien, les harnais qu'on recommande dans nos comparatifs randonné
   <img src="/images/equipement/harnais-polyvalent/cover.webp" alt="Comparatif des meilleurs harnais de randonnée pour chien" loading="lazy">
   <div class="inline-cta-text">
     <div class="inline-cta-title">Meilleur harnais de randonnée pour chien : comparatif</div>
-    <div class="inline-cta-desc">Ruffwear Front Range, Hi &amp; Light, Web Master, TrueLove : les harnais en Y qu'on recommande, de 35 à 90 €.</div>
+    <div class="inline-cta-desc">Ruffwear Front Range, Hi &amp; Light, I-Dog Confort Trek, TrueLove : les harnais en Y que nous recommandons, de 35 à 80 €.</div>
     <span class="inline-cta-btn">Consulter le comparatif →</span>
   </div>
 </a>

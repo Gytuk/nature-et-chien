@@ -2,7 +2,7 @@
 title: "Laisse main libre pour chien : notre sélection"
 description: "Laisse main libre chien : 4 modèles pour garder les mains libres en balade, randonnée ou course avec son chien. Comparatif, critères de choix et avis."
 publishDate: 2026-07-08
-updatedDate: 2026-07-24
+updatedDate: 2026-11-11
 category: equipement
 tags: [laisse chien, randonnée, mains libres, longe chien, équipement chien]
 isAffiliate: true
@@ -50,7 +50,7 @@ metaDescription: "Quelle laisse main libre choisir pour son chien ? 4 modèles c
 
 <div class="cmp-card">
   <div class="cmp-card__badge cmp-card__badge--blue">Top légèreté</div>
-  <a class="cmp-card__thumb" href="https://tidd.ly/4vWHtaK" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/laisse%20mains%20libres/ruffwear-roamer-leash.jpg" alt="Ruffwear Roamer Leash" loading="lazy"></a>
+  <a class="cmp-card__thumb" href="https://link.amazon/B0dnVVE2G" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/laisse%20mains%20libres/ruffwear-roamer-leash.jpg" alt="Ruffwear Roamer Leash" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">Ruffwear Roamer Leash</h3>
     <p class="cmp-card__pitch">Construction simple sans mécanisme, sangle Wavelength qui absorbe les à-coups : l'équipement qu'on glisse dans le sac et qu'on ne remplace plus.</p>
@@ -58,10 +58,10 @@ metaDescription: "Quelle laisse main libre choisir pour son chien ? 4 modèles c
       <li>170–340 cm</li>
       <li>Amortisseur</li>
     </ul>
-    <div class="cmp-card__price">45,90 €</div>
+    <div class="cmp-card__price">55 €</div>
   </div>
   <div class="cmp-card__footer">
-    <a href="https://tidd.ly/4vWHtaK" class="cmp-card__cta cmp-card__cta--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a>
+    <a href="https://link.amazon/B0dnVVE2G" class="cmp-card__cta" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a>
     <a href="#ruffwear-roamer-leash--la-référence-légère-et-fiable-pour-la-randonnée" class="cmp-card__detail">Voir la fiche détaillée</a>
   </div>
 </div>
@@ -161,15 +161,15 @@ La laisse à enrouleur est déconseillée dans tous ces contextes : mécanisme f
 
 ---
 
-## <a href="https://tidd.ly/4vWHtaK" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Ruffwear Roamer Leash : la référence légère et fiable pour la randonnée</a>
+## <a href="https://link.amazon/B0dnVVE2G" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Ruffwear Roamer Leash : la référence légère et fiable pour la randonnée</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <a href="https://tidd.ly/4vWHtaK" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/laisse%20mains%20libres/ruffwear-roamer-leash.jpg" alt="Ruffwear Roamer Leash" loading="lazy"></a>
+      <a href="https://link.amazon/B0dnVVE2G" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/laisse%20mains%20libres/ruffwear-roamer-leash.jpg" alt="Ruffwear Roamer Leash" loading="lazy"></a>
     </div>
     <div class="prc__info">
-      <div class="prc__price"><span class="prc__price-val">45,90 €</span><span class="prc__tag">Top légèreté</span></div>
+      <div class="prc__price"><span class="prc__price-val">55 €</span><span class="prc__tag">Top légèreté</span></div>
       <p class="prc__desc">La laisse mains libres de référence pour la randonnée avec un chien qui ne tire pas. La boucle rembourrée se porte à la taille (jusqu'à 122 cm), sans baudrier : un système simple, léger et solide, sans pièce superflue, facile à emporter partout.</p>
     </div>
   </div>
@@ -188,14 +188,14 @@ La laisse à enrouleur est déconseillée dans tous ces contextes : mécanisme f
       <div class="prc__col-label">Les limites</div>
       <ul>
         <li>La laisse ne se détache pas de la ceinture, moins polyvalente pour d'autres activités que la randonnée</li>
-        <li>Classée « canicross » chez Hardloop, mais ce n'est pas une ligne de trait</li>
+        <li>Parfois classée « canicross » par les revendeurs, mais ce n'est pas une ligne de trait</li>
         <li>Tour de taille limité à 122 cm</li>
       </ul>
     </div>
   </div>
   <div class="prc__footer">
     <p class="prc__ideal"><strong>Idéal pour</strong> · le randonneur régulier qui veut un équipement léger et fiable à emporter partout, sans complexité inutile</p>
-    <a href="https://tidd.ly/4vWHtaK" class="prc__btn prc__btn--hardloop" target="_blank" rel="nofollow sponsored">Voir sur Hardloop →</a>
+    <a href="https://link.amazon/B0dnVVE2G" class="prc__btn" target="_blank" rel="nofollow sponsored">Voir sur Amazon →</a>
   </div>
 </div>
 
@@ -280,7 +280,7 @@ La laisse à enrouleur est déconseillée dans tous ces contextes : mécanisme f
 
 **Balade, course ou activités variées.** Si vous voulez un seul équipement capable de suivre plusieurs usages, le kit Pecute est un choix honnête. La laisse se détache de la ceinture, donc vous pouvez la reprendre en main pour courir, croiser du monde ou simplement marcher sans la porter à la taille. Si vous cherchez un produit léger qu'on ne sent pas sur soi, ce n'est pas le plus adapté : la ceinture reste un peu volumineuse. Mais pour 25 €, ça reste largement justifié. <a href="https://amzn.to/4y2x6U6" class="text-cta" target="_blank" rel="nofollow sponsored">voir le kit Pecute →</a>
 
-**Randonnée régulière, un équipement à emporter partout.** Si vous randonnez souvent et que vous cherchez quelque chose de simple qui ne vous lâchera pas, la Roamer répond exactement à ce besoin. Pas de mécanisme superflu : une sangle légère et solide qui absorbe les à-coups et se porte à la taille sans qu'on y pense. C'est le genre d'équipement qu'on glisse dans le sac et qu'on ne remplace plus pendant des années. <a href="https://tidd.ly/4vWHtaK" class="text-cta" target="_blank" rel="nofollow sponsored">voir la Roamer Leash →</a>
+**Randonnée régulière, un équipement à emporter partout.** Si vous randonnez souvent et que vous cherchez quelque chose de simple qui ne vous lâchera pas, la Roamer répond exactement à ce besoin. Pas de mécanisme superflu : une sangle légère et solide qui absorbe les à-coups et se porte à la taille sans qu'on y pense. C'est le genre d'équipement qu'on glisse dans le sac et qu'on ne remplace plus pendant des années. <a href="https://link.amazon/B0dnVVE2G" class="text-cta" target="_blank" rel="nofollow sponsored">voir la Roamer Leash →</a>
 
 **Trekking multi-jours, bivouac.** La Hitch Hiker a un vrai atout que les autres laisses de ce comparatif n'ont pas : ajuster la distance avec votre chien en continu, directement sur le terrain. Sur un chemin étroit ou technique, vous raccourcissez pour le garder tout près ; dès que l'espace s'ouvre, vous relâchez du mou sans changer d'équipement. Le point à accepter en échange : un poids un peu plus élevé, qui se sent sur une longue journée. <a href="https://tidd.ly/4f5WIXB" class="text-cta" target="_blank" rel="nofollow sponsored">voir la Hitch Hiker Leash →</a>
 

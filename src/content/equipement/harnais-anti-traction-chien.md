@@ -43,7 +43,7 @@ Notre comparatif regroupe justement des harnais en Y de qualité, tous adaptés 
   <img src="/images/equipement/harnais-polyvalent/cover.webp" alt="Comparatif des meilleurs harnais de randonnée pour chien" loading="lazy">
   <div class="inline-cta-text">
     <div class="inline-cta-title">Meilleur harnais de randonnée pour chien : comparatif</div>
-    <div class="inline-cta-desc">Ruffwear Front Range, Hi &amp; Light, Web Master, TrueLove : plusieurs modèles à double attache, adaptés aussi bien à l'usage anti-traction qu'à la randonnée classique.</div>
+    <div class="inline-cta-desc">Ruffwear Front Range, Hi &amp; Light, I-Dog Confort Trek, TrueLove : plusieurs modèles à double attache, adaptés aussi bien à l'usage anti-traction qu'à la randonnée classique.</div>
     <span class="inline-cta-btn">Consulter le comparatif →</span>
   </div>
 </a>

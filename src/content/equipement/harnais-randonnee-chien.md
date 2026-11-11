@@ -145,7 +145,7 @@ Un harnais de qualité (nylon ripstop, anneaux en aluminium) tenu en bon état *
     <div class="inline-cta-text">
       <span class="inline-cta-label">Comparatif</span>
       <span class="inline-cta-title">Meilleur harnais polyvalent</span>
-      <span class="inline-cta-desc">TrueLove, Ruffwear Front Range, Hi &amp; Light, Web Master : 4 modèles de 35 à 90 €.</span>
+      <span class="inline-cta-desc">TrueLove, Ruffwear Front Range, Hi &amp; Light, I-Dog Confort Trek : 4 modèles de 35 à 80 €.</span>
     </div>
     <span class="inline-cta-arrow">→</span>
   </a>
@@ -163,7 +163,7 @@ Un harnais de qualité (nylon ripstop, anneaux en aluminium) tenu en bon état *
     <div class="inline-cta-text">
       <span class="inline-cta-label">Comparatif</span>
       <span class="inline-cta-title">Meilleur harnais pour petit chien</span>
-      <span class="inline-cta-desc">Hurtta, Ruffwear Hi &amp; Light, Non-stop Ramble : les meilleurs sous 10 kg.</span>
+      <span class="inline-cta-desc">Hurtta, Ruffwear Hi &amp; Light, Non-stop Line Harness 5.0 : les meilleurs sous 10 kg.</span>
     </div>
     <span class="inline-cta-arrow">→</span>
   </a>

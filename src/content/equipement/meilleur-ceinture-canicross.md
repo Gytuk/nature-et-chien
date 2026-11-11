@@ -1,23 +1,23 @@
 ---
 title: "Meilleure ceinture canicross : comparatif 2026"
-description: "Ceinture ou baudrier, canicross ou canirando : Trail Runner Belt, I-Dog ONE, Aircross, Trekking Belt 2.0. Le comparatif 2026 pour choisir sans se tromper."
+description: "Ceinture ou baudrier, canicross ou canirando : Inlandsis Trekker, I-Dog ONE, Aircross, Trekking Belt 2.0. Le comparatif 2026 pour choisir sans se tromper."
 publishDate: 2026-06-17
-updatedDate: 2026-09-30
+updatedDate: 2026-11-11
 category: equipement
 tags: [ceinture, canicross, baudrier, canirando, ski-joëring, sport-canin, équipement]
 isAffiliate: true
 featured: false
 theme: ceinture-canicross
 itemList:
-  - "Ruffwear Trail Runner Belt"
+  - "Inlandsis Trekker"
   - "I-Dog Baudrier ONE"
   - "Inlandsis Aircross"
   - "Non-stop Trekking Belt 2.0"
 image: /images/equipement/ceinture%20canicross/image%20couverture%20article%20ceinture%20canicross.webp
-imageAlt: "Comparatif ceintures et baudriers canicross 2026 – Trail Runner Belt, I-Dog ONE, Aircross, Trekking Belt 2.0"
+imageAlt: "Comparatif des 4 meilleures ceintures et baudriers canicross 2026"
 focusKeyword: "ceinture canicross"
 metaTitle: "Meilleure ceinture canicross : comparatif 2026"
-metaDescription: "Quelle est la meilleure ceinture canicross pour votre pratique ? Trail Runner Belt, I-Dog ONE, Aircross, Trekking Belt 2.0 : 4 modèles comparés par budget et niveau."
+metaDescription: "Quelle est la meilleure ceinture canicross pour votre pratique ? Inlandsis Trekker, I-Dog ONE, Aircross, Trekking Belt 2.0 : 4 modèles comparés par budget et niveau."
 ---
 
 <p class="nc-lede">Vous cherchez une ceinture canicross ou un baudrier pour courir, randonner ou skier avec votre chien, et les fiches produit ne vous disent pas lequel choisir selon votre pratique. Ce comparatif couvre les quatre meilleurs modèles disponibles en 2026, de la ceinture running légère au baudrier technique de compétition, en expliquant ce que les revendeurs n'indiquent pas : la différence concrète entre baudrier et ceinture, ce qui distingue vraiment canicross et canirando en termes d'équipement, et comment choisir le bon matériel pour préserver votre dos sur la durée.</p>
@@ -31,20 +31,20 @@ metaDescription: "Quelle est la meilleure ceinture canicross pour votre pratique
 <div class="cmp-grid cmp-grid--2">
 
 <div class="cmp-card">
-  <div class="cmp-card__badge">Choix running</div>
-  <a class="cmp-card__thumb" href="https://tidd.ly/4v542sF" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/ruffwear-trail-runner-belt%20-%20ceinture%20canicross%20.jpg" alt="Ruffwear Trail Runner Belt" loading="lazy"></a>
+  <div class="cmp-card__badge">Choix canirando & loisir</div>
+  <a class="cmp-card__thumb" href="https://link.amazon/B06UfDpDS" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/inlandsis-trekker-ceinture-canirando.jpg" alt="Inlandsis Trekker" loading="lazy"></a>
   <div class="cmp-card__body">
-    <h3 class="cmp-card__name">Ruffwear Trail Runner Belt</h3>
-    <p class="cmp-card__pitch">La plus légère de la sélection, sans sangles de jambe : un enfilage en deux secondes pour les sorties running.</p>
+    <h3 class="cmp-card__name">Inlandsis Trekker</h3>
+    <p class="cmp-card__pitch">Une ceinture simple et légère, avec point d'attache coulissant et grande poche arrière : pour la canirando et le canicross loisir, sans viser la compétition.</p>
     <ul class="cmp-card__specs">
       <li>Ceinture</li>
-      <li>Sans sangles jambe</li>
+      <li>Attache coulissante</li>
     </ul>
-    <div class="cmp-card__price">51,55 €</div>
+    <div class="cmp-card__price">42,90 €</div>
   </div>
   <div class="cmp-card__footer">
-    <a href="https://tidd.ly/4v542sF" class="cmp-card__cta cmp-card__cta--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a>
-    <a href="#ruffwear-trail-runner-belt--la-ceinture-canicross-pour-courir-avec-son-chien" class="cmp-card__detail">Voir la fiche détaillée</a>
+    <a href="https://link.amazon/B06UfDpDS" class="cmp-card__cta" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a>
+    <a href="#inlandsis-trekker--la-ceinture-simple-pour-courir-et-randonner-avec-son-chien" class="cmp-card__detail">Voir la fiche détaillée</a>
   </div>
 </div>
 
@@ -68,7 +68,7 @@ metaDescription: "Quelle est la meilleure ceinture canicross pour votre pratique
 
 <div class="cmp-card">
   <div class="cmp-card__badge cmp-card__badge--blue">Choix compétition</div>
-  <a class="cmp-card__thumb" href="https://tidd.ly/4fVx3Tw" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/Inlandsis%20aircross%20-%20baudrier%20canicross.jpg" alt="Inlandsis Aircross" loading="lazy"></a>
+  <a class="cmp-card__thumb" href="https://link.amazon/B03ilgrbP" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/Inlandsis%20aircross%20-%20baudrier%20canicross.jpg" alt="Inlandsis Aircross" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">Inlandsis Aircross</h3>
     <p class="cmp-card__pitch">Le point d'attache coulissant sur anneau inox offre le meilleur suivi de trajectoire de la sélection, compatible toutes fédérations.</p>
@@ -76,17 +76,17 @@ metaDescription: "Quelle est la meilleure ceinture canicross pour votre pratique
       <li>Baudrier technique</li>
       <li>Anneau coulissant</li>
     </ul>
-    <div class="cmp-card__price">46,90 €</div>
+    <div class="cmp-card__price">49 €</div>
   </div>
   <div class="cmp-card__footer">
-    <a href="https://tidd.ly/4fVx3Tw" class="cmp-card__cta cmp-card__cta--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a>
+    <a href="https://link.amazon/B03ilgrbP" class="cmp-card__cta" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a>
     <a href="#inlandsis-aircross--le-baudrier-canicross-de-référence" class="cmp-card__detail">Voir la fiche détaillée</a>
   </div>
 </div>
 
 <div class="cmp-card">
   <div class="cmp-card__badge cmp-card__badge--amber">Choix canirando</div>
-  <a class="cmp-card__thumb" href="https://tidd.ly/4fQB37O" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/Trekking%20Belt%202.0%20-%20Ceinture%20canirando.jpg" alt="Non-stop Trekking Belt 2.0" loading="lazy"></a>
+  <a class="cmp-card__thumb" href="https://link.amazon/B08IrAVLH" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/Trekking%20Belt%202.0%20-%20Ceinture%20canirando.jpg" alt="Non-stop Trekking Belt 2.0" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">Non-stop Trekking Belt 2.0</h3>
     <p class="cmp-card__pitch">Le rembourrage le plus confortable de la sélection, avec sangles de jambe amovibles pour les longues sorties.</p>
@@ -94,10 +94,10 @@ metaDescription: "Quelle est la meilleure ceinture canicross pour votre pratique
       <li>Ceinture + sangles</li>
       <li>Rembourrée</li>
     </ul>
-    <div class="cmp-card__price">65,00 €</div>
+    <div class="cmp-card__price">77 €</div>
   </div>
   <div class="cmp-card__footer">
-    <a href="https://tidd.ly/4fQB37O" class="cmp-card__cta cmp-card__cta--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a>
+    <a href="https://link.amazon/B08IrAVLH" class="cmp-card__cta" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a>
     <a href="#non-stop-trekking-belt-20--la-ceinture-canirando-pour-les-longues-sorties" class="cmp-card__detail">Voir la fiche détaillée</a>
   </div>
 </div>
@@ -110,7 +110,7 @@ metaDescription: "Quelle est la meilleure ceinture canicross pour votre pratique
 
 La ceinture ou le baudrier ne fonctionne pas seul. Trois pièces forment le système complet : le harnais de traction sur le chien, la laisse amortie qui relie les deux partenaires, et la ceinture ou le baudrier sur le coureur. Changer une pièce sans considérer les deux autres peut créer des incompatibilités à la fixation.
 
-Du côté du chien, la connexion est simple : un mousqueton de laisse se clippe sur l'anneau arrière du harnais de traction. Côté coureur, la fixation dépend du modèle : mousqueton sur l'anneau de la ceinture pour la Trail Runner Belt et l'Aircross, anneau textile ou tête d'alouette sur certaines configurations compétition.
+Du côté du chien, la connexion est simple : un mousqueton de laisse se clippe sur l'anneau arrière du harnais de traction. Côté coureur, la fixation dépend du modèle : mousqueton sur l'anneau de la ceinture pour la Trekker et l'Aircross, anneau textile ou tête d'alouette sur certaines configurations compétition.
 
 <div class="cta-eau-block">
 <p class="cta-eau-label">Compléter votre équipement</p>
@@ -127,7 +127,7 @@ Du côté du chien, la connexion est simple : un mousqueton de laisse se clippe 
     <img src="/images/equipement/canicross/cover.webp" alt="Comparatif harnais trail et canicross" loading="lazy">
     <div class="inline-cta-text">
       <div class="inline-cta-title">Meilleur harnais trail et canicross 2026</div>
-      <div class="inline-cta-desc">Polar Quest, Phoenix ALM, Freemotion 5.0</div>
+      <div class="inline-cta-desc">Polar Quest, Phoenix ALM, Freemotion 5.0, Confort Trek</div>
     </div>
     <span class="inline-cta-arrow">→</span>
   </a>
@@ -153,39 +153,40 @@ Les mots varient selon les marques et les revendeurs, mais trois termes revienne
 
 ---
 
-## <a href="https://tidd.ly/4v542sF" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Ruffwear Trail Runner Belt : la ceinture canicross pour courir avec son chien</a>
+## <a href="https://link.amazon/B06UfDpDS" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Inlandsis Trekker : la ceinture simple pour courir et randonner avec son chien</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <a href="https://tidd.ly/4v542sF" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/ruffwear-trail-runner-belt%20-%20ceinture%20canicross%20.jpg" alt="Ruffwear Trail Runner Belt" loading="lazy"></a>
+      <a href="https://link.amazon/B06UfDpDS" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/inlandsis-trekker-ceinture-canirando.jpg" alt="Inlandsis Trekker" loading="lazy"></a>
     </div>
     <div class="prc__info">
-      <div class="prc__price"><span class="prc__price-val">51,55 €</span><span class="prc__tag">Ceinture</span></div>
-      <p class="prc__desc">Ruffwear est une marque américaine d'outdoor canin, connue pour ses harnais et ses accessoires running. La Trail Runner Belt est leur ceinture dédiée à la course à pied avec chien : légère, compacte, orientée confort et liberté de mouvement plutôt que performance de traction.</p>
+      <div class="prc__price"><span class="prc__price-val">42,90 €</span><span class="prc__tag">Ceinture loisir</span></div>
+      <p class="prc__desc">La ceinture de canirando et de canicross loisir d'Inlandsis, la même marque française que le baudrier Aircross. Là où l'Aircross vise la compétition, la Trekker mise sur la simplicité : une ceinture qui s'enfile en quelques secondes, avec des sangles en V à l'insertion de la sangle de traction pour répartir l'effort. Point d'attache coulissant pour que la ceinture ne tourne pas quand le chien change de direction, grande poche arrière de 20 x 12 cm, doublure respirante, anneaux en inox et bandes réfléchissantes. 184 g en taille adulte, lavable en machine à 30 °C.</p>
     </div>
   </div>
   <div class="prc__pros-cons">
     <div class="prc__pros">
       <div class="prc__col-label">On apprécie</div>
       <ul>
-        <li>La légèreté est réelle et se sent sur les longues sorties</li>
-        <li>L'absence de sangles de jambe simplifie l'enfilage et convient aux pratiquants qui alternent running seul et running avec leur chien sans changer d'équipement</li>
-        <li>La sangle d'attache est compatible avec la plupart des laisses du marché</li>
+        <li>Point d'attache coulissant, comme sur l'Aircross, à un prix inférieur</li>
+        <li>Grande poche arrière (20 x 12 cm), plus logeable que celle de l'Aircross : téléphone, clés et sachets</li>
+        <li>Légère (184 g) et simple à enfiler, sans sangles de jambe</li>
+        <li>Lavable en machine, très bien notée (4,8/5 sur Amazon)</li>
       </ul>
     </div>
     <div class="prc__cons">
       <div class="prc__col-label">Les limites</div>
       <ul>
         <li>Pas de sangles de jambe : peut remonter sur les lombaires avec un chien puissant</li>
-        <li>Le point d'attache latéral n'est pas un anneau de traction centré, ce qui la distingue des baudriers et des ceintures à anneau coulissant</li>
-        <li>Ruffwear positionne ce produit pour le running et la canirando avec des chiens qui tirent peu, pas pour le canicross intensif</li>
+        <li>Deux tailles seulement : XS (enfant, hanches de 55 à 82 cm) et M/L (adulte, de 80 à 130 cm)</li>
+        <li>Pensée pour le loisir : pour la compétition ou un chien qui tire très fort, l'Aircross est plus adapté</li>
       </ul>
     </div>
   </div>
   <div class="prc__footer">
-    <p class="prc__ideal"><strong>Idéal pour</strong> · le coureur qui sort régulièrement avec son chien, pratique le canicross loisir ou la canirando, et préfère légèreté et simplicité à la performance de traction. Aussi adapté aux sorties mixtes running seul + running avec chien.</p>
-    <a href="https://tidd.ly/4v542sF" class="prc__btn prc__btn--hardloop" target="_blank" rel="nofollow sponsored">Voir sur Hardloop →</a>
+    <p class="prc__ideal"><strong>Idéal pour</strong> · le pratiquant de canirando ou de canicross loisir qui veut une ceinture simple, légère et polyvalente, avec un chien qui tire modérément.</p>
+    <a href="https://link.amazon/B06UfDpDS" class="prc__btn" target="_blank" rel="nofollow sponsored">Voir sur Amazon →</a>
   </div>
 </div>
 
@@ -217,7 +218,6 @@ Les mots varient selon les marques et les revendeurs, mais trois termes revienne
       <ul>
         <li>Taille unique : sans plages de tour de taille confirmées, le doute subsiste pour les morphologies atypiques</li>
         <li>Lavage main uniquement, moins pratique que le lavage machine des modèles Inlandsis</li>
-        <li>Disponible uniquement sur Amazon, pas sur Hardloop</li>
       </ul>
     </div>
   </div>
@@ -229,15 +229,15 @@ Les mots varient selon les marques et les revendeurs, mais trois termes revienne
 
 ---
 
-## <a href="https://tidd.ly/4fVx3Tw" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Inlandsis Aircross : le baudrier canicross de référence</a>
+## <a href="https://link.amazon/B03ilgrbP" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Inlandsis Aircross : le baudrier canicross de référence</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <a href="https://tidd.ly/4fVx3Tw" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/Inlandsis%20aircross%20-%20baudrier%20canicross.jpg" alt="Inlandsis Aircross" loading="lazy"></a>
+      <a href="https://link.amazon/B03ilgrbP" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/Inlandsis%20aircross%20-%20baudrier%20canicross.jpg" alt="Inlandsis Aircross" loading="lazy"></a>
     </div>
     <div class="prc__info">
-      <div class="prc__price"><span class="prc__price-val">46,90 €</span><span class="prc__tag">Baudrier technique</span></div>
+      <div class="prc__price"><span class="prc__price-val">49 €</span><span class="prc__tag">Baudrier technique</span></div>
       <p class="prc__desc">Inlandsis est la marque française historique des sports canins attelés, développée dans le Vercors avec des athlètes de haut niveau. L'Aircross est leur baudrier technique de référence : point d'attache coulissant sur anneau inox, compatible toutes fédérations, livré avec sac de rangement respirant.</p>
     </div>
   </div>
@@ -256,27 +256,27 @@ Les mots varient selon les marques et les revendeurs, mais trois termes revienne
       <ul>
         <li>La poche arrière (8,5 x 12 x 1 cm) est petite : clés ou téléphone fin, pas de gourde</li>
         <li>Le réglage initial demande du temps et plusieurs sorties de test</li>
-        <li>Le saut de prix par rapport au I-Dog ONE (12 € de plus) se justifie par le point d'attache coulissant et la marque, pas par le confort général</li>
+        <li>Le saut de prix par rapport au I-Dog ONE (14 € de plus) se justifie par le point d'attache coulissant et la marque, pas par le confort général</li>
       </ul>
     </div>
   </div>
   <div class="prc__footer">
     <p class="prc__ideal"><strong>Idéal pour</strong> · le pratiquant régulier de canicross qui veut le meilleur suivi de trajectoire de la sélection. Le skijoreur. Celui qui envisage la compétition quelle que soit la fédération.</p>
-    <a href="https://tidd.ly/4fVx3Tw" class="prc__btn prc__btn--hardloop" target="_blank" rel="nofollow sponsored">Voir sur Hardloop →</a>
+    <a href="https://link.amazon/B03ilgrbP" class="prc__btn" target="_blank" rel="nofollow sponsored">Voir sur Amazon →</a>
   </div>
 </div>
 
 ---
 
-## <a href="https://tidd.ly/4fQB37O" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Non-stop Trekking Belt 2.0 : la ceinture canirando pour les longues sorties</a>
+## <a href="https://link.amazon/B08IrAVLH" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Non-stop Trekking Belt 2.0 : la ceinture canirando pour les longues sorties</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <a href="https://tidd.ly/4fQB37O" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/Trekking%20Belt%202.0%20-%20Ceinture%20canirando.jpg" alt="Non-stop Trekking Belt 2.0" loading="lazy"></a>
+      <a href="https://link.amazon/B08IrAVLH" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/Trekking%20Belt%202.0%20-%20Ceinture%20canirando.jpg" alt="Non-stop Trekking Belt 2.0" loading="lazy"></a>
     </div>
     <div class="prc__info">
-      <div class="prc__price"><span class="prc__price-val">65,00 €</span><span class="prc__tag">Ceinture canirando</span></div>
+      <div class="prc__price"><span class="prc__price-val">77 €</span><span class="prc__tag">Ceinture canirando</span></div>
       <p class="prc__desc">Non-stop Dogwear est une marque norvégienne reconnue pour ses matériaux techniques et sa construction rigoureuse. La Trekking Belt 2.0 est leur ceinture canirando : rembourrage épais, sangles de jambe amovibles, réfléchissants 3M. Pensée pour le confort sur de longues sorties, pas pour la performance en course tractée.</p>
     </div>
   </div>
@@ -293,15 +293,15 @@ Les mots varient selon les marques et les revendeurs, mais trois termes revienne
     <div class="prc__cons">
       <div class="prc__col-label">Les limites</div>
       <ul>
-        <li>Le prix le plus élevé de la sélection (65 €) pour une ceinture positionnée canirando, pas canicross intensif</li>
+        <li>Le prix le plus élevé de la sélection (77 €) pour une ceinture positionnée canirando, pas canicross intensif</li>
         <li>Pour un chien qui tire très fort ou une pratique canicross régulière à allure soutenue, l'Aircross ou le I-Dog ONE sont plus adaptés</li>
-        <li>Poids et dimensions précises des poches non communiqués par Hardloop</li>
+        <li>Poids et dimensions précises des poches non communiqués</li>
       </ul>
     </div>
   </div>
   <div class="prc__footer">
     <p class="prc__ideal"><strong>Idéal pour</strong> · le canirandonneur qui fait plusieurs heures de marche avec son chien et veut les mains libres avec un rembourrage sérieux. Le pratiquant mixte canirando / canicross loisir qui privilégie le confort sur la durée à la performance en course.</p>
-    <a href="https://tidd.ly/4fQB37O" class="prc__btn prc__btn--hardloop" target="_blank" rel="nofollow sponsored">Voir sur Hardloop →</a>
+    <a href="https://link.amazon/B08IrAVLH" class="prc__btn" target="_blank" rel="nofollow sponsored">Voir sur Amazon →</a>
   </div>
 </div>
 
@@ -309,13 +309,13 @@ Les mots varient selon les marques et les revendeurs, mais trois termes revienne
 
 ## Quelle ceinture canicross choisir selon votre pratique ?
 
-**Vous courez régulièrement avec votre chien et préférez la légèreté à tout le reste :** Trail Runner Belt. La plus légère de la sélection, des poches pratiques, un enfilage en deux secondes. À condition que votre chien tire modérément et que la compétition ne soit pas un objectif. <a href="https://tidd.ly/4v542sF" class="text-cta" target="_blank" rel="nofollow sponsored">voir la Trail Runner Belt →</a>
+**Vous courez ou randonnez avec votre chien en loisir et voulez une ceinture simple :** Inlandsis Trekker. Légère, point d'attache coulissant, grande poche arrière, un enfilage en quelques secondes. À condition que votre chien tire modérément et que la compétition ne soit pas un objectif. <a href="https://link.amazon/B06UfDpDS" class="text-cta" target="_blank" rel="nofollow sponsored">voir la Trekker →</a>
 
 **Vous débutez le canicross et voulez un vrai baudrier sans payer le prix de l'Aircross :** I-Dog Baudrier ONE. Le moins cher de la sélection pour une conception baudrier réelle. Compatible compétition selon I-Dog. <a href="https://amzn.to/4gu8X2j" class="text-cta" target="_blank" rel="nofollow sponsored">voir le Baudrier ONE →</a>
 
-**Vous pratiquez le canicross régulièrement ou envisagez la compétition :** Inlandsis Aircross. Le point d'attache coulissant est une différence technique mesurable. Compatible toutes fédérations. Le réglage initial demande du temps, mais une fois optimisé, il ne bouge plus. <a href="https://tidd.ly/4fVx3Tw" class="text-cta" target="_blank" rel="nofollow sponsored">voir l'Aircross →</a>
+**Vous pratiquez le canicross régulièrement ou envisagez la compétition :** Inlandsis Aircross. Le point d'attache coulissant est une différence technique mesurable. Compatible toutes fédérations. Le réglage initial demande du temps, mais une fois optimisé, il ne bouge plus. <a href="https://link.amazon/B03ilgrbP" class="text-cta" target="_blank" rel="nofollow sponsored">voir l'Aircross →</a>
 
-**Vous faites principalement de la canirando ou des sorties longues où le confort prime :** Trekking Belt 2.0. Le rembourrage et les sangles de jambe amovibles en font la ceinture la plus adaptée aux longues distances. À ne pas choisir si votre chien tire très fort ou si vous courez en compétition. <a href="https://tidd.ly/4fQB37O" class="text-cta" target="_blank" rel="nofollow sponsored">voir la Trekking Belt 2.0 →</a>
+**Vous faites principalement de la canirando ou des sorties longues où le confort prime :** Trekking Belt 2.0. Le rembourrage et les sangles de jambe amovibles en font la ceinture la plus adaptée aux longues distances. À ne pas choisir si votre chien tire très fort ou si vous courez en compétition. <a href="https://link.amazon/B08IrAVLH" class="text-cta" target="_blank" rel="nofollow sponsored">voir la Trekking Belt 2.0 →</a>
 
 ---
 
@@ -339,8 +339,8 @@ Les mots varient selon les marques et les revendeurs, mais trois termes revienne
   </details>
 
   <details>
-    <summary>La Ruffwear Trail Runner Belt est-elle conforme pour la compétition canicross ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Non. La Trail Runner Belt n'est pas conçue pour la compétition canicross. Son système d'attache est une boucle latérale à dégagement rapide, pas un anneau de traction conforme aux règlements FSLC ou FFST. Pour la compétition, l'Inlandsis Aircross est compatible toutes fédérations (FSLC, CNEAC, IFSS, FFST). Le I-Dog Baudrier ONE est compatible selon I-Dog, sans précision de fédération sur la fiche produit.</p></div>
+    <summary>L'Inlandsis Trekker convient-elle pour la compétition canicross ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
+    <div class="faq-answer"><p>Ce n'est pas son positionnement. Inlandsis présente la Trekker comme une ceinture de canirando et de course loisir : simple, légère, sans sangles de jambe. Pour la compétition, l'Inlandsis Aircross est compatible toutes fédérations (FSLC, CNEAC, IFSS, FFST). Le I-Dog Baudrier ONE est compatible selon I-Dog, sans précision de fédération sur la fiche produit.</p></div>
   </details>
 
   <details>

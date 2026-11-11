@@ -2,7 +2,7 @@
 title: "Meilleur manteau pour chien : comparatif 2026"
 description: "Quel manteau pour chien choisir pour l'hiver et les sorties nature ? Comparatif 2026 de quatre modèles : Kurgo Loft, Ruffwear Vert Jacket, Overcoat Fuse et Hurtta Extreme Warmer III ECO."
 publishDate: 2026-09-23
-updatedDate: 2026-09-26
+updatedDate: 2026-11-11
 category: equipement
 tags: [manteau, hiver, froid, équipement, chien, randonnée]
 isAffiliate: true
@@ -51,7 +51,7 @@ Un manteau pour chien se juge sur trois points : la protection contre le froid, 
 
 <div class="cmp-card cmp-card--featured">
   <div class="cmp-card__badge">★ Le meilleur compromis</div>
-  <a class="cmp-card__thumb" href="https://tidd.ly/4y5Xxb3" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/manteau%20pour%20chien/ruffwear-vert-jacket-manteau-pour-chien.png" alt="Ruffwear Vert Jacket, manteau isolé pour chien" loading="lazy"></a>
+  <a class="cmp-card__thumb" href="https://link.amazon/B03uARMsD" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/manteau%20pour%20chien/ruffwear-vert-jacket-manteau-pour-chien.png" alt="Ruffwear Vert Jacket, manteau isolé pour chien" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">Ruffwear Vert Jacket</h3>
     <p class="cmp-card__pitch">Le seul de la sélection à combiner une isolation sérieuse et un indice d'étanchéité documenté : une seule couche pour le froid humide de l'automne et de l'hiver français.</p>
@@ -60,10 +60,10 @@ Un manteau pour chien se juge sur trois points : la protection contre le froid, 
       <li>Protection pluie : élevée (10 000 mm)</li>
       <li>Harnais : passage de laisse</li>
     </ul>
-    <div class="cmp-card__price">84,90 €</div>
+    <div class="cmp-card__price">90 €</div>
   </div>
   <div class="cmp-card__footer">
-    <a href="https://tidd.ly/4y5Xxb3" class="cmp-card__cta cmp-card__cta--hardloop" target="_blank" rel="nofollow sponsored">🛒 Voir sur Hardloop</a>
+    <a href="https://link.amazon/B03uARMsD" class="cmp-card__cta" target="_blank" rel="nofollow sponsored">🛒 Voir sur Amazon</a>
     <a href="#ruffwear-vert-jacket--le-meilleur-compromis-entre-chaleur-et-protection" class="cmp-card__detail">Voir la fiche détaillée</a>
   </div>
 </div>
@@ -173,15 +173,15 @@ Un manteau pour chien se juge sur trois points : la protection contre le froid, 
 
 ---
 
-## <a href="https://tidd.ly/4y5Xxb3" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Ruffwear Vert Jacket : le meilleur compromis entre chaleur et protection</a>
+## <a href="https://link.amazon/B03uARMsD" class="prc-heading-link" target="_blank" rel="nofollow sponsored">Ruffwear Vert Jacket : le meilleur compromis entre chaleur et protection</a>
 
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <a href="https://tidd.ly/4y5Xxb3" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/manteau%20pour%20chien/ruffwear-vert-jacket-manteau-pour-chien.png" alt="Ruffwear Vert Jacket, manteau isolé et imperméable pour chien" loading="lazy"></a>
+      <a href="https://link.amazon/B03uARMsD" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/manteau%20pour%20chien/ruffwear-vert-jacket-manteau-pour-chien.png" alt="Ruffwear Vert Jacket, manteau isolé et imperméable pour chien" loading="lazy"></a>
     </div>
     <div class="prc__info">
-      <div class="prc__price"><span class="prc__price-val">84,90 €</span><span class="prc__tag">Polyvalent</span></div>
+      <div class="prc__price"><span class="prc__price-val">90 €</span><span class="prc__tag">Polyvalent</span></div>
       <p class="prc__desc">Nylon ripstop 70 deniers imperméable à 10 000 mm, finition PU sans PVC, doublure en polyester 30 deniers et isolation 120 g en polyester recyclé post-consommation. Coupe ample qui couvre les hanches et les cuisses, col tempête surdimensionné repliable, sangles de pattes pour le maintien. Passage de laisse dorsal compatible avec la plupart des harnais, accents réfléchissants et boucle pour lampe Beacon. Boucles latérales ITW Nexus Waveloc à ouverture latérale.</p>
     </div>
   </div>
@@ -206,7 +206,7 @@ Un manteau pour chien se juge sur trois points : la protection contre le froid, 
   </div>
   <div class="prc__footer">
     <p class="prc__ideal"><strong>Idéal pour</strong> · randonnées régulières par temps froid et pluvieux, chien à poil ras de taille moyenne à grande, propriétaire qui ne veut acheter qu'un seul manteau</p>
-    <a href="https://tidd.ly/4y5Xxb3" class="prc__btn prc__btn--hardloop" target="_blank" rel="nofollow sponsored">Voir sur Hardloop →</a>
+    <a href="https://link.amazon/B03uARMsD" class="prc__btn" target="_blank" rel="nofollow sponsored">Voir sur Amazon →</a>
   </div>
 </div>
 

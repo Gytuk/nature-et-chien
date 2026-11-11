@@ -110,7 +110,7 @@ Si vous débutez et que la mise en place n'est pas évidente, cette vidéo montr
     <img src="/images/equipement/ceinture%20canicross/image%20couverture%20article%20ceinture%20canicross.webp" alt="Comparatif ceintures et baudriers canicross" loading="lazy">
     <div class="inline-cta-text">
       <div class="inline-cta-title">Meilleure ceinture canicross 2026</div>
-      <div class="inline-cta-desc">Trail Runner Belt, I-Dog ONE, Aircross, Trekking Belt 2.0</div>
+      <div class="inline-cta-desc">Inlandsis Trekker, I-Dog ONE, Aircross, Trekking Belt 2.0</div>
     </div>
     <span class="inline-cta-arrow">→</span>
   </a>
