@@ -86,7 +86,7 @@ Le harnais de randonnée pour chien est l'équipement qui fait la différence su
 
 <div class="cmp-card">
   <div class="cmp-card__badge cmp-card__badge--violet">Choix rando sportive</div>
-  <a class="cmp-card__thumb" href="https://link.amazon/B0fwEsSAm" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-polyvalent/i-dog-confort-trek.jpg" alt="I-Dog Confort Trek" loading="lazy"></a>
+  <a class="cmp-card__thumb" href="https://link.amazon/B0fwEsSAm" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-polyvalent/i-dog-confort-trek-harnais-pour-chien.webp" alt="Harnais I-Dog Confort Trek rouge pour la randonnée et le cani-rando" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">I-Dog Confort Trek</h3>
     <p class="cmp-card__pitch">Un harnais en Y de marque française qui reprend la forme d'un harnais de traction : poignée de maintien, anneau frontal et sangle de traction amovible. Le plus polyvalent du comparatif, de la randonnée sportive au cani-rando, sans oublier les balades du quotidien.</p>
@@ -256,7 +256,7 @@ Le harnais de randonnée pour chien est l'équipement qui fait la différence su
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <a href="https://link.amazon/B0fwEsSAm" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-polyvalent/i-dog-confort-trek.jpg" alt="I-Dog Confort Trek" loading="lazy"></a>
+      <a href="https://link.amazon/B0fwEsSAm" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-polyvalent/i-dog-confort-trek-harnais-pour-chien.webp" alt="Harnais I-Dog Confort Trek rouge pour la randonnée et le cani-rando" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">79,90 €</span><span class="prc__tag">Rando sportive</span></div>

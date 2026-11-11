@@ -68,7 +68,7 @@ Trouver le bon harnais de randonnée pour un petit chien demande plus d'attentio
 
 <div class="cmp-card">
   <div class="cmp-card__badge cmp-card__badge--violet">Choix polyvalent</div>
-  <a class="cmp-card__thumb" href="https://link.amazon/B0e5Y7cru" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-petit-chien/non-stop-dogwear-line-harness-5.jpg" alt="Non-stop Dogwear Line Harness 5.0" loading="lazy"></a>
+  <a class="cmp-card__thumb" href="https://link.amazon/B0e5Y7cru" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-petit-chien/non-stop-dogwear-line-harness-5-harnais-pour-chien.webp" alt="Harnais en Y Non-stop Dogwear Line Harness 5.0 orange pour petit chien" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">Non-stop Dogwear Line Harness 5.0</h3>
     <p class="cmp-card__pitch">Un harnais en Y rembourré avec attache ventrale pour la longe de pistage : de la randonnée longue au footing tranquille.</p>
@@ -218,7 +218,7 @@ Trouver le bon harnais de randonnée pour un petit chien demande plus d'attentio
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <a href="https://link.amazon/B0e5Y7cru" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-petit-chien/non-stop-dogwear-line-harness-5.jpg" alt="Non-stop Dogwear Line Harness 5.0" loading="lazy"></a>
+      <a href="https://link.amazon/B0e5Y7cru" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-petit-chien/non-stop-dogwear-line-harness-5-harnais-pour-chien.webp" alt="Harnais en Y Non-stop Dogwear Line Harness 5.0 orange pour petit chien" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">48,20 €</span><span class="prc__tag">Polyvalent</span></div>

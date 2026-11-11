@@ -86,7 +86,7 @@ Un harnais canicross n'est pas un harnais de randonnée classique. Il est conçu
 
 <div class="cmp-card">
   <div class="cmp-card__badge cmp-card__badge--amber">Choix hybride</div>
-  <a class="cmp-card__thumb" href="https://link.amazon/B0fwEsSAm" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/canicross/i-dog-confort-trek.jpg" alt="I-Dog Confort Trek" loading="lazy"></a>
+  <a class="cmp-card__thumb" href="https://link.amazon/B0fwEsSAm" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/canicross/i-dog-confort-trek-harnais-pour-chien.webp" alt="Harnais I-Dog Confort Trek rouge pour la randonnée et le cani-rando" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">I-Dog Confort Trek</h3>
     <p class="cmp-card__pitch">Un harnais en Y avec une sangle de traction amovible : on l'attache pour le cani-rando ou un footing tranquille, on la retire pour la randonnée et les balades du quotidien. Moins adapté au canicross intensif ou à la compétition.</p>
@@ -267,7 +267,7 @@ Avant de choisir, il faut comprendre à quoi correspond chaque type de harnais.
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <a href="https://link.amazon/B0fwEsSAm" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/canicross/i-dog-confort-trek.jpg" alt="I-Dog Confort Trek" loading="lazy"></a>
+      <a href="https://link.amazon/B0fwEsSAm" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/canicross/i-dog-confort-trek-harnais-pour-chien.webp" alt="Harnais I-Dog Confort Trek rouge pour la randonnée et le cani-rando" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">79,90 €</span><span class="prc__tag">Hybride</span></div>

@@ -67,7 +67,7 @@ Choisir le bon harnais de randonnée pour un grand chien n'est pas anodin : un d
 
 <div class="cmp-card">
   <div class="cmp-card__badge cmp-card__badge--violet">Choix rando sportive</div>
-  <a class="cmp-card__thumb" href="https://link.amazon/B0bp13yGy" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-grand-chien/i-dog-confort-trek.jpg" alt="I-Dog Confort Trek" loading="lazy"></a>
+  <a class="cmp-card__thumb" href="https://link.amazon/B0bp13yGy" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-grand-chien/i-dog-confort-trek-harnais-pour-chien.webp" alt="Harnais I-Dog Confort Trek rouge pour la randonnée et le cani-rando" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">I-Dog Confort Trek</h3>
     <p class="cmp-card__pitch">Un harnais en Y de marque française qui reprend la forme d'un harnais de traction : poignée de maintien, anneau frontal et sangle de traction amovible. Il suit le chien de la randonnée en montagne au cani-rando, et convient tout aussi bien aux balades du quotidien.</p>
@@ -211,7 +211,7 @@ Trois problèmes reviennent régulièrement avec un harnais standard sur les gab
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <a href="https://link.amazon/B0bp13yGy" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-grand-chien/i-dog-confort-trek.jpg" alt="I-Dog Confort Trek" loading="lazy"></a>
+      <a href="https://link.amazon/B0bp13yGy" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/harnais-grand-chien/i-dog-confort-trek-harnais-pour-chien.webp" alt="Harnais I-Dog Confort Trek rouge pour la randonnée et le cani-rando" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">79,90 €</span><span class="prc__tag">Rando sportive</span></div>

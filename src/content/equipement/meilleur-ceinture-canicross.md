@@ -32,7 +32,7 @@ metaDescription: "Quelle est la meilleure ceinture canicross pour votre pratique
 
 <div class="cmp-card">
   <div class="cmp-card__badge">Choix canirando & loisir</div>
-  <a class="cmp-card__thumb" href="https://link.amazon/B06UfDpDS" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/inlandsis-trekker-ceinture-canirando.jpg" alt="Inlandsis Trekker" loading="lazy"></a>
+  <a class="cmp-card__thumb" href="https://link.amazon/B06UfDpDS" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/inlandsis-trekker-ceinture-canirando.webp" alt="Ceinture de canicross et canirando Inlandsis Trekker" loading="lazy"></a>
   <div class="cmp-card__body">
     <h3 class="cmp-card__name">Inlandsis Trekker</h3>
     <p class="cmp-card__pitch">Une ceinture simple et légère, avec point d'attache coulissant et grande poche arrière : pour la canirando et le canicross loisir, sans viser la compétition.</p>
@@ -158,7 +158,7 @@ Les mots varient selon les marques et les revendeurs, mais trois termes revienne
 <div class="prc">
   <div class="prc__top">
     <div class="prc__img-wrap">
-      <a href="https://link.amazon/B06UfDpDS" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/inlandsis-trekker-ceinture-canirando.jpg" alt="Inlandsis Trekker" loading="lazy"></a>
+      <a href="https://link.amazon/B06UfDpDS" target="_blank" rel="nofollow sponsored"><img src="/images/equipement/ceinture%20canicross/inlandsis-trekker-ceinture-canirando.webp" alt="Ceinture de canicross et canirando Inlandsis Trekker" loading="lazy"></a>
     </div>
     <div class="prc__info">
       <div class="prc__price"><span class="prc__price-val">42,90 €</span><span class="prc__tag">Ceinture loisir</span></div>
