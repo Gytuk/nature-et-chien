@@ -1801,3 +1801,46 @@ a.cmp-card__thumb:hover { background: #e6e9e1; }
   white-space: nowrap;
 }
 .text-cta:hover { text-decoration: underline; }
+
+/* ── Bloc matériel (.nc-gear) — liste de comparatifs groupés par usage, depuis un informatif ── */
+.nc-gear {
+  margin: 1.75rem 0 2.25rem;
+  padding: 1.1rem 1.1rem 0.6rem;
+  background: var(--color-white);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+}
+.nc-gear__intro { font-weight: 600; margin: 0 0 0.6rem !important; }
+.nc-gear__group { margin-bottom: 0.8rem; }
+.nc-gear__label {
+  display: block;
+  margin: 0.4rem 0 0.3rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-bark);
+}
+.nc-gear__row {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  padding: 0.5rem 0.4rem;
+  border-top: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  color: inherit !important;
+  text-decoration: none !important;
+  transition: background 0.15s;
+}
+.nc-gear__row:hover { background: var(--color-cream); }
+.nc-gear__row img {
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+.nc-gear__text { display: flex; flex-direction: column; flex: 1; min-width: 0; }
+.nc-gear__text strong { font-size: 0.92rem; line-height: 1.3; color: var(--color-text); }
+.nc-gear__text span { font-size: 0.8rem; line-height: 1.4; color: var(--color-text-soft); }
+.nc-gear__arrow { color: var(--color-forest); font-weight: 700; font-size: 1.1rem; }
