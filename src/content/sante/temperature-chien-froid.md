@@ -60,7 +60,7 @@ Cette origine a deux conséquences. D'abord, la grille évalue un chien immobile
 
 ## Comment protéger votre chien du froid en randonnée ?
 
-La première protection, c'est l'organisation de la sortie. En hiver, prévoyez un itinéraire plus court qu'en été, repérez un endroit abrité pour la pause et gardez-la brève. En raquettes, la plupart des randonneurs constatent qu'on met environ une fois et demie plus de temps qu'à pied : la sortie dure souvent plus longtemps que prévu.
+La première protection, c'est l'organisation de la sortie. En hiver, prévoyez un itinéraire plus court qu'en été, repérez un endroit abrité pour la pause et gardez-la brève. Lors d'une [sortie en raquettes avec votre chien](/avant-de-partir/raquettes-avec-son-chien/), la plupart des randonneurs constatent qu'on met environ une fois et demie plus de temps qu'à pied : la sortie dure souvent plus longtemps que prévu.
 
 Pensez aussi à l'eau. Même par temps froid, un chien se déshydrate à l'effort. [Proposez-lui à boire](/equipement/accessoire-eau-chien-randonnee/) à chaque pause, et ne comptez pas sur la neige pour remplacer l'eau.
 

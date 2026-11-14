@@ -174,7 +174,7 @@ Ne cherchez pas à le faire vomir sans l'avis d'un vétérinaire. En cas de dout
 
   <details>
     <summary>Mon chien mange de la neige en ski-joëring ou en cani-raquette, comment faire ?<span class="faq-chevron"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></span></summary>
-    <div class="faq-answer"><p>Un chien qui tire fournit un effort intense et a vite soif : c'est souvent dans ces sorties qu'il avale le plus de neige. Prévoyez des arrêts réguliers pour lui proposer de l'eau, plutôt qu'une seule grande pause. Notre guide pour <a href="/avant-de-partir/ski-joering-chien/">débuter le ski-joëring avec son chien</a> détaille l'organisation d'une sortie.</p></div>
+    <div class="faq-answer"><p>Un chien qui tire fournit un effort intense et a vite soif : c'est souvent dans ces sorties qu'il avale le plus de neige. Prévoyez des arrêts réguliers pour lui proposer de l'eau, plutôt qu'une seule grande pause. Nos guides pour <a href="/avant-de-partir/ski-joering-chien/">débuter le ski-joëring avec son chien</a> et pour <a href="/avant-de-partir/raquettes-avec-son-chien/">faire des raquettes avec son chien</a> détaillent l'organisation d'une sortie.</p></div>
   </details>
 
 </div>

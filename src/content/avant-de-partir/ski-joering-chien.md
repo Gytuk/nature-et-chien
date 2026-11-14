@@ -183,7 +183,7 @@ Si le ski de fond ne vous tente pas, la cani-raquette offre le même plaisir de 
 
 Le matériel est celui du canicross, sans restriction de longueur de longe puisqu'il n'y a pas de spatules. L'allure est plus lente, ce qui en fait une bonne étape pour habituer un chien à tirer dans la neige avant de passer au ski.
 
-Les règles de lieu restent les mêmes : itinéraires raquettes ouverts aux chiens, jamais dans le cœur d'un parc national, et un œil sur les coussinets au retour.
+Les règles de lieu restent les mêmes : itinéraires raquettes ouverts aux chiens, jamais dans le cœur d'un parc national, et un œil sur les coussinets au retour. Le matériel, les itinéraires autorisés et le déroulé d'une sortie sont détaillés dans notre guide pour [faire des raquettes avec son chien](/avant-de-partir/raquettes-avec-son-chien/).
 
 ---
 
