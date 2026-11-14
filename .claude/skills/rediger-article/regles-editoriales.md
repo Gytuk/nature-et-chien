@@ -69,6 +69,7 @@ La mention « aucune donnée » est réservée aux vraies zones d'incertitude, q
 - Comparatif : aucun lien vers un informatif dans l'introduction (ça fait reculer le lecteur dans le tunnel). Un lien possible dans une section de fond.
 - Si le comparateur visé n'existe pas encore : phrase de transition sans lien et commentaire `<!-- CTA à ajouter : comparateur X -->`. Jamais de lien inventé.
 - Un sujet voisin déjà traité par un autre article : un lien, pas un nouveau traitement.
+- Bloc matériel `nc-gear` (voir `mise-en-forme.md`) : ses liens ne comptent pas dans la limite de 4 à 6 liens internes (validé par Tom le 2026-11-14). L'avertissement de `npm run check` sur le nombre de liens est alors attendu.
 
 ## 5. Liens externes
 

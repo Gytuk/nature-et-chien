@@ -103,6 +103,21 @@ Texte de la mise en garde.
   </a>
 </div>
 ```
+- 3 comparatifs ou plus depuis un guide (matériel utile pour une activité) : bloc matériel `nc-gear`, groupé par usage, une phrase par lien (validé par Tom le 2026-11-14, premier usage : `raquettes-avec-son-chien`). Il remplace les cartes et les liens texte vers les mêmes comparatifs dans la section : pas de doublon. Placé en fin de section matériel. Groupes de 2 à 3 lignes, phrase de 10 mots environ qui dit à quoi sert l'objet dans cette activité.
+```html
+<div class="nc-gear">
+  <p class="nc-gear__intro">Pour vous équiper, nous avons comparé le matériel utile en …, que … :</p>
+  <div class="nc-gear__group">
+    <span class="nc-gear__label">Harnais</span>
+    <a href="/equipement/<slug>/" class="nc-gear__row">
+      <img src="/images/…/cover.webp" alt="Comparatif …" loading="lazy">
+      <span class="nc-gear__text"><strong>Titre court</strong><span>Une phrase sur l'usage dans cette activité.</span></span>
+      <span class="nc-gear__arrow" aria-hidden="true">→</span>
+    </a>
+  </div>
+</div>
+```
+  Aucune ligne vide à l'intérieur du bloc (sinon Markdown casse le HTML).
 - La carte vient **en plus** d'une phrase qui amène le lien, jamais seule. Image : la `image` du frontmatter de l'article ciblé.
 
 ## Composants comparatif
